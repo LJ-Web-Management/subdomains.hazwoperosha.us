@@ -29,7 +29,7 @@ h1, h2, h3 { font-weight: 400; }
 .tpl .cc .meta, .tpl .cc-foot b { color: var(--accent); }
 .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #9fb4ca; border-top: 1px solid #20374f; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price { color: var(--accent); }
 .prose a { color: var(--accent); font-weight: 600; }
 @media (max-width: 800px) { .pk-in { grid-template-columns: 1fr; } .suits { max-width: 360px; } }

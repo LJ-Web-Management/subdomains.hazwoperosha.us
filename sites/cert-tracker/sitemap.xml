@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cert-tracker.hazwoperosha.us/</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/courses/</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/guides/</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/guides/hazwoper-training-records-inspectors-accept</loc></url>
-  <url><loc>https://cert-tracker.hazwoperosha.us/guides/what-to-do-when-a-worker-lapses</loc></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/courses/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/guides/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/guides/hazwoper-training-records-inspectors-accept</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/guides/what-to-do-when-a-worker-lapses</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/about</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/contact</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cert-tracker.hazwoperosha.us/privacy</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>

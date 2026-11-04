@@ -4,12 +4,26 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs OSHA 10-Hour General Industry Outreach Training Online and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://osha-10-general-industry.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA 10-Hour General Industry Outreach Training with DOL Card](https://osha-10-general-industry.onlinetrainingcourses.us/#course-435): $89.99 per person, 10 hours, English and Spanish, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1910. Enroll: https://osha-10-general-industry.onlinetrainingcourses.us/checkout?course=435. Full syllabus: https://hazwoper-osha.com/online-courses/osha-10-hour-general-industry-outreach-training
+- [OSHA 10-Hour General Industry Outreach Training with DOL Card](https://osha-10-general-industry.hazwoperosha.us/#course-435): $89.99 per person, 10 hours, English and Spanish, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1910. Enroll: https://osha-10-general-industry.hazwoperosha.us/checkout?course=435. Full syllabus: https://hazwoper-osha.com/online-courses/osha-10-hour-general-industry-outreach-training
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://osha-10-general-industry.hazwoperosha.us/about)
+- [Contact](https://osha-10-general-industry.hazwoperosha.us/contact)
+- [Privacy](https://osha-10-general-industry.hazwoperosha.us/privacy)
+- [Sitemap](https://osha-10-general-industry.hazwoperosha.us/sitemap.xml)

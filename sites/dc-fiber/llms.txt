@@ -1,0 +1,35 @@
+# Lightpath
+
+> Fiber optics and structured cabling training for data center technicians: termination, testing and troubleshooting to ANSI/TIA-942, plus capacity planning and DCIM.
+
+Lightpath (https://dc-fiber.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Fiber Optics & Network Cabling, Capacity Planning, DCIM Platform Fundamentals, Physical Security & Access (1 hr) training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-fiber.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Fiber Optics & Network Cabling](https://dc-fiber.hazwoperosha.us/courses/fiber-optics-network-cabling): $99.99 per seat, 4 Hours, ANSI/TIA-942. Terminate, test, and troubleshoot data center fiber to ANSI/TIA-942 standards. Enroll: https://dc-fiber.hazwoperosha.us/courses/fiber-optics-network-cabling?buy=834
+- [Capacity Planning & Forecasting](https://dc-fiber.hazwoperosha.us/courses/capacity-planning-forecasting): $99.99 per seat, 4 Hours. Build a 3–5 year capacity plan before you run out of power, cooling, or space. Enroll: https://dc-fiber.hazwoperosha.us/courses/capacity-planning-forecasting?buy=829
+- [DCIM Platform Fundamentals](https://dc-fiber.hazwoperosha.us/courses/dcim-platform-fundamentals): $99.99 per seat, 4 Hours, DCIM. Understand DCIM strategy and build the ROI case for implementation. Enroll: https://dc-fiber.hazwoperosha.us/courses/dcim-platform-fundamentals?buy=830
+- [Data Center Physical Security and Access Control Training](https://dc-fiber.hazwoperosha.us/courses/data-center-physical-security-access-control): $99.99 per seat, 1 Hour. Foundational physical security and access control practices for data hall environments. Enroll: https://dc-fiber.hazwoperosha.us/courses/data-center-physical-security-access-control?buy=855
+
+## Guides
+
+- [Inspect before you connect](https://dc-fiber.hazwoperosha.us/guides/inspect-before-you-connect): Why a scope and a cleaner are the most important fiber tools you own.
+- [Building a fiber link loss budget](https://dc-fiber.hazwoperosha.us/guides/link-loss-budget): Add up the losses and compare with what the optics can handle.
+
+## All trainings
+
+- [All 83 trainings](https://dc-fiber.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Lightpath | HAZWOPER OSHA Training](https://dc-fiber.hazwoperosha.us/about)
+- [Contact Lightpath | HAZWOPER OSHA Training](https://dc-fiber.hazwoperosha.us/contact)
+- [Privacy notice | Lightpath](https://dc-fiber.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-fiber.hazwoperosha.us/sitemap.xml)

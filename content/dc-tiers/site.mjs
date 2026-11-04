@@ -9,7 +9,7 @@ const TIERS = [
 export default {
   brand: "Tierline",
   logo: `<span class="tl-bars"><i></i><i></i><i></i><i></i></span>Tierline`,
-  title: "Data Center Tier I–IV Explained & Tier Infrastructure Training | Tierline",
+  title: "Data Center Tiers I–IV Explained & Infrastructure Training | Tierline",
   description: "Learn the four data center tiers, from basic capacity to fault tolerant, with an interactive tier explorer and training on tier infrastructure, design and continuity.",
   theme: "#111111",
   fonts: "family=Archivo:wght@400;600;800;900",

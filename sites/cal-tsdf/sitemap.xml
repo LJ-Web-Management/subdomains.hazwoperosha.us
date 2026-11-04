@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cal-tsdf.hazwoperosha.us/</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/guides/</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements</loc></url>
-  <url><loc>https://cal-tsdf.hazwoperosha.us/guides/california-vs-federal-hazwoper</loc></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/guides/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/guides/california-vs-federal-hazwoper</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/about</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/contact</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://cal-tsdf.hazwoperosha.us/privacy</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>

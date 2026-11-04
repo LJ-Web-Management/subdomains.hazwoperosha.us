@@ -2,7 +2,7 @@
 export default {
   brand: "WaterWorks Hazmat",
   logo: `<span class="drop">💧</span> WaterWorks Hazmat`,
-  title: "Hazmat & HAZWOPER Training for Water and Wastewater Utilities | WaterWorks Hazmat",
+  title: "Hazmat & HAZWOPER Training for Water & Wastewater Utilities | WaterWorks Hazmat",
   description: "Training for water and wastewater utility staff: first responder awareness, gas detection, incident command, responder refresher, spill response and plant ERT, with chlorine and H2S guides.",
   theme: "#0d6efd",
   fonts: "family=Quicksand:wght@500;600;700&family=Inter:wght@400;500",

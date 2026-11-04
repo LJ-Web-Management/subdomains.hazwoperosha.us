@@ -4,20 +4,34 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs Heat Illness, Cold Stress & Wildfire Smoke Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://heat-cold-wildfire.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [Cal/OSHA Heat Illness Prevention Training (General Industry)](https://heat-cold-wildfire.onlinetrainingcourses.us/#course-673): $47.99 per person, 2 hours, English and Spanish, certificate valid 12 months. In accordance with Title 8, California Code of Regulations, Sections 3395 and 3396. Enroll: https://heat-cold-wildfire.onlinetrainingcourses.us/checkout?course=673. Full syllabus: https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-general-industry
-- [Cal/OSHA Heat Illness Prevention Training for Construction](https://heat-cold-wildfire.onlinetrainingcourses.us/#course-449): $47.99 per person, 1 hour, English and Spanish, certificate valid 12 months. In accordance with Cal/OSHA Regulations Title 8, Sections 3395 and 3396, and Federal OSHA General Duty Clause Section 5(a)(1) – Heat Illness Prevention for Outdoor and Indoor Work Environments. Enroll: https://heat-cold-wildfire.onlinetrainingcourses.us/checkout?course=449. Full syllabus: https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-for-construction
-- [Cal/OSHA Wildfire Smoke Safety and Emergency Training](https://heat-cold-wildfire.onlinetrainingcourses.us/#course-448): $47.99 per person, 1 hour, English, certificate valid 12 months. Enroll: https://heat-cold-wildfire.onlinetrainingcourses.us/checkout?course=448. Full syllabus: https://hazwoper-osha.com/online-courses/cal-wildfire-smoke-safety-and-emergency-training
-- [OSHA Cold Stress Awareness Training](https://heat-cold-wildfire.onlinetrainingcourses.us/#course-462): $47.99 per person, 1 hour, English, certificate valid 12 months. In accordance with OSHA General Duty Clause, Section 5(a)(1) and OSHA’s Cold Stress Guide. Enroll: https://heat-cold-wildfire.onlinetrainingcourses.us/checkout?course=462. Full syllabus: https://hazwoper-osha.com/online-courses/osha-cold-stress-awareness-training
-- [Wildfire Smoke Safety Awareness Training](https://heat-cold-wildfire.onlinetrainingcourses.us/#course-468): $47.99 per person, 1 hour, English, certificate valid 12 months. Enroll: https://heat-cold-wildfire.onlinetrainingcourses.us/checkout?course=468. Full syllabus: https://hazwoper-osha.com/online-courses/wildfire-smoke-safety-awareness-training
+- [Cal/OSHA Heat Illness Prevention Training (General Industry)](https://heat-cold-wildfire.hazwoperosha.us/#course-673): $47.99 per person, 2 hours, English and Spanish, certificate valid 12 months. In accordance with Title 8, California Code of Regulations, Sections 3395 and 3396. Enroll: https://heat-cold-wildfire.hazwoperosha.us/checkout?course=673. Full syllabus: https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-general-industry
+- [Cal/OSHA Heat Illness Prevention Training for Construction](https://heat-cold-wildfire.hazwoperosha.us/#course-449): $47.99 per person, 1 hour, English and Spanish, certificate valid 12 months. In accordance with Cal/OSHA Regulations Title 8, Sections 3395 and 3396, and Federal OSHA General Duty Clause Section 5(a)(1) – Heat Illness Prevention for Outdoor and Indoor Work Environments. Enroll: https://heat-cold-wildfire.hazwoperosha.us/checkout?course=449. Full syllabus: https://hazwoper-osha.com/online-courses/cal-osha-heat-illness-prevention-training-for-construction
+- [Cal/OSHA Wildfire Smoke Safety and Emergency Training](https://heat-cold-wildfire.hazwoperosha.us/#course-448): $47.99 per person, 1 hour, English, certificate valid 12 months. Enroll: https://heat-cold-wildfire.hazwoperosha.us/checkout?course=448. Full syllabus: https://hazwoper-osha.com/online-courses/cal-wildfire-smoke-safety-and-emergency-training
+- [OSHA Cold Stress Awareness Training](https://heat-cold-wildfire.hazwoperosha.us/#course-462): $47.99 per person, 1 hour, English, certificate valid 12 months. In accordance with OSHA General Duty Clause, Section 5(a)(1) and OSHA’s Cold Stress Guide. Enroll: https://heat-cold-wildfire.hazwoperosha.us/checkout?course=462. Full syllabus: https://hazwoper-osha.com/online-courses/osha-cold-stress-awareness-training
+- [Wildfire Smoke Safety Awareness Training](https://heat-cold-wildfire.hazwoperosha.us/#course-468): $47.99 per person, 1 hour, English, certificate valid 12 months. Enroll: https://heat-cold-wildfire.hazwoperosha.us/checkout?course=468. Full syllabus: https://hazwoper-osha.com/online-courses/wildfire-smoke-safety-awareness-training
 
 ## Bundle
 
-All 5 courses in one order: https://heat-cold-wildfire.onlinetrainingcourses.us/checkout?course=673,449,448,462,468
+All 5 courses in one order: https://heat-cold-wildfire.hazwoperosha.us/checkout?course=673,449,448,462,468
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://heat-cold-wildfire.hazwoperosha.us/about)
+- [Contact](https://heat-cold-wildfire.hazwoperosha.us/contact)
+- [Privacy](https://heat-cold-wildfire.hazwoperosha.us/privacy)
+- [Sitemap](https://heat-cold-wildfire.hazwoperosha.us/sitemap.xml)

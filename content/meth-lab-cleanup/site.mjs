@@ -2,7 +2,7 @@
 export default {
   brand: "Clandestine Lab Cleanup",
   logo: `<span class="cl-tape"></span>CLAN LAB CLEANUP`,
-  title: "HAZWOPER Training for Meth Lab & Clandestine Drug Lab Cleanup | Clandestine Lab Cleanup",
+  title: "HAZWOPER Training for Meth Lab & Drug Lab Cleanup Crews | Clandestine Lab Cleanup",
   description: "HAZWOPER, PPE, air monitoring and decontamination training for contractors who remediate former meth labs and other clandestine drug labs.",
   theme: "#ffd43b",
   fonts: "family=Oswald:wght@500;700&family=Inter:wght@400;500",

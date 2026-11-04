@@ -1,0 +1,36 @@
+# Floor Ops
+
+> Data center operations training for shift leads and facility managers: operations management, preventive maintenance, incident response, DCIM and building maintenance.
+
+Floor Ops (https://dc-operations.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Operations Management, Preventive Maintenance Planning, Incident Response & Troubleshooting, DCIM Platform Fundamentals or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-operations.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Data Center Operations Management](https://dc-operations.hazwoperosha.us/courses/data-center-operations-management): $325.99 per seat, 8 Hours, DCIM / SLA Frameworks. Run daily operations like the teams behind Tier 3/4 facilities — maintenance, incident response, and SLAs. Enroll: https://dc-operations.hazwoperosha.us/courses/data-center-operations-management?buy=843
+- [Preventive Maintenance Planning](https://dc-operations.hazwoperosha.us/courses/preventive-maintenance-planning): $99.99 per seat, 4 Hours. Reduce emergency repairs with a structured preventive maintenance program. Enroll: https://dc-operations.hazwoperosha.us/courses/preventive-maintenance-planning?buy=839
+- [Incident Response & Troubleshooting](https://dc-operations.hazwoperosha.us/courses/incident-response-troubleshooting): $99.99 per seat, 4 Hours. Systematic troubleshooting and root-cause analysis to cut MTTR. Enroll: https://dc-operations.hazwoperosha.us/courses/incident-response-troubleshooting?buy=837
+- [DCIM Platform Fundamentals](https://dc-operations.hazwoperosha.us/courses/dcim-platform-fundamentals): $99.99 per seat, 4 Hours, DCIM. Understand DCIM strategy and build the ROI case for implementation. Enroll: https://dc-operations.hazwoperosha.us/courses/dcim-platform-fundamentals?buy=830
+- [Building Maintenance Fundamentals](https://dc-operations.hazwoperosha.us/courses/building-maintenance-fundamentals): $99.99 per seat, 4 Hours. Core building maintenance fundamentals for facilities teams supporting critical infrastructure. Enroll: https://dc-operations.hazwoperosha.us/courses/building-maintenance-fundamentals?buy=1097
+
+## Guides
+
+- [The shift handover that prevents outages](https://dc-operations.hazwoperosha.us/guides/shift-handover): What every outgoing lead should hand over, in writing and out loud.
+- [Change control basics for critical facilities](https://dc-operations.hazwoperosha.us/guides/change-control-basics): MOPs, SOPs and EOPs: the paperwork that keeps hands off the wrong breaker.
+
+## All trainings
+
+- [All 83 trainings](https://dc-operations.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Floor Ops | HAZWOPER OSHA Training](https://dc-operations.hazwoperosha.us/about)
+- [Contact Floor Ops | HAZWOPER OSHA Training](https://dc-operations.hazwoperosha.us/contact)
+- [Privacy notice | Floor Ops](https://dc-operations.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-operations.hazwoperosha.us/sitemap.xml)

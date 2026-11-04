@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dc-fiber.hazwoperosha.us/</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/courses/</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/courses/fiber-optics-network-cabling</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/courses/capacity-planning-forecasting</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/courses/dcim-platform-fundamentals</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/courses/data-center-physical-security-access-control</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/guides/</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/guides/inspect-before-you-connect</loc></url>
-  <url><loc>https://dc-fiber.hazwoperosha.us/guides/link-loss-budget</loc></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/courses/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/courses/fiber-optics-network-cabling</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/courses/capacity-planning-forecasting</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/courses/dcim-platform-fundamentals</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/courses/data-center-physical-security-access-control</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/guides/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/guides/inspect-before-you-connect</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/guides/link-loss-budget</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/about</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/contact</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-fiber.hazwoperosha.us/privacy</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>

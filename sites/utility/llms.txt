@@ -1,0 +1,38 @@
+# LineCrew HAZ
+
+> HAZWOPER and emergency response training for gas, pipeline and electric utility crews: 40-hour utility/pipeline, gas detection, incident command, awareness and annual refreshers.
+
+LineCrew HAZ (https://utility.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40 Hr Utility / Pipeline, Gas Detection, Incident Command, Awareness or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://utility.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for utility and pipeline crews who respond to releases on the line. Enroll: https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=592
+- [OSHA Air Monitoring and Gas Detection Training](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Combustible gas indicators, multi-gas meters and PIDs for utility work. Enroll: https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for utility supervisors who'll work in unified command. Enroll: https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Awareness-level training for meter readers, locators and office field staff. Enroll: https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour HAZWOPER refresher for site workers. Enroll: https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://utility.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $159.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). Annual refresher for responders and incident commanders. Enroll: https://utility.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
+
+## Guides
+
+- [Responding to a gas line strike](https://utility.hazwoperosha.us/guides/responding-to-a-gas-line-strike): An excavator hits a gas line. What the first crew on scene should and shouldn't do.
+- [Where HAZWOPER fits in utility work](https://utility.hazwoperosha.us/guides/where-hazwoper-fits-in-utility-work): Not every leak call is a HAZWOPER response. Here's how utilities usually draw the line.
+- [Working in unified command with the fire department](https://utility.hazwoperosha.us/guides/unified-command-with-the-fire-department): At a utility emergency, you'll rarely be in charge alone. How to be useful at the command post.
+
+## All trainings
+
+- [All 83 trainings](https://utility.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About LineCrew HAZ | HAZWOPER OSHA Training](https://utility.hazwoperosha.us/about)
+- [Contact LineCrew HAZ | HAZWOPER OSHA Training](https://utility.hazwoperosha.us/contact)
+- [Privacy notice | LineCrew HAZ](https://utility.hazwoperosha.us/privacy)
+- [Sitemap](https://utility.hazwoperosha.us/sitemap.xml)

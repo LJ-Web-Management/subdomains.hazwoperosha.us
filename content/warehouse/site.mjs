@@ -2,7 +2,7 @@
 export default {
   brand: "RackSafe",
   logo: `RACK<span>SAFE</span>`,
-  title: "Hazmat & Spill Training for Warehouses and Distribution Centers | RackSafe",
+  title: "Warehouse Hazmat & Spill Training for Distribution Centers | RackSafe",
   description: "Training for warehouse and distribution center staff: first responder awareness, spill kit use, spill prevention, universal waste, RCRA generator and PPE, with guides to chemical storage and damaged packages.",
   theme: "#f26a1b",
   fonts: "family=Anton&family=Inter:wght@400;500;600;700",

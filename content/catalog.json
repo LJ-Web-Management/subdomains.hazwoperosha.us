@@ -7,7 +7,8 @@
   "duration": "8 Hours",
   "citation": "RCRA + 49 CFR 172",
   "audience": "Waste generators who also ship hazardous materials",
-  "category": "Environmental / EPA"
+  "category": "Environmental / EPA",
+  "seoTitle": "EPA RCRA & DOT Combined Hazmat Compliance Training"
  },
  {
   "id": 412,
@@ -17,7 +18,8 @@
   "duration": "4 Hours",
   "citation": "40 CFR Parts 262 and 264/265",
   "audience": "LQGs, TSDFs, emergency coordinators, EHS managers",
-  "category": "Environmental / EPA"
+  "category": "Environmental / EPA",
+  "seoTitle": "Contingency Plan & Emergency Coordinator Training (RCRA)"
  },
  {
   "id": 415,
@@ -157,7 +159,8 @@
   "duration": "20 Min",
   "citation": "29 CFR 1910.120(e) / 1926.65(e)",
   "audience": "Environmental remediation, emergency response, waste management, construction, refining",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "HAZWOPER Air Monitoring & Direct-Reading Instruments Module"
  },
  {
   "id": 584,
@@ -187,7 +190,8 @@
   "duration": "20 Min",
   "citation": "29 CFR 1910.120(e) / 1926.65(e)",
   "audience": "Environmental remediation, emergency response, waste management, construction, refining",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "HAZWOPER Site Characterization & Hazard Assessment Module"
  },
  {
   "id": 587,
@@ -217,7 +221,8 @@
   "duration": "40 Hours",
   "citation": "29 CFR 1910.120(e) / 1926.65(e)",
   "audience": "Emergency Response/Fire-Hazmat Teams",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "OSHA 40-Hour HAZWOPER for Fire & Hazmat Response Teams"
  },
  {
   "id": 590,
@@ -247,7 +252,8 @@
   "duration": "40 Hours",
   "citation": "29 CFR 1910.120(e) / 1926.65(e)",
   "audience": "Utility/Pipeline Emergency Response",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "OSHA 40-Hour HAZWOPER for Utility & Pipeline Response"
  },
  {
   "id": 593,
@@ -267,7 +273,8 @@
   "duration": "8 Hours",
   "citation": "29 CFR 1910.120(p)(8) / RCRA",
   "audience": "TSD facility operators (annual)",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "OSHA 8-Hour HAZWOPER Refresher for RCRA TSD Operations"
  },
  {
   "id": 595,
@@ -307,7 +314,8 @@
   "duration": "8 Hours",
   "citation": "29 CFR 1910.120(e)(8) / 1910.111",
   "audience": "Ammonia refrigeration facility technicians",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "OSHA 8-Hour HAZWOPER & Ammonia Handling Refresher"
  },
  {
   "id": 599,
@@ -317,7 +325,8 @@
   "duration": "24 Hours",
   "citation": "29 CFR 1910.120 / RCRA",
   "audience": "Waste management technicians, environmental services",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "HAZWOPER & RCRA Hazardous Waste Technician Training"
  },
  {
   "id": 600,
@@ -407,7 +416,8 @@
   "duration": "4 Hours",
   "citation": "29 CFR 1910.120(q)(6)(i)",
   "audience": "First responders, security, facility staff who may witness a release",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
+  "category": "HAZWOPER & RCRA Hazardous Waste",
+  "seoTitle": "OSHA 4-Hour HAZWOPER First Responder Awareness Training"
  },
  {
   "id": 1100,

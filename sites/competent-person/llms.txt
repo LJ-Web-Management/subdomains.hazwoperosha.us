@@ -4,22 +4,36 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs OSHA Competent Person Training Online and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://competent-person.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA Competent Person for Basic Rigging and Inspection Training](https://competent-person.onlinetrainingcourses.us/#course-406): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926.251 and 29 CFR 1926 Subpart CC. Enroll: https://competent-person.onlinetrainingcourses.us/checkout?course=406. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-basic-rigging-and-inspection-training
-- [OSHA Competent Person for Confined Spaces Training](https://competent-person.onlinetrainingcourses.us/#course-399): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart AA. Enroll: https://competent-person.onlinetrainingcourses.us/checkout?course=399. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-confined-spaces-training
-- [OSHA Competent Person for Excavation, Trenching, and Shoring Training](https://competent-person.onlinetrainingcourses.us/#course-411): $159.99 per person, 8 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart P. Enroll: https://competent-person.onlinetrainingcourses.us/checkout?course=411. Full syllabus: https://hazwoper-osha.com/online-courses/competent-person-for-excavation-trenching-and-shoring
-- [OSHA Competent Person for Fall Protection Training](https://competent-person.onlinetrainingcourses.us/#course-353): $159.99 per person, 8 hours, English and Spanish, certificate valid 24 months. In accordance with OSHA 29 CFR 1926 Subpart M. Enroll: https://competent-person.onlinetrainingcourses.us/checkout?course=353. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-fall-protection-training-new
-- [OSHA Competent Person for Silica Training](https://competent-person.onlinetrainingcourses.us/#course-365): $159.99 per person, 8 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926.1153. Enroll: https://competent-person.onlinetrainingcourses.us/checkout?course=365. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-silica-training-new
-- [OSHA Competent Person for Swing Stage (Suspended) Scaffold Training](https://competent-person.onlinetrainingcourses.us/#course-422): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart L. Enroll: https://competent-person.onlinetrainingcourses.us/checkout?course=422. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-swing-stage-suspended-scaffold-training
-- [OSHA Scaffolding Erection and Inspection Training for Competent Person](https://competent-person.onlinetrainingcourses.us/#course-244): $159.99 per person, 5 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart L. Enroll: https://competent-person.onlinetrainingcourses.us/checkout?course=244. Full syllabus: https://hazwoper-osha.com/online-courses/osha-scaffolding-erection-and-inspection-training-for-competent-person
+- [OSHA Competent Person for Basic Rigging and Inspection Training](https://competent-person.hazwoperosha.us/#course-406): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926.251 and 29 CFR 1926 Subpart CC. Enroll: https://competent-person.hazwoperosha.us/checkout?course=406. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-basic-rigging-and-inspection-training
+- [OSHA Competent Person for Confined Spaces Training](https://competent-person.hazwoperosha.us/#course-399): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart AA. Enroll: https://competent-person.hazwoperosha.us/checkout?course=399. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-confined-spaces-training
+- [OSHA Competent Person for Excavation, Trenching, and Shoring Training](https://competent-person.hazwoperosha.us/#course-411): $159.99 per person, 8 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart P. Enroll: https://competent-person.hazwoperosha.us/checkout?course=411. Full syllabus: https://hazwoper-osha.com/online-courses/competent-person-for-excavation-trenching-and-shoring
+- [OSHA Competent Person for Fall Protection Training](https://competent-person.hazwoperosha.us/#course-353): $159.99 per person, 8 hours, English and Spanish, certificate valid 24 months. In accordance with OSHA 29 CFR 1926 Subpart M. Enroll: https://competent-person.hazwoperosha.us/checkout?course=353. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-fall-protection-training-new
+- [OSHA Competent Person for Silica Training](https://competent-person.hazwoperosha.us/#course-365): $159.99 per person, 8 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926.1153. Enroll: https://competent-person.hazwoperosha.us/checkout?course=365. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-silica-training-new
+- [OSHA Competent Person for Swing Stage (Suspended) Scaffold Training](https://competent-person.hazwoperosha.us/#course-422): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart L. Enroll: https://competent-person.hazwoperosha.us/checkout?course=422. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-swing-stage-suspended-scaffold-training
+- [OSHA Scaffolding Erection and Inspection Training for Competent Person](https://competent-person.hazwoperosha.us/#course-244): $159.99 per person, 5 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart L. Enroll: https://competent-person.hazwoperosha.us/checkout?course=244. Full syllabus: https://hazwoper-osha.com/online-courses/osha-scaffolding-erection-and-inspection-training-for-competent-person
 
 ## Bundle
 
-All 7 courses in one order: https://competent-person.onlinetrainingcourses.us/checkout?course=406,399,411,353,365,422,244
+All 7 courses in one order: https://competent-person.hazwoperosha.us/checkout?course=406,399,411,353,365,422,244
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://competent-person.hazwoperosha.us/about)
+- [Contact](https://competent-person.hazwoperosha.us/contact)
+- [Privacy](https://competent-person.hazwoperosha.us/privacy)
+- [Sitemap](https://competent-person.hazwoperosha.us/sitemap.xml)

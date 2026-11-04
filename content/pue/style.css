@@ -26,6 +26,6 @@ h1, h2, h3 { font-weight: 800; }
 .pu-note { font-size: 14px; color: #b7e4c7; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #a9c7b6; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .prose a { color: var(--accent); font-weight: 600; }
 @media (max-width: 800px) { .pu-in { grid-template-columns: 1fr; } }

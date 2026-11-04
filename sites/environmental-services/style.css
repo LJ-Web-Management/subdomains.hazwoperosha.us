@@ -47,7 +47,7 @@ h1, h2, h3 { font-weight: 400; }
 
 .foot { border-top: 2px solid var(--fg); padding: 56px 0 40px; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
-.foot h4 { font: 400 14px var(--head-font); margin: 0 0 12px; }
+.foot h2 { font: 400 14px var(--head-font); margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .eyebrow, .eyebrow a { color: var(--teal); font-weight: 700; }

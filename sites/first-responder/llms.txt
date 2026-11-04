@@ -1,0 +1,37 @@
+# FirstResponse
+
+> HAZWOPER emergency response training under 29 CFR 1910.120(q): first responder awareness, incident command, manufacturing ERT, 40-hour fire/hazmat and responder refresher.
+
+FirstResponse (https://first-responder.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Awareness Level, Incident Command, Manufacturing ERT, 40 Hr Fire / Hazmat or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://first-responder.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). First responder awareness level: recognize the release, secure the area, call it in. Enroll: https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for the person who takes charge under 1910.120(q)(3). Enroll: https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [Manufacturing Emergency Response Team (ERT) Training](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for in-plant emergency response teams at manufacturing facilities. Enroll: https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702
+- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The full 40-hour HAZWOPER for fire departments and hazmat teams who also do cleanup. Enroll: https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=589
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $159.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). The annual refresher for responders and incident commanders. Enroll: https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
+
+## Guides
+
+- [The five levels of HAZWOPER emergency responders](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders): From awareness to incident commander: what each level does, what it may not do and the minimum training.
+- [Does your facility need an emergency response team, or just an evacuation plan?](https://first-responder.hazwoperosha.us/guides/emergency-response-team-or-evacuation-plan): Paragraph (q) has an exit. If your people evacuate and never respond, the rules are very different.
+- [Incidental spill or emergency response? Where the line falls](https://first-responder.hazwoperosha.us/guides/incidental-spill-vs-emergency-response): Wiping up a quart of solvent isn't a hazmat response. A leaking tote might be. OSHA's test for telling them apart.
+
+## All trainings
+
+- [All 83 trainings](https://first-responder.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About FirstResponse | HAZWOPER OSHA Training](https://first-responder.hazwoperosha.us/about)
+- [Contact FirstResponse | HAZWOPER OSHA Training](https://first-responder.hazwoperosha.us/contact)
+- [Privacy notice | FirstResponse](https://first-responder.hazwoperosha.us/privacy)
+- [Sitemap](https://first-responder.hazwoperosha.us/sitemap.xml)

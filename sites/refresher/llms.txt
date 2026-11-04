@@ -1,0 +1,37 @@
+# Refresh.8
+
+> Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, state-plan, supervisor, incident command and ammonia versions. From $84.99.
+
+Refresh.8 (https://refresher.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 8-Hour Refresher, State-Plan Refresher, Supervisor Refresher, Incident Command Refresher or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://refresher.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The standard OSHA annual 8-hour HAZWOPER refresher for anyone who holds a 40- or 24-hour certificate. Enroll: https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): $84.99 per seat, 8 Hours, State-plan equivalents of federal OSHA standard (see parent course). The annual 8-hour refresher for workers in OSHA state-plan states, with state versions available. Enroll: https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4)/(e)(8). The annual refresher for HAZWOPER supervisors: the 8 hours your crew needs, plus the supervisor's view. Enroll: https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $159.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). The annual refresher for emergency responders and incident commanders under 1910.120(q). Enroll: https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
+- [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training): $109.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8) / 1910.111. The annual HAZWOPER refresher for technicians who work with anhydrous ammonia refrigeration. Enroll: https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training?buy=598
+
+## Guides
+
+- [When is my HAZWOPER refresher due? And what if I missed it?](https://refresher.hazwoperosha.us/guides/when-is-my-hazwoper-refresher-due): The 12-month clock, what happens when you're late and how to get back in compliance.
+- [Which 8-hour refresher fits your job?](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher): Five refreshers, one requirement. A side-by-side guide to choosing the right one.
+- [State-plan states and the HAZWOPER refresher](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher): If your state runs its own OSHA program, does your refresher need to be different? Usually not, but here's when it matters.
+
+## All trainings
+
+- [All 83 trainings](https://refresher.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Refresh.8 | HAZWOPER OSHA Training](https://refresher.hazwoperosha.us/about)
+- [Contact Refresh.8 | HAZWOPER OSHA Training](https://refresher.hazwoperosha.us/contact)
+- [Privacy notice | Refresh.8](https://refresher.hazwoperosha.us/privacy)
+- [Sitemap](https://refresher.hazwoperosha.us/sitemap.xml)

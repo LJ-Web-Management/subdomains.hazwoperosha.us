@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://osha-30-construction.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://osha-30-construction.hazwoperosha.us/sitemap.xml

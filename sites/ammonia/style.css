@@ -48,7 +48,7 @@ h1, h2, h3 { font-weight: 600; letter-spacing: -.02em; }
 
 .foot { padding: 56px 0 40px; color: var(--muted); border-top: 1px solid var(--line); }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
-.foot h4 { color: var(--fg); margin: 0 0 12px; }
+.foot h2 { color: var(--fg); margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .eyebrow, .eyebrow a { color: #1d6fa5; }

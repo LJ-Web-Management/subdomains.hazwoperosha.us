@@ -1,0 +1,38 @@
+# Federal Site HAZWOPER
+
+> HAZWOPER training for contractors on Department of Defense and Department of Energy cleanup sites: 40-hour, remediation, supervisor, incident command, train-the-trainer and refresher courses.
+
+Federal Site HAZWOPER (https://federal-sites.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40 Hr Remediation, 40-Hour HAZWOPER, Supervisor, Incident Command or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://federal-sites.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for remediation crews on federal cleanup sites. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=590
+- [OSHA 40 Hour HAZWOPER Training](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The standard 40-hour initial HAZWOPER. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8-hour supervisor course for site leads. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for site emergencies. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [HAZWOPER Train-the-Trainer Certification](https://federal-sites.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Qualify in-house trainers for large federal programs. Enroll: https://federal-sites.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+
+## Guides
+
+- [HAZWOPER on federal cleanup sites: who's covered by what](https://federal-sites.hazwoperosha.us/guides/hazwoper-on-federal-cleanup-sites): Contractors, federal employees and DOE sites each have their own path to the same HAZWOPER rule.
+- [Munitions on cleanup sites: recognize, retreat, report](https://federal-sites.hazwoperosha.us/guides/munitions-recognize-retreat-report): Former ranges and bases can hide unexploded ordnance. HAZWOPER crews aren't trained to handle it, and shouldn't.
+- [Radiological awareness on cleanup sites](https://federal-sites.hazwoperosha.us/guides/radiological-awareness-cleanup-sites): Some federal and industrial sites have radiological contamination. What HAZWOPER workers should know.
+
+## All trainings
+
+- [All 83 trainings](https://federal-sites.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Federal Site HAZWOPER | HAZWOPER OSHA Training](https://federal-sites.hazwoperosha.us/about)
+- [Contact Federal Site HAZWOPER | HAZWOPER OSHA Training](https://federal-sites.hazwoperosha.us/contact)
+- [Privacy notice | Federal Site HAZWOPER](https://federal-sites.hazwoperosha.us/privacy)
+- [Sitemap](https://federal-sites.hazwoperosha.us/sitemap.xml)

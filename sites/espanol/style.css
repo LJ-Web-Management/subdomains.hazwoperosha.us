@@ -71,7 +71,7 @@ mark { background: var(--pink); color: #fff; padding: 0 .18em; border-radius: 6p
 .foot { background: var(--fg); color: #d9d2ea; padding: 56px 0 40px; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
 .foot .logo { color: #fff; }
-.foot h4 { color: var(--yellow); margin: 0 0 12px; }
+.foot h2 { color: var(--yellow); margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 .foot a:hover { color: var(--yellow); }
 

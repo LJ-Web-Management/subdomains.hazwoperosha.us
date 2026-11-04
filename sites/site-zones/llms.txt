@@ -1,0 +1,35 @@
+# Site Zones
+
+> Click through an interactive hazardous waste site plan: exclusion zone, contamination reduction zone, support zone, access control points, the decon corridor and wind direction.
+
+Site Zones (https://site-zones.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Decontamination, Site Characterization, 40-Hour HAZWOPER, Supervisor training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://site-zones.hazwoperosha.us/index.md).
+
+## Courses
+
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). The warm zone and decon line in 20 minutes. Enroll: https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+- [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). How sites are evaluated before zones are set. Enroll: https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment?buy=586
+- [OSHA 40 Hour HAZWOPER Training](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Site control in depth. Enroll: https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Setting and enforcing zones. Enroll: https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+
+## Guides
+
+- [Setting up site control zones](https://site-zones.hazwoperosha.us/guides/setting-up-site-control-zones): How a site safety officer lays out the hot, warm and cold zones on a new site.
+- [When the wind shifts: adjusting zones on the fly](https://site-zones.hazwoperosha.us/guides/when-the-wind-shifts): Zones are built around the wind. Here's what happens when it changes.
+
+## All trainings
+
+- [All 83 trainings](https://site-zones.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Site Zones | HAZWOPER OSHA Training](https://site-zones.hazwoperosha.us/about)
+- [Contact Site Zones | HAZWOPER OSHA Training](https://site-zones.hazwoperosha.us/contact)
+- [Privacy notice | Site Zones](https://site-zones.hazwoperosha.us/privacy)
+- [Sitemap](https://site-zones.hazwoperosha.us/sitemap.xml)

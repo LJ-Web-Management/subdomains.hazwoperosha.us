@@ -4,20 +4,34 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs Hydrogen Sulfide (H2S) & Gas Detection Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://h2s-gas-detection.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA Hydrogen Sulfide (H2S) Awareness Training](https://h2s-gas-detection.onlinetrainingcourses.us/#course-89): $39.99 per person, 3 hours, English and Spanish, certificate valid 12 months. In accordance with ANSI Standard Z390.1, Accepted Practices for Hydrogen Sulfide (H2S) Training Program. Enroll: https://h2s-gas-detection.onlinetrainingcourses.us/checkout?course=89. Full syllabus: https://hazwoper-osha.com/online-courses/hydrogen-sulfide-awareness-training
-- [OSHA Air Monitoring and Gas Detection Training](https://h2s-gas-detection.onlinetrainingcourses.us/#course-664): $49.99 per person, 3 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.1000, 1910.120, 1910.146, 1926.65, 1926.1203, 1926.1204, and OSHA’s General Duty Clause. Enroll: https://h2s-gas-detection.onlinetrainingcourses.us/checkout?course=664. Full syllabus: https://hazwoper-osha.com/online-courses/osha-air-monitoring-and-gas-detection-training
-- [OSHA Hydrogen Sulfide (H2S) Training (International)](https://h2s-gas-detection.onlinetrainingcourses.us/#course-290): $49.99 per person, 3 hours, English and Spanish, certificate valid 24 months. In accordance with ANSI Standard Z390.1, Accepted Practices for Hydrogen Sulfide (H₂S) Training Program. Enroll: https://h2s-gas-detection.onlinetrainingcourses.us/checkout?course=290. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hydrogen-sulfide-h2s-awareness-training-2-year
-- [Comprehensive Hydrogen Sulfide (H2S) Safety Training for the Oil & Gas Industry](https://h2s-gas-detection.onlinetrainingcourses.us/#course-354): $199.99 per person, 4 hours, English and Spanish, certificate valid 12 months. In accordance with ANSI/ASSP Standard Z390.1-2024, Accepted Practices for Hydrogen Sulfide (H2S) Training Programs; and API RP 49 and 55, Recommended Practices. Enroll: https://h2s-gas-detection.onlinetrainingcourses.us/checkout?course=354. Full syllabus: https://hazwoper-osha.com/online-courses/comprehensive-h2s-training
-- [Authorized Gas Tester Training](https://h2s-gas-detection.onlinetrainingcourses.us/#course-534): $339.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.106, 1910.119, 1910.120, 1910.134, 1910.146, 1910.147, 1910.252, 1910.1000, 1910 Subpart Z, and OSHA’s General Duty Clause. Enroll: https://h2s-gas-detection.onlinetrainingcourses.us/checkout?course=534. Full syllabus: https://hazwoper-osha.com/online-courses/authorized-gas-tester-training
+- [OSHA Hydrogen Sulfide (H2S) Awareness Training](https://h2s-gas-detection.hazwoperosha.us/#course-89): $39.99 per person, 3 hours, English and Spanish, certificate valid 12 months. In accordance with ANSI Standard Z390.1, Accepted Practices for Hydrogen Sulfide (H2S) Training Program. Enroll: https://h2s-gas-detection.hazwoperosha.us/checkout?course=89. Full syllabus: https://hazwoper-osha.com/online-courses/hydrogen-sulfide-awareness-training
+- [OSHA Air Monitoring and Gas Detection Training](https://h2s-gas-detection.hazwoperosha.us/#course-664): $49.99 per person, 3 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.1000, 1910.120, 1910.146, 1926.65, 1926.1203, 1926.1204, and OSHA’s General Duty Clause. Enroll: https://h2s-gas-detection.hazwoperosha.us/checkout?course=664. Full syllabus: https://hazwoper-osha.com/online-courses/osha-air-monitoring-and-gas-detection-training
+- [OSHA Hydrogen Sulfide (H2S) Training (International)](https://h2s-gas-detection.hazwoperosha.us/#course-290): $49.99 per person, 3 hours, English and Spanish, certificate valid 24 months. In accordance with ANSI Standard Z390.1, Accepted Practices for Hydrogen Sulfide (H₂S) Training Program. Enroll: https://h2s-gas-detection.hazwoperosha.us/checkout?course=290. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hydrogen-sulfide-h2s-awareness-training-2-year
+- [Comprehensive Hydrogen Sulfide (H2S) Safety Training for the Oil & Gas Industry](https://h2s-gas-detection.hazwoperosha.us/#course-354): $199.99 per person, 4 hours, English and Spanish, certificate valid 12 months. In accordance with ANSI/ASSP Standard Z390.1-2024, Accepted Practices for Hydrogen Sulfide (H2S) Training Programs; and API RP 49 and 55, Recommended Practices. Enroll: https://h2s-gas-detection.hazwoperosha.us/checkout?course=354. Full syllabus: https://hazwoper-osha.com/online-courses/comprehensive-h2s-training
+- [Authorized Gas Tester Training](https://h2s-gas-detection.hazwoperosha.us/#course-534): $339.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.106, 1910.119, 1910.120, 1910.134, 1910.146, 1910.147, 1910.252, 1910.1000, 1910 Subpart Z, and OSHA’s General Duty Clause. Enroll: https://h2s-gas-detection.hazwoperosha.us/checkout?course=534. Full syllabus: https://hazwoper-osha.com/online-courses/authorized-gas-tester-training
 
 ## Bundle
 
-All 5 courses in one order: https://h2s-gas-detection.onlinetrainingcourses.us/checkout?course=89,664,290,354,534
+All 5 courses in one order: https://h2s-gas-detection.hazwoperosha.us/checkout?course=89,664,290,354,534
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://h2s-gas-detection.hazwoperosha.us/about)
+- [Contact](https://h2s-gas-detection.hazwoperosha.us/contact)
+- [Privacy](https://h2s-gas-detection.hazwoperosha.us/privacy)
+- [Sitemap](https://h2s-gas-detection.hazwoperosha.us/sitemap.xml)

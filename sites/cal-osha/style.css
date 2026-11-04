@@ -69,7 +69,7 @@ h1, h2, h3 { font-weight: 400; }
 .foot-sun { position: absolute; left: 50%; bottom: -260px; width: 520px; height: 520px; margin-left: -260px; border-radius: 50%; background: linear-gradient(#ffb347, #e84a27); opacity: .25; }
 .foot-in { position: relative; display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
 .foot .logo { color: var(--gold); }
-.foot h4 { font: 400 22px var(--head-font); color: var(--gold); margin: 0 0 10px; }
+.foot h2 { font: 400 22px var(--head-font); color: var(--gold); margin: 0 0 10px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .page-head h1 { color: var(--poppy); text-shadow: 3px 3px 0 var(--gold); }

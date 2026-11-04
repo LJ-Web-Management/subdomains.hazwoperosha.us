@@ -2,7 +2,7 @@
 export default {
   brand: "Work Order",
   logo: `<span class="wo-tag">WO</span>Work Order`,
-  title: "Data Center Maintenance Training: Preventive, Mechanical, Building & Roofing | Work Order",
+  title: "Data Center Maintenance Training: Preventive & Mechanical | Work Order",
   description: "Maintenance training for data center facility teams: preventive maintenance planning, mechanical systems, building maintenance, building envelope and roofing systems.",
   theme: "#c98f12",
   fonts: "family=Bitter:wght@500;700;800&family=Karla:wght@400;500;700",

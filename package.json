@@ -3,9 +3,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node tools/build.mjs && node tools/hub.mjs",
+    "build": "node tools/build.mjs && node tools/imported.mjs && node tools/agents.mjs && node tools/hub.mjs",
     "dev": "npx wrangler dev",
     "deploy": "npx wrangler deploy",
-    "test": "node --test"
+    "test": "node --test",
+    "audit": "node tools/audit.mjs",
+    "og": "node tools/og.mjs"
   }
 }

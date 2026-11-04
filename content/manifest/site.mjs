@@ -41,6 +41,7 @@ export default {
   ],
 
   feature: (h) => `<section class="sec mf-sec" id="form"><div class="wrap mf-in">
+<h2 class="vh">Hazardous waste manifest, box by box</h2>
 <div class="mf-form" role="list">${BOXES.map((b, i) => `<button type="button" role="listitem" data-i="${i}"${i === 0 ? ' class="on"' : ""}><b>${b[0]}</b>${h.esc(b[1])}</button>`).join("")}</div>
 <div class="mf-info" aria-live="polite"><p class="mf-n">Box <span id="mfN">${BOXES[0][0]}</span></p><h3 id="mfT">${h.esc(BOXES[0][1])}</h3><p id="mfD">${h.esc(BOXES[0][2])}</p>
 <p class="mf-note">Simplified for training. Follow the current EPA manifest instructions and your state's rules.</p></div>

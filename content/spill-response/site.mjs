@@ -49,7 +49,7 @@ export default {
 
   guides: [
     {
-      slug: "spcc-training-requirements",
+      slug: "spcc-training-requirements", seoTitle: "SPCC training requirements under 40 CFR 112.7(f)",
       title: "SPCC training requirements: what 40 CFR 112.7(f) actually asks for",
       description: "If your facility needs an SPCC plan, your oil-handling staff need training and an annual briefing. Here's what that means.",
       date: "2026-10-25",
@@ -186,8 +186,8 @@ Collect saturated absorbent booms into lined drums or bags and treat them as was
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/">SpillReady</a><p>Spill prevention and response training by HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Talk to us</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Talk to us</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 

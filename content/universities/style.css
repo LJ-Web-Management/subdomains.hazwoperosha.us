@@ -29,7 +29,7 @@ h1, h2, h3 { font-weight: 400; }
 .guide-card { border: 2px solid var(--accent); }
 .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #cdbfc3; border: 0; border-top: 6px solid var(--gold); }
-.tpl .foot .logo, .tpl .foot h4 { color: var(--gold); }
+.tpl .foot .logo, .tpl .foot h2 { color: var(--gold); }
 .eyebrow, .eyebrow a { color: var(--accent); font-weight: 700; }
 .buy-box { border: 2px solid var(--accent); box-shadow: 6px 6px 0 var(--gold); }
 .buy-price, .course-row-price { color: var(--accent); }

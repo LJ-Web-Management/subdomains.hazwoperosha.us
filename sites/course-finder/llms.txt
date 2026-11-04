@@ -1,0 +1,37 @@
+# Course Finder
+
+> Answer a few questions about your job and get the right OSHA HAZWOPER or hazardous waste course: 40-hour, 24-hour, TSDF, emergency response, generator training or refresher.
+
+Course Finder (https://course-finder.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, 24-Hour HAZWOPER, 8-Hour Refresher, Awareness or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://course-finder.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://course-finder.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). For general site workers who may be exposed at or above exposure limits. Enroll: https://course-finder.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 24 Hour HAZWOPER Training](https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). For occasional site workers and workers in monitored low-exposure areas. Enroll: https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual refresher for everyone already certified. Enroll: https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://course-finder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). For people who may discover a release but won't respond. Enroll: https://course-finder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): $229.99 per seat, 24 Hours, 29 CFR 1910.120(p) / RCRA. For workers at permitted treatment, storage and disposal facilities. Enroll: https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=582
+- [RCRA Hazardous Waste Generator Training](https://course-finder.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). For businesses that generate and ship hazardous waste. Enroll: https://course-finder.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+
+## Guides
+
+- [How OSHA decides which HAZWOPER training you need](https://course-finder.hazwoperosha.us/guides/how-osha-decides-your-hazwoper-training): Training is based on what you do and what you could be exposed to. The logic behind the course finder.
+- [When in doubt, why most employers choose the 40-hour](https://course-finder.hazwoperosha.us/guides/when-in-doubt-take-the-40-hour): The 24-hour is narrower than people think. Why the 40-hour is usually the safer choice.
+
+## All trainings
+
+- [All 83 trainings](https://course-finder.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Course Finder | HAZWOPER OSHA Training](https://course-finder.hazwoperosha.us/about)
+- [Contact Course Finder | HAZWOPER OSHA Training](https://course-finder.hazwoperosha.us/contact)
+- [Privacy notice | Course Finder](https://course-finder.hazwoperosha.us/privacy)
+- [Sitemap](https://course-finder.hazwoperosha.us/sitemap.xml)

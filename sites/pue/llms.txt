@@ -1,0 +1,35 @@
+# PUE Calc
+
+> Calculate your data center's power usage effectiveness (PUE) and DCiE, see what overhead costs per year, and train your team on energy efficiency, cooling optimization and monitoring.
+
+PUE Calc (https://pue.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Energy Efficiency & PUE, Cooling Systems Design & Optimization, Monitoring, Automation & BMS, DCIM Platform Fundamentals training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://pue.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Energy Efficiency & PUE Optimization](https://pue.hazwoperosha.us/courses/energy-efficiency-pue-optimization): $99.99 per seat, 4 Hours, PUE. Cut operating costs with a measurable PUE optimization roadmap. Enroll: https://pue.hazwoperosha.us/courses/energy-efficiency-pue-optimization?buy=832
+- [Cooling Systems Design & Optimization](https://pue.hazwoperosha.us/courses/cooling-systems-design-optimization): $298.99 per seat, 8 Hours, PUE / ASHRAE Thermal Guidelines. Cut cooling costs and improve reliability with modern thermal management strategy. Enroll: https://pue.hazwoperosha.us/courses/cooling-systems-design-optimization?buy=841
+- [Monitoring, Automation & BMS Systems](https://pue.hazwoperosha.us/courses/monitoring-automation-bms-systems): $276.99 per seat, 8 Hours, BMS / DCIM. Design a monitoring and BMS strategy that catches problems before they cause downtime. Enroll: https://pue.hazwoperosha.us/courses/monitoring-automation-bms-systems?buy=846
+- [DCIM Platform Fundamentals](https://pue.hazwoperosha.us/courses/dcim-platform-fundamentals): $99.99 per seat, 4 Hours, DCIM. Understand DCIM strategy and build the ROI case for implementation. Enroll: https://pue.hazwoperosha.us/courses/dcim-platform-fundamentals?buy=830
+
+## Guides
+
+- [Measuring PUE properly](https://pue.hazwoperosha.us/guides/measuring-pue-properly): Where to meter, over what period, and the mistakes that flatter the number.
+- [Quick wins to lower PUE](https://pue.hazwoperosha.us/guides/quick-wins-to-lower-pue): Changes that pay back fast, roughly in order of effort.
+
+## All trainings
+
+- [All 83 trainings](https://pue.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About PUE Calc | HAZWOPER OSHA Training](https://pue.hazwoperosha.us/about)
+- [Contact PUE Calc | HAZWOPER OSHA Training](https://pue.hazwoperosha.us/contact)
+- [Privacy notice | PUE Calc](https://pue.hazwoperosha.us/privacy)
+- [Sitemap](https://pue.hazwoperosha.us/sitemap.xml)

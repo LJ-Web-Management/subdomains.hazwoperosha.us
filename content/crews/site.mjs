@@ -154,8 +154,8 @@ Even a fully certified worker needs your site's briefing: your site safety plan,
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/"><span class="dot" aria-hidden="true"></span>crewseats</a><p>Crew HAZWOPER training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com. Invoices and purchase orders: +1-866-429-6742.</p></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Contact</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 

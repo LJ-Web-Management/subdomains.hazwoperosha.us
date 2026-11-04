@@ -1,0 +1,36 @@
+# Waste Tech
+
+> Training for hazardous waste technicians, field chemists and lab packers: the HAZWOPER and RCRA technician course, generator rules, RCRA/DOT shipping and the manifest.
+
+Waste Tech (https://hw-technician.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs HAZWOPER & RCRA Technician, RCRA/DOT Combined, Hazardous Waste Manifest, RCRA Generator Training or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://hw-technician.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): $199.99 per seat, 24 Hours, 29 CFR 1910.120 / RCRA. Safety and compliance for hazardous waste technicians. Enroll: https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=599
+- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): $149.99 per seat, 8 Hours, RCRA + 49 CFR 172. Shipping hazardous waste legally. Enroll: https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=403
+- [Hazardous Waste Manifest Training](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training): $34.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). Getting the manifest right. Enroll: https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
+- [RCRA Hazardous Waste Generator Training](https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The generator rules your customers follow. Enroll: https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Decon in 20 minutes. Enroll: https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+
+## Guides
+
+- [Lab pack basics](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics): Packing small containers of chemicals for shipment, safely and legally.
+- [Compatibility testing before bulking](https://hw-technician.hazwoperosha.us/guides/compatibility-before-bulking): Why you test before you pour drums together.
+
+## All trainings
+
+- [All 83 trainings](https://hw-technician.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Waste Tech | HAZWOPER OSHA Training](https://hw-technician.hazwoperosha.us/about)
+- [Contact Waste Tech | HAZWOPER OSHA Training](https://hw-technician.hazwoperosha.us/contact)
+- [Privacy notice | Waste Tech](https://hw-technician.hazwoperosha.us/privacy)
+- [Sitemap](https://hw-technician.hazwoperosha.us/sitemap.xml)

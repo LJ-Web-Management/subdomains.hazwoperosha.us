@@ -1,0 +1,37 @@
+# One-Line Power
+
+> Power training for data center electrical teams: power systems fundamentals, power distribution, emergency and standby power, UPS operations and electrical safety.
+
+One-Line Power (https://dc-power.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Power Systems & Electrical, Power Distribution Systems, Emergency/Standby Power Systems, UPS Operations & Load Testing or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-power.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Power Systems & Electrical Fundamentals](https://dc-power.hazwoperosha.us/courses/power-systems-electrical-fundamentals): $303.99 per seat, 8 Hours, NFPA 70E. Master data center electrical infrastructure — from utility interconnection to UPS and PDU architecture. Enroll: https://dc-power.hazwoperosha.us/courses/power-systems-electrical-fundamentals?buy=847
+- [Power Distribution Systems Fundamentals](https://dc-power.hazwoperosha.us/courses/power-distribution-systems-fundamentals): $99.99 per seat, 4 Hours. Core power distribution theory behind PDUs, panels, and branch circuits. Enroll: https://dc-power.hazwoperosha.us/courses/power-distribution-systems-fundamentals?buy=1092
+- [Emergency/Standby Power Systems Fundamentals](https://dc-power.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals): $99.99 per seat, 4 Hours. Understand the standby power systems that carry a facility through a utility outage. Enroll: https://dc-power.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals?buy=1098
+- [UPS Operations & Load Testing](https://dc-power.hazwoperosha.us/courses/ups-operations-load-testing): $99.99 per seat, 4 Hours. Master UPS operations, battery testing, and load-bank procedures. Enroll: https://dc-power.hazwoperosha.us/courses/ups-operations-load-testing?buy=840
+- [UPS Systems Fundamentals](https://dc-power.hazwoperosha.us/courses/ups-systems-fundamentals): $99.99 per seat, 2 Hours. Foundational UPS theory to complement hands-on operations and load testing. Enroll: https://dc-power.hazwoperosha.us/courses/ups-systems-fundamentals?buy=1102
+- [Electrical Safety & Best Practices](https://dc-power.hazwoperosha.us/courses/electrical-safety-best-practices): $99.99 per seat, 4 Hours, NFPA 70E. NFPA 70E-aligned electrical safety fundamentals for facility staff. Enroll: https://dc-power.hazwoperosha.us/courses/electrical-safety-best-practices?buy=831
+
+## Guides
+
+- [How to read a data center one-line diagram](https://dc-power.hazwoperosha.us/guides/reading-a-one-line-diagram): The symbols and the path, from the utility to the rack.
+- [What happens in the first 30 seconds of a utility failure](https://dc-power.hazwoperosha.us/guides/what-happens-when-the-utility-fails): UPS, generators and transfer switches, second by second.
+
+## All trainings
+
+- [All 83 trainings](https://dc-power.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About One-Line Power | HAZWOPER OSHA Training](https://dc-power.hazwoperosha.us/about)
+- [Contact One-Line Power | HAZWOPER OSHA Training](https://dc-power.hazwoperosha.us/contact)
+- [Privacy notice | One-Line Power](https://dc-power.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-power.hazwoperosha.us/sitemap.xml)

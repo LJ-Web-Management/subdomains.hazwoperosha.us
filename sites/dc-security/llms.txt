@@ -1,0 +1,35 @@
+# Audit Ready DC
+
+> Security and compliance training for data center teams: SOC 2 and ISO 27001 controls, access control, physical security and environmental compliance.
+
+Audit Ready DC (https://dc-security.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Security & Compliance, Access Control & Physical Security, Physical Security & Access Control (1 hr), Facility Environmental Compliance training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-security.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Security & Compliance for Data Centers](https://dc-security.hazwoperosha.us/courses/security-compliance-data-centers): $291.99 per seat, 16 Hours, SOC 2 / ISO 27001. Build a facility security program that satisfies SOC 2, ISO 27001, and physical audit requirements. Enroll: https://dc-security.hazwoperosha.us/courses/security-compliance-data-centers?buy=848
+- [Access Control & Physical Security](https://dc-security.hazwoperosha.us/courses/access-control-physical-security): $99.99 per seat, 4 Hours. Practical security training for facility staff — access control, surveillance, and incident reporting. Enroll: https://dc-security.hazwoperosha.us/courses/access-control-physical-security?buy=828
+- [Data Center Physical Security and Access Control Training](https://dc-security.hazwoperosha.us/courses/data-center-physical-security-access-control): $99.99 per seat, 1 Hour. Foundational physical security and access control practices for data hall environments. Enroll: https://dc-security.hazwoperosha.us/courses/data-center-physical-security-access-control?buy=855
+- [Facility Environmental Compliance](https://dc-security.hazwoperosha.us/courses/facility-environmental-compliance): $99.99 per seat, 4 Hours. Understand the environmental regulations that apply to your facility. Enroll: https://dc-security.hazwoperosha.us/courses/facility-environmental-compliance?buy=833
+
+## Guides
+
+- [What auditors ask facilities teams](https://dc-security.hazwoperosha.us/guides/what-auditors-ask-facilities-teams): The physical and environmental controls that show up in SOC 2 and ISO 27001 audits.
+- [Visitor and contractor access, done right](https://dc-security.hazwoperosha.us/guides/visitor-and-contractor-access): Escorts, logs and badges: the basics that most findings come from.
+
+## All trainings
+
+- [All 83 trainings](https://dc-security.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Audit Ready DC | HAZWOPER OSHA Training](https://dc-security.hazwoperosha.us/about)
+- [Contact Audit Ready DC | HAZWOPER OSHA Training](https://dc-security.hazwoperosha.us/contact)
+- [Privacy notice | Audit Ready DC](https://dc-security.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-security.hazwoperosha.us/sitemap.xml)

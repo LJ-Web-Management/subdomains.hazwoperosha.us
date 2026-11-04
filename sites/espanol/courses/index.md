@@ -1,0 +1,394 @@
+---
+title: "Cursos | HAZWOPER en Español"
+description: "El curso de 40 horas en español, más dos cursos relacionados (impartidos en inglés). Incluye certificado al terminar. 100% en línea, a su ritmo."
+url: https://espanol.hazwoperosha.us/courses/
+---
+
+HAZWOPER en Español
+
+# Cursos
+
+El curso de 40 horas en español, más dos cursos relacionados (impartidos en inglés).
+
+## Cursos destacados
+
+[Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 horas · Curso #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1100)
+
+[Primer Respondedor, Nivel de Conciencia · 4 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 horas · Curso #1099 · 29 CFR 1910.120(q)(6)(i)
+
+$61.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1099)
+
+[Repaso Anual OSHA HAZWOPER de 8 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 horas · Curso #595 · 29 CFR 1910.120(e)(8)
+
+$89.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=595)
+
+## Todas las capacitaciones (83)
+
+Todas las capacitaciones de HAZWOPER OSHA Training. Los cursos se imparten en inglés salvo que se indique lo contrario.
+
+### Environmental / EPA
+
+EPA RCRA/DOT Combined Hazardous Materials Compliance Training 8 Hours · Curso #403 · RCRA + 49 CFR 172
+
+$149.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=403)
+
+Hazardous Waste Contingency Plan and Emergency Coordinator Training 4 Hours · Curso #412 · 40 CFR Parts 262 and 264/265
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=412)
+
+Hazardous Waste Satellite Accumulation Area Training 2 Hours · Curso #415 · 40 CFR 262.15
+
+$59.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=415)
+
+OSHA Spill Prevention and Response Safety Training 2 Hours · Curso #416 · 29 CFR 1910.120 / 40 CFR 112
+
+$49.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=416)
+
+### Equipment & Process-Specific Mini Courses
+
+Spill Response Equipment - Absorbent & Containment Booms 1 Hour · Curso #478 · 40 CFR 112 / 29 CFR 1910.120
+
+$24.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=478)
+
+Spill Response Equipment - Spill Kit Selection & Use 1 Hour · Curso #479 · 40 CFR 112 / 29 CFR 1910.120
+
+$24.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=479)
+
+### HAZWOPER & RCRA Hazardous Waste
+
+8 Hour HAZWOPER and Incident Command Refresher Training 8 Hours · Curso #574 · 29 CFR 1910.120(q)(8)
+
+$159.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=574)
+
+Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training 24 Hours · Curso #575 · 8 CCR 5192(p) / RCRA
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=575)
+
+Cal/OSHA 24-Hour HAZWOPER Training 24 Hours · Curso #576 · 8 CCR 5192(e)
+
+$169.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=576)
+
+Cal/OSHA 40-Hour HAZWOPER Training (2026) 40 Hours · Curso #577 · 8 CCR 5192(e)
+
+$219.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=577)
+
+Cal/OSHA 8-Hour HAZWOPER Refresher Training 8 Hours · Curso #578 · 8 CCR 5192(e)(8)
+
+$89.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=578)
+
+Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training 8 Hours · Curso #579 · 8 CCR 5192(p)(8) / RCRA
+
+$109.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=579)
+
+Hazardous Waste Manifest Training 2 Hours · Curso #580 · 40 CFR 262 Subpart B (RCRA)
+
+$34.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=580)
+
+OSHA 24 Hour HAZWOPER Training 24 Hours · Curso #581 · 29 CFR 1910.120(e)
+
+$169.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=581)
+
+OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training 24 Hours · Curso #582 · 29 CFR 1910.120(p) / RCRA
+
+$229.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=582)
+
+HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments 20 Min · Curso #583 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$14.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=583)
+
+HAZWOPER Micro-Module: Decontamination Procedures 20 Min · Curso #584 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$14.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=584)
+
+HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained 15 Min · Curso #585 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$12.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=585)
+
+HAZWOPER Micro-Module: Site Characterization & Hazard Assessment 20 Min · Curso #586 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$14.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=586)
+
+OSHA 40 Hour HAZWOPER Training 40 Hours · Curso #587 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=587)
+
+OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites) 40 Hours · Curso #588 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=588)
+
+OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams 40 Hours · Curso #589 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=589)
+
+OSHA 40 Hour HAZWOPER for Environmental Remediation 40 Hours · Curso #590 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=590)
+
+OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response 40 Hours · Curso #591 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=591)
+
+OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response 40 Hours · Curso #592 · 29 CFR 1910.120(e) / 1926.65(e)
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=592)
+
+OSHA 8 Hour HAZWOPER (q) Incident Command Training 8 Hours · Curso #593 · 29 CFR 1910.120(q)
+
+$179.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=593)
+
+OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training 8 Hours · Curso #594 · 29 CFR 1910.120(p)(8) / RCRA
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=594)
+
+[OSHA 8 Hour HAZWOPER Refresher Training](https://espanol.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Curso #595 · 29 CFR 1910.120(e)(8)
+
+$89.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=595)
+
+OSHA 8 Hour HAZWOPER Supervisor Refresher Training 8 Hours · Curso #596 · 29 CFR 1910.120(e)(4)/(e)(8)
+
+$149.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=596)
+
+OSHA 8 Hour HAZWOPER Supervisor Training 8 Hours · Curso #597 · 29 CFR 1910.120(e)(4)
+
+$179.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=597)
+
+OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training 8 Hours · Curso #598 · 29 CFR 1910.120(e)(8) / 1910.111
+
+$109.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=598)
+
+OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training 24 Hours · Curso #599 · 29 CFR 1910.120 / RCRA
+
+$199.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=599)
+
+RCRA Hazardous Waste Generator Refresher Training 4 Hours · Curso #600 · 40 CFR 262.17 (RCRA, annual)
+
+$59.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=600)
+
+RCRA Hazardous Waste Generator Training 8 Hours · Curso #601 · 40 CFR 262.17 (RCRA)
+
+$89.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=601)
+
+RCRA Universal Waste Handler Training 2 Hours · Curso #602 · 40 CFR 273 (RCRA)
+
+$34.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=602)
+
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Curso #1099 · 29 CFR 1910.120(q)(6)(i)
+
+$61.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1099)
+
+[OSHA 40-Hour HAZWOPER Training (Spanish)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Curso #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+
+$249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1100)
+
+### Manufacturing & Industrial Operations
+
+Manufacturing Emergency Response Team (ERT) Training 8 Hours · Curso #702 · 29 CFR 1910.120(q)
+
+$149.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=702)
+
+### State-Plan Specific Training
+
+8 Hour HAZWOPER Refresher - State-Plan Versions Available 8 Hours · Curso #900 · State-plan equivalents of federal OSHA standard (see parent course)
+
+$84.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=900)
+
+### Train-the-Trainer & Certification Programs
+
+HAZWOPER Train-the-Trainer Certification 24 Hours · Curso #1016 · 29 CFR 1910.120(e)
+
+$399.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1016)
+
+### Cal/OSHA Specific
+
+Cal/OSHA RCRA Hazardous Waste Training 4 Hours · Curso #1051 · 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192
+
+$49.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1051)
+
+### Chemical & Substance-Specific Exposure
+
+OSHA Air Monitoring and Gas Detection Training 2 Hours · Curso #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+
+$49.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1056)
+
+### Data Center: Design & Planning
+
+Data Center Design Fundamentals 8 Hours · Curso #842 · ANSI/TIA-942
+
+$312.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=842)
+
+Tier Infrastructure Fundamentals 8 Hours · Curso #849 · Uptime Institute Tier Framework
+
+$280.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=849)
+
+Infrastructure Commissioning & Startup 8 Hours · Curso #845 · Commissioning Test Protocols
+
+$267.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=845)
+
+Capacity Planning & Forecasting 4 Hours · Curso #829
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=829)
+
+### Data Center: Operations
+
+Data Center Operations Management 8 Hours · Curso #843 · DCIM / SLA Frameworks
+
+$325.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=843)
+
+Disaster Recovery & Business Continuity 8 Hours · Curso #844 · RTO/RPO Frameworks
+
+$307.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=844)
+
+Preventive Maintenance Planning 4 Hours · Curso #839
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=839)
+
+Incident Response & Troubleshooting 4 Hours · Curso #837
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=837)
+
+Building Maintenance Fundamentals 4 Hours · Curso #1097
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1097)
+
+Business Continuity and Disaster Recovery Planning Training 8 Hours · Curso #880 · ICS-NIMS
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=880)
+
+Data Center Raised Floor and Confined Space Awareness Training 1 Hour · Curso #856 · OSHA 1910.146
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=856)
+
+Roofing Systems Maintenance Fundamentals 2 Hours · Curso #1101
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1101)
+
+Server Room Ergonomics and Manual Handling Training 1 Hour · Curso #858
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=858)
+
+### Data Center: Security & Compliance
+
+Security & Compliance for Data Centers 16 Hours · Curso #848 · SOC 2 / ISO 27001
+
+$291.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=848)
+
+Facility Environmental Compliance 4 Hours · Curso #833
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=833)
+
+Access Control & Physical Security 4 Hours · Curso #828
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=828)
+
+Data Center Fire Suppression System Safety Training (Clean Agent Systems) 2 Hours · Curso #854 · NFPA 2001
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=854)
+
+Data Center Physical Security and Access Control Training 1 Hour · Curso #855
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=855)
+
+### Data Center: Power & Electrical
+
+Power Systems & Electrical Fundamentals 8 Hours · Curso #847 · NFPA 70E
+
+$303.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=847)
+
+UPS Operations & Load Testing 4 Hours · Curso #840
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=840)
+
+Generator Operations & Maintenance 4 Hours · Curso #835
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=835)
+
+Electrical Safety & Best Practices 4 Hours · Curso #831 · NFPA 70E
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=831)
+
+Batteries and DC Circuits 2 Hours · Curso #1084
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1084)
+
+Data Center Arc Flash Safety Training 2 Hours · Curso #850 · NFPA 70E
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=850)
+
+Data Center Electrical Safety Training 2 Hours · Curso #852
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=852)
+
+Data Center Emergency Power Off (EPO) Procedures Training 1 Hour · Curso #853
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=853)
+
+Data Center UPS and Battery System Safety Training 2 Hours · Curso #857
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=857)
+
+Emergency/Standby Power Systems Fundamentals 4 Hours · Curso #1098
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1098)
+
+Lithium-Ion Battery Thermal Runaway and Emergency Response Training 4 Hours · Curso #1021
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1021)
+
+Power Distribution Systems Fundamentals 4 Hours · Curso #1092
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1092)
+
+UPS Systems Fundamentals 2 Hours · Curso #1102
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1102)
+
+### Data Center: Cooling & Efficiency
+
+Cooling Systems Design & Optimization 8 Hours · Curso #841 · PUE / ASHRAE Thermal Guidelines
+
+$298.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=841)
+
+HVAC Systems Troubleshooting Essentials 4 Hours · Curso #836
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=836)
+
+Energy Efficiency & PUE Optimization 4 Hours · Curso #832 · PUE
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=832)
+
+Mechanical Systems & Equipment Maintenance 4 Hours · Curso #838
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=838)
+
+Building Envelope Fundamentals 2 Hours · Curso #1096
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1096)
+
+Data Center Cooling System and Refrigerant Safety Training 2 Hours · Curso #851 · EPA/OSHA
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=851)
+
+### Data Center: Monitoring & Automation
+
+Monitoring, Automation & BMS Systems 8 Hours · Curso #846 · BMS / DCIM
+
+$276.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=846)
+
+Fiber Optics & Network Cabling 4 Hours · Curso #834 · ANSI/TIA-942
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=834)
+
+DCIM Platform Fundamentals 4 Hours · Curso #830 · DCIM
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=830)
+
+Building Automation Systems (BAS) Fundamentals 6 Hours · Curso #1104 · BMS/BAS
+
+$99.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/?buy=1104)
+
+---
+
+Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.
+Site index: [sitemap](https://espanol.hazwoperosha.us/sitemap.xml) · [llms.txt](https://espanol.hazwoperosha.us/llms.txt) · [about](https://espanol.hazwoperosha.us/about) · [contact](https://espanol.hazwoperosha.us/contact)

@@ -56,7 +56,7 @@ export default {
 
   guides: [
     {
-      slug: "cal-osha-vs-federal-hazwoper",
+      slug: "cal-osha-vs-federal-hazwoper", seoTitle: "Cal/OSHA vs federal OSHA HAZWOPER: what's different",
       title: "Cal/OSHA vs federal OSHA HAZWOPER: what's different in California",
       description: "The training hours match, but the rule, the exposure limits and the agencies don't. Here's what changes when you work in California.",
       date: "2026-10-25",
@@ -93,7 +93,7 @@ Cal/OSHA cares that your training covered what 5192 requires. A federal certific
 {{buy:577}}`,
     },
     {
-      slug: "california-hazardous-waste-dtsc-cupa",
+      slug: "california-hazardous-waste-dtsc-cupa", seoTitle: "California hazardous waste rules: DTSC, CUPAs and more",
       title: "California hazardous waste rules: DTSC, CUPAs and the waste federal EPA doesn't count",
       description: "Why California generators manage more waste as hazardous, who inspects them and what staff need to know.",
       date: "2026-10-25",
@@ -135,7 +135,7 @@ Large quantity generators need documented, job-specific training for everyone wh
 {{buy:1051}}`,
     },
     {
-      slug: "working-in-california-with-out-of-state-hazwoper",
+      slug: "working-in-california-with-out-of-state-hazwoper", seoTitle: "Using an out-of-state HAZWOPER certificate in California",
       title: "Moving to a California job with an out-of-state HAZWOPER certificate",
       description: "Your 40-hour likely still counts. Here's what California employers check, and when a Cal/OSHA course is the smart move.",
       date: "2026-10-25",
@@ -173,8 +173,8 @@ Bring your initial certificate, every refresher, any supervisor certificate, you
 <main>${body}</main>
 <footer class="foot"><div class="foot-sun" aria-hidden="true"></div><div class="wrap foot-in">
 <div><a class="logo" href="/">Cal HAZWOPER</a><p>Cal/OSHA HAZWOPER and California hazardous waste training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Reach us</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><a href="/guides/">Guides</a></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Reach us</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><a href="/guides/">Guides</a></div>
 </div></footer>`;
   },
 

@@ -1,0 +1,36 @@
+# DC Career Lines
+
+> Map your data center career: six training tracks from entry-level technician safety courses to engineering and management, with courses you can enroll in today.
+
+DC Career Lines (https://dc-careers.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Data Center Electrical Safety, Raised Floor & Confined Space, Ergonomics & Manual Handling, Physical Security & Access or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-careers.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Data Center Electrical Safety Training](https://dc-careers.hazwoperosha.us/courses/data-center-electrical-safety): $99.99 per seat, 2 Hours. Foundational electrical safety practices for anyone working around data center power systems. Enroll: https://dc-careers.hazwoperosha.us/courses/data-center-electrical-safety?buy=852
+- [Data Center Raised Floor and Confined Space Awareness Training](https://dc-careers.hazwoperosha.us/courses/data-center-raised-floor-confined-space): $99.99 per seat, 1 Hour, OSHA 1910.146. Confined space awareness and safe practices for working under a raised floor. Enroll: https://dc-careers.hazwoperosha.us/courses/data-center-raised-floor-confined-space?buy=856
+- [Server Room Ergonomics and Manual Handling Training](https://dc-careers.hazwoperosha.us/courses/server-room-ergonomics-manual-handling): $99.99 per seat, 1 Hour. Safe lifting and ergonomic practices for server room and data hall work. Enroll: https://dc-careers.hazwoperosha.us/courses/server-room-ergonomics-manual-handling?buy=858
+- [Data Center Physical Security and Access Control Training](https://dc-careers.hazwoperosha.us/courses/data-center-physical-security-access-control): $99.99 per seat, 1 Hour. Foundational physical security and access control practices for data hall environments. Enroll: https://dc-careers.hazwoperosha.us/courses/data-center-physical-security-access-control?buy=855
+- [Data Center Operations Management](https://dc-careers.hazwoperosha.us/courses/data-center-operations-management): $325.99 per seat, 8 Hours, DCIM / SLA Frameworks. Run daily operations like the teams behind Tier 3/4 facilities — maintenance, incident response, and SLAs. Enroll: https://dc-careers.hazwoperosha.us/courses/data-center-operations-management?buy=843
+
+## Guides
+
+- [Breaking into data center work](https://dc-careers.hazwoperosha.us/guides/breaking-into-data-centers): The trades and backgrounds that transfer, and what to learn first.
+- [From technician to critical facilities engineer](https://dc-careers.hazwoperosha.us/guides/technician-to-engineer): What changes as you move up, and the courses that get you there.
+
+## All trainings
+
+- [All 83 trainings](https://dc-careers.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About DC Career Lines | HAZWOPER OSHA Training](https://dc-careers.hazwoperosha.us/about)
+- [Contact DC Career Lines | HAZWOPER OSHA Training](https://dc-careers.hazwoperosha.us/contact)
+- [Privacy notice | DC Career Lines](https://dc-careers.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-careers.hazwoperosha.us/sitemap.xml)

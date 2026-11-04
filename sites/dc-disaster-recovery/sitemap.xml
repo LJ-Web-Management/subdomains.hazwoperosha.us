@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/disaster-recovery-business-continuity</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/business-continuity-disaster-recovery-planning</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/incident-response-troubleshooting</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/guides/</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/guides/rto-vs-rpo</loc></url>
-  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/guides/running-a-tabletop-exercise</loc></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/disaster-recovery-business-continuity</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/business-continuity-disaster-recovery-planning</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/incident-response-troubleshooting</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/guides/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/guides/rto-vs-rpo</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/guides/running-a-tabletop-exercise</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/about</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/contact</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-disaster-recovery.hazwoperosha.us/privacy</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>

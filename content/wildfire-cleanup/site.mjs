@@ -2,7 +2,7 @@
 export default {
   brand: "Ash & Ember",
   logo: `<span class="ae-ember"></span>Ash &amp; Ember`,
-  title: "HAZWOPER Training for Wildfire Debris & Hazardous Materials Cleanup | Ash & Ember",
+  title: "HAZWOPER Training for Wildfire Debris & Hazmat Cleanup | Ash & Ember",
   description: "Training for crews cleaning up after wildfires: household hazardous waste removal, ash and debris hazards, PPE and HAZWOPER courses for disaster cleanup contractors.",
   theme: "#e8590c",
   fonts: "family=Big+Shoulders+Text:wght@700;800&family=Inter:wght@400;500",

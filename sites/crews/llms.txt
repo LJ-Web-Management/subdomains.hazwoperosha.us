@@ -1,0 +1,38 @@
+# crewseats
+
+> Buy HAZWOPER training seats for your whole crew: 40-hour, 24-hour, refresher, supervisor, train-the-trainer and awareness courses. Crew cost calculator, one checkout per course, invoices available.
+
+crewseats (https://crews.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, 24-Hour HAZWOPER, 8-Hour Refresher, 8-Hour Supervisor or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://crews.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The OSHA 40-hour initial HAZWOPER for general site workers. Enroll: https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 24 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The 24-hour HAZWOPER for occasional and low-exposure workers. Enroll: https://crews.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher for every certified worker. Enroll: https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8-hour supervisor course for foremen and site leads. Enroll: https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [HAZWOPER Train-the-Trainer Certification](https://crews.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Qualify an in-house trainer to run field days and refreshers. Enroll: https://crews.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://crews.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). First responder awareness for support staff. Enroll: https://crews.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [Budgeting for crew HAZWOPER training](https://crews.hazwoperosha.us/guides/budgeting-for-crew-hazwoper-training): The course fee is the smallest line. A realistic budget for training a crew.
+- [Onboarding a new hire who already has HAZWOPER](https://crews.hazwoperosha.us/guides/onboarding-a-new-hire-with-prior-hazwoper): Their certificate came from another employer. What to check before they start.
+- [Online or in-person HAZWOPER for your crew?](https://crews.hazwoperosha.us/guides/online-vs-in-person-hazwoper-for-crews): Both have a place. How to choose, and how to combine them.
+
+## All trainings
+
+- [All 83 trainings](https://crews.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About crewseats | HAZWOPER OSHA Training](https://crews.hazwoperosha.us/about)
+- [Contact crewseats | HAZWOPER OSHA Training](https://crews.hazwoperosha.us/contact)
+- [Privacy notice | crewseats](https://crews.hazwoperosha.us/privacy)
+- [Sitemap](https://crews.hazwoperosha.us/sitemap.xml)

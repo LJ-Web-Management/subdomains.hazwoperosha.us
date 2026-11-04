@@ -1,0 +1,38 @@
+# ShopWaste
+
+> Hazardous waste training for auto repair, body and fleet maintenance shops: RCRA generator, universal waste, satellite accumulation, spill prevention, spill kits and awareness, with used oil and SQG guides.
+
+ShopWaste (https://auto-shops.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs RCRA Generator, Satellite Accumulation, Universal Waste, Spill Prevention or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://auto-shops.hazwoperosha.us/index.md).
+
+## Courses
+
+- [RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for shop owners and managers. Enroll: https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Waste containers at the bay: labels, limits and lids. Enroll: https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
+- [RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps, aerosol cans and mercury switches. Enroll: https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+- [OSHA Spill Prevention and Response Safety Training](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to fluid spills in the shop. Enroll: https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [Spill Response Equipment - Spill Kit Selection & Use](https://auto-shops.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Using the shop spill kit. Enroll: https://auto-shops.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a release you shouldn't handle yourself. Enroll: https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [Used oil at auto shops: the management standards](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops): Used oil has its own rules, separate from hazardous waste, as long as you manage it right.
+- [Common hazardous wastes at auto repair shops](https://auto-shops.hazwoperosha.us/guides/common-hazardous-wastes-auto-shops): Where hazardous waste comes from in a typical shop, and how to manage each stream.
+- [Small quantity generator rules for shops](https://auto-shops.hazwoperosha.us/guides/small-quantity-generator-shops): Many shops are small quantity generators. What that requires, in plain terms.
+
+## All trainings
+
+- [All 83 trainings](https://auto-shops.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About ShopWaste | HAZWOPER OSHA Training](https://auto-shops.hazwoperosha.us/about)
+- [Contact ShopWaste | HAZWOPER OSHA Training](https://auto-shops.hazwoperosha.us/contact)
+- [Privacy notice | ShopWaste](https://auto-shops.hazwoperosha.us/privacy)
+- [Sitemap](https://auto-shops.hazwoperosha.us/sitemap.xml)

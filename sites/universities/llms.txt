@@ -1,0 +1,38 @@
+# Campus EHS
+
+> Campus-wide hazardous waste and spill training for colleges and universities: satellite accumulation, RCRA generator and refresher, universal waste, awareness and contingency planning.
+
+Campus EHS (https://universities.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Satellite Accumulation, RCRA Generator, Generator Refresher, Universal Waste or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://universities.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Hazardous Waste Satellite Accumulation Area Training](https://universities.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Satellite accumulation rules for labs, studios and shops across campus. Enroll: https://universities.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
+- [RCRA Hazardous Waste Generator Training](https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Generator training for campus EHS and waste staff. Enroll: https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Refresher Training](https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $59.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual RCRA refresher. Enroll: https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
+- [RCRA Universal Waste Handler Training](https://universities.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps and mercury devices from across campus. Enroll: https://universities.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://universities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a spill, get clear and call it in. Enroll: https://universities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. Contingency planning for large quantity generator campuses. Enroll: https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
+
+## Guides
+
+- [Who needs hazardous waste training on a college campus?](https://universities.hazwoperosha.us/guides/who-needs-hazardous-waste-training-on-campus): A department-by-department guide for campus EHS.
+- [Art studios and theater shops: the forgotten generators](https://universities.hazwoperosha.us/guides/art-studios-hazardous-waste): Paints, solvents and photo chemicals make art departments hazardous waste generators. How to bring them into the program.
+- [Chemical spill response on campus: who does what](https://universities.hazwoperosha.us/guides/campus-chemical-spill-response): Lab staff, custodians, campus police and EHS each have a role. Define them before the spill.
+
+## All trainings
+
+- [All 83 trainings](https://universities.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Campus EHS | HAZWOPER OSHA Training](https://universities.hazwoperosha.us/about)
+- [Contact Campus EHS | HAZWOPER OSHA Training](https://universities.hazwoperosha.us/contact)
+- [Privacy notice | Campus EHS](https://universities.hazwoperosha.us/privacy)
+- [Sitemap](https://universities.hazwoperosha.us/sitemap.xml)

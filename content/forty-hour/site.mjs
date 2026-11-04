@@ -103,7 +103,7 @@ Every 40-hour track on this site meets the same 40 hours of instruction. The dif
 {{buy:587}}`,
     },
     {
-      slug: "hazwoper-field-experience-three-days",
+      slug: "hazwoper-field-experience-three-days", seoTitle: "HAZWOPER's three days of field experience, explained",
       title: "The three days of field experience: what online training can't do for you",
       description: "The 40-hour has two parts. The course covers the classroom part. Here's how employers handle the supervised days on site.",
       date: "2026-10-25",
@@ -139,7 +139,7 @@ Only through the equivalent-training route in 1910.120(e)(9). An employer can co
 {{buy:587}}`,
     },
     {
-      slug: "choosing-a-40-hour-industry-track",
+      slug: "choosing-a-40-hour-industry-track", seoTitle: "Picking your 40-hour HAZWOPER industry track",
       title: "Construction, remediation, oil & gas, pipeline or hazmat: picking your 40-hour track",
       description: "All six 40-hour courses meet the same OSHA requirement. The track decides which examples, hazards and scenarios you'll study.",
       date: "2026-10-25",
@@ -188,8 +188,8 @@ ${h.header(587)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/">40HOUR<b>HAZWOPER</b></a><p>Online OSHA 40-Hour HAZWOPER training from HAZWOPER OSHA Training LLC. Courses are delivered through the hazwoper-osha.com learning platform.</p></div>
-<div><h4>Tracks</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Help</h4><a href="/guides/">Guides</a><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Tracks</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Help</h2><a href="/guides/">Guides</a><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div><div class="tape tape-thin" aria-hidden="true"></div></footer>`;
   },
 

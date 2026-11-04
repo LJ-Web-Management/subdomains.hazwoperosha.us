@@ -20,7 +20,7 @@ h1, h2, h3 { font-weight: 800; letter-spacing: -.02em; }
 .guide-card { border: 0; box-shadow: 0 10px 30px rgba(30, 18, 56, .06); }
 .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #b8acd6; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .tpl .foot .spark { color: var(--sun); }
 .eyebrow, .eyebrow a { color: var(--accent); font-weight: 600; }
 .course-row, .buy-box { border: 0; box-shadow: 0 10px 30px rgba(30, 18, 56, .07); }

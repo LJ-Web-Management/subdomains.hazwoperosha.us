@@ -24,7 +24,7 @@ h1, h2, h3 { font-weight: 900; }
 .guide-card { border: 2px solid var(--fg); }
 .guide-card .guide-card-cta { color: var(--orange); }
 .tpl .foot { background: var(--fg); color: #cdbf9f; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #f7f0e1; }
+.tpl .foot .logo, .tpl .foot h2 { color: #f7f0e1; }
 .eyebrow, .eyebrow a { font-family: "Chivo Mono", monospace; color: var(--orange); }
 .buy-price, .course-row-price { color: var(--orange); }
 .prose a { color: #a8461a; font-weight: 600; }

@@ -10,7 +10,7 @@ const STAGES = [
 export default {
   brand: "Runaway",
   logo: `<span class="rw-cell"></span>Runaway`,
-  title: "Lithium-Ion Battery Thermal Runaway Training for Data Centers | Runaway",
+  title: "Lithium-Ion Thermal Runaway Training for Data Centers | Runaway",
   description: "Training on lithium-ion battery thermal runaway in data centers: warning signs, off-gas detection, emergency response, UPS battery safety and DC circuits, with a five-stage explorer.",
   theme: "#ff7b00",
   fonts: "family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600",

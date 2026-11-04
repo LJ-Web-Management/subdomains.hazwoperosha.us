@@ -1,0 +1,37 @@
+# tsdf_ops
+
+> HAZWOPER training for RCRA treatment, storage and disposal facilities: 24-hour TSD operations under 29 CFR 1910.120(p), annual refresher, waste technician and Cal/OSHA TSDF courses.
+
+tsdf_ops (https://tsdf.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 24-Hr TSD Operations, 8-Hr TSD Refresher, Waste Technician, Cal/OSHA 24-Hr TSDF or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://tsdf.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): $229.99 per seat, 24 Hours, 29 CFR 1910.120(p) / RCRA. The 24-hour initial HAZWOPER for workers at RCRA treatment, storage and disposal facilities. Enroll: https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=582
+- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training): $99.99 per seat, 8 Hours, 29 CFR 1910.120(p)(8) / RCRA. The annual 8-hour refresher for TSD facility workers under 1910.120(p). Enroll: https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training?buy=594
+- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): $199.99 per seat, 24 Hours, 29 CFR 1910.120 / RCRA. Combined HAZWOPER and RCRA training for hazardous waste management technicians. Enroll: https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=599
+- [Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training): $249.99 per seat, 24 Hours, 8 CCR 5192(p) / RCRA. The 24-hour TSDF course written to California's Title 8 section 5192(p) and Title 22. Enroll: https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=575
+- [Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training): $109.99 per seat, 8 Hours, 8 CCR 5192(p)(8) / RCRA. The annual 8-hour refresher for California TSDF workers. Enroll: https://tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training?buy=579
+
+## Guides
+
+- [TSDF training under 1910.120(p): 24 hours, then 8 every year](https://tsdf.hazwoperosha.us/guides/tsdf-training-1910-120-p): Why TSD workers have their own paragraph in HAZWOPER, and what it requires.
+- [TSDF or cleanup site? Why the 40-hour isn't the default at a TSDF](https://tsdf.hazwoperosha.us/guides/tsdf-vs-cleanup-site-training): Workers move between facilities and field jobs. Here's which HAZWOPER paragraph covers which work.
+- [OSHA and EPA training records at a TSDF: one system for both](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa): TSDFs answer to two agencies for training. Here's how to keep one set of records that satisfies both.
+
+## All trainings
+
+- [All 83 trainings](https://tsdf.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About tsdf_ops | HAZWOPER OSHA Training](https://tsdf.hazwoperosha.us/about)
+- [Contact tsdf_ops | HAZWOPER OSHA Training](https://tsdf.hazwoperosha.us/contact)
+- [Privacy notice | tsdf_ops](https://tsdf.hazwoperosha.us/privacy)
+- [Sitemap](https://tsdf.hazwoperosha.us/sitemap.xml)

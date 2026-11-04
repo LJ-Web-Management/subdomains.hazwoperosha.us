@@ -22,5 +22,5 @@
 .tpl .sec-guides { background: #f3eedf; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: #8a6d0b; }
 .tpl .foot { background: var(--fg); color: #b8bfd0; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .prose a { color: var(--fg); font-weight: 600; text-decoration-color: var(--gold); }

@@ -23,6 +23,6 @@ h1, h2, h3 { font-weight: 900; }
 .pl-card p:last-child { margin: 0; color: #c7d8cc; font-size: 17px; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #a7bdae; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .prose a { color: var(--accent); font-weight: 700; }
 @media (max-width: 800px) { .pl-steps { grid-template-columns: 1fr 1fr; } .pl-card { grid-template-columns: 1fr; } .pl-lv { grid-row: auto; font-size: 44px; } }

@@ -31,7 +31,7 @@ h1, h2, h3 { font-weight: 400; letter-spacing: .01em; }
 .guide-card strong { font: 400 30px/1 var(--head-font); }
 .guide-card .guide-card-cta { color: var(--fg); background: var(--yellow); align-self: start; padding: 2px 8px; }
 .tpl .foot { background: var(--fg); color: #a9a59c; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: var(--yellow); }
+.tpl .foot .logo, .tpl .foot h2 { color: var(--yellow); }
 .page-head h1 { font-size: clamp(56px, 8vw, 110px); line-height: .9; }
 .course-row, .buy-box, .cta-card { border-width: 3px; }
 .buy-box { background: var(--yellow); }

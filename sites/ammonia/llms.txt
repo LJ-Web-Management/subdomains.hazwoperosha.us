@@ -1,0 +1,37 @@
+# NH3 Ready
+
+> HAZWOPER training for anhydrous ammonia refrigeration: 8-hour HAZWOPER and safe ammonia handling refresher, gas detection, incident command, awareness and responder refresher.
+
+NH3 Ready (https://ammonia.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs HAZWOPER + Ammonia Refresher, Gas Detection, Incident Command, Awareness or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://ammonia.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training): $109.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8) / 1910.111. The annual 8-hour HAZWOPER refresher built around anhydrous ammonia. Enroll: https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training?buy=598
+- [OSHA Air Monitoring and Gas Detection Training](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Fixed and portable ammonia detection, plus multi-gas monitoring. Enroll: https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for the person who takes charge of an ammonia release. Enroll: https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://ammonia.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Awareness training for everyone else in the building. Enroll: https://ammonia.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://ammonia.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $159.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). Annual refresher for responders and incident commanders. Enroll: https://ammonia.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
+
+## Guides
+
+- [Anhydrous ammonia hazards every technician should know](https://ammonia.hazwoperosha.us/guides/anhydrous-ammonia-hazards): The numbers, the behavior and the injuries that make ammonia worth respecting.
+- [PSM, RMP and HAZWOPER: how ammonia facilities fit together](https://ammonia.hazwoperosha.us/guides/psm-rmp-hazwoper-ammonia): Three rule sets, one refrigeration system. How they overlap and what each expects for training.
+- [The first ten minutes of an ammonia release](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release): What happens in the opening minutes decides whether a leak stays small.
+
+## All trainings
+
+- [All 83 trainings](https://ammonia.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About NH3 Ready | HAZWOPER OSHA Training](https://ammonia.hazwoperosha.us/about)
+- [Contact NH3 Ready | HAZWOPER OSHA Training](https://ammonia.hazwoperosha.us/contact)
+- [Privacy notice | NH3 Ready](https://ammonia.hazwoperosha.us/privacy)
+- [Sitemap](https://ammonia.hazwoperosha.us/sitemap.xml)

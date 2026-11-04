@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://healthcare-safety.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://healthcare-safety.hazwoperosha.us/sitemap.xml

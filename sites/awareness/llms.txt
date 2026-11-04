@@ -1,0 +1,36 @@
+# Spot·It·Safe
+
+> HAZWOPER first responder awareness level training for security, warehouse, drivers and front-line staff: recognize a release, isolate the area and notify. Plus spill kit and PPE modules.
+
+Spot·It·Safe (https://awareness.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs First Responder Awareness, Spill Kit Use, PPE Levels A–D, Spill Prevention training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://awareness.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://awareness.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Awareness level training: recognize a hazardous release, isolate the area and notify. Enroll: https://awareness.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [Spill Response Equipment - Spill Kit Selection & Use](https://awareness.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. One hour on using a spill kit for small, incidental spills. Enroll: https://awareness.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
+- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://awareness.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). A 15-minute module on what responders wear and why. Enroll: https://awareness.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
+- [OSHA Spill Prevention and Response Safety Training](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Two hours on preventing spills in the first place. Enroll: https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+
+## Guides
+
+- [What 'awareness level' actually means](https://awareness.hazwoperosha.us/guides/what-awareness-level-means): Awareness responders have one job, and it isn't cleaning up. A plain explanation.
+- [See a spill? What to do, and what not to do](https://awareness.hazwoperosha.us/guides/see-a-spill-what-to-do): A one-page guide for security, warehouse and front-line staff.
+- [Reading placards and using the Emergency Response Guidebook](https://awareness.hazwoperosha.us/guides/reading-placards-and-the-erg): The diamond on the truck tells you more than you'd think. How to read it from a safe distance.
+
+## All trainings
+
+- [All 83 trainings](https://awareness.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Spot·It·Safe | HAZWOPER OSHA Training](https://awareness.hazwoperosha.us/about)
+- [Contact Spot·It·Safe | HAZWOPER OSHA Training](https://awareness.hazwoperosha.us/contact)
+- [Privacy notice | Spot·It·Safe](https://awareness.hazwoperosha.us/privacy)
+- [Sitemap](https://awareness.hazwoperosha.us/sitemap.xml)

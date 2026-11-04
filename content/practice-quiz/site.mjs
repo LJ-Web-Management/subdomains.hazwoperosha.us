@@ -71,7 +71,7 @@ window.QUIZ = ${JSON.stringify(QUIZ).replace(/</g, "\\u003c")};
     if (i < Q.length) return show();
     pr.style.width = "100%"; n.textContent = "Finished"; o.textContent = ""; nx.hidden = true;
     q.textContent = "You scored " + score + " out of " + Q.length;
-    ex.hidden = false; ex.innerHTML = (score >= 8 ? "Great work. " : "Keep studying. ") + 'Ready for the real thing? <a href="?buy=587" data-buy="587">Enroll in the 40-hour</a> or <a href="#quiz" id="qzAgain">try again</a>.';
+    ex.hidden = false; ex.innerHTML = (score >= 8 ? "Great work. " : "Keep studying. ") + 'Ready for the real thing? <a rel="nofollow" href="?buy=587" data-buy="587">Enroll in the 40-hour</a> or <a href="#quiz" id="qzAgain">try again</a>.';
     document.getElementById("qzAgain").addEventListener("click", function (e) { e.preventDefault(); i = 0; score = 0; show(); });
   });
   show();

@@ -4,23 +4,37 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs OSHA Construction Safety Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://construction-safety.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA Welding, Cutting, and Brazing for Construction Training](https://construction-safety.onlinetrainingcourses.us/#course-226): $29.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subparts J and Z. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=226. Full syllabus: https://hazwoper-osha.com/online-courses/welding-cutting-and-brazing-for-construction
-- [OSHA Focus Four Struck-By Hazards Prevention for Construction Training](https://construction-safety.onlinetrainingcourses.us/#course-655): $39.99 per person, 1 hour, English, certificate valid 12 months. In accordance with Federal OSHA Regulations related to struck-by hazards under 29 CFR Part 1926. 29 CFR 1926.501, 29 CFR 1926.302, 29 CFR 1926.1400, and 29 CFR 1926.601. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=655. Full syllabus: https://hazwoper-osha.com/online-courses/osha-focus-four-struck-by-hazards-prevention-for-construction-training
-- [OSHA Hand and Power Tools Safety Training](https://construction-safety.onlinetrainingcourses.us/#course-343): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHARegulations 29 CFR 1926 Subpart I. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=343. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hand-and-power-tools-safety-training-new
-- [General Safety and Health Provisions Training for Construction](https://construction-safety.onlinetrainingcourses.us/#course-450): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=450. Full syllabus: https://hazwoper-osha.com/online-courses/general-safety-and-health-training-for-construction
-- [OSHA Concrete and Masonry Awareness Training](https://construction-safety.onlinetrainingcourses.us/#course-463): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=463. Full syllabus: https://hazwoper-osha.com/online-courses/osha-concrete-and-masonry-awareness-training
-- [Rigging Safety Awareness Training](https://construction-safety.onlinetrainingcourses.us/#course-467): $47.99 per person, 1 hour, English, certificate valid 12 months. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=467. Full syllabus: https://hazwoper-osha.com/online-courses/rigging-safety-awareness-training
-- [OSHA Steel Erection Safety Training](https://construction-safety.onlinetrainingcourses.us/#course-416): $59.99 per person, 2 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulation 29 CFR 1926 Subpart R. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=416. Full syllabus: https://hazwoper-osha.com/online-courses/osha-steel-erection-safety-training
-- [OSHA Competent Person for Basic Rigging and Inspection Training](https://construction-safety.onlinetrainingcourses.us/#course-406): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926.251 and 29 CFR 1926 Subpart CC. Enroll: https://construction-safety.onlinetrainingcourses.us/checkout?course=406. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-basic-rigging-and-inspection-training
+- [OSHA Welding, Cutting, and Brazing for Construction Training](https://construction-safety.hazwoperosha.us/#course-226): $29.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subparts J and Z. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=226. Full syllabus: https://hazwoper-osha.com/online-courses/welding-cutting-and-brazing-for-construction
+- [OSHA Focus Four Struck-By Hazards Prevention for Construction Training](https://construction-safety.hazwoperosha.us/#course-655): $39.99 per person, 1 hour, English, certificate valid 12 months. In accordance with Federal OSHA Regulations related to struck-by hazards under 29 CFR Part 1926. 29 CFR 1926.501, 29 CFR 1926.302, 29 CFR 1926.1400, and 29 CFR 1926.601. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=655. Full syllabus: https://hazwoper-osha.com/online-courses/osha-focus-four-struck-by-hazards-prevention-for-construction-training
+- [OSHA Hand and Power Tools Safety Training](https://construction-safety.hazwoperosha.us/#course-343): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHARegulations 29 CFR 1926 Subpart I. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=343. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hand-and-power-tools-safety-training-new
+- [General Safety and Health Provisions Training for Construction](https://construction-safety.hazwoperosha.us/#course-450): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=450. Full syllabus: https://hazwoper-osha.com/online-courses/general-safety-and-health-training-for-construction
+- [OSHA Concrete and Masonry Awareness Training](https://construction-safety.hazwoperosha.us/#course-463): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=463. Full syllabus: https://hazwoper-osha.com/online-courses/osha-concrete-and-masonry-awareness-training
+- [Rigging Safety Awareness Training](https://construction-safety.hazwoperosha.us/#course-467): $47.99 per person, 1 hour, English, certificate valid 12 months. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=467. Full syllabus: https://hazwoper-osha.com/online-courses/rigging-safety-awareness-training
+- [OSHA Steel Erection Safety Training](https://construction-safety.hazwoperosha.us/#course-416): $59.99 per person, 2 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulation 29 CFR 1926 Subpart R. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=416. Full syllabus: https://hazwoper-osha.com/online-courses/osha-steel-erection-safety-training
+- [OSHA Competent Person for Basic Rigging and Inspection Training](https://construction-safety.hazwoperosha.us/#course-406): $159.99 per person, 6 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926.251 and 29 CFR 1926 Subpart CC. Enroll: https://construction-safety.hazwoperosha.us/checkout?course=406. Full syllabus: https://hazwoper-osha.com/online-courses/osha-competent-person-for-basic-rigging-and-inspection-training
 
 ## Bundle
 
-All 8 courses in one order: https://construction-safety.onlinetrainingcourses.us/checkout?course=226,655,343,450,463,467,416,406
+All 8 courses in one order: https://construction-safety.hazwoperosha.us/checkout?course=226,655,343,450,463,467,416,406
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://construction-safety.hazwoperosha.us/about)
+- [Contact](https://construction-safety.hazwoperosha.us/contact)
+- [Privacy](https://construction-safety.hazwoperosha.us/privacy)
+- [Sitemap](https://construction-safety.hazwoperosha.us/sitemap.xml)

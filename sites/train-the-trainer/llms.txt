@@ -1,0 +1,35 @@
+# Lead the Class
+
+> Become a HAZWOPER instructor: train-the-trainer certification for safety professionals who teach the 40-hour, 24-hour, refresher and supervisor courses in-house.
+
+Lead the Class (https://train-the-trainer.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs HAZWOPER Train-the-Trainer, 40-Hour HAZWOPER, HAZWOPER Supervisor, 8-Hour Refresher training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://train-the-trainer.hazwoperosha.us/index.md).
+
+## Courses
+
+- [HAZWOPER Train-the-Trainer Certification](https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Certification for HAZWOPER instructors. Enroll: https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
+- [OSHA 40 Hour HAZWOPER Training](https://train-the-trainer.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The course most trainers teach. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Supervisors often become trainers. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). Keep your own certification current. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+
+## Guides
+
+- [What makes a qualified HAZWOPER trainer?](https://train-the-trainer.hazwoperosha.us/guides/what-makes-a-qualified-hazwoper-trainer): OSHA's expectations for people who teach HAZWOPER.
+- [Running a hands-on HAZWOPER class](https://train-the-trainer.hazwoperosha.us/guides/running-a-hands-on-hazwoper-class): The exercises that make a course stick.
+
+## All trainings
+
+- [All 83 trainings](https://train-the-trainer.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Lead the Class | HAZWOPER OSHA Training](https://train-the-trainer.hazwoperosha.us/about)
+- [Contact Lead the Class | HAZWOPER OSHA Training](https://train-the-trainer.hazwoperosha.us/contact)
+- [Privacy notice | Lead the Class](https://train-the-trainer.hazwoperosha.us/privacy)
+- [Sitemap](https://train-the-trainer.hazwoperosha.us/sitemap.xml)

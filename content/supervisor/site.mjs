@@ -84,7 +84,7 @@ Supervisors need eight hours of refresher training each year like everyone else.
 {{buy:597}}`,
     },
     {
-      slug: "site-safety-and-health-plan",
+      slug: "site-safety-and-health-plan", seoTitle: "Writing a site safety and health plan crews will use",
       title: "Writing a site safety and health plan your crew will actually use",
       description: "OSHA lists what the plan must contain. Making it useful in the field is the supervisor's job.",
       date: "2026-10-25",
@@ -167,8 +167,8 @@ Many employers mix approaches. New hires take the online 40-hour for the classro
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><p class="foot-logo">The Site Supervisor</p><p>Leadership training for hazardous waste operations, published by HAZWOPER OSHA Training LLC. Courses delivered on hazwoper-osha.com.</p></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Correspondence</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Correspondence</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 

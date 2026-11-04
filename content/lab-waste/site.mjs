@@ -172,8 +172,8 @@ Update the inventory, re-label surviving stock and set a schedule to review shel
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/"><span class="el">Lw</span>LabWaste<i>.</i></a><p>Hazardous waste training for laboratories from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Contact</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 

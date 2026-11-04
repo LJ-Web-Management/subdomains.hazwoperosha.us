@@ -1,0 +1,35 @@
+# SAA Label Maker
+
+> Make a printable hazardous waste container label with the words and hazard indication the generator rules require, and train staff on satellite accumulation area rules.
+
+SAA Label Maker (https://saa-labels.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Satellite Accumulation Areas, RCRA Generator Training, Universal Waste Handler, Hazardous Waste Manifest training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://saa-labels.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Hazardous Waste Satellite Accumulation Area Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Two hours on SAA rules: location, limits, labels and closed containers. Enroll: https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
+- [RCRA Hazardous Waste Generator Training](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The full generator course. Enroll: https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Universal Waste Handler Training](https://saa-labels.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps, aerosol cans and other universal wastes. Enroll: https://saa-labels.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+- [Hazardous Waste Manifest Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training): $34.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). The paperwork that follows the waste. Enroll: https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
+
+## Guides
+
+- [Satellite accumulation area rules in plain language](https://saa-labels.hazwoperosha.us/guides/saa-rules-plain-language): Six rules that cover most of what inspectors check.
+- [How to indicate the hazards on a label](https://saa-labels.hazwoperosha.us/guides/hazard-indication-options): Words, pictograms or placards: the options the rule allows.
+
+## All trainings
+
+- [All 83 trainings](https://saa-labels.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About SAA Label Maker | HAZWOPER OSHA Training](https://saa-labels.hazwoperosha.us/about)
+- [Contact SAA Label Maker | HAZWOPER OSHA Training](https://saa-labels.hazwoperosha.us/contact)
+- [Privacy notice | SAA Label Maker](https://saa-labels.hazwoperosha.us/privacy)
+- [Sitemap](https://saa-labels.hazwoperosha.us/sitemap.xml)

@@ -4,17 +4,31 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs Qualified SWPPP Practitioner (QSP) & Preparer Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://stormwater-swppp.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [Qualified SWPPP Practitioner (QSP) Training](https://stormwater-swppp.onlinetrainingcourses.us/#course-440): $379.99 per person, 7 hours, English and Spanish, certificate valid 24 months. In accordance with Clean Water Act Section 402 and 40 CFR122.26. Enroll: https://stormwater-swppp.onlinetrainingcourses.us/checkout?course=440. Full syllabus: https://hazwoper-osha.com/online-courses/qualified-swppp-practitioner-qsp-training
-- [Qualified SWPPP Preparer Training](https://stormwater-swppp.onlinetrainingcourses.us/#course-543): $379.99 per person, 7 hours, English and Spanish, certificate valid 36 months. In accordance with Clean Water Act Section 402 and 40 CFR 122.26. Enroll: https://stormwater-swppp.onlinetrainingcourses.us/checkout?course=543. Full syllabus: https://hazwoper-osha.com/online-courses/qualified-swppp-preparer-training
+- [Qualified SWPPP Practitioner (QSP) Training](https://stormwater-swppp.hazwoperosha.us/#course-440): $379.99 per person, 7 hours, English and Spanish, certificate valid 24 months. In accordance with Clean Water Act Section 402 and 40 CFR122.26. Enroll: https://stormwater-swppp.hazwoperosha.us/checkout?course=440. Full syllabus: https://hazwoper-osha.com/online-courses/qualified-swppp-practitioner-qsp-training
+- [Qualified SWPPP Preparer Training](https://stormwater-swppp.hazwoperosha.us/#course-543): $379.99 per person, 7 hours, English and Spanish, certificate valid 36 months. In accordance with Clean Water Act Section 402 and 40 CFR 122.26. Enroll: https://stormwater-swppp.hazwoperosha.us/checkout?course=543. Full syllabus: https://hazwoper-osha.com/online-courses/qualified-swppp-preparer-training
 
 ## Bundle
 
-All 2 courses in one order: https://stormwater-swppp.onlinetrainingcourses.us/checkout?course=440,543
+All 2 courses in one order: https://stormwater-swppp.hazwoperosha.us/checkout?course=440,543
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://stormwater-swppp.hazwoperosha.us/about)
+- [Contact](https://stormwater-swppp.hazwoperosha.us/contact)
+- [Privacy](https://stormwater-swppp.hazwoperosha.us/privacy)
+- [Sitemap](https://stormwater-swppp.hazwoperosha.us/sitemap.xml)

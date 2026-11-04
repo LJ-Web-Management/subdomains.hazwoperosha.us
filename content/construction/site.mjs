@@ -123,7 +123,7 @@ Pumped water from an impacted excavation usually can't go to a storm drain. Foll
 {{buy:588}}`,
     },
     {
-      slug: "working-under-the-environmental-contractors-hasp",
+      slug: "working-under-the-environmental-contractors-hasp", seoTitle: "Working under an environmental contractor's HASP",
       title: "Working under the environmental contractor's health and safety plan",
       description: "On remediation-driven projects, the site plan often isn't yours. Here's how to work inside it.",
       date: "2026-10-25",
@@ -161,8 +161,8 @@ Your company still owns its own workers' safety under OSHA's multi-employer cita
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div class="titleblock"><div><span>PROJECT</span><b>SITEWORK/HAZ</b></div><div><span>BY</span><b>HAZWOPER OSHA Training LLC</b></div><div><span>DELIVERED ON</span><b>hazwoper-osha.com</b></div><div><span>SHEET</span><b>A-9</b></div></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Contact</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 

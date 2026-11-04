@@ -2,7 +2,7 @@
 export default {
   brand: "SAA Label Maker",
   logo: `<span class="sl-tag">HW</span>SAA Label Maker`,
-  title: "Hazardous Waste Label Maker & Satellite Accumulation Area Training | SAA Label Maker",
+  title: "Hazardous Waste Label Maker & Satellite Area Training | SAA Label Maker",
   description: "Make a printable hazardous waste container label with the words and hazard indication the generator rules require, and train staff on satellite accumulation area rules.",
   theme: "#fcc419",
   fonts: "family=Archivo+Narrow:wght@500;700&family=Archivo:wght@400;600;800",

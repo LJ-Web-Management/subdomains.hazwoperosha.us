@@ -1,0 +1,37 @@
+# Texas HAZWOPER
+
+> HAZWOPER and hazardous waste training for Texas workers: OSHA 40-hour, 24-hour, refresher, oil & gas spill response and RCRA generator training, with guides to TCEQ and Railroad Commission rules.
+
+Texas HAZWOPER (https://texas.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, 24-Hour HAZWOPER, 8-Hour Refresher, 40 Hr Oil & Gas Spill or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://texas.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The OSHA 40-hour initial HAZWOPER for Texas hazardous waste site workers. Enroll: https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 24 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The 24-hour HAZWOPER for occasional and low-exposure site workers. Enroll: https://texas.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour HAZWOPER refresher. Enroll: https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for oilfield spill response crews. Enroll: https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591
+- [RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for Texas facilities. Enroll: https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+
+## Guides
+
+- [HAZWOPER in Texas: who regulates what](https://texas.hazwoperosha.us/guides/hazwoper-in-texas-who-regulates-what): OSHA, TCEQ and the Railroad Commission each cover a piece. A quick map for Texas employers.
+- [Texas industrial waste classes: Class 1, 2 and 3](https://texas.hazwoperosha.us/guides/texas-industrial-waste-classes): Texas sorts non-hazardous industrial waste into classes. Staff who handle waste need to know them.
+- [Texas heat and HAZWOPER PPE](https://texas.hazwoperosha.us/guides/texas-heat-and-hazwoper-ppe): Chemical protective clothing plus a Texas summer is a medical emergency waiting to happen. How crews manage it.
+
+## All trainings
+
+- [All 83 trainings](https://texas.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Texas HAZWOPER | HAZWOPER OSHA Training](https://texas.hazwoperosha.us/about)
+- [Contact Texas HAZWOPER | HAZWOPER OSHA Training](https://texas.hazwoperosha.us/contact)
+- [Privacy notice | Texas HAZWOPER](https://texas.hazwoperosha.us/privacy)
+- [Sitemap](https://texas.hazwoperosha.us/sitemap.xml)

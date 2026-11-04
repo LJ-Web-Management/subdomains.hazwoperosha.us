@@ -25,6 +25,6 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -.02em; }
 .mu-note { color: #adb5bd; font-size: 13px; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #adb5bd; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .prose a { color: var(--accent); font-weight: 600; }
 @media (max-width: 800px) { .mu-in { grid-template-columns: 1fr; } .tpl .hero::after { display: none; } }

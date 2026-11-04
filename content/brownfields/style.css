@@ -28,7 +28,7 @@ h1, h2, h3 { font-weight: 400; }
 .guide-card .guide-card-meta { font-family: "Space Mono", monospace; }
 .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #b8bdb8; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .eyebrow, .eyebrow a { font-family: "Space Mono", monospace; color: var(--accent); }
 .buy-price, .course-row-price { color: var(--accent); }
 .prose a { color: var(--accent); font-weight: 600; }

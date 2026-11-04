@@ -1,0 +1,36 @@
+# Forever Chemicals
+
+> HAZWOPER training for PFAS investigation and remediation crews: firefighting foam (AFFF) sites, groundwater treatment, sampling precautions and decontamination.
+
+Forever Chemicals (https://pfas.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour Environmental Remediation, 40-Hour HAZWOPER, Site Characterization, Decontamination or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://pfas.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Full HAZWOPER for remediation crews. Enroll: https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=590
+- [OSHA 40 Hour HAZWOPER Training](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The general 40-hour course. Enroll: https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Before you sample. Enroll: https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment?buy=586
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Decon at PFAS sites. Enroll: https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://pfas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). Stay current each year. Enroll: https://pfas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+
+## Guides
+
+- [PFAS sampling precautions](https://pfas.hazwoperosha.us/guides/pfas-sampling-precautions): PFAS are everywhere, including in your gear. Keep them out of the samples.
+- [Hazards at AFFF release sites](https://pfas.hazwoperosha.us/guides/afff-site-hazards): Firefighting foam sites bring more than PFAS.
+
+## All trainings
+
+- [All 83 trainings](https://pfas.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Forever Chemicals | HAZWOPER OSHA Training](https://pfas.hazwoperosha.us/about)
+- [Contact Forever Chemicals | HAZWOPER OSHA Training](https://pfas.hazwoperosha.us/contact)
+- [Privacy notice | Forever Chemicals](https://pfas.hazwoperosha.us/privacy)
+- [Sitemap](https://pfas.hazwoperosha.us/sitemap.xml)

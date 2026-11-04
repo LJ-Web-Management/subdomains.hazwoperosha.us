@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://compare.hazwoperosha.us/</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/courses/</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/courses/osha-40-hour-hazwoper-training</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-training</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/guides/</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/guides/40-hour-vs-24-hour-vs-tsdf</loc></url>
-  <url><loc>https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher</loc></url>
+  <url><loc>https://compare.hazwoperosha.us/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/courses/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/courses/osha-40-hour-hazwoper-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/guides/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/guides/40-hour-vs-24-hour-vs-tsdf</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/about</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/contact</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://compare.hazwoperosha.us/privacy</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>

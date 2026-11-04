@@ -1,0 +1,86 @@
+---
+title: "Hazardous Waste Shipping Training"
+description: "Training for the people who ship hazardous waste: combined RCRA/DOT hazmat training, hazardous waste manifests, generator training and universal waste shipping."
+url: https://waste-shipping.hazwoperosha.us/
+---
+
+SHIPPER CERT RCRA + 49 CFR 172
+
+# Ship hazardous waste right.
+
+FROM: your loading dock TO: a permitted facility
+
+Manifests, DOT hazmat shipping and RCRA, for the people who package, mark and sign the papers.
+
+[Certify now · $149.99](https://waste-shipping.hazwoperosha.us/?buy=403) [Shipping checklist](https://waste-shipping.hazwoperosha.us/guides/preparing-a-hazardous-waste-shipment)
+
+## Courses
+
+PKG 1 OF 5 #403
+
+### RCRA/DOT Combined
+
+One course covering RCRA generator rules and DOT hazmat employee training for waste shippers.
+
+8 Hours
+
+**$149.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=403)
+
+PKG 2 OF 5 #580
+
+### Manifest
+
+The Uniform Hazardous Waste Manifest and e-Manifest, box by box.
+
+2 Hours
+
+**$34.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=580)
+
+PKG 3 OF 5 #601
+
+### Generator Training
+
+RCRA generator training: from waste determination to shipment.
+
+8 Hours
+
+**$89.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=601)
+
+PKG 4 OF 5 #600
+
+### Generator Refresher
+
+Annual RCRA refresher.
+
+4 Hours
+
+**$59.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=600)
+
+PKG 5 OF 5 #602
+
+### Universal Waste
+
+Managing and shipping universal waste under 40 CFR 273.
+
+2 Hours
+
+**$34.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=602)
+
+## Pre-transport checklist
+
+1. Profile approved
+2. DOT-authorized packaging
+3. Hazardous waste marking
+4. DOT labels
+5. Placards offered
+6. Manifest and LDR notice
+7. Copies kept
+
+## Guides
+
+[2 min read **DOT hazmat training for hazardous waste shippers** If you sign the manifest, you're a DOT hazmat employee. What 49 CFR 172.704 requires. Read guide →](https://waste-shipping.hazwoperosha.us/guides/dot-hazmat-training-for-waste-shippers) [2 min read **Preparing a hazardous waste shipment, step by step** From the drum to the truck: the pre-transport checklist generators should follow. Read guide →](https://waste-shipping.hazwoperosha.us/guides/preparing-a-hazardous-waste-shipment) [2 min read **Land disposal restriction notices, explained** The LDR notice is one of the most overlooked shipping documents. What it is and when you need one. Read guide →](https://waste-shipping.hazwoperosha.us/guides/land-disposal-restriction-notices)
+
+---
+
+Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.
+Site index: [sitemap](https://waste-shipping.hazwoperosha.us/sitemap.xml) · [llms.txt](https://waste-shipping.hazwoperosha.us/llms.txt) · [about](https://waste-shipping.hazwoperosha.us/about) · [contact](https://waste-shipping.hazwoperosha.us/contact)

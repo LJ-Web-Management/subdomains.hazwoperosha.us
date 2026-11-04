@@ -9,7 +9,7 @@ const CATS = [
 export default {
   brand: "Arc Rated",
   logo: `<span class="ar-tri">⚠</span>ARC RATED`,
-  title: "Data Center Arc Flash & Electrical Safety Training (NFPA 70E) | Arc Rated",
+  title: "Data Center Arc Flash & NFPA 70E Electrical Safety Training | Arc Rated",
   description: "Arc flash and electrical safety training for data center staff, built on NFPA 70E, with an explorer of the four arc flash PPE categories.",
   theme: "#ff6b00",
   fonts: "family=Roboto+Condensed:wght@500;700;900&family=Roboto:wght@400;500",

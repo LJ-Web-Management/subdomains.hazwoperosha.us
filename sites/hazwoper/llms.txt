@@ -4,22 +4,36 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs OSHA HAZWOPER Training Online and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://hazwoper.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA 8 Hour HAZWOPER Refresher Training - 29 CFR 1910.120 (e)](https://hazwoper.onlinetrainingcourses.us/#course-112): $59.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.onlinetrainingcourses.us/checkout?course=112. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-refresher-online
-- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://hazwoper.onlinetrainingcourses.us/#course-654): $61.99 per person, 4 hours, English, certificate valid 12 months. In accordance with Federal OSHA HAZWOPER Regulations 29 CFR 1910.120(q)(6)(i) and 29 CFR 1926.65(q)(6)(i). Enroll: https://hazwoper.onlinetrainingcourses.us/checkout?course=654. Full syllabus: https://hazwoper-osha.com/online-courses/osha-4-hour-hazwoper-first-responder-awareness-level-training
-- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://hazwoper.onlinetrainingcourses.us/#course-134): $69.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA 29 CFR 1910.120(e) and 29 CFR 1926.65(e) regulations. Enroll: https://hazwoper.onlinetrainingcourses.us/checkout?course=134. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-supervisor-training-refresher
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper.onlinetrainingcourses.us/#course-133): $69.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.onlinetrainingcourses.us/checkout?course=133. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-supervisor-online-training
-- [OSHA 24 Hour HAZWOPER Training - 29 CFR 1910.120 (e)](https://hazwoper.onlinetrainingcourses.us/#course-137): $169.99 per person, 24 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.onlinetrainingcourses.us/checkout?course=137. Full syllabus: https://hazwoper-osha.com/online-courses/osha-24-hour-hazwoper-online
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper.onlinetrainingcourses.us/#course-259): $199.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(q) and 29 CFR 1926.65(q). Enroll: https://hazwoper.onlinetrainingcourses.us/checkout?course=259. Full syllabus: https://hazwoper-osha.com/online-courses/8-hour-hazwoper-incident-command-training
-- [OSHA 40 Hour HAZWOPER Training - 29 CFR 1910.120 (e)](https://hazwoper.onlinetrainingcourses.us/#course-123): $249.99 per person, 40 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.onlinetrainingcourses.us/checkout?course=123. Full syllabus: https://hazwoper-osha.com/online-courses/osha-40-hour-hazwoper-online
+- [OSHA 8 Hour HAZWOPER Refresher Training - 29 CFR 1910.120 (e)](https://hazwoper.hazwoperosha.us/#course-112): $59.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.hazwoperosha.us/checkout?course=112. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-refresher-online
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://hazwoper.hazwoperosha.us/#course-654): $61.99 per person, 4 hours, English, certificate valid 12 months. In accordance with Federal OSHA HAZWOPER Regulations 29 CFR 1910.120(q)(6)(i) and 29 CFR 1926.65(q)(6)(i). Enroll: https://hazwoper.hazwoperosha.us/checkout?course=654. Full syllabus: https://hazwoper-osha.com/online-courses/osha-4-hour-hazwoper-first-responder-awareness-level-training
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://hazwoper.hazwoperosha.us/#course-134): $69.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA 29 CFR 1910.120(e) and 29 CFR 1926.65(e) regulations. Enroll: https://hazwoper.hazwoperosha.us/checkout?course=134. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-supervisor-training-refresher
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper.hazwoperosha.us/#course-133): $69.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.hazwoperosha.us/checkout?course=133. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-supervisor-online-training
+- [OSHA 24 Hour HAZWOPER Training - 29 CFR 1910.120 (e)](https://hazwoper.hazwoperosha.us/#course-137): $169.99 per person, 24 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.hazwoperosha.us/checkout?course=137. Full syllabus: https://hazwoper-osha.com/online-courses/osha-24-hour-hazwoper-online
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper.hazwoperosha.us/#course-259): $199.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(q) and 29 CFR 1926.65(q). Enroll: https://hazwoper.hazwoperosha.us/checkout?course=259. Full syllabus: https://hazwoper-osha.com/online-courses/8-hour-hazwoper-incident-command-training
+- [OSHA 40 Hour HAZWOPER Training - 29 CFR 1910.120 (e)](https://hazwoper.hazwoperosha.us/#course-123): $249.99 per person, 40 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper.hazwoperosha.us/checkout?course=123. Full syllabus: https://hazwoper-osha.com/online-courses/osha-40-hour-hazwoper-online
 
 ## Bundle
 
-All 7 courses in one order: https://hazwoper.onlinetrainingcourses.us/checkout?course=112,654,134,133,137,259,123
+All 7 courses in one order: https://hazwoper.hazwoperosha.us/checkout?course=112,654,134,133,137,259,123
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://hazwoper.hazwoperosha.us/about)
+- [Contact](https://hazwoper.hazwoperosha.us/contact)
+- [Privacy](https://hazwoper.hazwoperosha.us/privacy)
+- [Sitemap](https://hazwoper.hazwoperosha.us/sitemap.xml)

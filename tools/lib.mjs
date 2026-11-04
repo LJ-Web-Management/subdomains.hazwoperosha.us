@@ -66,7 +66,7 @@ export function header(site, h, enrollId) {
     link("/guides/", h.L.guides, path.startsWith("/guides/")),
     link("/courses/#all", h.L.allTrainings, false),
   ].join("");
-  const enroll = `<a class="hx-cta" href="?buy=${enrollId}" data-buy="${enrollId}">${esc(h.L.enroll)}</a>`;
+  const enroll = `<a class="hx-cta" rel="nofollow" href="?buy=${enrollId}" data-buy="${enrollId}">${esc(h.L.enroll)}</a>`;
   return `<header class="hx"><div class="hx-bar">
 <a class="hx-brand" href="/"><span class="hx-mark" aria-hidden="true">${esc(mark)}</span><span class="hx-name">${esc(site.brand)}</span></a>
 <nav class="hx-links" aria-label="Main">${links}</nav>
@@ -81,8 +81,8 @@ export function defaultShell(site, { body, h }) {
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/">${logo}</a><p>${esc(site.footNote || `${site.brand}: training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.`)}</p></div>
-<div><h4>${h.L.courses}</h4>${h.courses.map((c) => `<a href="${c.url}">${esc(c.short || c.name)}</a>`).join("")}</div>
-<div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><a href="/guides/">${h.L.guides}</a><a href="/courses/#all">${h.L.allTrainings}</a></div>
+<div><h2>${h.L.courses}</h2>${h.courses.map((c) => `<a href="${c.url}">${esc(c.short || c.name)}</a>`).join("")}</div>
+<div><h2>Contact</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><a href="/guides/">${h.L.guides}</a><a href="/courses/#all">${h.L.allTrainings}</a></div>
 </div></footer>`;
 }
 

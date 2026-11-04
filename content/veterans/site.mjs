@@ -2,7 +2,7 @@
 export default {
   brand: "Next Mission",
   logo: `<span class="nm-star">★</span>NEXT MISSION`,
-  title: "HAZWOPER Careers for Veterans: Training for Your Next Mission | Next Mission",
+  title: "HAZWOPER Careers for Veterans: Training & Certification | Next Mission",
   description: "Veterans already know PPE, decon, incident command and following procedures under pressure. HAZWOPER training to turn military experience into an environmental or emergency response career.",
   theme: "#5c6b3a",
   fonts: "family=Stardos+Stencil:wght@700&family=Source+Sans+3:wght@400;600;700",

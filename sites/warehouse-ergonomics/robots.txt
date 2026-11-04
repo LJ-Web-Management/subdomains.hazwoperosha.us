@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://warehouse-ergonomics.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://warehouse-ergonomics.hazwoperosha.us/sitemap.xml

@@ -4,21 +4,35 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs Fire Safety, Hot Work & Emergency Action Plan Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://fire-hot-work.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA Emergency Action Plans Training](https://fire-hot-work.onlinetrainingcourses.us/#course-287): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations OSHA 29 CFR 1910.38. Enroll: https://fire-hot-work.onlinetrainingcourses.us/checkout?course=287. Full syllabus: https://hazwoper-osha.com/online-courses/osha-emergency-action-plan-training
-- [OSHA Fire Safety Training for Workplace Safety](https://fire-hot-work.onlinetrainingcourses.us/#course-222): $39.99 per person, 2 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subparts E and L. Enroll: https://fire-hot-work.onlinetrainingcourses.us/checkout?course=222. Full syllabus: https://hazwoper-osha.com/online-courses/fire-safety-training
-- [OSHA Flammable and Combustible Liquids Awareness Training](https://fire-hot-work.onlinetrainingcourses.us/#course-477): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Standards 29 CFR 1910.106 and NFPA 30 Code. Enroll: https://fire-hot-work.onlinetrainingcourses.us/checkout?course=477. Full syllabus: https://hazwoper-osha.com/online-courses/osha-flammable-and-combustible-liquids-awareness-training
-- [OSHA Hot Work Safety for Construction Training](https://fire-hot-work.onlinetrainingcourses.us/#course-575): $39.99 per person, 2 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart J and 2024 NFPA 51B Standard. Enroll: https://fire-hot-work.onlinetrainingcourses.us/checkout?course=575. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hot-work-safety-for-construction-training
-- [OSHA Hot Work Safety for General Industry Training](https://fire-hot-work.onlinetrainingcourses.us/#course-580): $39.99 per person, 2 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subpart Q and 2024 NFPA 51B Standard. Enroll: https://fire-hot-work.onlinetrainingcourses.us/checkout?course=580. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hot-work-safety-for-general-industry-training
-- [OSHA Incipient Firefighting Training](https://fire-hot-work.onlinetrainingcourses.us/#course-658): $49.99 per person, 2 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.157 and 29 CFR 1910.38. Enroll: https://fire-hot-work.onlinetrainingcourses.us/checkout?course=658. Full syllabus: https://hazwoper-osha.com/online-courses/osha-incipient-firefighting-training
+- [OSHA Emergency Action Plans Training](https://fire-hot-work.hazwoperosha.us/#course-287): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations OSHA 29 CFR 1910.38. Enroll: https://fire-hot-work.hazwoperosha.us/checkout?course=287. Full syllabus: https://hazwoper-osha.com/online-courses/osha-emergency-action-plan-training
+- [OSHA Fire Safety Training for Workplace Safety](https://fire-hot-work.hazwoperosha.us/#course-222): $39.99 per person, 2 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subparts E and L. Enroll: https://fire-hot-work.hazwoperosha.us/checkout?course=222. Full syllabus: https://hazwoper-osha.com/online-courses/fire-safety-training
+- [OSHA Flammable and Combustible Liquids Awareness Training](https://fire-hot-work.hazwoperosha.us/#course-477): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Standards 29 CFR 1910.106 and NFPA 30 Code. Enroll: https://fire-hot-work.hazwoperosha.us/checkout?course=477. Full syllabus: https://hazwoper-osha.com/online-courses/osha-flammable-and-combustible-liquids-awareness-training
+- [OSHA Hot Work Safety for Construction Training](https://fire-hot-work.hazwoperosha.us/#course-575): $39.99 per person, 2 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart J and 2024 NFPA 51B Standard. Enroll: https://fire-hot-work.hazwoperosha.us/checkout?course=575. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hot-work-safety-for-construction-training
+- [OSHA Hot Work Safety for General Industry Training](https://fire-hot-work.hazwoperosha.us/#course-580): $39.99 per person, 2 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subpart Q and 2024 NFPA 51B Standard. Enroll: https://fire-hot-work.hazwoperosha.us/checkout?course=580. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hot-work-safety-for-general-industry-training
+- [OSHA Incipient Firefighting Training](https://fire-hot-work.hazwoperosha.us/#course-658): $49.99 per person, 2 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.157 and 29 CFR 1910.38. Enroll: https://fire-hot-work.hazwoperosha.us/checkout?course=658. Full syllabus: https://hazwoper-osha.com/online-courses/osha-incipient-firefighting-training
 
 ## Bundle
 
-All 6 courses in one order: https://fire-hot-work.onlinetrainingcourses.us/checkout?course=287,222,477,575,580,658
+All 6 courses in one order: https://fire-hot-work.hazwoperosha.us/checkout?course=287,222,477,575,580,658
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://fire-hot-work.hazwoperosha.us/about)
+- [Contact](https://fire-hot-work.hazwoperosha.us/contact)
+- [Privacy](https://fire-hot-work.hazwoperosha.us/privacy)
+- [Sitemap](https://fire-hot-work.hazwoperosha.us/sitemap.xml)

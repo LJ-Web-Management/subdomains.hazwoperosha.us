@@ -1,0 +1,35 @@
+# LEL Convert
+
+> Convert %LEL readings to ppm and percent by volume for common gases, see where 10% LEL falls, and train on air monitoring and gas detection.
+
+LEL Convert (https://lel-converter.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Air Monitoring & Gas Detection, Air Monitoring Micro-Module, 40-Hour HAZWOPER, Site Characterization training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://lel-converter.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA Air Monitoring and Gas Detection Training](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Two hours on gas detection and reading meters. Enroll: https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Direct-reading instruments in 20 minutes. Enroll: https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583
+- [OSHA 40 Hour HAZWOPER Training](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Monitoring in the context of site safety. Enroll: https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Evaluating a site before entry. Enroll: https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment?buy=586
+
+## Guides
+
+- [LEL correction factors: when your meter isn't calibrated for the gas](https://lel-converter.hazwoperosha.us/guides/lel-correction-factors): A methane-calibrated meter reading pentane gives the wrong number. Here's why.
+- [Bump test vs calibration](https://lel-converter.hazwoperosha.us/guides/bump-test-vs-calibration): Two checks, two jobs. Both matter.
+
+## All trainings
+
+- [All 83 trainings](https://lel-converter.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About LEL Convert | HAZWOPER OSHA Training](https://lel-converter.hazwoperosha.us/about)
+- [Contact LEL Convert | HAZWOPER OSHA Training](https://lel-converter.hazwoperosha.us/contact)
+- [Privacy notice | LEL Convert](https://lel-converter.hazwoperosha.us/privacy)
+- [Sitemap](https://lel-converter.hazwoperosha.us/sitemap.xml)

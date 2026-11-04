@@ -1,0 +1,38 @@
+# BlastClean
+
+> Training for industrial cleaning crews: 40-hour HAZWOPER, gas detection, decontamination, PPE, spill response and the annual refresher, with guides to vacuum trucks and tank cleaning.
+
+BlastClean (https://industrial-cleaning.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, Gas Detection, Decontamination, PPE Levels A–D or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://industrial-cleaning.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for crews removing hazardous waste and residues. Enroll: https://industrial-cleaning.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA Air Monitoring and Gas Detection Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Monitoring tanks, pits and vac truck discharge points. Enroll: https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute decon module. Enroll: https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). A 15-minute module on PPE levels. Enroll: https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
+- [OSHA Spill Prevention and Response Safety Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to spills from hoses, trucks and tanks. Enroll: https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher. Enroll: https://industrial-cleaning.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+
+## Guides
+
+- [When is industrial cleaning a HAZWOPER job?](https://industrial-cleaning.hazwoperosha.us/guides/when-is-industrial-cleaning-hazwoper): Not every cleaning job is a hazardous waste operation. The ones that are, and why clients often require the 40-hour anyway.
+- [Vacuum trucks and hazardous materials](https://industrial-cleaning.hazwoperosha.us/guides/vacuum-trucks-and-hazardous-materials): Vac trucks pull vapors as well as liquids. The hazards and controls operators need to know.
+- [Tank cleaning and confined spaces](https://industrial-cleaning.hazwoperosha.us/guides/tank-cleaning-confined-spaces): Tank entry kills more cleaning workers than any chemical. The essentials of entering safely.
+
+## All trainings
+
+- [All 83 trainings](https://industrial-cleaning.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About BlastClean | HAZWOPER OSHA Training](https://industrial-cleaning.hazwoperosha.us/about)
+- [Contact BlastClean | HAZWOPER OSHA Training](https://industrial-cleaning.hazwoperosha.us/contact)
+- [Privacy notice | BlastClean](https://industrial-cleaning.hazwoperosha.us/privacy)
+- [Sitemap](https://industrial-cleaning.hazwoperosha.us/sitemap.xml)

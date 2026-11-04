@@ -2,7 +2,7 @@
 export default {
   brand: "Cal TSDF Training",
   logo: `<span class="ct-poppy"></span>Cal TSDF Training`,
-  title: "Cal/OSHA HAZWOPER & RCRA Training for California TSDF Workers | Cal TSDF Training",
+  title: "Cal/OSHA HAZWOPER & RCRA Training for California TSDFs | Cal TSDF Training",
   description: "Training for California treatment, storage and disposal facility workers: Cal/OSHA 24-hour TSDF RCRA, 8-hour TSDF refresher, Cal/OSHA RCRA and Cal/OSHA HAZWOPER courses.",
   theme: "#f76707",
   fonts: "family=Libre+Franklin:wght@400;600;800;900",

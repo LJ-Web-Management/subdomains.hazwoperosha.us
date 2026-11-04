@@ -1,0 +1,35 @@
+# Under Floor
+
+> Safety training for data center floor work: raised floor and confined space awareness, server room ergonomics and manual handling, and data center electrical safety.
+
+Under Floor (https://raised-floor.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Raised Floor & Confined Space Awareness, Server Room Ergonomics & Manual Handling, Data Center Electrical Safety, Physical Security & Access (1 hr) training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://raised-floor.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Data Center Raised Floor and Confined Space Awareness Training](https://raised-floor.hazwoperosha.us/courses/data-center-raised-floor-confined-space): $99.99 per seat, 1 Hour, OSHA 1910.146. Confined space awareness and safe practices for working under a raised floor. Enroll: https://raised-floor.hazwoperosha.us/courses/data-center-raised-floor-confined-space?buy=856
+- [Server Room Ergonomics and Manual Handling Training](https://raised-floor.hazwoperosha.us/courses/server-room-ergonomics-manual-handling): $99.99 per seat, 1 Hour. Safe lifting and ergonomic practices for server room and data hall work. Enroll: https://raised-floor.hazwoperosha.us/courses/server-room-ergonomics-manual-handling?buy=858
+- [Data Center Electrical Safety Training](https://raised-floor.hazwoperosha.us/courses/data-center-electrical-safety): $99.99 per seat, 2 Hours. Foundational electrical safety practices for anyone working around data center power systems. Enroll: https://raised-floor.hazwoperosha.us/courses/data-center-electrical-safety?buy=852
+- [Data Center Physical Security and Access Control Training](https://raised-floor.hazwoperosha.us/courses/data-center-physical-security-access-control): $99.99 per seat, 1 Hour. Foundational physical security and access control practices for data hall environments. Enroll: https://raised-floor.hazwoperosha.us/courses/data-center-physical-security-access-control?buy=855
+
+## Guides
+
+- [Rules for working with raised floor tiles](https://raised-floor.hazwoperosha.us/guides/working-with-floor-tiles): Lifting, leaving and replacing tiles without hurting anyone or the airflow.
+- [Lifting servers and equipment safely](https://raised-floor.hazwoperosha.us/guides/lifting-servers-safely): Heavy, awkward and up high: how to rack equipment without injuries.
+
+## All trainings
+
+- [All 83 trainings](https://raised-floor.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Under Floor | HAZWOPER OSHA Training](https://raised-floor.hazwoperosha.us/about)
+- [Contact Under Floor | HAZWOPER OSHA Training](https://raised-floor.hazwoperosha.us/contact)
+- [Privacy notice | Under Floor](https://raised-floor.hazwoperosha.us/privacy)
+- [Sitemap](https://raised-floor.hazwoperosha.us/sitemap.xml)

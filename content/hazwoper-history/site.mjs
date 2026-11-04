@@ -38,6 +38,7 @@ export default {
   ],
 
   feature: (h) => `<section class="sec tl-sec" id="timeline"><div class="wrap">
+<h2 class="vh">Timeline of hazardous waste law</h2>
 <ol class="tl">${EVENTS.map((e) => `<li class="ev"><span class="ev-yr">${e[0]}</span><div class="ev-card"><h3>${h.esc(e[1])}</h3><p>${h.esc(e[2])}</p></div></li>`).join("")}</ol>
 </div></section>
 <script>

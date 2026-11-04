@@ -1,0 +1,35 @@
+# HASP Checklist
+
+> An interactive, printable checklist of what a HAZWOPER site safety and health plan must address under 29 CFR 1910.120(b)(4). Tick items off, save progress in your browser and print.
+
+HASP Checklist (https://safety-plan-checklist.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Supervisor, Supervisor Refresher, Train-the-Trainer, 40-Hour HAZWOPER training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://safety-plan-checklist.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Running the site safety and health plan. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4)/(e)(8). Annual refresher for plan owners. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596
+- [HAZWOPER Train-the-Trainer Certification](https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Teach the plan to your crews. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
+- [OSHA 40 Hour HAZWOPER Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The foundation every plan assumes. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+
+## Guides
+
+- [Writing a HASP your crew will actually use](https://safety-plan-checklist.hazwoperosha.us/guides/writing-a-hasp-crews-will-use): Complete isn't the same as usable. How to make the plan work on the tailgate.
+- [Inspecting and updating the site safety plan](https://safety-plan-checklist.hazwoperosha.us/guides/hasp-inspections-and-updates): The plan has to be checked and updated as work goes on. How to make that routine.
+
+## All trainings
+
+- [All 83 trainings](https://safety-plan-checklist.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About HASP Checklist | HAZWOPER OSHA Training](https://safety-plan-checklist.hazwoperosha.us/about)
+- [Contact HASP Checklist | HAZWOPER OSHA Training](https://safety-plan-checklist.hazwoperosha.us/contact)
+- [Privacy notice | HASP Checklist](https://safety-plan-checklist.hazwoperosha.us/privacy)
+- [Sitemap](https://safety-plan-checklist.hazwoperosha.us/sitemap.xml)

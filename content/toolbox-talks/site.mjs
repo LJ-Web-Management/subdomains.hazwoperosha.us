@@ -17,7 +17,7 @@ const TALKS = [
 export default {
   brand: "Tailgate Talks",
   logo: `<span class="tt-pin"></span>Tailgate Talks`,
-  title: "Free HAZWOPER Toolbox Talks: Printable 5-Minute Safety Briefings | Tailgate Talks",
+  title: "Free HAZWOPER Toolbox Talks: Printable 5-Minute Briefings | Tailgate Talks",
   description: `${TALKS.length} free, printable 5-minute toolbox talks for HAZWOPER crews: buddy system, decon, heat stress, air monitoring, drums, confined spaces and more.`,
   theme: "#a0522d",
   fonts: "family=Patrick+Hand&family=Inter:wght@400;600;800",

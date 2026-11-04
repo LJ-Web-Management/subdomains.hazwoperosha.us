@@ -1,0 +1,35 @@
+# HAZWOPER History
+
+> A timeline of how HAZWOPER and US hazardous waste law came to be: RCRA, Love Canal, Superfund, SARA Section 126, the 1989 final rule and what's changed since.
+
+HAZWOPER History (https://hazwoper-history.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, RCRA Generator, Manifest, Incident Command training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://hazwoper-history.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The training SARA Section 126 made law. Enroll: https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [RCRA Hazardous Waste Generator Training](https://hazwoper-history.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Training rooted in 1976's RCRA. Enroll: https://hazwoper-history.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [Hazardous Waste Manifest Training](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training): $34.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). Cradle to grave, on paper and now electronic. Enroll: https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). The emergency response side of HAZWOPER. Enroll: https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+
+## Guides
+
+- [Love Canal and the birth of Superfund](https://hazwoper-history.hazwoperosha.us/guides/love-canal-and-the-birth-of-superfund): How one neighborhood's buried chemical waste changed US environmental law.
+- [How HAZWOPER became law: 1986 to 1990](https://hazwoper-history.hazwoperosha.us/guides/how-hazwoper-became-law): From a single section of SARA to the standard every site worker trains under.
+
+## All trainings
+
+- [All 83 trainings](https://hazwoper-history.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About HAZWOPER History | HAZWOPER OSHA Training](https://hazwoper-history.hazwoperosha.us/about)
+- [Contact HAZWOPER History | HAZWOPER OSHA Training](https://hazwoper-history.hazwoperosha.us/contact)
+- [Privacy notice | HAZWOPER History](https://hazwoper-history.hazwoperosha.us/privacy)
+- [Sitemap](https://hazwoper-history.hazwoperosha.us/sitemap.xml)

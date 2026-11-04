@@ -52,7 +52,7 @@ export default {
 
   guides: [
     {
-      slug: "start-a-career-in-hazardous-waste",
+      slug: "start-a-career-in-hazardous-waste", seoTitle: "How to start a career in hazardous waste cleanup",
       title: "How to start a career in hazardous waste and environmental cleanup",
       description: "The jobs, the training and the first steps for people new to the field.",
       date: "2026-10-25",

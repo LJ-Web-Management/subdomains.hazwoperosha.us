@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dc-design.hazwoperosha.us/</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/courses/</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/courses/data-center-design-fundamentals</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/courses/tier-infrastructure-fundamentals</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/courses/infrastructure-commissioning-startup</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/courses/capacity-planning-forecasting</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/courses/fiber-optics-network-cabling</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/guides/</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/guides/redundancy-n-n1-2n</loc></url>
-  <url><loc>https://dc-design.hazwoperosha.us/guides/data-center-site-selection</loc></url>
+  <url><loc>https://dc-design.hazwoperosha.us/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/courses/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/courses/data-center-design-fundamentals</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/courses/tier-infrastructure-fundamentals</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/courses/infrastructure-commissioning-startup</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/courses/capacity-planning-forecasting</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/courses/fiber-optics-network-cabling</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/guides/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/guides/redundancy-n-n1-2n</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/guides/data-center-site-selection</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/about</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/contact</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://dc-design.hazwoperosha.us/privacy</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>

@@ -1,0 +1,38 @@
+# WaterWorks Hazmat
+
+> Training for water and wastewater utility staff: first responder awareness, gas detection, incident command, responder refresher, spill response and plant ERT, with chlorine and H2S guides.
+
+WaterWorks Hazmat (https://water-utilities.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Awareness, Gas Detection, Incident Command, Plant ERT or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://water-utilities.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a chemical release at the plant, get clear and call it in. Enroll: https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA Air Monitoring and Gas Detection Training](https://water-utilities.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Monitoring for H2S, low oxygen, methane and chlorine. Enroll: https://water-utilities.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://water-utilities.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for plant supervisors. Enroll: https://water-utilities.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [Manufacturing Emergency Response Team (ERT) Training](https://water-utilities.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for in-plant response teams. Enroll: https://water-utilities.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://water-utilities.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $159.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). Annual refresher for responders and commanders. Enroll: https://water-utilities.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
+- [OSHA Spill Prevention and Response Safety Training](https://water-utilities.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Chemical and fuel spill prevention and response. Enroll: https://water-utilities.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+
+## Guides
+
+- [Chlorine at water plants: hazards and response](https://water-utilities.hazwoperosha.us/guides/chlorine-at-water-plants): Gaseous chlorine is one of the most hazardous chemicals at many utilities. What operators need to know.
+- [H2S and confined spaces in wastewater collection](https://water-utilities.hazwoperosha.us/guides/h2s-in-wastewater-collection): Sewers, lift stations and wet wells kill workers every year. The hazards and the controls.
+- [Public utility employees and HAZWOPER](https://water-utilities.hazwoperosha.us/guides/public-utility-employees-and-hazwoper): Most water utilities are public agencies. Here's how HAZWOPER reaches their employees.
+
+## All trainings
+
+- [All 83 trainings](https://water-utilities.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About WaterWorks Hazmat | HAZWOPER OSHA Training](https://water-utilities.hazwoperosha.us/about)
+- [Contact WaterWorks Hazmat | HAZWOPER OSHA Training](https://water-utilities.hazwoperosha.us/contact)
+- [Privacy notice | WaterWorks Hazmat](https://water-utilities.hazwoperosha.us/privacy)
+- [Sitemap](https://water-utilities.hazwoperosha.us/sitemap.xml)

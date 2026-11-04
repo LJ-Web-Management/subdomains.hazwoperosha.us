@@ -1,0 +1,35 @@
+# Failover
+
+> Disaster recovery and business continuity training for data center teams: RTO and RPO, continuity planning with ICS-NIMS, incident response and standby power.
+
+Failover (https://dc-disaster-recovery.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Disaster Recovery & Continuity, BC/DR Planning (ICS-NIMS), Incident Response & Troubleshooting, Emergency/Standby Power training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-disaster-recovery.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Disaster Recovery & Business Continuity](https://dc-disaster-recovery.hazwoperosha.us/courses/disaster-recovery-business-continuity): $307.99 per seat, 8 Hours, RTO/RPO Frameworks. Design resilient infrastructure and DR plans that survive real failures — not just tabletop exercises. Enroll: https://dc-disaster-recovery.hazwoperosha.us/courses/disaster-recovery-business-continuity?buy=844
+- [Business Continuity and Disaster Recovery Planning Training](https://dc-disaster-recovery.hazwoperosha.us/courses/business-continuity-disaster-recovery-planning): $99.99 per seat, 8 Hours, ICS-NIMS. A hands-on planning course for building or stress-testing a business continuity plan. Enroll: https://dc-disaster-recovery.hazwoperosha.us/courses/business-continuity-disaster-recovery-planning?buy=880
+- [Incident Response & Troubleshooting](https://dc-disaster-recovery.hazwoperosha.us/courses/incident-response-troubleshooting): $99.99 per seat, 4 Hours. Systematic troubleshooting and root-cause analysis to cut MTTR. Enroll: https://dc-disaster-recovery.hazwoperosha.us/courses/incident-response-troubleshooting?buy=837
+- [Emergency/Standby Power Systems Fundamentals](https://dc-disaster-recovery.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals): $99.99 per seat, 4 Hours. Understand the standby power systems that carry a facility through a utility outage. Enroll: https://dc-disaster-recovery.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals?buy=1098
+
+## Guides
+
+- [RTO vs RPO: the two numbers every DR plan needs](https://dc-disaster-recovery.hazwoperosha.us/guides/rto-vs-rpo): How long can you be down, and how much data can you lose?
+- [How to run a DR tabletop exercise](https://dc-disaster-recovery.hazwoperosha.us/guides/running-a-tabletop-exercise): A 90-minute session that finds the gaps in your plan before a disaster does.
+
+## All trainings
+
+- [All 83 trainings](https://dc-disaster-recovery.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Failover | HAZWOPER OSHA Training](https://dc-disaster-recovery.hazwoperosha.us/about)
+- [Contact Failover | HAZWOPER OSHA Training](https://dc-disaster-recovery.hazwoperosha.us/contact)
+- [Privacy notice | Failover](https://dc-disaster-recovery.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-disaster-recovery.hazwoperosha.us/sitemap.xml)

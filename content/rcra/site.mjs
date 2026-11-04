@@ -107,7 +107,7 @@ VSQGs have no federal RCRA training requirement. Your state may add one, and you
 - Emergency coordinators: [[412]]`,
     },
     {
-      slug: "satellite-accumulation-area-rules",
+      slug: "satellite-accumulation-area-rules", seoTitle: "Satellite accumulation area rules inspectors check",
       title: "Satellite accumulation areas: the rules inspectors check first",
       description: "Satellite areas are small, scattered and run by people who aren't waste specialists. That's why they're cited so often.",
       date: "2026-10-25",
@@ -140,7 +140,7 @@ If you go over the limit, mark the container with the date the excess began. You
 {{buy:415}}`,
     },
     {
-      slug: "signing-a-hazardous-waste-manifest",
+      slug: "signing-a-hazardous-waste-manifest", seoTitle: "What you certify when you sign a hazardous waste manifest",
       title: "What you're certifying when you sign a hazardous waste manifest",
       description: "The generator signature on the manifest is a legal certification. Here's what it means and how to protect it.",
       date: "2026-10-25",
@@ -186,8 +186,8 @@ Since 2018, manifests are tracked in EPA's e-Manifest system. Receiving faciliti
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><p class="foot-brand">RCRA Compliance Center</p><p>EPA hazardous waste training for generators, by HAZWOPER OSHA Training LLC. Courses are delivered on hazwoper-osha.com with completion certificates for your training records.</p></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><p class="small">Invoices and purchase orders available for facility-wide training.</p></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Contact</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><p class="small">Invoices and purchase orders available for facility-wide training.</p></div>
 </div></footer>`;
   },
 
@@ -209,6 +209,7 @@ Since 2018, manifests are tracked in EPA's e-Manifest system. Receiving faciliti
 <div class="hero-cta">${h.buy(601, "Train my facility")}<a class="btn btn-alt" href="#plan">Build a training plan</a></div>
 </div>
 <div class="doc" aria-label="Sample training plan">
+<h2 class="vh">Sample training plan</h2>
 <div class="doc-head"><span>Training plan</span><span>Rev. 2026</span></div>
 <h3>Hazardous Waste Personnel</h3>
 <table><thead><tr><th>Role</th><th>Course</th><th>Freq.</th></tr></thead><tbody>

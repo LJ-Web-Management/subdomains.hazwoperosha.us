@@ -4,18 +4,32 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs Mold Inspector Certification & Remediation Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://mold-remediation.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [Mold Prevention and Remediation Awareness Training](https://mold-remediation.onlinetrainingcourses.us/#course-218): $59.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and EPA Guidelines. Enroll: https://mold-remediation.onlinetrainingcourses.us/checkout?course=218. Full syllabus: https://hazwoper-osha.com/online-courses/mold-prevention-and-remediation-awareness-training
-- [Mold Awareness, Prevention, and Remediation Training for Property Management Teams](https://mold-remediation.onlinetrainingcourses.us/#course-372): $229.99 per person, 4 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA and EPA Guidelines, Best Practice Recommendations by the AIHA, and IAC2 Mold Inspection Standards of Practice. Enroll: https://mold-remediation.onlinetrainingcourses.us/checkout?course=372. Full syllabus: https://hazwoper-osha.com/online-courses/mold-awareness-prevention-and-remediation-training-for-property-management-teams
-- [Mold Inspector Certification for Prevention, Remediation, and Removal Training](https://mold-remediation.onlinetrainingcourses.us/#course-237): $329.99 per person, 6 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and EPA Guidelines, and IAC2 Mold Inspection Standards of Practice. Enroll: https://mold-remediation.onlinetrainingcourses.us/checkout?course=237. Full syllabus: https://hazwoper-osha.com/online-courses/mold-inspector-certification-for-prevention-remediation-and-removal-training
+- [Mold Prevention and Remediation Awareness Training](https://mold-remediation.hazwoperosha.us/#course-218): $59.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and EPA Guidelines. Enroll: https://mold-remediation.hazwoperosha.us/checkout?course=218. Full syllabus: https://hazwoper-osha.com/online-courses/mold-prevention-and-remediation-awareness-training
+- [Mold Awareness, Prevention, and Remediation Training for Property Management Teams](https://mold-remediation.hazwoperosha.us/#course-372): $229.99 per person, 4 hours, English and Spanish, certificate valid 24 months. In accordance with Federal OSHA and EPA Guidelines, Best Practice Recommendations by the AIHA, and IAC2 Mold Inspection Standards of Practice. Enroll: https://mold-remediation.hazwoperosha.us/checkout?course=372. Full syllabus: https://hazwoper-osha.com/online-courses/mold-awareness-prevention-and-remediation-training-for-property-management-teams
+- [Mold Inspector Certification for Prevention, Remediation, and Removal Training](https://mold-remediation.hazwoperosha.us/#course-237): $329.99 per person, 6 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and EPA Guidelines, and IAC2 Mold Inspection Standards of Practice. Enroll: https://mold-remediation.hazwoperosha.us/checkout?course=237. Full syllabus: https://hazwoper-osha.com/online-courses/mold-inspector-certification-for-prevention-remediation-and-removal-training
 
 ## Bundle
 
-All 3 courses in one order: https://mold-remediation.onlinetrainingcourses.us/checkout?course=218,372,237
+All 3 courses in one order: https://mold-remediation.hazwoperosha.us/checkout?course=218,372,237
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://mold-remediation.hazwoperosha.us/about)
+- [Contact](https://mold-remediation.hazwoperosha.us/contact)
+- [Privacy](https://mold-remediation.hazwoperosha.us/privacy)
+- [Sitemap](https://mold-remediation.hazwoperosha.us/sitemap.xml)

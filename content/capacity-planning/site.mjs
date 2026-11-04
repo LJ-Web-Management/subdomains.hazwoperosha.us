@@ -2,7 +2,7 @@
 export default {
   brand: "Headroom",
   logo: `<span class="hr-meter"><i></i></span>Headroom`,
-  title: "Data Center Capacity Planning Training & Rack Load Calculator | Headroom",
+  title: "Data Center Capacity Planning Training & Rack Calculator | Headroom",
   description: "Capacity planning training for data center teams, with a calculator that turns racks and kW per rack into IT load, heat in BTU/hr, tons of cooling and current per rack.",
   theme: "#3a0ca3",
   fonts: "family=Inter+Tight:wght@400;600;800&family=Roboto+Mono:wght@500",

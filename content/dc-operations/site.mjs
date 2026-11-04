@@ -2,7 +2,7 @@
 export default {
   brand: "Floor Ops",
   logo: `<span class="fo-dot"></span>FLOOR OPS`,
-  title: "Data Center Operations Training: Ops Management, Maintenance & Incident Response | Floor Ops",
+  title: "Data Center Operations & Incident Response Training | Floor Ops",
   description: "Data center operations training for shift leads and facility managers: operations management, preventive maintenance, incident response, DCIM and building maintenance.",
   theme: "#0e1116",
   fonts: "family=JetBrains+Mono:wght@500;700&family=Manrope:wght@400;600;800",

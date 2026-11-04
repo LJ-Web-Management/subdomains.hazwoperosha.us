@@ -2,7 +2,7 @@
 export default {
   brand: "Generator Status",
   logo: `<span class="gs-kg">kg</span>Generator Status`,
-  title: "Hazardous Waste Generator Status Calculator: VSQG, SQG or LQG? | Generator Status",
+  title: "Hazardous Waste Generator Calculator: VSQG, SQG or LQG? | Generator Status",
   description: "Work out your RCRA hazardous waste generator category from your monthly waste amounts, see the accumulation limits that apply, and train your staff on generator rules.",
   theme: "#6741d9",
   fonts: "family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800",

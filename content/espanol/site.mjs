@@ -23,7 +23,7 @@ Además del curso, OSHA exige tres días de experiencia de campo supervisada. Es
     },
     {
       id: 1099, short: "4 Horas · Primer Respondedor",
-      name: "Primer Respondedor, Nivel de Conciencia · 4 Horas (curso en inglés)", duration: "4 horas",
+      name: "Primer Respondedor, Nivel de Conciencia · 4 Horas (curso en inglés)", seoTitle: "Primer Respondedor, Nivel de Conciencia · 4 Horas", duration: "4 horas",
       summary: "Para quien podría presenciar un derrame y debe reconocerlo, alejarse y avisar. El curso se imparte en inglés.",
       body: `Bajo la norma 1910.120(q)(6)(i), el primer respondedor a nivel de conciencia es la persona que probablemente vea una liberación de sustancias peligrosas y cuya tarea es **reconocer, aislar el área y avisar**, sin intentar detenerla.
 
@@ -167,8 +167,8 @@ Descargue su certificado y guarde una copia en su teléfono y otra impresa. Recu
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/">HAZWOPER <span>en Español</span></a><p>Capacitación HAZWOPER de HAZWOPER OSHA Training LLC, impartida en la plataforma hazwoper-osha.com.</p></div>
-<div><h4>Cursos</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Contacto</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Cursos</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Contacto</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 

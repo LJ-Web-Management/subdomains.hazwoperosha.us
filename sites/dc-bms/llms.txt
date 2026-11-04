@@ -1,0 +1,35 @@
+# PointList
+
+> Monitoring and automation training for data center teams: BMS and DCIM systems, building automation (BAS) fundamentals, DCIM platforms and energy efficiency.
+
+PointList (https://dc-bms.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Monitoring, Automation & BMS, Building Automation (BAS) Fundamentals, DCIM Platform Fundamentals, Energy Efficiency & PUE training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-bms.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Monitoring, Automation & BMS Systems](https://dc-bms.hazwoperosha.us/courses/monitoring-automation-bms-systems): $276.99 per seat, 8 Hours, BMS / DCIM. Design a monitoring and BMS strategy that catches problems before they cause downtime. Enroll: https://dc-bms.hazwoperosha.us/courses/monitoring-automation-bms-systems?buy=846
+- [Building Automation Systems (BAS) Fundamentals](https://dc-bms.hazwoperosha.us/courses/building-automation-systems-fundamentals): $99.99 per seat, 6 Hours, BMS/BAS. Understand the building automation systems that tie HVAC, power, and monitoring together. Enroll: https://dc-bms.hazwoperosha.us/courses/building-automation-systems-fundamentals?buy=1104
+- [DCIM Platform Fundamentals](https://dc-bms.hazwoperosha.us/courses/dcim-platform-fundamentals): $99.99 per seat, 4 Hours, DCIM. Understand DCIM strategy and build the ROI case for implementation. Enroll: https://dc-bms.hazwoperosha.us/courses/dcim-platform-fundamentals?buy=830
+- [Energy Efficiency & PUE Optimization](https://dc-bms.hazwoperosha.us/courses/energy-efficiency-pue-optimization): $99.99 per seat, 4 Hours, PUE. Cut operating costs with a measurable PUE optimization roadmap. Enroll: https://dc-bms.hazwoperosha.us/courses/energy-efficiency-pue-optimization?buy=832
+
+## Guides
+
+- [Fixing alarm fatigue in the control room](https://dc-bms.hazwoperosha.us/guides/alarm-fatigue): When everything alarms, nothing does. How to clean up a noisy BMS.
+- [BMS, BAS, EPMS and DCIM: who does what?](https://dc-bms.hazwoperosha.us/guides/bms-vs-dcim): Four acronyms, overlapping jobs. A quick map.
+
+## All trainings
+
+- [All 83 trainings](https://dc-bms.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About PointList | HAZWOPER OSHA Training](https://dc-bms.hazwoperosha.us/about)
+- [Contact PointList | HAZWOPER OSHA Training](https://dc-bms.hazwoperosha.us/contact)
+- [Privacy notice | PointList](https://dc-bms.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-bms.hazwoperosha.us/sitemap.xml)

@@ -1,0 +1,36 @@
+# Draftline DC
+
+> Data center design training for facility engineers and project leads: ANSI/TIA-942, site selection, redundancy models, commissioning, capacity planning and cabling infrastructure.
+
+Draftline DC (https://dc-design.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Design Fundamentals, Tier Infrastructure, Commissioning & Startup, Capacity Planning or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-design.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Data Center Design Fundamentals](https://dc-design.hazwoperosha.us/courses/data-center-design-fundamentals): $312.99 per seat, 8 Hours, ANSI/TIA-942. Design data center facilities that scale — from site selection to redundancy strategy. Enroll: https://dc-design.hazwoperosha.us/courses/data-center-design-fundamentals?buy=842
+- [Tier Infrastructure Fundamentals](https://dc-design.hazwoperosha.us/courses/tier-infrastructure-fundamentals): $280.99 per seat, 8 Hours, Uptime Institute Tier Framework. Understand and assess TIER I–IV infrastructure without the formal certification track. Enroll: https://dc-design.hazwoperosha.us/courses/tier-infrastructure-fundamentals?buy=849
+- [Infrastructure Commissioning & Startup](https://dc-design.hazwoperosha.us/courses/infrastructure-commissioning-startup): $267.99 per seat, 8 Hours, Commissioning Test Protocols. Lead new facility launches and major upgrades with a proven commissioning framework. Enroll: https://dc-design.hazwoperosha.us/courses/infrastructure-commissioning-startup?buy=845
+- [Capacity Planning & Forecasting](https://dc-design.hazwoperosha.us/courses/capacity-planning-forecasting): $99.99 per seat, 4 Hours. Build a 3–5 year capacity plan before you run out of power, cooling, or space. Enroll: https://dc-design.hazwoperosha.us/courses/capacity-planning-forecasting?buy=829
+- [Fiber Optics & Network Cabling](https://dc-design.hazwoperosha.us/courses/fiber-optics-network-cabling): $99.99 per seat, 4 Hours, ANSI/TIA-942. Terminate, test, and troubleshoot data center fiber to ANSI/TIA-942 standards. Enroll: https://dc-design.hazwoperosha.us/courses/fiber-optics-network-cabling?buy=834
+
+## Guides
+
+- [N, N+1, N+2 or 2N? Choosing a redundancy model](https://dc-design.hazwoperosha.us/guides/redundancy-n-n1-2n): What each redundancy model buys you, what it costs, and how to pick one.
+- [Data center site selection: the checklist](https://dc-design.hazwoperosha.us/guides/data-center-site-selection): Power, fiber, water, risk and people: what to check before you buy the land.
+
+## All trainings
+
+- [All 83 trainings](https://dc-design.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Draftline DC | HAZWOPER OSHA Training](https://dc-design.hazwoperosha.us/about)
+- [Contact Draftline DC | HAZWOPER OSHA Training](https://dc-design.hazwoperosha.us/contact)
+- [Privacy notice | Draftline DC](https://dc-design.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-design.hazwoperosha.us/sitemap.xml)

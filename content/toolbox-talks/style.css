@@ -32,7 +32,7 @@ h1, h2, h3 { font-weight: 400; }
 .tt-print { margin-top: 20px; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #c9b8a6; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .prose a { color: var(--accent); font-weight: 600; }
 @media (max-width: 860px) { .tt-in { grid-template-columns: 1fr; } .tt-list { grid-template-columns: 1fr 1fr; } }
 @media print { body * { visibility: hidden; } .tt-sheet, .tt-sheet * { visibility: visible; } .tt-sheet { position: absolute; left: 0; top: 0; width: 100%; box-shadow: none; } .tt-print, .tt-sheet::before { display: none; } }

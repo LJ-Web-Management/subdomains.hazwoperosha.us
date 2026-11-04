@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://drug-alcohol.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://drug-alcohol.hazwoperosha.us/sitemap.xml

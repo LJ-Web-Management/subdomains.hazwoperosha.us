@@ -4,21 +4,35 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs NFPA 70E Electrical Safety, Arc Flash & LOTO Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://electrical-safety-loto.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA Lockout Tagout (LOTO) Training](https://electrical-safety-loto.onlinetrainingcourses.us/#course-187): $29.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1910.147. Enroll: https://electrical-safety-loto.onlinetrainingcourses.us/checkout?course=187. Full syllabus: https://hazwoper-osha.com/online-courses/osha-lockout-tagout-loto-training
-- [Radiofrequency (RF) Safety and Hazard Awareness Training](https://electrical-safety-loto.onlinetrainingcourses.us/#course-466): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://electrical-safety-loto.onlinetrainingcourses.us/checkout?course=466. Full syllabus: https://hazwoper-osha.com/online-courses/radiofrequency-rf-safety-and-hazard-awareness-training
-- [Arc Flash Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.onlinetrainingcourses.us/#course-423): $49.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subpart S and 29 CFR 1926 Subpart K. Enroll: https://electrical-safety-loto.onlinetrainingcourses.us/checkout?course=423. Full syllabus: https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
-- [Electrical Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.onlinetrainingcourses.us/#course-420): $59.99 per person, 3 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subpart S and 29 CFR 1926 Subpart K. Enroll: https://electrical-safety-loto.onlinetrainingcourses.us/checkout?course=420. Full syllabus: https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e
-- [OSHA Ground Fault Protection/GFCI Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.onlinetrainingcourses.us/#course-528): $59.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart K, 29 CFR 1910 Subpart S, CAL/OSHA 2405.4(c) & 2405.4(d), and NFPA 70E 2024 Standards. Enroll: https://electrical-safety-loto.onlinetrainingcourses.us/checkout?course=528. Full syllabus: https://hazwoper-osha.com/online-courses/osha-ground-fault-protection-gfci-safety-training-nfpa-70e-2024
-- [OSHA-ANSI Lockout/Tagout (LOTO) Certificate Training](https://electrical-safety-loto.onlinetrainingcourses.us/#course-572): $129.99 per person, 3 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.147, ANSI/ASSP Z244.1-2024, and NFPA 70E-2024. Enroll: https://electrical-safety-loto.onlinetrainingcourses.us/checkout?course=572. Full syllabus: https://hazwoper-osha.com/online-courses/osha-ansi-lockout-tagout-loto-certificate-training
+- [OSHA Lockout Tagout (LOTO) Training](https://electrical-safety-loto.hazwoperosha.us/#course-187): $29.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1910.147. Enroll: https://electrical-safety-loto.hazwoperosha.us/checkout?course=187. Full syllabus: https://hazwoper-osha.com/online-courses/osha-lockout-tagout-loto-training
+- [Radiofrequency (RF) Safety and Hazard Awareness Training](https://electrical-safety-loto.hazwoperosha.us/#course-466): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://electrical-safety-loto.hazwoperosha.us/checkout?course=466. Full syllabus: https://hazwoper-osha.com/online-courses/radiofrequency-rf-safety-and-hazard-awareness-training
+- [Arc Flash Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.hazwoperosha.us/#course-423): $49.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subpart S and 29 CFR 1926 Subpart K. Enroll: https://electrical-safety-loto.hazwoperosha.us/checkout?course=423. Full syllabus: https://hazwoper-osha.com/online-courses/arc-flash-safety-training-nfpa-70e
+- [Electrical Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.hazwoperosha.us/#course-420): $59.99 per person, 3 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1910 Subpart S and 29 CFR 1926 Subpart K. Enroll: https://electrical-safety-loto.hazwoperosha.us/checkout?course=420. Full syllabus: https://hazwoper-osha.com/online-courses/electrical-safety-training-nfpa-70e
+- [OSHA Ground Fault Protection/GFCI Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.hazwoperosha.us/#course-528): $59.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulations 29 CFR 1926 Subpart K, 29 CFR 1910 Subpart S, CAL/OSHA 2405.4(c) & 2405.4(d), and NFPA 70E 2024 Standards. Enroll: https://electrical-safety-loto.hazwoperosha.us/checkout?course=528. Full syllabus: https://hazwoper-osha.com/online-courses/osha-ground-fault-protection-gfci-safety-training-nfpa-70e-2024
+- [OSHA-ANSI Lockout/Tagout (LOTO) Certificate Training](https://electrical-safety-loto.hazwoperosha.us/#course-572): $129.99 per person, 3 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.147, ANSI/ASSP Z244.1-2024, and NFPA 70E-2024. Enroll: https://electrical-safety-loto.hazwoperosha.us/checkout?course=572. Full syllabus: https://hazwoper-osha.com/online-courses/osha-ansi-lockout-tagout-loto-certificate-training
 
 ## Bundle
 
-All 6 courses in one order: https://electrical-safety-loto.onlinetrainingcourses.us/checkout?course=187,466,423,420,528,572
+All 6 courses in one order: https://electrical-safety-loto.hazwoperosha.us/checkout?course=187,466,423,420,528,572
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://electrical-safety-loto.hazwoperosha.us/about)
+- [Contact](https://electrical-safety-loto.hazwoperosha.us/contact)
+- [Privacy](https://electrical-safety-loto.hazwoperosha.us/privacy)
+- [Sitemap](https://electrical-safety-loto.hazwoperosha.us/sitemap.xml)

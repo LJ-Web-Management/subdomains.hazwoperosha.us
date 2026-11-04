@@ -50,7 +50,7 @@ h1, h2, h3 { font-weight: 400; text-transform: uppercase; letter-spacing: .02em;
 
 .foot { background: var(--fg); color: #e2cfae; padding: 56px 0 40px; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
-.foot h4 { font: 400 18px var(--head-font); color: var(--card); margin: 0 0 12px; }
+.foot h2 { font: 400 18px var(--head-font); color: var(--card); margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .page { background: var(--card); padding-inline: clamp(16px, 4vw, 48px); margin-top: 32px; margin-bottom: 48px; border: 3px solid var(--fg); }

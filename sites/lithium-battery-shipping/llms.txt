@@ -4,19 +4,33 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs Shipping Lithium Batteries Training (DOT, IATA & IMDG) and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://lithium-battery-shipping.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [Lithium Batteries Awareness Training](https://lithium-battery-shipping.onlinetrainingcourses.us/#course-212): $39.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with U.S. DOT 49 CFR (Transportation). Enroll: https://lithium-battery-shipping.onlinetrainingcourses.us/checkout?course=212. Full syllabus: https://hazwoper-osha.com/online-courses/lithium-batteries-awareness-training
-- [Shipping Lithium Batteries: Excepted Cells and Batteries (U.S. DOT, ICAO/IATA, IMO/IMDG)](https://lithium-battery-shipping.onlinetrainingcourses.us/#course-214): $169.99 per person, 4 hours, English and Spanish, certificate valid 24 months. In accordance with U.S. DOT HMR (49 CFR Part 172.704), IATA DGR (Section 1.5), and IMDG Code (Section 1.3.1). Enroll: https://lithium-battery-shipping.onlinetrainingcourses.us/checkout?course=214. Full syllabus: https://hazwoper-osha.com/online-courses/shipping-lithium-batteries-excepted-cells-and-batteries
-- [Shipping Lithium Batteries: Fully Regulated Cells and Batteries (U.S. DOT, ICAO/IATA, IMO/IMDG)](https://lithium-battery-shipping.onlinetrainingcourses.us/#course-213): $169.99 per person, 4 hours, English and Spanish, certificate valid 24 months. In accordance with U.S. DOT HMR (49 CFR Part 172.704), IATA DGR (Section 1.5), and IMDG Code (Section 1.3.1). Enroll: https://lithium-battery-shipping.onlinetrainingcourses.us/checkout?course=213. Full syllabus: https://hazwoper-osha.com/online-courses/shipping-lithium-batteries-fully-regulated-cells-and-batteries
-- [Shipping Lithium Batteries: Fully Regulated and Excepted Cells and Batteries Training (U.S. DOT, ICAO/IATA, IMO/IMDG)](https://lithium-battery-shipping.onlinetrainingcourses.us/#course-192): $299.99 per person, 7 hours, English and Spanish, certificate valid 24 months. In accordance with U.S. DOT HMR (49 CFR Part 172.704), IATA DGR (Section 1.5), and IMDG Code (Section 1.3.1). Enroll: https://lithium-battery-shipping.onlinetrainingcourses.us/checkout?course=192. Full syllabus: https://hazwoper-osha.com/online-courses/shipping-lithium-batteries-fully-regulated-and-excepted-cells-and-batteries
+- [Lithium Batteries Awareness Training](https://lithium-battery-shipping.hazwoperosha.us/#course-212): $39.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with U.S. DOT 49 CFR (Transportation). Enroll: https://lithium-battery-shipping.hazwoperosha.us/checkout?course=212. Full syllabus: https://hazwoper-osha.com/online-courses/lithium-batteries-awareness-training
+- [Shipping Lithium Batteries: Excepted Cells and Batteries (U.S. DOT, ICAO/IATA, IMO/IMDG)](https://lithium-battery-shipping.hazwoperosha.us/#course-214): $169.99 per person, 4 hours, English and Spanish, certificate valid 24 months. In accordance with U.S. DOT HMR (49 CFR Part 172.704), IATA DGR (Section 1.5), and IMDG Code (Section 1.3.1). Enroll: https://lithium-battery-shipping.hazwoperosha.us/checkout?course=214. Full syllabus: https://hazwoper-osha.com/online-courses/shipping-lithium-batteries-excepted-cells-and-batteries
+- [Shipping Lithium Batteries: Fully Regulated Cells and Batteries (U.S. DOT, ICAO/IATA, IMO/IMDG)](https://lithium-battery-shipping.hazwoperosha.us/#course-213): $169.99 per person, 4 hours, English and Spanish, certificate valid 24 months. In accordance with U.S. DOT HMR (49 CFR Part 172.704), IATA DGR (Section 1.5), and IMDG Code (Section 1.3.1). Enroll: https://lithium-battery-shipping.hazwoperosha.us/checkout?course=213. Full syllabus: https://hazwoper-osha.com/online-courses/shipping-lithium-batteries-fully-regulated-cells-and-batteries
+- [Shipping Lithium Batteries: Fully Regulated and Excepted Cells and Batteries Training (U.S. DOT, ICAO/IATA, IMO/IMDG)](https://lithium-battery-shipping.hazwoperosha.us/#course-192): $299.99 per person, 7 hours, English and Spanish, certificate valid 24 months. In accordance with U.S. DOT HMR (49 CFR Part 172.704), IATA DGR (Section 1.5), and IMDG Code (Section 1.3.1). Enroll: https://lithium-battery-shipping.hazwoperosha.us/checkout?course=192. Full syllabus: https://hazwoper-osha.com/online-courses/shipping-lithium-batteries-fully-regulated-and-excepted-cells-and-batteries
 
 ## Bundle
 
-All 4 courses in one order: https://lithium-battery-shipping.onlinetrainingcourses.us/checkout?course=212,214,213,192
+All 4 courses in one order: https://lithium-battery-shipping.hazwoperosha.us/checkout?course=212,214,213,192
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://lithium-battery-shipping.hazwoperosha.us/about)
+- [Contact](https://lithium-battery-shipping.hazwoperosha.us/contact)
+- [Privacy](https://lithium-battery-shipping.hazwoperosha.us/privacy)
+- [Sitemap](https://lithium-battery-shipping.hazwoperosha.us/sitemap.xml)

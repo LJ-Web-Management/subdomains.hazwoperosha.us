@@ -1,0 +1,36 @@
+# Charge State
+
+> UPS and battery training for data center staff: UPS fundamentals, operations and load testing, battery safety, DC circuits and lithium-ion thermal runaway, with a UPS runtime estimator.
+
+Charge State (https://ups-batteries.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs UPS & Battery System Safety, UPS Systems Fundamentals, UPS Operations & Load Testing, Batteries and DC Circuits or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://ups-batteries.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Data Center UPS and Battery System Safety Training](https://ups-batteries.hazwoperosha.us/courses/data-center-ups-battery-safety): $99.99 per seat, 2 Hours. Safety-focused training for anyone working around data center UPS and battery systems. Enroll: https://ups-batteries.hazwoperosha.us/courses/data-center-ups-battery-safety?buy=857
+- [UPS Systems Fundamentals](https://ups-batteries.hazwoperosha.us/courses/ups-systems-fundamentals): $99.99 per seat, 2 Hours. Foundational UPS theory to complement hands-on operations and load testing. Enroll: https://ups-batteries.hazwoperosha.us/courses/ups-systems-fundamentals?buy=1102
+- [UPS Operations & Load Testing](https://ups-batteries.hazwoperosha.us/courses/ups-operations-load-testing): $99.99 per seat, 4 Hours. Master UPS operations, battery testing, and load-bank procedures. Enroll: https://ups-batteries.hazwoperosha.us/courses/ups-operations-load-testing?buy=840
+- [Batteries and DC Circuits](https://ups-batteries.hazwoperosha.us/courses/batteries-dc-circuits): $99.99 per seat, 2 Hours. Master DC circuit fundamentals and battery behavior behind every backup power system. Enroll: https://ups-batteries.hazwoperosha.us/courses/batteries-dc-circuits?buy=1084
+- [Lithium-Ion Battery Thermal Runaway and Emergency Response Training](https://ups-batteries.hazwoperosha.us/courses/lithium-ion-thermal-runaway-emergency-response): $99.99 per seat, 4 Hours. Recognize and respond to lithium-ion battery thermal runaway before it escalates. Enroll: https://ups-batteries.hazwoperosha.us/courses/lithium-ion-thermal-runaway-emergency-response?buy=1021
+
+## Guides
+
+- [Battery room safety: VRLA and lithium-ion](https://ups-batteries.hazwoperosha.us/guides/battery-room-safety): Hydrogen, acid, arc flash and thermal runaway: the hazards and the controls.
+- [A battery maintenance schedule that catches failures early](https://ups-batteries.hazwoperosha.us/guides/battery-maintenance-schedule): What to check monthly, quarterly and yearly on UPS batteries.
+
+## All trainings
+
+- [All 83 trainings](https://ups-batteries.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Charge State | HAZWOPER OSHA Training](https://ups-batteries.hazwoperosha.us/about)
+- [Contact Charge State | HAZWOPER OSHA Training](https://ups-batteries.hazwoperosha.us/contact)
+- [Privacy notice | Charge State](https://ups-batteries.hazwoperosha.us/privacy)
+- [Sitemap](https://ups-batteries.hazwoperosha.us/sitemap.xml)

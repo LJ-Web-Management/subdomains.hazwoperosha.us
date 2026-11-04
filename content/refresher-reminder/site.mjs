@@ -60,7 +60,7 @@ export default {
     var details = "Take: " + course.name + " (course #" + c.value + "). Enroll at " + location.origin + "/?buy=" + c.value;
     g.href = "https://calendar.google.com/calendar/render?action=TEMPLATE&text=" + encodeURIComponent(title) + "&dates=" + ymd(dt) + "/" + ymd(end) + "&details=" + encodeURIComponent(details);
     g.removeAttribute("aria-disabled"); ics.disabled = false;
-    en.innerHTML = 'Ready to renew? <a href="?buy=' + c.value + '" data-buy="' + c.value + '">Enroll in the refresher</a>';
+    en.innerHTML = 'Ready to renew? <a rel="nofollow" href="?buy=' + c.value + '" data-buy="' + c.value + '">Enroll in the refresher</a>';
     state = { dt: dt, end: end, title: title, details: details };
   }
   [d, c, lead, nm].forEach(function (el) { el.addEventListener("input", calc); el.addEventListener("change", calc); });

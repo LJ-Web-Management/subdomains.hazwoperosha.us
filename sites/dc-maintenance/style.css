@@ -17,5 +17,5 @@ h1, h2, h3 { font-weight: 800; }
 .tpl .cc .meta { color: #8a5f00; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: #8a5f00; }
 .tpl .foot { background: var(--fg); color: #cbbd9f; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #ffd166; }
+.tpl .foot .logo, .tpl .foot h2 { color: #ffd166; }
 .prose a { color: #8a5f00; font-weight: 700; }

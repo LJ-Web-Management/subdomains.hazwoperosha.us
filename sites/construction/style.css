@@ -45,7 +45,7 @@ h1, h2, h3 { text-transform: uppercase; font-weight: 700; }
 .titleblock div { padding: 10px 14px; border: .5px solid var(--line); display: grid; }
 .titleblock span { font: 11px "Roboto Mono", monospace; letter-spacing: .1em; }
 .titleblock b { color: var(--fg); }
-.foot h4 { font: 700 13px "Roboto Mono", monospace; letter-spacing: .1em; color: var(--fg); margin: 0 0 12px; }
+.foot h2 { font: 700 13px "Roboto Mono", monospace; letter-spacing: .1em; color: var(--fg); margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .eyebrow, .eyebrow a { font-family: "Roboto Mono", monospace; color: #ffd36b; }

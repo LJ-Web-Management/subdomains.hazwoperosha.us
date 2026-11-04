@@ -4,18 +4,32 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs OSHA 10 & 30-Hour Construction Training with DOL Card and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://osha-30-construction.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [OSHA 10-Hour Outreach Training for Construction Industry with DOL Card](https://osha-30-construction.onlinetrainingcourses.us/#course-478): $89.99 per person, 10 hours, English and Spanish, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1926. Enroll: https://osha-30-construction.onlinetrainingcourses.us/checkout?course=478. Full syllabus: https://hazwoper-osha.com/online-courses/osha-10-hour-outreach-training-for-construction-industry
-- [OSHA 30-Hour Outreach Training for Construction Industry with DOL Card (English)](https://osha-30-construction.onlinetrainingcourses.us/#course-480): $189.99 per person, 30 hours, English, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1926. Enroll: https://osha-30-construction.onlinetrainingcourses.us/checkout?course=480. Full syllabus: https://hazwoper-osha.com/online-courses/osha-30-hour-outreach-training-for-construction-industry-with-dol-card-en
-- [OSHA 30-Hour Outreach Training for Construction Industry with DOL Card (Spanish)](https://osha-30-construction.onlinetrainingcourses.us/#course-482): $189.99 per person, 30 hours, Spanish, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1926. Enroll: https://osha-30-construction.onlinetrainingcourses.us/checkout?course=482. Full syllabus: https://hazwoper-osha.com/online-courses/osha-30-hour-outreach-training-for-construction-industry-spanish
+- [OSHA 10-Hour Outreach Training for Construction Industry with DOL Card](https://osha-30-construction.hazwoperosha.us/#course-478): $89.99 per person, 10 hours, English and Spanish, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1926. Enroll: https://osha-30-construction.hazwoperosha.us/checkout?course=478. Full syllabus: https://hazwoper-osha.com/online-courses/osha-10-hour-outreach-training-for-construction-industry
+- [OSHA 30-Hour Outreach Training for Construction Industry with DOL Card (English)](https://osha-30-construction.hazwoperosha.us/#course-480): $189.99 per person, 30 hours, English, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1926. Enroll: https://osha-30-construction.hazwoperosha.us/checkout?course=480. Full syllabus: https://hazwoper-osha.com/online-courses/osha-30-hour-outreach-training-for-construction-industry-with-dol-card-en
+- [OSHA 30-Hour Outreach Training for Construction Industry with DOL Card (Spanish)](https://osha-30-construction.hazwoperosha.us/#course-482): $189.99 per person, 30 hours, Spanish, certificate valid 60 months. In accordance with Federal OSHA Regulations 29 CFR 1926. Enroll: https://osha-30-construction.hazwoperosha.us/checkout?course=482. Full syllabus: https://hazwoper-osha.com/online-courses/osha-30-hour-outreach-training-for-construction-industry-spanish
 
 ## Bundle
 
-All 3 courses in one order: https://osha-30-construction.onlinetrainingcourses.us/checkout?course=478,480,482
+All 3 courses in one order: https://osha-30-construction.hazwoperosha.us/checkout?course=478,480,482
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://osha-30-construction.hazwoperosha.us/about)
+- [Contact](https://osha-30-construction.hazwoperosha.us/contact)
+- [Privacy](https://osha-30-construction.hazwoperosha.us/privacy)
+- [Sitemap](https://osha-30-construction.hazwoperosha.us/sitemap.xml)

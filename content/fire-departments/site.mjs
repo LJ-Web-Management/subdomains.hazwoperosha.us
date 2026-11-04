@@ -51,7 +51,7 @@ export default {
 
   guides: [
     {
-      slug: "hazwoper-for-fire-departments",
+      slug: "hazwoper-for-fire-departments", seoTitle: "HAZWOPER for fire departments: which level each needs",
       title: "HAZWOPER for fire departments: which level does each member need?",
       description: "OSHA's responder levels, applied to a fire department roster.",
       date: "2026-10-25",

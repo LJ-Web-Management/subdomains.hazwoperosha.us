@@ -81,7 +81,7 @@ Under (q)(8), responders need annual refresher training of enough content and le
 {{buy:1099}}`,
     },
     {
-      slug: "emergency-response-team-or-evacuation-plan",
+      slug: "emergency-response-team-or-evacuation-plan", seoTitle: "Emergency response team or evacuation plan?",
       title: "Does your facility need an emergency response team, or just an evacuation plan?",
       description: "Paragraph (q) has an exit. If your people evacuate and never respond, the rules are very different.",
       date: "2026-10-25",
@@ -178,8 +178,8 @@ A release is likely **incidental** if:
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/">First<b>Response</b></a><p>HAZWOPER emergency response training by HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
-<div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>Dispatch</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>Courses</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>Dispatch</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 

@@ -23,7 +23,7 @@ h1, h2, h3 { font-weight: 400; letter-spacing: -.01em; }
 .guide-card strong { font-family: var(--font); font-weight: 700; }
 .guide-card .guide-card-cta { color: var(--muted); }
 .tpl .foot { background: var(--fg); color: #a9b3be; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .eyebrow, .eyebrow a { color: #7d8996; }
 .buy-box { background: var(--chrome); border-color: #8a96a3; }
 .prose a { color: #34506e; font-weight: 600; }

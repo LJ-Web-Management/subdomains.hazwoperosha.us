@@ -53,7 +53,7 @@ export default {
 
   guides: [
     {
-      slug: "lel-correction-factors",
+      slug: "lel-correction-factors", seoTitle: "LEL correction factors for uncalibrated gases",
       title: "LEL correction factors: when your meter isn't calibrated for the gas",
       description: "A methane-calibrated meter reading pentane gives the wrong number. Here's why.",
       date: "2026-10-25",

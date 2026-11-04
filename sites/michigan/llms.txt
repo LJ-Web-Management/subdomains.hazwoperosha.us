@@ -1,0 +1,38 @@
+# Michigan HAZWOPER
+
+> HAZWOPER training for Michigan workers under MIOSHA Part 432: 40-hour, refreshers, state-plan refresher, manufacturing ERT, RCRA generator and awareness, with guides to Part 201 cleanups.
+
+Michigan HAZWOPER (https://michigan.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, Plant ERT, Awareness, RCRA Generator or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://michigan.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour initial HAZWOPER for Michigan hazardous waste site workers. Enroll: https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [Manufacturing Emergency Response Team (ERT) Training](https://michigan.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for in-plant emergency response teams. Enroll: https://michigan.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://michigan.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). First responder awareness for plant and facility staff. Enroll: https://michigan.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [RCRA Hazardous Waste Generator Training](https://michigan.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for Michigan facilities. Enroll: https://michigan.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://michigan.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): $84.99 per seat, 8 Hours, State-plan equivalents of federal OSHA standard (see parent course). The annual refresher with state-plan versions available. Enroll: https://michigan.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The standard annual 8-hour refresher. Enroll: https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+
+## Guides
+
+- [MIOSHA Part 432: Michigan's HAZWOPER standard](https://michigan.hazwoperosha.us/guides/miosha-part-432): Michigan enforces its own HAZWOPER rule. What's the same, what's different and who's covered.
+- [Part 201 sites: environmental cleanups in Michigan](https://michigan.hazwoperosha.us/guides/part-201-cleanups-michigan): Michigan's cleanup program covers thousands of contaminated sites. What crews working on them should know.
+- [Emergency response at Michigan plants](https://michigan.hazwoperosha.us/guides/michigan-plant-emergency-response): How plants set up response teams, and the training each person on the roster needs.
+
+## All trainings
+
+- [All 83 trainings](https://michigan.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Michigan HAZWOPER | HAZWOPER OSHA Training](https://michigan.hazwoperosha.us/about)
+- [Contact Michigan HAZWOPER | HAZWOPER OSHA Training](https://michigan.hazwoperosha.us/contact)
+- [Privacy notice | Michigan HAZWOPER](https://michigan.hazwoperosha.us/privacy)
+- [Sitemap](https://michigan.hazwoperosha.us/sitemap.xml)

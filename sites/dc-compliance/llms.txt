@@ -1,0 +1,36 @@
+# Green Permit
+
+> Environmental compliance training for data centers: generator air permits, SPCC for diesel fuel, refrigerant management, universal waste batteries and spill prevention.
+
+Green Permit (https://dc-compliance.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Facility Environmental Compliance, Cooling & Refrigerant Safety, Spill Prevention & Response, Universal Waste or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-compliance.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Facility Environmental Compliance](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance): $99.99 per seat, 4 Hours. Understand the environmental regulations that apply to your facility. Enroll: https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=833
+- [Data Center Cooling System and Refrigerant Safety Training](https://dc-compliance.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety): $99.99 per seat, 2 Hours, EPA/OSHA. Refrigerant handling and cooling system safety practices specific to data center CRAC/CRAH environments. Enroll: https://dc-compliance.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety?buy=851
+- [OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Diesel fuel deliveries, day tanks and spill response. Enroll: https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Managing spent UPS batteries and lamps. Enroll: https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+- [RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Waste determinations and generator rules. Enroll: https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+
+## Guides
+
+- [Environmental rules that apply to data centers](https://dc-compliance.hazwoperosha.us/guides/environmental-rules-that-apply): A quick map of the federal programs most sites run into.
+- [SPCC plans for data center diesel](https://dc-compliance.hazwoperosha.us/guides/spcc-for-data-centers): When you need one and what's in it.
+
+## All trainings
+
+- [All 83 trainings](https://dc-compliance.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Green Permit | HAZWOPER OSHA Training](https://dc-compliance.hazwoperosha.us/about)
+- [Contact Green Permit | HAZWOPER OSHA Training](https://dc-compliance.hazwoperosha.us/contact)
+- [Privacy notice | Green Permit](https://dc-compliance.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-compliance.hazwoperosha.us/sitemap.xml)

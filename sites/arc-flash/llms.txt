@@ -1,0 +1,35 @@
+# Arc Rated
+
+> Arc flash and electrical safety training for data center staff, built on NFPA 70E, with an explorer of the four arc flash PPE categories.
+
+Arc Rated (https://arc-flash.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Arc Flash Safety, Data Center Electrical Safety, Electrical Safety & Best Practices, Power Systems & Electrical training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://arc-flash.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Data Center Arc Flash Safety Training](https://arc-flash.hazwoperosha.us/courses/data-center-arc-flash-safety): $99.99 per seat, 2 Hours, NFPA 70E. NFPA 70E arc flash safety specific to data center switchgear and power distribution. Enroll: https://arc-flash.hazwoperosha.us/courses/data-center-arc-flash-safety?buy=850
+- [Data Center Electrical Safety Training](https://arc-flash.hazwoperosha.us/courses/data-center-electrical-safety): $99.99 per seat, 2 Hours. Foundational electrical safety practices for anyone working around data center power systems. Enroll: https://arc-flash.hazwoperosha.us/courses/data-center-electrical-safety?buy=852
+- [Electrical Safety & Best Practices](https://arc-flash.hazwoperosha.us/courses/electrical-safety-best-practices): $99.99 per seat, 4 Hours, NFPA 70E. NFPA 70E-aligned electrical safety fundamentals for facility staff. Enroll: https://arc-flash.hazwoperosha.us/courses/electrical-safety-best-practices?buy=831
+- [Power Systems & Electrical Fundamentals](https://arc-flash.hazwoperosha.us/courses/power-systems-electrical-fundamentals): $303.99 per seat, 8 Hours, NFPA 70E. Master data center electrical infrastructure — from utility interconnection to UPS and PDU architecture. Enroll: https://arc-flash.hazwoperosha.us/courses/power-systems-electrical-fundamentals?buy=847
+
+## Guides
+
+- [How to read an arc flash label](https://arc-flash.hazwoperosha.us/guides/reading-an-arc-flash-label): Every number on the label, and what it means for you.
+- [Creating an electrically safe work condition](https://arc-flash.hazwoperosha.us/guides/electrically-safe-work-condition): The steps that make energized-work PPE unnecessary.
+
+## All trainings
+
+- [All 83 trainings](https://arc-flash.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Arc Rated | HAZWOPER OSHA Training](https://arc-flash.hazwoperosha.us/about)
+- [Contact Arc Rated | HAZWOPER OSHA Training](https://arc-flash.hazwoperosha.us/contact)
+- [Privacy notice | Arc Rated](https://arc-flash.hazwoperosha.us/privacy)
+- [Sitemap](https://arc-flash.hazwoperosha.us/sitemap.xml)

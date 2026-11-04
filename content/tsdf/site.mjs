@@ -87,7 +87,7 @@ EPA requires its own personnel training at TSDFs: 40 CFR 264.16 for permitted fa
 {{buy:582}}`,
     },
     {
-      slug: "tsdf-vs-cleanup-site-training",
+      slug: "tsdf-vs-cleanup-site-training", seoTitle: "TSDF vs cleanup site: why the 40-hour isn't the default",
       title: "TSDF or cleanup site? Why the 40-hour isn't the default at a TSDF",
       description: "Workers move between facilities and field jobs. Here's which HAZWOPER paragraph covers which work.",
       date: "2026-10-25",
@@ -172,8 +172,8 @@ The simplest approach is to give the OSHA 24-hour at hire, which also covers muc
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="/">tsdf_ops<span>://</span></a><p># TSD facility training by HAZWOPER OSHA Training LLC<br># delivered on hazwoper-osha.com</p></div>
-<div><h4>$ ls courses/</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
-<div><h4>$ contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
+<div><h2>$ ls courses/</h2>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
+<div><h2>$ contact</h2><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
   },
 
@@ -200,6 +200,7 @@ The simplest approach is to give the OSHA 24-hour at hire, which also covers muc
 </div></section>
 
 <section class="sec"><div class="wrap">
+<h2 class="vh">TSD operations courses</h2>
 <p class="prompt">$ cat ./courses/*/README</p>
 <div class="cgrid">${courses.map((c) => `<article class="cc"><p class="cc-id">[${c.id}] ${esc(c.duration)} · ${esc(c.citation)}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "$ enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>

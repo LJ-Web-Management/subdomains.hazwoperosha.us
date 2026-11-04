@@ -32,7 +32,7 @@ h1, h2, h3 { font-weight: 700; }
 .guide-card { border: 3px double var(--fg); }
 .guide-card .guide-card-cta { color: var(--flag); }
 .tpl .foot { background: var(--fg); color: #a9b9cc; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: var(--accent-fg); }
+.tpl .foot .logo, .tpl .foot h2 { color: var(--accent-fg); }
 .eyebrow, .eyebrow a { color: var(--flag); font-weight: 600; }
 .buy-price, .course-row-price { color: var(--fg); }
 .prose a { color: #1e5aa8; font-weight: 600; }

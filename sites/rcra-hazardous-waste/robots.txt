@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://rcra-hazardous-waste.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://rcra-hazardous-waste.hazwoperosha.us/sitemap.xml

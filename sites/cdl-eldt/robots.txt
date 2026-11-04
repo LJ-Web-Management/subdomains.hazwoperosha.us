@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://cdl-eldt.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://cdl-eldt.hazwoperosha.us/sitemap.xml

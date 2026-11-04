@@ -1,0 +1,36 @@
+# HAZWOPER Answers
+
+> 24 straight answers to the most common HAZWOPER questions: 40 vs 24-hour, online training, refreshers, certificates, PPE levels and more. Searchable.
+
+HAZWOPER Answers (https://hazwoper-faq.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, 24-Hour HAZWOPER, 8-Hour Refresher, 40-Hour (Spanish) or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://hazwoper-faq.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The most-asked-about course. Enroll: https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 24 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). For occasional and low-exposure workers. Enroll: https://hazwoper-faq.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual refresher. Enroll: https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 40-Hour HAZWOPER Training (Spanish)](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e)(3)(i) - Spanish language. The 40-hour in Spanish. Enroll: https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish?buy=1100
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8-hour supervisor course. Enroll: https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+
+## Guides
+
+- [What to expect on your first day on a HAZWOPER site](https://hazwoper-faq.hazwoperosha.us/guides/first-day-on-a-hazwoper-site): From the gate to the tailgate to the decon line.
+- [Employer questions about HAZWOPER training](https://hazwoper-faq.hazwoperosha.us/guides/employer-questions-about-hazwoper): Answers for managers buying training for a crew.
+
+## All trainings
+
+- [All 83 trainings](https://hazwoper-faq.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About HAZWOPER Answers | HAZWOPER OSHA Training](https://hazwoper-faq.hazwoperosha.us/about)
+- [Contact HAZWOPER Answers | HAZWOPER OSHA Training](https://hazwoper-faq.hazwoperosha.us/contact)
+- [Privacy notice | HAZWOPER Answers](https://hazwoper-faq.hazwoperosha.us/privacy)
+- [Sitemap](https://hazwoper-faq.hazwoperosha.us/sitemap.xml)

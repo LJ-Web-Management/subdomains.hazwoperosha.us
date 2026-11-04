@@ -1,0 +1,35 @@
+# Single Pane
+
+> DCIM training for data center teams: DCIM platform fundamentals, monitoring and BMS integration, operations management and capacity planning.
+
+Single Pane (https://dcim.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs DCIM Platform Fundamentals, Monitoring, Automation & BMS, Operations Management, Capacity Planning training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dcim.hazwoperosha.us/index.md).
+
+## Courses
+
+- [DCIM Platform Fundamentals](https://dcim.hazwoperosha.us/courses/dcim-platform-fundamentals): $99.99 per seat, 4 Hours, DCIM. Understand DCIM strategy and build the ROI case for implementation. Enroll: https://dcim.hazwoperosha.us/courses/dcim-platform-fundamentals?buy=830
+- [Monitoring, Automation & BMS Systems](https://dcim.hazwoperosha.us/courses/monitoring-automation-bms-systems): $276.99 per seat, 8 Hours, BMS / DCIM. Design a monitoring and BMS strategy that catches problems before they cause downtime. Enroll: https://dcim.hazwoperosha.us/courses/monitoring-automation-bms-systems?buy=846
+- [Data Center Operations Management](https://dcim.hazwoperosha.us/courses/data-center-operations-management): $325.99 per seat, 8 Hours, DCIM / SLA Frameworks. Run daily operations like the teams behind Tier 3/4 facilities — maintenance, incident response, and SLAs. Enroll: https://dcim.hazwoperosha.us/courses/data-center-operations-management?buy=843
+- [Capacity Planning & Forecasting](https://dcim.hazwoperosha.us/courses/capacity-planning-forecasting): $99.99 per seat, 4 Hours. Build a 3–5 year capacity plan before you run out of power, cooling, or space. Enroll: https://dcim.hazwoperosha.us/courses/capacity-planning-forecasting?buy=829
+
+## Guides
+
+- [Rolling out DCIM without the shelfware](https://dcim.hazwoperosha.us/guides/dcim-rollout): Why DCIM projects stall and how to get value in the first 90 days.
+- [The monthly DCIM data audit](https://dcim.hazwoperosha.us/guides/dcim-data-audit): Twenty minutes a month that keeps your DCIM trustworthy.
+
+## All trainings
+
+- [All 83 trainings](https://dcim.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Single Pane | HAZWOPER OSHA Training](https://dcim.hazwoperosha.us/about)
+- [Contact Single Pane | HAZWOPER OSHA Training](https://dcim.hazwoperosha.us/contact)
+- [Privacy notice | Single Pane](https://dcim.hazwoperosha.us/privacy)
+- [Sitemap](https://dcim.hazwoperosha.us/sitemap.xml)

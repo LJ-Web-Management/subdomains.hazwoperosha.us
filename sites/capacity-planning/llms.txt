@@ -1,0 +1,36 @@
+# Headroom
+
+> Capacity planning training for data center teams, with a calculator that turns racks and kW per rack into IT load, heat in BTU/hr, tons of cooling and current per rack.
+
+Headroom (https://capacity-planning.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Capacity Planning & Forecasting, Design Fundamentals, Operations Management, Power Distribution Systems or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://capacity-planning.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Capacity Planning & Forecasting](https://capacity-planning.hazwoperosha.us/courses/capacity-planning-forecasting): $99.99 per seat, 4 Hours. Build a 3–5 year capacity plan before you run out of power, cooling, or space. Enroll: https://capacity-planning.hazwoperosha.us/courses/capacity-planning-forecasting?buy=829
+- [Data Center Design Fundamentals](https://capacity-planning.hazwoperosha.us/courses/data-center-design-fundamentals): $312.99 per seat, 8 Hours, ANSI/TIA-942. Design data center facilities that scale — from site selection to redundancy strategy. Enroll: https://capacity-planning.hazwoperosha.us/courses/data-center-design-fundamentals?buy=842
+- [Data Center Operations Management](https://capacity-planning.hazwoperosha.us/courses/data-center-operations-management): $325.99 per seat, 8 Hours, DCIM / SLA Frameworks. Run daily operations like the teams behind Tier 3/4 facilities — maintenance, incident response, and SLAs. Enroll: https://capacity-planning.hazwoperosha.us/courses/data-center-operations-management?buy=843
+- [Power Distribution Systems Fundamentals](https://capacity-planning.hazwoperosha.us/courses/power-distribution-systems-fundamentals): $99.99 per seat, 4 Hours. Core power distribution theory behind PDUs, panels, and branch circuits. Enroll: https://capacity-planning.hazwoperosha.us/courses/power-distribution-systems-fundamentals?buy=1092
+- [DCIM Platform Fundamentals](https://capacity-planning.hazwoperosha.us/courses/dcim-platform-fundamentals): $99.99 per seat, 4 Hours, DCIM. Understand DCIM strategy and build the ROI case for implementation. Enroll: https://capacity-planning.hazwoperosha.us/courses/dcim-platform-fundamentals?buy=830
+
+## Guides
+
+- [Stranded capacity: the power and cooling you can't use](https://capacity-planning.hazwoperosha.us/guides/stranded-capacity): Why a half-full data center can still be 'full'.
+- [Capacity forecasting basics](https://capacity-planning.hazwoperosha.us/guides/forecasting-basics): Turning growth plans into a date you'll run out.
+
+## All trainings
+
+- [All 83 trainings](https://capacity-planning.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Headroom | HAZWOPER OSHA Training](https://capacity-planning.hazwoperosha.us/about)
+- [Contact Headroom | HAZWOPER OSHA Training](https://capacity-planning.hazwoperosha.us/contact)
+- [Privacy notice | Headroom](https://capacity-planning.hazwoperosha.us/privacy)
+- [Sitemap](https://capacity-planning.hazwoperosha.us/sitemap.xml)

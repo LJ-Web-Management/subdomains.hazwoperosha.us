@@ -55,7 +55,7 @@ export default {
       s.firstChild.textContent = st === "late" ? "Overdue " + (-days) + "d" : st === "soon" ? "Due in " + days + "d" : "Current";
       tr.appendChild(s);
       var a = document.createElement("td");
-      a.innerHTML = (st !== "ok" ? '<a class="btn btn-sm" href="?buy=' + w.c + '" data-buy="' + w.c + '">Renew</a> ' : "") + '<button type="button" class="x" aria-label="Remove">×</button>';
+      a.innerHTML = (st !== "ok" ? '<a class="btn btn-sm" rel="nofollow" href="?buy=' + w.c + '" data-buy="' + w.c + '">Renew</a> ' : "") + '<button type="button" class="x" aria-label="Remove">×</button>';
       a.querySelector(".x").addEventListener("click", function () { list.splice(list.indexOf(w), 1); save(); draw(); });
       tr.appendChild(a); tb.appendChild(tr);
     });

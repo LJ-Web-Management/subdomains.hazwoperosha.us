@@ -1,0 +1,38 @@
+# Landfill Safe
+
+> Training for landfill and transfer station staff: load checking for hazardous waste, gas detection, awareness, 24-hour and 40-hour HAZWOPER, spill response and decon, with landfill gas and load-check guides.
+
+Landfill Safe (https://landfill.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Awareness, Gas Detection, 24-Hour HAZWOPER, 40-Hour HAZWOPER or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://landfill.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://landfill.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize hazardous materials in incoming loads and know what to do. Enroll: https://landfill.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA Air Monitoring and Gas Detection Training](https://landfill.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Detecting methane, H2S and low oxygen around landfill gas systems. Enroll: https://landfill.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [OSHA 24 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The 24-hour HAZWOPER for staff who handle hazardous waste found in loads occasionally. Enroll: https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
+- [OSHA 40 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for cleanup work at closed or Superfund landfills. Enroll: https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA Spill Prevention and Response Safety Training](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Fuel and leachate spill prevention and response. Enroll: https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://landfill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute decon module. Enroll: https://landfill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+
+## Guides
+
+- [Load checking: keeping hazardous waste out of the landfill](https://landfill.hazwoperosha.us/guides/landfill-load-checking): Municipal landfills must have a program to exclude hazardous waste, including trained staff. Here's what it involves.
+- [Landfill gas: methane, H2S and oxygen](https://landfill.hazwoperosha.us/guides/landfill-gas-hazards): Decomposing waste makes gas that can explode, suffocate or poison. What landfill staff need to know.
+- [Does HAZWOPER apply at a landfill?](https://landfill.hazwoperosha.us/guides/does-hazwoper-apply-at-a-landfill): Everyday landfill work usually isn't HAZWOPER. Some landfill work definitely is.
+
+## All trainings
+
+- [All 83 trainings](https://landfill.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Landfill Safe | HAZWOPER OSHA Training](https://landfill.hazwoperosha.us/about)
+- [Contact Landfill Safe | HAZWOPER OSHA Training](https://landfill.hazwoperosha.us/contact)
+- [Privacy notice | Landfill Safe](https://landfill.hazwoperosha.us/privacy)
+- [Sitemap](https://landfill.hazwoperosha.us/sitemap.xml)

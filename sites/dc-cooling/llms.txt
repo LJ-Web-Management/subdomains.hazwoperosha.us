@@ -1,0 +1,36 @@
+# Cold Aisle
+
+> Cooling training for data center facility teams: cooling system design and optimization, HVAC troubleshooting, refrigerant safety, mechanical maintenance and PUE.
+
+Cold Aisle (https://dc-cooling.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Cooling Systems Design & Optimization, HVAC Troubleshooting, Cooling & Refrigerant Safety, Energy Efficiency & PUE or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-cooling.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Cooling Systems Design & Optimization](https://dc-cooling.hazwoperosha.us/courses/cooling-systems-design-optimization): $298.99 per seat, 8 Hours, PUE / ASHRAE Thermal Guidelines. Cut cooling costs and improve reliability with modern thermal management strategy. Enroll: https://dc-cooling.hazwoperosha.us/courses/cooling-systems-design-optimization?buy=841
+- [HVAC Systems Troubleshooting Essentials](https://dc-cooling.hazwoperosha.us/courses/hvac-troubleshooting-essentials): $99.99 per seat, 4 Hours. Hands-on troubleshooting skills for CRAC/CRAH systems and common cooling failures. Enroll: https://dc-cooling.hazwoperosha.us/courses/hvac-troubleshooting-essentials?buy=836
+- [Data Center Cooling System and Refrigerant Safety Training](https://dc-cooling.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety): $99.99 per seat, 2 Hours, EPA/OSHA. Refrigerant handling and cooling system safety practices specific to data center CRAC/CRAH environments. Enroll: https://dc-cooling.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety?buy=851
+- [Energy Efficiency & PUE Optimization](https://dc-cooling.hazwoperosha.us/courses/energy-efficiency-pue-optimization): $99.99 per seat, 4 Hours, PUE. Cut operating costs with a measurable PUE optimization roadmap. Enroll: https://dc-cooling.hazwoperosha.us/courses/energy-efficiency-pue-optimization?buy=832
+- [Mechanical Systems & Equipment Maintenance](https://dc-cooling.hazwoperosha.us/courses/mechanical-systems-maintenance): $99.99 per seat, 4 Hours. Hands-on mechanical maintenance — piping, chillers, and vibration diagnostics. Enroll: https://dc-cooling.hazwoperosha.us/courses/mechanical-systems-maintenance?buy=838
+
+## Guides
+
+- [Hot aisle, cold aisle: airflow management basics](https://dc-cooling.hazwoperosha.us/guides/hot-aisle-cold-aisle): Why rack layout and blanking panels matter as much as the chillers.
+- [Raising supply temperatures safely](https://dc-cooling.hazwoperosha.us/guides/raising-supply-temperatures): Warmer supply air saves energy. Here's how to do it without hot spots.
+
+## All trainings
+
+- [All 83 trainings](https://dc-cooling.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Cold Aisle | HAZWOPER OSHA Training](https://dc-cooling.hazwoperosha.us/about)
+- [Contact Cold Aisle | HAZWOPER OSHA Training](https://dc-cooling.hazwoperosha.us/contact)
+- [Privacy notice | Cold Aisle](https://dc-cooling.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-cooling.hazwoperosha.us/sitemap.xml)

@@ -49,7 +49,7 @@ em { color: var(--clay); }
 .foot { background: var(--fg); color: #c9d1bf; padding: 56px 0 40px; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
 .foot .logo { color: #ece3cf; }
-.foot h4 { font: 600 20px var(--head-font); color: #ece3cf; margin: 0 0 12px; }
+.foot h2 { font: 600 20px var(--head-font); color: #ece3cf; margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .eyebrow, .eyebrow a { color: var(--moss); font-weight: 600; }

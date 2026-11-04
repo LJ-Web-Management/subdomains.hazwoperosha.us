@@ -102,7 +102,7 @@ export default {
     r.r.forEach(function (id) {
       var c = (window.HUB_COURSES || {})[id]; if (!c) return;
       var d = document.createElement("div"); d.className = "rec";
-      d.innerHTML = '<div><b></b><small></small></div><a class="btn btn-sm" href="?buy=' + id + '" data-buy="' + id + '">Enroll</a>';
+      d.innerHTML = '<div><b></b><small></small></div><a class="btn btn-sm" rel="nofollow" href="?buy=' + id + '" data-buy="' + id + '">Enroll</a>';
       d.querySelector("b").textContent = c.name; d.querySelector("small").textContent = c.duration + " · " + money(c.price) + " · Course #" + id;
       res.appendChild(d);
     });

@@ -1,0 +1,38 @@
+# PlantSafe
+
+> Emergency response and hazardous waste training for manufacturing plants: in-plant ERT, first responder awareness, incident command, RCRA generator training, spill prevention and contingency planning.
+
+PlantSafe (https://manufacturing.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Manufacturing ERT, First Responder Awareness, Incident Command, RCRA Generator or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://manufacturing.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for in-plant emergency response teams under HAZWOPER (q). Enroll: https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Awareness-level training for operators and staff who may discover a release. Enroll: https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for shift supervisors and ERT leaders. Enroll: https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for plant waste handlers. Enroll: https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Spill prevention and first response for plant staff. Enroll: https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. Contingency plans and the emergency coordinator role. Enroll: https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
+
+## Guides
+
+- [Building an in-plant emergency response team](https://manufacturing.hazwoperosha.us/guides/building-an-in-plant-ert): What it takes to set up an ERT that meets HAZWOPER (q) and actually works at 2 a.m.
+- [HAZWOPER, HazCom, RCRA or SPCC? A training map for plants](https://manufacturing.hazwoperosha.us/guides/plant-training-map): Plants answer to several overlapping training rules. Here's how they fit together.
+- [Running a chemical spill drill at your plant](https://manufacturing.hazwoperosha.us/guides/running-a-chemical-spill-drill): A drill that tests your plan, not just your stopwatch. How to plan, run and critique one.
+
+## All trainings
+
+- [All 83 trainings](https://manufacturing.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About PlantSafe | HAZWOPER OSHA Training](https://manufacturing.hazwoperosha.us/about)
+- [Contact PlantSafe | HAZWOPER OSHA Training](https://manufacturing.hazwoperosha.us/contact)
+- [Privacy notice | PlantSafe](https://manufacturing.hazwoperosha.us/privacy)
+- [Sitemap](https://manufacturing.hazwoperosha.us/sitemap.xml)

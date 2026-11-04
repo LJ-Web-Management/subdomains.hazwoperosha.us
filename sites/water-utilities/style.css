@@ -22,7 +22,7 @@ h1, h2, h3 { font-weight: 700; }
 .guide-card { border: 0; box-shadow: 0 10px 30px rgba(11, 37, 70, .07); }
 .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #aac0dc; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .eyebrow, .eyebrow a { color: var(--accent); font-weight: 600; }
 .course-row, .buy-box { border: 0; box-shadow: 0 10px 30px rgba(11, 37, 70, .07); }
 .buy-price, .course-row-price { color: var(--accent); }

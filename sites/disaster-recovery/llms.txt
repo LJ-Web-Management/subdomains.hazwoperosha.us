@@ -1,0 +1,38 @@
+# Recovery Crew
+
+> Training for crews cleaning up after floods, hurricanes and wildfires: 40-hour and 24-hour HAZWOPER, awareness, spill prevention, PPE and decontamination modules, with disaster cleanup guides.
+
+Recovery Crew (https://disaster-recovery.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, 24-Hour HAZWOPER, Awareness, Spill Prevention & Response or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://disaster-recovery.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for crews handling hazardous materials in disaster zones. Enroll: https://disaster-recovery.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 24 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The 24-hour HAZWOPER for limited-exposure recovery workers. Enroll: https://disaster-recovery.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://disaster-recovery.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize, isolate and report hazardous materials found during recovery. Enroll: https://disaster-recovery.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA Spill Prevention and Response Safety Training](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Responding safely to fuel and oil spills during recovery. Enroll: https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute module on decon procedures. Enroll: https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). A 15-minute module on PPE levels. Enroll: https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
+
+## Guides
+
+- [Does HAZWOPER apply to disaster cleanup?](https://disaster-recovery.hazwoperosha.us/guides/does-hazwoper-apply-to-disaster-cleanup): Not all disaster work is HAZWOPER. Here's how to tell which tasks are.
+- [Orphaned drums, tanks and cylinders in flood debris](https://disaster-recovery.hazwoperosha.us/guides/orphaned-drums-and-flood-debris): Floods move containers miles from home. What crews should do when they find one.
+- [Health hazards in disaster recovery work](https://disaster-recovery.hazwoperosha.us/guides/health-hazards-in-disaster-recovery): Heat, contaminated water, carbon monoxide and fatigue hurt more recovery workers than chemicals do.
+
+## All trainings
+
+- [All 83 trainings](https://disaster-recovery.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Recovery Crew | HAZWOPER OSHA Training](https://disaster-recovery.hazwoperosha.us/about)
+- [Contact Recovery Crew | HAZWOPER OSHA Training](https://disaster-recovery.hazwoperosha.us/contact)
+- [Privacy notice | Recovery Crew](https://disaster-recovery.hazwoperosha.us/privacy)
+- [Sitemap](https://disaster-recovery.hazwoperosha.us/sitemap.xml)

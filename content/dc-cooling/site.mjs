@@ -2,7 +2,7 @@
 export default {
   brand: "Cold Aisle",
   logo: `<span class="ca-flake">❄</span>Cold Aisle`,
-  title: "Data Center Cooling Training: Design, HVAC, Refrigerant Safety & Efficiency | Cold Aisle",
+  title: "Data Center Cooling Training: HVAC, Refrigerant & PUE | Cold Aisle",
   description: "Cooling training for data center facility teams: cooling system design and optimization, HVAC troubleshooting, refrigerant safety, mechanical maintenance and PUE.",
   theme: "#0077b6",
   fonts: "family=Sora:wght@400;600;800",

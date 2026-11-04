@@ -1,0 +1,36 @@
+# Sev One
+
+> Emergency and incident response training for data center teams: incident troubleshooting, emergency power off procedures, lithium-ion battery fires and clean agent fire suppression.
+
+Sev One (https://dc-incident-response.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Incident Response & Troubleshooting, Emergency Power Off (EPO), Li-ion Thermal Runaway Response, Clean Agent Fire Suppression or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-incident-response.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Incident Response & Troubleshooting](https://dc-incident-response.hazwoperosha.us/courses/incident-response-troubleshooting): $99.99 per seat, 4 Hours. Systematic troubleshooting and root-cause analysis to cut MTTR. Enroll: https://dc-incident-response.hazwoperosha.us/courses/incident-response-troubleshooting?buy=837
+- [Data Center Emergency Power Off (EPO) Procedures Training](https://dc-incident-response.hazwoperosha.us/courses/data-center-epo-procedures): $99.99 per seat, 1 Hour. Safe activation and reset procedures for data center Emergency Power Off systems. Enroll: https://dc-incident-response.hazwoperosha.us/courses/data-center-epo-procedures?buy=853
+- [Lithium-Ion Battery Thermal Runaway and Emergency Response Training](https://dc-incident-response.hazwoperosha.us/courses/lithium-ion-thermal-runaway-emergency-response): $99.99 per seat, 4 Hours. Recognize and respond to lithium-ion battery thermal runaway before it escalates. Enroll: https://dc-incident-response.hazwoperosha.us/courses/lithium-ion-thermal-runaway-emergency-response?buy=1021
+- [Data Center Fire Suppression System Safety Training (Clean Agent Systems)](https://dc-incident-response.hazwoperosha.us/courses/data-center-fire-suppression-safety): $99.99 per seat, 2 Hours, NFPA 2001. Clean agent fire suppression safety for occupied data hall environments. Enroll: https://dc-incident-response.hazwoperosha.us/courses/data-center-fire-suppression-safety?buy=854
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://dc-incident-response.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a hazardous release and get clear safely. Enroll: https://dc-incident-response.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [The first ten minutes of a data center incident](https://dc-incident-response.hazwoperosha.us/guides/first-ten-minutes): Life safety first, then stabilize, then communicate.
+- [Preventing accidental EPO activation](https://dc-incident-response.hazwoperosha.us/guides/epo-accidents): One button can drop a whole room. Protect it.
+
+## All trainings
+
+- [All 83 trainings](https://dc-incident-response.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Sev One | HAZWOPER OSHA Training](https://dc-incident-response.hazwoperosha.us/about)
+- [Contact Sev One | HAZWOPER OSHA Training](https://dc-incident-response.hazwoperosha.us/contact)
+- [Privacy notice | Sev One](https://dc-incident-response.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-incident-response.hazwoperosha.us/sitemap.xml)

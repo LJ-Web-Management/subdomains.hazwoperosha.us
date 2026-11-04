@@ -1,0 +1,38 @@
+# NJ HAZWOPER
+
+> HAZWOPER training for New Jersey remediation and industrial workers: 40-hour, environmental remediation, refresher, state-plan refresher, RCRA generator and awareness, with guides to NJ rules.
+
+NJ HAZWOPER (https://new-jersey.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40 Hr Remediation, 40-Hour HAZWOPER, 8-Hour Refresher, State-Plan Refresher or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://new-jersey.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for environmental remediation crews. Enroll: https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=590
+- [OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The standard OSHA 40-hour initial HAZWOPER. Enroll: https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour HAZWOPER refresher. Enroll: https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): $84.99 per seat, 8 Hours, State-plan equivalents of federal OSHA standard (see parent course). Refresher with state-plan versions, for public employees covered by PEOSH. Enroll: https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900
+- [RCRA Hazardous Waste Generator Training](https://new-jersey.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training. Enroll: https://new-jersey.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://new-jersey.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). First responder awareness for staff who may discover a release. Enroll: https://new-jersey.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [HAZWOPER in New Jersey: federal OSHA and PEOSH](https://new-jersey.hazwoperosha.us/guides/hazwoper-in-new-jersey-osha-and-peosh): New Jersey's state plan covers only public employees. Here's who's covered by which program.
+- [Working on LSRP-led cleanups in New Jersey](https://new-jersey.hazwoperosha.us/guides/working-on-lsrp-led-cleanups): Most NJ remediation is overseen by a Licensed Site Remediation Professional. What that means for field crews.
+- [Historic fill: why so many NJ sites are contaminated](https://new-jersey.hazwoperosha.us/guides/historic-fill-in-new-jersey): Much of urban New Jersey sits on fill material with ash, slag and debris. What crews should expect when they dig.
+
+## All trainings
+
+- [All 83 trainings](https://new-jersey.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About NJ HAZWOPER | HAZWOPER OSHA Training](https://new-jersey.hazwoperosha.us/about)
+- [Contact NJ HAZWOPER | HAZWOPER OSHA Training](https://new-jersey.hazwoperosha.us/contact)
+- [Privacy notice | NJ HAZWOPER](https://new-jersey.hazwoperosha.us/privacy)
+- [Sitemap](https://new-jersey.hazwoperosha.us/sitemap.xml)

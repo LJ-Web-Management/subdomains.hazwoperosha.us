@@ -1,0 +1,34 @@
+# Which Bin?
+
+> Is it universal waste? Sort ten common items into batteries, lamps, mercury-containing equipment, aerosol cans and pesticides, then train your handlers on the rules.
+
+Which Bin? (https://universal-waste.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Universal Waste Handler, RCRA Generator Training, Satellite Accumulation Areas training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://universal-waste.hazwoperosha.us/index.md).
+
+## Courses
+
+- [RCRA Universal Waste Handler Training](https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Two hours on the five categories, labels, time limits and shipping. Enroll: https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+- [RCRA Hazardous Waste Generator Training](https://universal-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). For the wastes that aren't universal waste. Enroll: https://universal-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [Hazardous Waste Satellite Accumulation Area Training](https://universal-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Collecting hazardous waste where it's made. Enroll: https://universal-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
+
+## Guides
+
+- [Small vs large quantity handlers of universal waste](https://universal-waste.hazwoperosha.us/guides/small-vs-large-quantity-handlers): The 5,000 kg line and what changes when you cross it.
+- [Storing lamps and batteries safely](https://universal-waste.hazwoperosha.us/guides/storing-lamps-and-batteries): Preventing breakage, fires and leaks while waste waits for pickup.
+
+## All trainings
+
+- [All 83 trainings](https://universal-waste.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Which Bin? | HAZWOPER OSHA Training](https://universal-waste.hazwoperosha.us/about)
+- [Contact Which Bin? | HAZWOPER OSHA Training](https://universal-waste.hazwoperosha.us/contact)
+- [Privacy notice | Which Bin?](https://universal-waste.hazwoperosha.us/privacy)
+- [Sitemap](https://universal-waste.hazwoperosha.us/sitemap.xml)

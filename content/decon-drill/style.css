@@ -27,7 +27,7 @@ h1, h2, h3 { font-weight: 800; text-transform: uppercase; }
 .tpl .cc-foot b { color: var(--accent); }
 .guide-card .guide-card-cta { color: var(--teal); }
 .tpl .foot { background: var(--fg); color: #d7c4ad; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .eyebrow, .eyebrow a { color: var(--teal); font-weight: 700; }
 .buy-price, .course-row-price { color: var(--accent); }
 .prose a { color: #c76a00; font-weight: 700; }

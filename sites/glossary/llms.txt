@@ -1,0 +1,36 @@
+# HAZWOPER Glossary
+
+> A searchable glossary of 46 HAZWOPER and hazardous waste terms, from action level to universal waste, in plain language, plus the courses that teach them.
+
+HAZWOPER Glossary (https://glossary.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, PPE Levels A–D, Air Monitoring, Decontamination or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://glossary.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Every term in this glossary, in depth. Enroll: https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). Levels A to D in 15 minutes. Enroll: https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
+- [HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). PIDs, LEL and action levels in 20 minutes. Enroll: https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Zones and decon in 20 minutes. Enroll: https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://glossary.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Awareness-level responder training. Enroll: https://glossary.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [PEL, REL, TLV, STEL and IDLH: exposure limits explained](https://glossary.hazwoperosha.us/guides/pel-rel-tlv-idlh-explained): Five acronyms for exposure limits, who sets each one and which one your site plan uses.
+- [HAZWOPER acronyms cheat sheet](https://glossary.hazwoperosha.us/guides/hazwoper-acronyms-cheat-sheet): The 20 acronyms you'll hear in your first week on site.
+
+## All trainings
+
+- [All 83 trainings](https://glossary.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About HAZWOPER Glossary | HAZWOPER OSHA Training](https://glossary.hazwoperosha.us/about)
+- [Contact HAZWOPER Glossary | HAZWOPER OSHA Training](https://glossary.hazwoperosha.us/contact)
+- [Privacy notice | HAZWOPER Glossary](https://glossary.hazwoperosha.us/privacy)
+- [Sitemap](https://glossary.hazwoperosha.us/sitemap.xml)

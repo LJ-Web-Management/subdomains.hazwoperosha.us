@@ -1,0 +1,38 @@
+# PlateLine
+
+> Training for electroplating, anodizing and metal finishing shops: RCRA generator and refresher, satellite accumulation, plant ERT, awareness and contingency planning, with F006, cyanide and pretreatment guides.
+
+PlateLine (https://metal-finishing.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs RCRA Generator, Generator Refresher, Satellite Accumulation, Plant ERT or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://metal-finishing.hazwoperosha.us/index.md).
+
+## Courses
+
+- [RCRA Hazardous Waste Generator Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for finishing shops. Enroll: https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Refresher Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $59.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual RCRA refresher. Enroll: https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
+- [Hazardous Waste Satellite Accumulation Area Training](https://metal-finishing.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Waste containers at the plating line. Enroll: https://metal-finishing.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
+- [Manufacturing Emergency Response Team (ERT) Training](https://metal-finishing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for in-plant emergency response teams. Enroll: https://metal-finishing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://metal-finishing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a release, get clear and call it in. Enroll: https://metal-finishing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://metal-finishing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. Contingency planning for large quantity generator shops. Enroll: https://metal-finishing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
+
+## Guides
+
+- [F006 sludge and other electroplating wastes](https://metal-finishing.hazwoperosha.us/guides/f006-sludge-electroplating): The listed waste every plating shop makes, and what to do with it.
+- [Cyanide and acids: why segregation matters in plating shops](https://metal-finishing.hazwoperosha.us/guides/cyanide-and-acids-plating): Mixing acids with cyanide releases hydrogen cyanide gas. The controls that prevent it.
+- [Wastewater pretreatment and hazardous waste](https://metal-finishing.hazwoperosha.us/guides/pretreatment-and-hazardous-waste): How plating shops' wastewater rules and hazardous waste rules connect.
+
+## All trainings
+
+- [All 83 trainings](https://metal-finishing.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About PlateLine | HAZWOPER OSHA Training](https://metal-finishing.hazwoperosha.us/about)
+- [Contact PlateLine | HAZWOPER OSHA Training](https://metal-finishing.hazwoperosha.us/contact)
+- [Privacy notice | PlateLine](https://metal-finishing.hazwoperosha.us/privacy)
+- [Sitemap](https://metal-finishing.hazwoperosha.us/sitemap.xml)

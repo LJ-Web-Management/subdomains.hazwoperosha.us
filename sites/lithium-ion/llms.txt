@@ -1,0 +1,35 @@
+# Runaway
+
+> Training on lithium-ion battery thermal runaway in data centers: warning signs, off-gas detection, emergency response, UPS battery safety and DC circuits, with a five-stage explorer.
+
+Runaway (https://lithium-ion.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Li-ion Thermal Runaway Response, UPS & Battery System Safety, Batteries and DC Circuits, Universal Waste (spent batteries) training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://lithium-ion.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Lithium-Ion Battery Thermal Runaway and Emergency Response Training](https://lithium-ion.hazwoperosha.us/courses/lithium-ion-thermal-runaway-emergency-response): $99.99 per seat, 4 Hours. Recognize and respond to lithium-ion battery thermal runaway before it escalates. Enroll: https://lithium-ion.hazwoperosha.us/courses/lithium-ion-thermal-runaway-emergency-response?buy=1021
+- [Data Center UPS and Battery System Safety Training](https://lithium-ion.hazwoperosha.us/courses/data-center-ups-battery-safety): $99.99 per seat, 2 Hours. Safety-focused training for anyone working around data center UPS and battery systems. Enroll: https://lithium-ion.hazwoperosha.us/courses/data-center-ups-battery-safety?buy=857
+- [Batteries and DC Circuits](https://lithium-ion.hazwoperosha.us/courses/batteries-dc-circuits): $99.99 per seat, 2 Hours. Master DC circuit fundamentals and battery behavior behind every backup power system. Enroll: https://lithium-ion.hazwoperosha.us/courses/batteries-dc-circuits?buy=1084
+- [RCRA Universal Waste Handler Training](https://lithium-ion.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Managing spent and damaged batteries. Enroll: https://lithium-ion.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+
+## Guides
+
+- [Lithium-ion in the data center: what changes](https://lithium-ion.hazwoperosha.us/guides/lithium-ion-in-the-data-center): Compared with VRLA, here's what facility teams need to know.
+- [Writing a battery event response plan](https://lithium-ion.hazwoperosha.us/guides/battery-event-response-plan): Who does what when a lithium-ion battery alarms.
+
+## All trainings
+
+- [All 83 trainings](https://lithium-ion.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Runaway | HAZWOPER OSHA Training](https://lithium-ion.hazwoperosha.us/about)
+- [Contact Runaway | HAZWOPER OSHA Training](https://lithium-ion.hazwoperosha.us/contact)
+- [Privacy notice | Runaway](https://lithium-ion.hazwoperosha.us/privacy)
+- [Sitemap](https://lithium-ion.hazwoperosha.us/sitemap.xml)

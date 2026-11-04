@@ -25,7 +25,7 @@ h1, h2, h3 { font-weight: 600; }
 .guide-card strong { font-size: 26px; }
 .guide-card .guide-card-cta { color: var(--moss); }
 .tpl .foot { background: var(--accent); color: #c3d0c6; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #eef1ec; }
+.tpl .foot .logo, .tpl .foot h2 { color: #eef1ec; }
 .eyebrow, .eyebrow a { color: var(--moss); font-weight: 600; }
 .prose a { color: #2f6b4a; font-weight: 600; }
 .prose th { color: var(--accent); font-family: var(--font); }

@@ -1,0 +1,90 @@
+---
+title: "Contingency Plan & Emergency Coordinator Training (RCRA)"
+description: "Contingency planning for large quantity generator campuses. A 4-hour online course, $99.99 per seat. Self-paced, with a certificate of completion."
+url: https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training
+---
+
+[Courses](https://universities.hazwoperosha.us/courses/) / Course #412
+
+# Hazardous Waste Contingency Plan and Emergency Coordinator Training
+
+Contingency planning for large quantity generator campuses.
+
+Contingency plan contents and the emergency coordinator's role.
+
+## What you'll cover
+
+- Plan contents
+- Quick reference guide
+- Coordinator duties
+
+## Who it's for
+
+EHS managers and emergency coordinators.
+
+## Frequently asked questions
+
+### How long is Hazardous Waste Contingency Plan and Emergency Coordinator Training?
+
+4 hours of online training. It's self-paced, so you can work through it in several sittings.
+
+### How much does Hazardous Waste Contingency Plan and Emergency Coordinator Training cost?
+
+$99.99 per seat. To train a crew, choose the number of seats at checkout.
+
+### Which regulation does it cover?
+
+It covers 40 CFR Parts 262 and 264/265.
+
+### Do I get a certificate?
+
+Yes. A certificate of completion is included with the course.
+
+### Who delivers the course?
+
+HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your login arrives by email right after payment.
+
+### Can I pay by invoice or purchase order?
+
+Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
+
+## Related guides
+
+- [Chemical spill response on campus: who does what](https://universities.hazwoperosha.us/guides/campus-chemical-spill-response)
+
+$99.99 per seat
+
+- **Length**: 4 Hours
+- **Standard**: 40 CFR Parts 262 and 264/265
+- **Course**: #412
+
+[Enroll now](https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412)
+
+Certificate of completion included. 100% online, self-paced.
+
+## More courses on this site
+
+[Hazardous Waste Satellite Accumulation Area Training](https://universities.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+
+$59.99 [Enroll](https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=415)
+
+[RCRA Hazardous Waste Generator Training](https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+
+$89.99 [Enroll](https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=601)
+
+[RCRA Hazardous Waste Generator Refresher Training](https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+
+$59.99 [Enroll](https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=600)
+
+[RCRA Universal Waste Handler Training](https://universities.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+
+$34.99 [Enroll](https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=602)
+
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://universities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+
+$61.99 [Enroll](https://universities.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=1099)
+
+---
+
+Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.
+Site index: [sitemap](https://universities.hazwoperosha.us/sitemap.xml) · [llms.txt](https://universities.hazwoperosha.us/llms.txt) · [about](https://universities.hazwoperosha.us/about) · [contact](https://universities.hazwoperosha.us/contact)

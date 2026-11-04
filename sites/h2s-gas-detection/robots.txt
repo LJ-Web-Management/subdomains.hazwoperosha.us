@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://h2s-gas-detection.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://h2s-gas-detection.hazwoperosha.us/sitemap.xml

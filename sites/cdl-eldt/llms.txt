@@ -4,23 +4,37 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs CDL Entry-Level Driver Training (ELDT) and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://cdl-eldt.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [CDL Entry Level Driver Training (ELDT) Tanker (N) Endorsement](https://cdl-eldt.onlinetrainingcourses.us/#course-499): $49.99 per person, 1 hour, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 383. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=499. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-tanker-n-endorsement
-- [CDL Entry Level Driver Training (ELDT) - HAZMAT (H) Endorsement](https://cdl-eldt.onlinetrainingcourses.us/#course-281): $79.99 per person, 5 hours, English, certificate valid 48 months. In accordance with DOT Hazardous Materials Regulations 49 CFR Part 171-180 and the Federal Motor Carrier Safety Administration (FMCSA) Regulations. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=281. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-h-endorsement
-- [CDL Entry Level Driver Training (ELDT) - Passenger (P) Endorsement](https://cdl-eldt.onlinetrainingcourses.us/#course-293): $79.99 per person, 6 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 374. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=293. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-passenger-p-endorsement
-- [CDL Entry Level Driver Training (ELDT) - School Bus (S) Endorsement](https://cdl-eldt.onlinetrainingcourses.us/#course-299): $79.99 per person, 5 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 605. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=299. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-school-bus-s-endorsement
-- [CDL Entry Level Driver Training (ELDT) - Hazmat and Tanker (X) Endorsement](https://cdl-eldt.onlinetrainingcourses.us/#course-493): $129.99 per person, 5 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Parts 171-180. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=493. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-and-tank-vehicle-x-endorsement
-- [CDL Entry Level Driver Training (ELDT) – Class B to Class A Upgrade](https://cdl-eldt.onlinetrainingcourses.us/#course-316): $129.99 per person, 12 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 380. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=316. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-eldt-class-b-to-class-a-upgrade-new
-- [CDL Entry Level Driver Training (ELDT) - Class A](https://cdl-eldt.onlinetrainingcourses.us/#course-304): $159.99 per person, 15 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 380. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=304. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-a
-- [CDL Entry Level Driver Training (ELDT) - Class B](https://cdl-eldt.onlinetrainingcourses.us/#course-309): $159.99 per person, 13 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 380. Enroll: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=309. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-b-new
+- [CDL Entry Level Driver Training (ELDT) Tanker (N) Endorsement](https://cdl-eldt.hazwoperosha.us/#course-499): $49.99 per person, 1 hour, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 383. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=499. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-tanker-n-endorsement
+- [CDL Entry Level Driver Training (ELDT) - HAZMAT (H) Endorsement](https://cdl-eldt.hazwoperosha.us/#course-281): $79.99 per person, 5 hours, English, certificate valid 48 months. In accordance with DOT Hazardous Materials Regulations 49 CFR Part 171-180 and the Federal Motor Carrier Safety Administration (FMCSA) Regulations. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=281. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-h-endorsement
+- [CDL Entry Level Driver Training (ELDT) - Passenger (P) Endorsement](https://cdl-eldt.hazwoperosha.us/#course-293): $79.99 per person, 6 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 374. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=293. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-passenger-p-endorsement
+- [CDL Entry Level Driver Training (ELDT) - School Bus (S) Endorsement](https://cdl-eldt.hazwoperosha.us/#course-299): $79.99 per person, 5 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 605. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=299. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-school-bus-s-endorsement
+- [CDL Entry Level Driver Training (ELDT) - Hazmat and Tanker (X) Endorsement](https://cdl-eldt.hazwoperosha.us/#course-493): $129.99 per person, 5 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Parts 171-180. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=493. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-hazmat-and-tank-vehicle-x-endorsement
+- [CDL Entry Level Driver Training (ELDT) – Class B to Class A Upgrade](https://cdl-eldt.hazwoperosha.us/#course-316): $129.99 per person, 12 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 380. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=316. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-eldt-class-b-to-class-a-upgrade-new
+- [CDL Entry Level Driver Training (ELDT) - Class A](https://cdl-eldt.hazwoperosha.us/#course-304): $159.99 per person, 15 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 380. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=304. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-a
+- [CDL Entry Level Driver Training (ELDT) - Class B](https://cdl-eldt.hazwoperosha.us/#course-309): $159.99 per person, 13 hours, English, certificate valid 48 months. In accordance with Federal Motor Carrier Safety Administration (FMCSA) and DOT Regulations 49 CFR Part 380. Enroll: https://cdl-eldt.hazwoperosha.us/checkout?course=309. Full syllabus: https://hazwoper-osha.com/online-courses/cdl-entry-level-driver-training-eldt-class-b-new
 
 ## Bundle
 
-All 8 courses in one order: https://cdl-eldt.onlinetrainingcourses.us/checkout?course=499,281,293,299,493,316,304,309
+All 8 courses in one order: https://cdl-eldt.hazwoperosha.us/checkout?course=499,281,293,299,493,316,304,309
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://cdl-eldt.hazwoperosha.us/about)
+- [Contact](https://cdl-eldt.hazwoperosha.us/contact)
+- [Privacy](https://cdl-eldt.hazwoperosha.us/privacy)
+- [Sitemap](https://cdl-eldt.hazwoperosha.us/sitemap.xml)

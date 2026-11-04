@@ -62,7 +62,7 @@ h1, h2, h3 { letter-spacing: -.035em; font-weight: 800; }
 .foot { padding: 56px 0 40px; }
 .foot-in { display: grid; grid-template-columns: 1fr 1.2fr 2fr 1.4fr; gap: 32px; font-size: 14px; }
 .foot-big { font: 800 160px/.8 var(--font); color: var(--red); letter-spacing: -.08em; }
-.foot h4 { font-size: 13px; margin: 0 0 12px; }
+.foot h2 { font-size: 13px; margin: 0 0 12px; }
 .foot a { display: block; text-decoration: none; padding: 3px 0; }
 .foot a:hover { color: var(--red); }
 .foot p { color: var(--muted); }

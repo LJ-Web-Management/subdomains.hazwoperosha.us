@@ -2,7 +2,7 @@
 export default {
   brand: "Quick Reference",
   logo: `<span class="qr-plus">+</span>Quick Reference`,
-  title: "Contingency Plan Quick Reference Guide Builder & Emergency Coordinator Training | Quick Reference",
+  title: "RCRA Quick Reference Guide Builder & Emergency Coordinator | Quick Reference",
   description: "Build a printable quick reference guide for your hazardous waste contingency plan, and train your emergency coordinators on their duties under the RCRA generator rules.",
   theme: "#c92a2a",
   fonts: "family=Schibsted+Grotesk:wght@400;600;800",

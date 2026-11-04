@@ -31,7 +31,7 @@ h1, h2, h3 { font-weight: 900; letter-spacing: -.02em; }
 .tpl .cc .meta { color: #7ea300; }
 .tpl .cc-foot b, .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: var(--fg); }
 .tpl .foot { background: var(--fg); color: #aaa; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .tpl .foot .tl-bars i { background: #fff; }
 .prose a { color: var(--fg); font-weight: 700; text-decoration-color: #7ea300; text-decoration-thickness: 3px; }
 @media (max-width: 700px) { .tl-panel article { grid-template-columns: 1fr; gap: 0; } .tpl .hc { margin-right: 0 !important; } }

@@ -1,0 +1,39 @@
+# RCRA Compliance Center
+
+> EPA RCRA hazardous waste training for generators: 40 CFR 262.17 generator training, annual refresher, manifests, satellite accumulation, universal waste and contingency planning.
+
+RCRA Compliance Center (https://rcra.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Generator Training, Generator Refresher, Manifest Training, Satellite Accumulation or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://rcra.hazwoperosha.us/index.md).
+
+## Courses
+
+- [RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The core RCRA training for hazardous waste generator personnel under 40 CFR 262.17. Enroll: https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $59.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual RCRA review for staff who completed initial generator training. Enroll: https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
+- [Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training): $34.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). How to prepare, sign and track the Uniform Hazardous Waste Manifest and e-Manifest. Enroll: https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
+- [Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Running satellite accumulation areas at the point of generation under 40 CFR 262.15. Enroll: https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
+- [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. Contingency plans and the emergency coordinator role for LQGs and TSDFs. Enroll: https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
+- [RCRA Universal Waste Handler Training](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Managing batteries, lamps, mercury equipment, pesticides and aerosol cans under 40 CFR 273. Enroll: https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): $149.99 per seat, 8 Hours, RCRA + 49 CFR 172. One course for generator staff who also prepare hazardous materials shipments under DOT. Enroll: https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=403
+
+## Guides
+
+- [RCRA training requirements by generator category](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category): What VSQGs, SQGs and LQGs must train, how often, and what records inspectors ask for.
+- [Satellite accumulation areas: the rules inspectors check first](https://rcra.hazwoperosha.us/guides/satellite-accumulation-area-rules): Satellite areas are small, scattered and run by people who aren't waste specialists. That's why they're cited so often.
+- [What you're certifying when you sign a hazardous waste manifest](https://rcra.hazwoperosha.us/guides/signing-a-hazardous-waste-manifest): The generator signature on the manifest is a legal certification. Here's what it means and how to protect it.
+
+## All trainings
+
+- [All 83 trainings](https://rcra.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About RCRA Compliance Center | HAZWOPER OSHA Training](https://rcra.hazwoperosha.us/about)
+- [Contact RCRA Compliance Center | HAZWOPER OSHA Training](https://rcra.hazwoperosha.us/contact)
+- [Privacy notice | RCRA Compliance Center](https://rcra.hazwoperosha.us/privacy)
+- [Sitemap](https://rcra.hazwoperosha.us/sitemap.xml)

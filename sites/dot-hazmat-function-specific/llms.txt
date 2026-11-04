@@ -4,22 +4,36 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs DOT Hazmat Function-Specific Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dot-hazmat-function-specific.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [DOT Hazmat Function Specific Training: Labeling](https://dot-hazmat-function-specific.onlinetrainingcourses.us/#course-157): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=157. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-labeling
-- [DOT Hazmat Function Specific Training: Markings](https://dot-hazmat-function-specific.onlinetrainingcourses.us/#course-156): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=156. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-markings
-- [DOT Hazmat Function Specific Training: Packaging](https://dot-hazmat-function-specific.onlinetrainingcourses.us/#course-155): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=155. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-packaging
-- [DOT Hazmat Function Specific Training: Placarding](https://dot-hazmat-function-specific.onlinetrainingcourses.us/#course-158): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=158. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-placarding
-- [DOT Hazmat Function Specific Training: Security Awareness](https://dot-hazmat-function-specific.onlinetrainingcourses.us/#course-163): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=163. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness
-- [DOT Hazmat Function Specific Training: Shipping Papers](https://dot-hazmat-function-specific.onlinetrainingcourses.us/#course-154): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=154. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers
-- [DOT Hazmat Function Specific Training: The Hazmat Table](https://dot-hazmat-function-specific.onlinetrainingcourses.us/#course-153): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=153. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-the-hazmat-table
+- [DOT Hazmat Function Specific Training: Labeling](https://dot-hazmat-function-specific.hazwoperosha.us/#course-157): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=157. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-labeling
+- [DOT Hazmat Function Specific Training: Markings](https://dot-hazmat-function-specific.hazwoperosha.us/#course-156): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=156. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-markings
+- [DOT Hazmat Function Specific Training: Packaging](https://dot-hazmat-function-specific.hazwoperosha.us/#course-155): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=155. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-packaging
+- [DOT Hazmat Function Specific Training: Placarding](https://dot-hazmat-function-specific.hazwoperosha.us/#course-158): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=158. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-placarding
+- [DOT Hazmat Function Specific Training: Security Awareness](https://dot-hazmat-function-specific.hazwoperosha.us/#course-163): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=163. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-security-awareness
+- [DOT Hazmat Function Specific Training: Shipping Papers](https://dot-hazmat-function-specific.hazwoperosha.us/#course-154): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=154. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-shipping-papers
+- [DOT Hazmat Function Specific Training: The Hazmat Table](https://dot-hazmat-function-specific.hazwoperosha.us/#course-153): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with the DOT Hazardous Materials Regulations 49 CFR Part 172 Subpart H. Enroll: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=153. Full syllabus: https://hazwoper-osha.com/online-courses/dot-hazmat-function-specific-training-the-hazmat-table
 
 ## Bundle
 
-All 7 courses in one order: https://dot-hazmat-function-specific.onlinetrainingcourses.us/checkout?course=157,156,155,158,163,154,153
+All 7 courses in one order: https://dot-hazmat-function-specific.hazwoperosha.us/checkout?course=157,156,155,158,163,154,153
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://dot-hazmat-function-specific.hazwoperosha.us/about)
+- [Contact](https://dot-hazmat-function-specific.hazwoperosha.us/contact)
+- [Privacy](https://dot-hazmat-function-specific.hazwoperosha.us/privacy)
+- [Sitemap](https://dot-hazmat-function-specific.hazwoperosha.us/sitemap.xml)

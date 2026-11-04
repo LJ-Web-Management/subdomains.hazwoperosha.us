@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://incident-command.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://incident-command.hazwoperosha.us/sitemap.xml

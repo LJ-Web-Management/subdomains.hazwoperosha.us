@@ -1,0 +1,38 @@
+# Cal HAZWOPER
+
+> California HAZWOPER courses written for Cal/OSHA Title 8 section 5192: 40-hour, 24-hour, 8-hour refresher, TSDF and California RCRA hazardous waste training.
+
+Cal HAZWOPER (https://cal-osha.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Cal/OSHA 40-Hour, Cal/OSHA 24-Hour, Cal/OSHA 8-Hour Refresher, Cal/OSHA 24-Hr TSDF or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://cal-osha.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training): $219.99 per seat, 40 Hours, 8 CCR 5192(e). The 40-hour initial HAZWOPER for California workers, written to Title 8 section 5192 (2026 edition). Enroll: https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=577
+- [Cal/OSHA 24-Hour HAZWOPER Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 8 CCR 5192(e). The 24-hour initial HAZWOPER for California workers with limited or occasional site exposure. Enroll: https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=576
+- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 8 CCR 5192(e)(8). The annual 8-hour HAZWOPER refresher, written to Cal/OSHA Title 8. Enroll: https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training?buy=578
+- [Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training): $249.99 per seat, 24 Hours, 8 CCR 5192(p) / RCRA. The 24-hour initial training for California treatment, storage and disposal facility workers. Enroll: https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=575
+- [Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training): $109.99 per seat, 8 Hours, 8 CCR 5192(p)(8) / RCRA. The annual 8-hour refresher for California TSDF workers. Enroll: https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training?buy=579
+- [Cal/OSHA RCRA Hazardous Waste Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training): $49.99 per seat, 4 Hours, 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192. California hazardous waste generator training under Title 22, federal RCRA and Title 8. Enroll: https://cal-osha.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training?buy=1051
+
+## Guides
+
+- [Cal/OSHA vs federal OSHA HAZWOPER: what's different in California](https://cal-osha.hazwoperosha.us/guides/cal-osha-vs-federal-hazwoper): The training hours match, but the rule, the exposure limits and the agencies don't. Here's what changes when you work in California.
+- [California hazardous waste rules: DTSC, CUPAs and the waste federal EPA doesn't count](https://cal-osha.hazwoperosha.us/guides/california-hazardous-waste-dtsc-cupa): Why California generators manage more waste as hazardous, who inspects them and what staff need to know.
+- [Moving to a California job with an out-of-state HAZWOPER certificate](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper): Your 40-hour likely still counts. Here's what California employers check, and when a Cal/OSHA course is the smart move.
+
+## All trainings
+
+- [All 83 trainings](https://cal-osha.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Cal HAZWOPER | HAZWOPER OSHA Training](https://cal-osha.hazwoperosha.us/about)
+- [Contact Cal HAZWOPER | HAZWOPER OSHA Training](https://cal-osha.hazwoperosha.us/contact)
+- [Privacy notice | Cal HAZWOPER](https://cal-osha.hazwoperosha.us/privacy)
+- [Sitemap](https://cal-osha.hazwoperosha.us/sitemap.xml)

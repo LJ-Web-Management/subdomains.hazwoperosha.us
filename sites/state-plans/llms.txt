@@ -1,0 +1,37 @@
+# State Plan HAZWOPER
+
+> HAZWOPER training for workers in OSHA state-plan states: state-plan 8-hour refresher, federal refresher and Cal/OSHA 40-hour, 24-hour and refresher courses, with guides to state rules.
+
+State Plan HAZWOPER (https://state-plans.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs State-Plan Refresher, Federal 8-Hr Refresher, Cal/OSHA 40-Hour, Cal/OSHA 24-Hour or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://state-plans.hazwoperosha.us/index.md).
+
+## Courses
+
+- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): $84.99 per seat, 8 Hours, State-plan equivalents of federal OSHA standard (see parent course). The annual 8-hour HAZWOPER refresher with state-plan versions available. Enroll: https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The standard federal OSHA 8-hour refresher. Enroll: https://state-plans.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://state-plans.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training): $219.99 per seat, 40 Hours, 8 CCR 5192(e). The 40-hour initial HAZWOPER written to California's 8 CCR 5192. Enroll: https://state-plans.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=577
+- [Cal/OSHA 24-Hour HAZWOPER Training](https://state-plans.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 8 CCR 5192(e). The 24-hour HAZWOPER for California workers with limited exposure. Enroll: https://state-plans.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=576
+- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 8 CCR 5192(e)(8). The annual refresher written to Cal/OSHA Title 8. Enroll: https://state-plans.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training?buy=578
+
+## Guides
+
+- [Which states run their own OSHA plans?](https://state-plans.hazwoperosha.us/guides/which-states-have-osha-state-plans): About half the country is covered by a state-run OSHA program. A quick reference.
+- [States that wrote their own HAZWOPER rules](https://state-plans.hazwoperosha.us/guides/states-with-their-own-hazwoper-rules): California, Washington and Michigan each publish their own version. What's the same and what to watch for.
+- [Public employees and HAZWOPER](https://state-plans.hazwoperosha.us/guides/public-employees-and-hazwoper): City crews, county hazmat teams and state road workers: who covers them depends on where they work.
+
+## All trainings
+
+- [All 83 trainings](https://state-plans.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About State Plan HAZWOPER | HAZWOPER OSHA Training](https://state-plans.hazwoperosha.us/about)
+- [Contact State Plan HAZWOPER | HAZWOPER OSHA Training](https://state-plans.hazwoperosha.us/contact)
+- [Privacy notice | State Plan HAZWOPER](https://state-plans.hazwoperosha.us/privacy)
+- [Sitemap](https://state-plans.hazwoperosha.us/sitemap.xml)

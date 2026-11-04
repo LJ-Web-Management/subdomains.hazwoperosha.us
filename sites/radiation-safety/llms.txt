@@ -4,17 +4,31 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs NORM & Radiation Safety Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://radiation-safety.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [Radiofrequency (RF) Safety and Hazard Awareness Training](https://radiation-safety.onlinetrainingcourses.us/#course-466): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://radiation-safety.onlinetrainingcourses.us/checkout?course=466. Full syllabus: https://hazwoper-osha.com/online-courses/radiofrequency-rf-safety-and-hazard-awareness-training
-- [NORM Worker Safety Training](https://radiation-safety.onlinetrainingcourses.us/#course-576): $179.99 per person, 8 hours, English, certificate valid 12 months. In accordance with IAEA GSR Part 3 and IAEA Safety Guide GSG-7, and Federal OSHA Regulations 29 CFR 1910.1096. Enroll: https://radiation-safety.onlinetrainingcourses.us/checkout?course=576. Full syllabus: https://hazwoper-osha.com/online-courses/norm-worker-safety-training
+- [Radiofrequency (RF) Safety and Hazard Awareness Training](https://radiation-safety.hazwoperosha.us/#course-466): $47.99 per person, 1 hour, English, certificate valid 36 months. Enroll: https://radiation-safety.hazwoperosha.us/checkout?course=466. Full syllabus: https://hazwoper-osha.com/online-courses/radiofrequency-rf-safety-and-hazard-awareness-training
+- [NORM Worker Safety Training](https://radiation-safety.hazwoperosha.us/#course-576): $179.99 per person, 8 hours, English, certificate valid 12 months. In accordance with IAEA GSR Part 3 and IAEA Safety Guide GSG-7, and Federal OSHA Regulations 29 CFR 1910.1096. Enroll: https://radiation-safety.hazwoperosha.us/checkout?course=576. Full syllabus: https://hazwoper-osha.com/online-courses/norm-worker-safety-training
 
 ## Bundle
 
-All 2 courses in one order: https://radiation-safety.onlinetrainingcourses.us/checkout?course=466,576
+All 2 courses in one order: https://radiation-safety.hazwoperosha.us/checkout?course=466,576
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://radiation-safety.hazwoperosha.us/about)
+- [Contact](https://radiation-safety.hazwoperosha.us/contact)
+- [Privacy](https://radiation-safety.hazwoperosha.us/privacy)
+- [Sitemap](https://radiation-safety.hazwoperosha.us/sitemap.xml)

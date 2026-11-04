@@ -68,7 +68,7 @@
 .foot { margin-top: 0; padding-top: 56px; border-top: 1px solid var(--line); }
 .final + * { margin-top: 0; }
 .foot-in { display: grid; grid-template-columns: 2fr 1.4fr 1fr; gap: 40px; font-size: 15px; color: var(--muted); }
-.foot h4 { font: 700 16px var(--head-font); text-transform: uppercase; letter-spacing: .1em; color: var(--fg); margin: 0 0 12px; }
+.foot h2 { font: 700 16px var(--head-font); text-transform: uppercase; letter-spacing: .1em; color: var(--fg); margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 .foot a:hover { color: var(--accent); }
 

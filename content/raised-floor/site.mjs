@@ -2,7 +2,7 @@
 export default {
   brand: "Under Floor",
   logo: `<span class="uf-tile"></span>Under Floor`,
-  title: "Raised Floor Safety, Confined Space Awareness & Ergonomics for Data Centers | Under Floor",
+  title: "Raised Floor & Confined Space Safety for Data Centers | Under Floor",
   description: "Safety training for data center floor work: raised floor and confined space awareness, server room ergonomics and manual handling, and data center electrical safety.",
   theme: "#495057",
   fonts: "family=Manrope:wght@400;600;800",

@@ -23,5 +23,5 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -.01em; }
 .guide-card { border-radius: 2px; }
 .guide-card .guide-card-cta, .eyebrow, .eyebrow a, .buy-price, .course-row-price { color: var(--accent); }
 .tpl .foot { background: #0d1d3a; color: #a8b6d1; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .prose a { color: var(--accent); font-weight: 500; }

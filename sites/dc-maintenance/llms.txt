@@ -1,0 +1,36 @@
+# Work Order
+
+> Maintenance training for data center facility teams: preventive maintenance planning, mechanical systems, building maintenance, building envelope and roofing systems.
+
+Work Order (https://dc-maintenance.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Preventive Maintenance Planning, Mechanical Systems Maintenance, Building Maintenance Fundamentals, Building Envelope Fundamentals or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-maintenance.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Preventive Maintenance Planning](https://dc-maintenance.hazwoperosha.us/courses/preventive-maintenance-planning): $99.99 per seat, 4 Hours. Reduce emergency repairs with a structured preventive maintenance program. Enroll: https://dc-maintenance.hazwoperosha.us/courses/preventive-maintenance-planning?buy=839
+- [Mechanical Systems & Equipment Maintenance](https://dc-maintenance.hazwoperosha.us/courses/mechanical-systems-maintenance): $99.99 per seat, 4 Hours. Hands-on mechanical maintenance — piping, chillers, and vibration diagnostics. Enroll: https://dc-maintenance.hazwoperosha.us/courses/mechanical-systems-maintenance?buy=838
+- [Building Maintenance Fundamentals](https://dc-maintenance.hazwoperosha.us/courses/building-maintenance-fundamentals): $99.99 per seat, 4 Hours. Core building maintenance fundamentals for facilities teams supporting critical infrastructure. Enroll: https://dc-maintenance.hazwoperosha.us/courses/building-maintenance-fundamentals?buy=1097
+- [Building Envelope Fundamentals](https://dc-maintenance.hazwoperosha.us/courses/building-envelope-fundamentals): $99.99 per seat, 2 Hours. Understand how a facility's building envelope drives cooling load and energy cost. Enroll: https://dc-maintenance.hazwoperosha.us/courses/building-envelope-fundamentals?buy=1096
+- [Roofing Systems Maintenance Fundamentals](https://dc-maintenance.hazwoperosha.us/courses/roofing-systems-maintenance-fundamentals): $99.99 per seat, 2 Hours. Preventive roofing maintenance to protect the facility below it. Enroll: https://dc-maintenance.hazwoperosha.us/courses/roofing-systems-maintenance-fundamentals?buy=1101
+
+## Guides
+
+- [Building a preventive maintenance program](https://dc-maintenance.hazwoperosha.us/guides/building-a-pm-program): From an asset list to a schedule people actually follow.
+- [Roof and envelope checks for data centers](https://dc-maintenance.hazwoperosha.us/guides/roof-and-envelope-checks): Water is a data center's enemy. Start at the top.
+
+## All trainings
+
+- [All 83 trainings](https://dc-maintenance.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Work Order | HAZWOPER OSHA Training](https://dc-maintenance.hazwoperosha.us/about)
+- [Contact Work Order | HAZWOPER OSHA Training](https://dc-maintenance.hazwoperosha.us/contact)
+- [Privacy notice | Work Order](https://dc-maintenance.hazwoperosha.us/privacy)
+- [Sitemap](https://dc-maintenance.hazwoperosha.us/sitemap.xml)

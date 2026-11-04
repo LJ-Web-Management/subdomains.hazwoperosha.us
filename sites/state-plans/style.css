@@ -54,7 +54,7 @@ h1, h2, h3 { font-weight: 400; }
 .foot { background: var(--fg); color: #d8ccb2; padding: 56px 0 40px; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
 .foot .logo { color: #f2b066; }
-.foot h4 { font: 400 18px var(--head-font); color: #f2e6cc; margin: 0 0 12px; }
+.foot h2 { font: 400 18px var(--head-font); color: #f2e6cc; margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .eyebrow, .eyebrow a { color: var(--pine); font-weight: 700; }

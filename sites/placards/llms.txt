@@ -1,0 +1,35 @@
+# Placard ID
+
+> Explore the nine DOT hazard classes and their placards, with examples, then train on RCRA and DOT hazmat shipping, manifests and emergency response.
+
+Placard ID (https://placards.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs RCRA/DOT Combined Compliance, Hazardous Waste Manifest, First Responder Awareness, 40-Hour Fire/Hazmat Teams training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://placards.hazwoperosha.us/index.md).
+
+## Courses
+
+- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): $149.99 per seat, 8 Hours, RCRA + 49 CFR 172. Hazmat shipping and hazardous waste rules together. Enroll: https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=403
+- [Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training): $34.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). The shipping paper for hazardous waste. Enroll: https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize, isolate, notify: using placards and the ERG. Enroll: https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Full HAZWOPER for hazmat response teams. Enroll: https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=589
+
+## Guides
+
+- [Using the Emergency Response Guidebook (ERG)](https://placards.hazwoperosha.us/guides/using-the-erg): From placard to protective actions in under a minute.
+- [When is a placard required?](https://placards.hazwoperosha.us/guides/when-is-a-placard-required): The basics of placarding hazardous waste and hazmat shipments.
+
+## All trainings
+
+- [All 83 trainings](https://placards.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Placard ID | HAZWOPER OSHA Training](https://placards.hazwoperosha.us/about)
+- [Contact Placard ID | HAZWOPER OSHA Training](https://placards.hazwoperosha.us/contact)
+- [Privacy notice | Placard ID](https://placards.hazwoperosha.us/privacy)
+- [Sitemap](https://placards.hazwoperosha.us/sitemap.xml)

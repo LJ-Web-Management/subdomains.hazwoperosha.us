@@ -18,5 +18,5 @@ h1, h2, h3 { font-weight: 800; letter-spacing: -.02em; }
 .tpl .sec-guides { background: linear-gradient(180deg, #f2fbfe, #fff0f3); }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: var(--accent); }
 .tpl .foot { background: var(--fg); color: #9fc3d6; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #fff; }
+.tpl .foot .logo, .tpl .foot h2 { color: #fff; }
 .prose a { color: var(--accent); font-weight: 600; }

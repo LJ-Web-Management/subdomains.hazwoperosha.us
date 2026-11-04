@@ -11,7 +11,7 @@ const TRACKS = [
 export default {
   brand: "DC Career Lines",
   logo: `<span class="cl-lines"><i></i><i></i><i></i></span>DC Career Lines`,
-  title: "Data Center Careers: Training Tracks for Technicians & Engineers | DC Career Lines",
+  title: "Data Center Careers: Training for Technicians & Engineers | DC Career Lines",
   description: "Map your data center career: six training tracks from entry-level technician safety courses to engineering and management, with courses you can enroll in today.",
   theme: "#264653",
   fonts: "family=Overpass:wght@400;600;800;900",

@@ -52,7 +52,7 @@ h1, h2, h3 { font-weight: 400; letter-spacing: .03em; }
 
 .foot { background: var(--fg); color: #ddd; padding: 56px 0 40px; font-weight: 400; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
-.foot h4 { font: 400 24px var(--head-font); color: var(--yellow); letter-spacing: .05em; margin: 0 0 12px; }
+.foot h2 { font: 400 24px var(--head-font); color: var(--yellow); letter-spacing: .05em; margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 
 .eyebrow, .eyebrow a { color: var(--accent); }

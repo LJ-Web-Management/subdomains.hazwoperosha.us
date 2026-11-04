@@ -1,0 +1,35 @@
+# Spill Kit Sizer
+
+> Answer four questions and get a spill kit recommendation: universal, oil-only or hazmat, the absorbent capacity you need, and extras like drain covers, booms and neutralizers.
+
+Spill Kit Sizer (https://spill-kit-sizer.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Spill Kit Selection & Use, Spill Prevention & Response, Booms, Awareness training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://spill-kit-sizer.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Choosing, placing and using spill kits. Enroll: https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
+- [OSHA Spill Prevention and Response Safety Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing spills and responding safely. Enroll: https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [Spill Response Equipment - Absorbent & Containment Booms](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Using booms near drains and water. Enroll: https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=478
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Knowing when a spill is too big for the kit. Enroll: https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [Where to put spill kits](https://spill-kit-sizer.hazwoperosha.us/guides/where-to-put-spill-kits): A spill kit across the building doesn't help. Placement rules that work.
+- [Spill kit inspection checklist](https://spill-kit-sizer.hazwoperosha.us/guides/spill-kit-inspection-checklist): A monthly two-minute check that keeps kits ready.
+
+## All trainings
+
+- [All 83 trainings](https://spill-kit-sizer.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Spill Kit Sizer | HAZWOPER OSHA Training](https://spill-kit-sizer.hazwoperosha.us/about)
+- [Contact Spill Kit Sizer | HAZWOPER OSHA Training](https://spill-kit-sizer.hazwoperosha.us/contact)
+- [Privacy notice | Spill Kit Sizer](https://spill-kit-sizer.hazwoperosha.us/privacy)
+- [Sitemap](https://spill-kit-sizer.hazwoperosha.us/sitemap.xml)

@@ -1,0 +1,38 @@
+# OilfieldHAZ
+
+> HAZWOPER and spill response training for upstream and midstream oil and gas crews: 40-hour oil & gas spill response, gas detection, spill prevention, booms and the annual refresher.
+
+OilfieldHAZ (https://oil-gas.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40 Hr Oil & Gas Spill, Gas Detection, Spill Prevention & Response, Booms or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://oil-gas.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for crews who respond to crude, condensate, fuel and produced-water spills. Enroll: https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591
+- [OSHA Air Monitoring and Gas Detection Training](https://oil-gas.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Using multi-gas meters and PIDs to stay out of H2S, LEL and low-oxygen atmospheres. Enroll: https://oil-gas.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [OSHA Spill Prevention and Response Safety Training](https://oil-gas.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to oil spills at production and storage sites under SPCC and OSHA. Enroll: https://oil-gas.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [Spill Response Equipment - Absorbent & Containment Booms](https://oil-gas.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Absorbent and containment booms for ditches, creeks and ponds near well sites. Enroll: https://oil-gas.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=478
+- [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for pipeline and gathering-system crews who respond to releases. Enroll: https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=592
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://oil-gas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour HAZWOPER refresher. Enroll: https://oil-gas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+
+## Guides
+
+- [H2S and benzene on oilfield spill cleanups](https://oil-gas.hazwoperosha.us/guides/h2s-and-benzene-on-spill-cleanups): The two exposures that turn a routine spill into a medical emergency, and how crews stay ahead of them.
+- [Does HAZWOPER apply in the oilfield?](https://oil-gas.hazwoperosha.us/guides/does-hazwoper-apply-in-the-oilfield): Routine production work usually isn't HAZWOPER. Spill cleanup and emergency response often are.
+- [Produced water spills: why they're harder than oil](https://oil-gas.hazwoperosha.us/guides/produced-water-spills): Saltwater spills kill vegetation, sterilize soil and travel fast. Response has to be quick and thorough.
+
+## All trainings
+
+- [All 83 trainings](https://oil-gas.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About OilfieldHAZ | HAZWOPER OSHA Training](https://oil-gas.hazwoperosha.us/about)
+- [Contact OilfieldHAZ | HAZWOPER OSHA Training](https://oil-gas.hazwoperosha.us/contact)
+- [Privacy notice | OilfieldHAZ](https://oil-gas.hazwoperosha.us/privacy)
+- [Sitemap](https://oil-gas.hazwoperosha.us/sitemap.xml)

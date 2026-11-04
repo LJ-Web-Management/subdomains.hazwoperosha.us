@@ -1,0 +1,38 @@
+# DEMO/HAZ
+
+> HAZWOPER training for demolition crews on contaminated sites: 40-hour construction, 24-hour, supervisor, gas detection, PPE and decon, with guides to pre-demolition surveys and dust control.
+
+DEMO/HAZ (https://demolition.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40 Hr Construction, 24-Hour HAZWOPER, Supervisor, Gas Detection or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://demolition.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://demolition.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for construction and demolition on contaminated sites. Enroll: https://demolition.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites?buy=588
+- [OSHA 24 Hour HAZWOPER Training](https://demolition.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The 24-hour HAZWOPER for limited-exposure crew members. Enroll: https://demolition.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://demolition.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8-hour supervisor course for demo foremen and superintendents. Enroll: https://demolition.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA Air Monitoring and Gas Detection Training](https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Monitoring pits, sumps, tanks and basements before and during demolition. Enroll: https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). A 15-minute module on PPE levels. Enroll: https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute decon module. Enroll: https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+
+## Guides
+
+- [Pre-demolition surveys and hazardous materials removal](https://demolition.hazwoperosha.us/guides/pre-demolition-surveys): What has to come out of a building before the excavator goes in.
+- [Dust control on contaminated demolition sites](https://demolition.hazwoperosha.us/guides/demolition-dust-control): On contaminated sites, dust carries contaminants to workers and neighbors. Controls that work.
+- [Demolishing old industrial plants: what you'll find](https://demolition.hazwoperosha.us/guides/demolishing-old-industrial-plants): Pits, tanks, residue-filled pipes and stained floors. Hazards specific to industrial teardown.
+
+## All trainings
+
+- [All 83 trainings](https://demolition.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About DEMO/HAZ | HAZWOPER OSHA Training](https://demolition.hazwoperosha.us/about)
+- [Contact DEMO/HAZ | HAZWOPER OSHA Training](https://demolition.hazwoperosha.us/contact)
+- [Privacy notice | DEMO/HAZ](https://demolition.hazwoperosha.us/privacy)
+- [Sitemap](https://demolition.hazwoperosha.us/sitemap.xml)

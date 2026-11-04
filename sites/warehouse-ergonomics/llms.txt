@@ -4,21 +4,35 @@
 
 Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
+## When to use this site
+
+- Use it when someone needs Warehouse Safety, Machine Guarding & Ergonomics Training and wants to compare the courses, prices and lengths, or enroll.
+- Each course entry below lists the price per seat, the length, the regulation it follows and an enroll link that opens the checkout.
+- For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://warehouse-ergonomics.hazwoperosha.us/index.md).
+
 ## Courses
 
-- [Back Safety and Injury Prevention Training](https://warehouse-ergonomics.onlinetrainingcourses.us/#course-296): $29.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and NIOSH Guidelines and the OSHA General Duty Clause. Enroll: https://warehouse-ergonomics.onlinetrainingcourses.us/checkout?course=296. Full syllabus: https://hazwoper-osha.com/online-courses/back-safety-and-injury-prevention-training
-- [OSHA Noise Exposure and Hearing Conservation Training](https://warehouse-ergonomics.onlinetrainingcourses.us/#course-519): $29.99 per person, 1 hour, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1926.52 and 29 CFR 1910.95. Enroll: https://warehouse-ergonomics.onlinetrainingcourses.us/checkout?course=519. Full syllabus: https://hazwoper-osha.com/online-courses/osha-noise-exposure-and-hearing-conservation-training
-- [Ergonomics Safety Training](https://warehouse-ergonomics.onlinetrainingcourses.us/#course-269): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and NIOSH Guidelines. Enroll: https://warehouse-ergonomics.onlinetrainingcourses.us/checkout?course=269. Full syllabus: https://hazwoper-osha.com/online-courses/ergonomics-safety-training
-- [OSHA Compressed Gas Cylinder Safety Training](https://warehouse-ergonomics.onlinetrainingcourses.us/#course-486): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Standards 29 CFR 1910.101 and 29 CFR 1926.350. Enroll: https://warehouse-ergonomics.onlinetrainingcourses.us/checkout?course=486. Full syllabus: https://hazwoper-osha.com/online-courses/osha-compressed-gas-cylinder-safety-training
-- [OSHA Machine Guarding Safety Training](https://warehouse-ergonomics.onlinetrainingcourses.us/#course-362): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulation 29 CFR 1910 Subpart O. Enroll: https://warehouse-ergonomics.onlinetrainingcourses.us/checkout?course=362. Full syllabus: https://hazwoper-osha.com/online-courses/osha-machine-guarding-safety-training-new
-- [OSHA Warehouse Safety Training](https://warehouse-ergonomics.onlinetrainingcourses.us/#course-559): $133.99 per person, 14 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910 for General Industry and OSHA’s General Duty Clause. Enroll: https://warehouse-ergonomics.onlinetrainingcourses.us/checkout?course=559. Full syllabus: https://hazwoper-osha.com/online-courses/osha-warehouse-safety-training
+- [Back Safety and Injury Prevention Training](https://warehouse-ergonomics.hazwoperosha.us/#course-296): $29.99 per person, 1 hour, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and NIOSH Guidelines and the OSHA General Duty Clause. Enroll: https://warehouse-ergonomics.hazwoperosha.us/checkout?course=296. Full syllabus: https://hazwoper-osha.com/online-courses/back-safety-and-injury-prevention-training
+- [OSHA Noise Exposure and Hearing Conservation Training](https://warehouse-ergonomics.hazwoperosha.us/#course-519): $29.99 per person, 1 hour, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1926.52 and 29 CFR 1910.95. Enroll: https://warehouse-ergonomics.hazwoperosha.us/checkout?course=519. Full syllabus: https://hazwoper-osha.com/online-courses/osha-noise-exposure-and-hearing-conservation-training
+- [Ergonomics Safety Training](https://warehouse-ergonomics.hazwoperosha.us/#course-269): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA and NIOSH Guidelines. Enroll: https://warehouse-ergonomics.hazwoperosha.us/checkout?course=269. Full syllabus: https://hazwoper-osha.com/online-courses/ergonomics-safety-training
+- [OSHA Compressed Gas Cylinder Safety Training](https://warehouse-ergonomics.hazwoperosha.us/#course-486): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Standards 29 CFR 1910.101 and 29 CFR 1926.350. Enroll: https://warehouse-ergonomics.hazwoperosha.us/checkout?course=486. Full syllabus: https://hazwoper-osha.com/online-courses/osha-compressed-gas-cylinder-safety-training
+- [OSHA Machine Guarding Safety Training](https://warehouse-ergonomics.hazwoperosha.us/#course-362): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with Federal OSHA Regulation 29 CFR 1910 Subpart O. Enroll: https://warehouse-ergonomics.hazwoperosha.us/checkout?course=362. Full syllabus: https://hazwoper-osha.com/online-courses/osha-machine-guarding-safety-training-new
+- [OSHA Warehouse Safety Training](https://warehouse-ergonomics.hazwoperosha.us/#course-559): $133.99 per person, 14 hours, English, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910 for General Industry and OSHA’s General Duty Clause. Enroll: https://warehouse-ergonomics.hazwoperosha.us/checkout?course=559. Full syllabus: https://hazwoper-osha.com/online-courses/osha-warehouse-safety-training
 
 ## Bundle
 
-All 6 courses in one order: https://warehouse-ergonomics.onlinetrainingcourses.us/checkout?course=296,519,269,486,362,559
+All 6 courses in one order: https://warehouse-ergonomics.hazwoperosha.us/checkout?course=296,519,269,486,362,559
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://hazwoper-osha.com/online-courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact
+
+## Site
+
+- [About](https://warehouse-ergonomics.hazwoperosha.us/about)
+- [Contact](https://warehouse-ergonomics.hazwoperosha.us/contact)
+- [Privacy](https://warehouse-ergonomics.hazwoperosha.us/privacy)
+- [Sitemap](https://warehouse-ergonomics.hazwoperosha.us/sitemap.xml)

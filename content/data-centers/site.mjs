@@ -115,7 +115,7 @@ EPA's Spill Prevention, Control and Countermeasure rule (40 CFR Part 112) applie
 - Train staff on the SPCC plan. See [[416]].`,
     },
     {
-      slug: "other-chemicals-in-the-data-center",
+      slug: "other-chemicals-in-the-data-center", seoTitle: "Refrigerants, glycol and clean agents in data centers",
       title: "Refrigerants, glycol and clean agents: other chemicals in the data center",
       description: "Cooling and fire suppression systems bring their own hazards. A quick overview.",
       date: "2026-10-25",

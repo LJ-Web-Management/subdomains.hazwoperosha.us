@@ -2,7 +2,7 @@
 export default {
   brand: "Clean Agent",
   logo: `<span class="cg-cyl"></span>Clean Agent`,
-  title: "Clean Agent Fire Suppression Safety Training for Data Centers (NFPA 2001) | Clean Agent",
+  title: "Clean Agent Fire Suppression Training for Data Centers | Clean Agent",
   description: "Training on data center clean agent fire suppression: FM-200, Novec 1230 and inert gas systems, discharge safety, abort switches, lockouts and EPO, built around NFPA 2001.",
   theme: "#c1121f",
   fonts: "family=Red+Hat+Display:wght@500;700;900",

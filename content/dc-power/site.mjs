@@ -2,7 +2,7 @@
 export default {
   brand: "One-Line Power",
   logo: `<span class="ol-bolt">⚡</span>ONE-LINE POWER`,
-  title: "Data Center Power Systems Training: Electrical, UPS, Distribution & Standby | One-Line Power",
+  title: "Data Center Power Systems Training: UPS & Standby Power | One-Line Power",
   description: "Power training for data center electrical teams: power systems fundamentals, power distribution, emergency and standby power, UPS operations and electrical safety.",
   theme: "#ffd60a",
   fonts: "family=Barlow+Condensed:wght@600;800&family=Barlow:wght@400;500;600",

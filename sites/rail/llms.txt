@@ -1,0 +1,38 @@
+# Rail Hazmat
+
+> Hazmat training for rail incidents: first responder awareness, fire/hazmat 40-hour, incident command, spill response, booms and responder refresher, with guides to tank cars and rail emergency response.
+
+Rail Hazmat (https://rail.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs First Responder Awareness, 40 Hr Fire / Hazmat, Incident Command, Spill Response or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://rail.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://rail.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a rail hazmat release, isolate the area and notify. Enroll: https://rail.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for fire and hazmat teams who also do post-incident cleanup. Enroll: https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=589
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://rail.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for rail emergencies. Enroll: https://rail.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [OSHA Spill Prevention and Response Safety Training](https://rail.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Spill prevention and response at rail yards and transload facilities. Enroll: https://rail.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [Spill Response Equipment - Absorbent & Containment Booms](https://rail.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Booms for spills near creeks, rivers and ditches along the right-of-way. Enroll: https://rail.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=478
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://rail.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $159.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). Annual refresher for responders and incident commanders. Enroll: https://rail.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
+
+## Guides
+
+- [First on scene at a rail hazmat incident](https://rail.hazwoperosha.us/guides/rail-hazmat-incident-first-responder): A derailment or leaking car is a high-stakes scene. What the first responder does in the first minutes.
+- [Tank cars 101 for responders](https://rail.hazwoperosha.us/guides/tank-cars-for-responders): What you can learn from a tank car before you get close to it.
+- [Railroad employees and HAZWOPER](https://rail.hazwoperosha.us/guides/railroad-employees-and-hazwoper): Which rail workers need which level of hazmat training.
+
+## All trainings
+
+- [All 83 trainings](https://rail.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Rail Hazmat | HAZWOPER OSHA Training](https://rail.hazwoperosha.us/about)
+- [Contact Rail Hazmat | HAZWOPER OSHA Training](https://rail.hazwoperosha.us/contact)
+- [Privacy notice | Rail Hazmat](https://rail.hazwoperosha.us/privacy)
+- [Sitemap](https://rail.hazwoperosha.us/sitemap.xml)

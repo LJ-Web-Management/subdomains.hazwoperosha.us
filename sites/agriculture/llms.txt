@@ -1,0 +1,38 @@
+# FarmSafe Hazmat
+
+> Training for farms, co-ops and ag retailers: first responder awareness, spill prevention, ammonia handling refresher, gas detection, spill kits and universal waste, with anhydrous ammonia, pesticide spill and fuel storage guides.
+
+FarmSafe Hazmat (https://agriculture.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Awareness, Spill Prevention, Ammonia Refresher, Gas Detection or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://agriculture.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a chemical release, get clear and call for help. Enroll: https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+- [OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to fuel, fertilizer and chemical spills. Enroll: https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training): $109.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8) / 1910.111. HAZWOPER refresher focused on anhydrous ammonia. Enroll: https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training?buy=598
+- [OSHA Air Monitoring and Gas Detection Training](https://agriculture.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Gas detection for bins, pits and manure storage. Enroll: https://agriculture.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
+- [Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Choosing and using spill kits. Enroll: https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
+- [RCRA Universal Waste Handler Training](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps and pesticides as universal waste. Enroll: https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
+
+## Guides
+
+- [Anhydrous ammonia on the farm: nurse tanks and hoses](https://agriculture.hazwoperosha.us/guides/anhydrous-ammonia-on-the-farm): Most farm ammonia injuries happen at connections and transfers. The essentials of handling it safely.
+- [Pesticide spills: the first 15 minutes](https://agriculture.hazwoperosha.us/guides/pesticide-spill-first-response): Control, contain, clean up. What to do when pesticide spills in the shed, the field or on the road.
+- [Fuel storage on farms: SPCC basics](https://agriculture.hazwoperosha.us/guides/farm-fuel-storage-spcc): Farms with enough aboveground fuel storage need a spill prevention plan. Here's when, and what it involves.
+
+## All trainings
+
+- [All 83 trainings](https://agriculture.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About FarmSafe Hazmat | HAZWOPER OSHA Training](https://agriculture.hazwoperosha.us/about)
+- [Contact FarmSafe Hazmat | HAZWOPER OSHA Training](https://agriculture.hazwoperosha.us/contact)
+- [Privacy notice | FarmSafe Hazmat](https://agriculture.hazwoperosha.us/privacy)
+- [Sitemap](https://agriculture.hazwoperosha.us/sitemap.xml)

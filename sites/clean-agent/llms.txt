@@ -1,0 +1,35 @@
+# Clean Agent
+
+> Training on data center clean agent fire suppression: FM-200, Novec 1230 and inert gas systems, discharge safety, abort switches, lockouts and EPO, built around NFPA 2001.
+
+Clean Agent (https://clean-agent.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs Clean Agent Fire Suppression Safety, Emergency Power Off (EPO), Incident Response & Troubleshooting, First Responder Awareness training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://clean-agent.hazwoperosha.us/index.md).
+
+## Courses
+
+- [Data Center Fire Suppression System Safety Training (Clean Agent Systems)](https://clean-agent.hazwoperosha.us/courses/data-center-fire-suppression-safety): $99.99 per seat, 2 Hours, NFPA 2001. Clean agent fire suppression safety for occupied data hall environments. Enroll: https://clean-agent.hazwoperosha.us/courses/data-center-fire-suppression-safety?buy=854
+- [Data Center Emergency Power Off (EPO) Procedures Training](https://clean-agent.hazwoperosha.us/courses/data-center-epo-procedures): $99.99 per seat, 1 Hour. Safe activation and reset procedures for data center Emergency Power Off systems. Enroll: https://clean-agent.hazwoperosha.us/courses/data-center-epo-procedures?buy=853
+- [Incident Response & Troubleshooting](https://clean-agent.hazwoperosha.us/courses/incident-response-troubleshooting): $99.99 per seat, 4 Hours. Systematic troubleshooting and root-cause analysis to cut MTTR. Enroll: https://clean-agent.hazwoperosha.us/courses/incident-response-troubleshooting?buy=837
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://clean-agent.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a hazardous release and get clear safely. Enroll: https://clean-agent.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [When the pre-discharge alarm sounds](https://clean-agent.hazwoperosha.us/guides/when-the-pre-discharge-alarm-sounds): You have seconds. Here's what to do and what not to do.
+- [Clean agent types: halocarbon vs inert gas](https://clean-agent.hazwoperosha.us/guides/clean-agent-types): How they work and the hazards of each.
+
+## All trainings
+
+- [All 83 trainings](https://clean-agent.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Clean Agent | HAZWOPER OSHA Training](https://clean-agent.hazwoperosha.us/about)
+- [Contact Clean Agent | HAZWOPER OSHA Training](https://clean-agent.hazwoperosha.us/contact)
+- [Privacy notice | Clean Agent](https://clean-agent.hazwoperosha.us/privacy)
+- [Sitemap](https://clean-agent.hazwoperosha.us/sitemap.xml)

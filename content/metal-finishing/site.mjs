@@ -2,7 +2,7 @@
 export default {
   brand: "PlateLine",
   logo: `PLATE<span>LINE</span>`,
-  title: "Hazardous Waste Training for Electroplating & Metal Finishing | PlateLine",
+  title: "Hazardous Waste Training for Plating & Metal Finishing | PlateLine",
   description: "Training for electroplating, anodizing and metal finishing shops: RCRA generator and refresher, satellite accumulation, plant ERT, awareness and contingency planning, with F006, cyanide and pretreatment guides.",
   theme: "#5b6672",
   fonts: "family=Michroma&family=Inter:wght@400;500;600;700",

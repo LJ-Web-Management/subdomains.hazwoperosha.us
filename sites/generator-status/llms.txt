@@ -1,0 +1,36 @@
+# Generator Status
+
+> Work out your RCRA hazardous waste generator category from your monthly waste amounts, see the accumulation limits that apply, and train your staff on generator rules.
+
+Generator Status (https://generator-status.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs RCRA Generator Training, RCRA Generator Refresher, Satellite Accumulation Areas, Contingency Plan & Emergency Coordinator or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://generator-status.hazwoperosha.us/index.md).
+
+## Courses
+
+- [RCRA Hazardous Waste Generator Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The full generator course: determinations, accumulation, manifests and training. Enroll: https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Refresher Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $59.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual refresher for LQG personnel and anyone who needs an update. Enroll: https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
+- [Hazardous Waste Satellite Accumulation Area Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Rules for waste collected at the point of generation. Enroll: https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
+- [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. Contingency plans and the emergency coordinator role for LQGs. Enroll: https://generator-status.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
+- [Hazardous Waste Manifest Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training): $34.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). Filling out and tracking the manifest for every shipment. Enroll: https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
+
+## Guides
+
+- [Counting your hazardous waste correctly](https://generator-status.hazwoperosha.us/guides/counting-hazardous-waste): What counts toward your monthly total, and what doesn't.
+- [When your category changes for a month: episodic generation](https://generator-status.hazwoperosha.us/guides/episodic-generation): A cleanout or a spill can bump you up a category. Here's how the episodic rule works.
+
+## All trainings
+
+- [All 83 trainings](https://generator-status.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Generator Status | HAZWOPER OSHA Training](https://generator-status.hazwoperosha.us/about)
+- [Contact Generator Status | HAZWOPER OSHA Training](https://generator-status.hazwoperosha.us/contact)
+- [Privacy notice | Generator Status](https://generator-status.hazwoperosha.us/privacy)
+- [Sitemap](https://generator-status.hazwoperosha.us/sitemap.xml)

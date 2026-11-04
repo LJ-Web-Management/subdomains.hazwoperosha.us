@@ -30,6 +30,7 @@ export default {
 <label>Where could it flow?<select id="szLoc"><option value="in">Indoors, no floor drains</option><option value="drain">Near floor drains or storm drains</option><option value="water">Outdoors near ditches, streams or water</option></select></label>
 <label>Indoors or out?<select id="szExp"><option value="0">Indoors / covered</option><option value="1">Outdoors, exposed to rain</option></select></label>
 </form>
+<h2 class="vh">Your spill kit recommendation</h2>
 <div class="sz-out" aria-live="polite"></div>
 </div>
 <p class="sz-note">A starting point only. Size kits to your largest likely spill, check product compatibility with the SDS and follow your SPCC or spill plan where you have one.</p>
@@ -49,7 +50,7 @@ export default {
     if (loc.value === "water") extras.unshift("Absorbent booms long enough to ring the area or block the ditch");
     if (l.value === "chem") extras.unshift("Acid and base neutralizers matched to your chemicals", "Chemical-resistant gloves and apron rated for the products (check the SDS)");
     var kit = cap ? cap + "-gallon kit (wheeled bin or drum for 30+ gallons)" : "Multiple kits or a bulk spill station: your largest container (" + gal + " gal) exceeds standard kit sizes";
-    outEl.innerHTML = '<p class="k">Recommended</p><h3></h3><p class="t"></p><p class="k">Add</p><ul></ul><p class="k">Train your staff</p><a class="btn" href="?buy=479" data-buy="479">Spill kit course · $24.99</a>';
+    outEl.innerHTML = '<p class="k">Recommended</p><h3></h3><p class="t"></p><p class="k">Add</p><ul></ul><p class="k">Train your staff</p><a class="btn" rel="nofollow" href="?buy=479" data-buy="479">Spill kit course · $24.99</a>';
     outEl.querySelector("h3").textContent = kit; outEl.querySelector(".t").textContent = type;
     var ul = outEl.querySelector("ul"); extras.forEach(function (e) { var li = document.createElement("li"); li.textContent = e; ul.appendChild(li); });
   }

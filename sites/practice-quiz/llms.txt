@@ -1,0 +1,36 @@
+# HAZWOPER Quiz
+
+> Test your HAZWOPER knowledge with a free 10-question practice quiz on training hours, PPE levels, decon, oxygen limits and responder levels, with explanations for every answer.
+
+HAZWOPER Quiz (https://practice-quiz.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 40-Hour HAZWOPER, 8-Hour Refresher, PPE Levels A–D, Decontamination or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://practice-quiz.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 40 Hour HAZWOPER Training](https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Covers every topic on this quiz. Enroll: https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). Brush up every year. Enroll: https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://practice-quiz.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). Ace the PPE questions. Enroll: https://practice-quiz.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
+- [HAZWOPER Micro-Module: Decontamination Procedures](https://practice-quiz.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Ace the decon questions. Enroll: https://practice-quiz.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
+- [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://practice-quiz.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Ace the responder questions. Enroll: https://practice-quiz.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
+
+## Guides
+
+- [How to pass the HAZWOPER final exam](https://practice-quiz.hazwoperosha.us/guides/how-to-pass-the-hazwoper-final-exam): Study habits that work for a 40-hour course, from people who've done it.
+- [The numbers every HAZWOPER worker should know](https://practice-quiz.hazwoperosha.us/guides/numbers-every-hazwoper-worker-should-know): Training hours, oxygen limits and more, on one page.
+
+## All trainings
+
+- [All 83 trainings](https://practice-quiz.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About HAZWOPER Quiz | HAZWOPER OSHA Training](https://practice-quiz.hazwoperosha.us/about)
+- [Contact HAZWOPER Quiz | HAZWOPER OSHA Training](https://practice-quiz.hazwoperosha.us/contact)
+- [Privacy notice | HAZWOPER Quiz](https://practice-quiz.hazwoperosha.us/privacy)
+- [Sitemap](https://practice-quiz.hazwoperosha.us/sitemap.xml)

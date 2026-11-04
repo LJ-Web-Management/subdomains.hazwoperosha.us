@@ -24,5 +24,5 @@ h1, h2, h3 { font-weight: 800; text-transform: uppercase; letter-spacing: .01em;
 .tpl .cc-foot b, .buy-price, .course-row-price { color: var(--fg); }
 .eyebrow, .eyebrow a, .guide-card .guide-card-cta { color: #8a7300; }
 .tpl .foot { background: #0a0a0a; color: #aaa; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: var(--yellow); }
+.tpl .foot .logo, .tpl .foot h2 { color: var(--yellow); }
 .prose a { color: var(--fg); font-weight: 600; text-decoration-color: var(--yellow); text-decoration-thickness: 3px; }

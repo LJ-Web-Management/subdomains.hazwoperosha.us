@@ -56,7 +56,7 @@ h1, h2, h3 { font-weight: 700; }
 
 .foot { border-top: 1px solid var(--line); padding: 56px 0 40px; color: var(--muted); background: #0e0c0b; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
-.foot h4 { font-family: var(--head-font); color: var(--fg); font-size: 20px; margin: 0 0 12px; }
+.foot h2 { font-family: var(--head-font); color: var(--fg); font-size: 20px; margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; }
 .foot a:hover { color: var(--accent); }
 

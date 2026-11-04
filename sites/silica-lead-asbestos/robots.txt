@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://silica-lead-asbestos.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://silica-lead-asbestos.hazwoperosha.us/sitemap.xml

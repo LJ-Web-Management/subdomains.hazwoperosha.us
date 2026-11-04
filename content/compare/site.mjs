@@ -49,7 +49,7 @@ window.CMP = ${JSON.stringify(Object.fromEntries(h.catalog.map((c) => [c.id, { n
       t.appendChild(tr);
     });
     var tr = document.createElement("tr"); tr.appendChild(cell("th", ""));
-    ids.forEach(function (id) { var td = document.createElement("td"); td.innerHTML = '<a class="btn btn-sm" href="?buy=' + id + '" data-buy="' + id + '">Enroll</a>'; tr.appendChild(td); });
+    ids.forEach(function (id) { var td = document.createElement("td"); td.innerHTML = '<a class="btn btn-sm" rel="nofollow" href="?buy=' + id + '" data-buy="' + id + '">Enroll</a>'; tr.appendChild(td); });
     t.appendChild(tr);
   }
   picks.forEach(function (s) { s.addEventListener("change", draw); });

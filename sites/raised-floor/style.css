@@ -16,6 +16,6 @@ h1, h2, h3 { font-weight: 800; letter-spacing: -.02em; }
 .tpl .cc .meta { color: #7a6200; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price, .guide-card .guide-card-cta { color: #7a6200; }
 .tpl .foot { background: var(--fg); color: #adb5bd; border: 0; }
-.tpl .foot .logo, .tpl .foot h4 { color: #ffd43b; }
+.tpl .foot .logo, .tpl .foot h2 { color: #ffd43b; }
 .prose a { color: var(--fg); font-weight: 700; text-decoration-color: #ffd43b; text-decoration-thickness: 3px; }
 @media (max-width: 900px) { .uf-floor::after { display: none; } }

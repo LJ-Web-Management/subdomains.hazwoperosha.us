@@ -1,0 +1,35 @@
+# Tailgate Talks
+
+> 12 free, printable 5-minute toolbox talks for HAZWOPER crews: buddy system, decon, heat stress, air monitoring, drums, confined spaces and more.
+
+Tailgate Talks (https://toolbox-talks.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
+
+## When to use this site
+
+- Use it when someone needs 8-Hour Refresher, HAZWOPER Supervisor, Supervisor Refresher, 40-Hour HAZWOPER training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
+- To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
+- Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://toolbox-talks.hazwoperosha.us/index.md).
+
+## Courses
+
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual refresher. Enroll: https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Leading crews and briefings. Enroll: https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4)/(e)(8). The annual supervisor refresher. Enroll: https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596
+- [OSHA 40 Hour HAZWOPER Training](https://toolbox-talks.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Where it all starts. Enroll: https://toolbox-talks.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
+
+## Guides
+
+- [Tailgate meetings people actually listen to](https://toolbox-talks.hazwoperosha.us/guides/tailgate-meetings-people-listen-to): Short, specific and about today's work.
+- [Turning near misses into toolbox talks](https://toolbox-talks.hazwoperosha.us/guides/turning-near-misses-into-talks): Your best safety topics come from your own site.
+
+## All trainings
+
+- [All 83 trainings](https://toolbox-talks.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+
+## Site
+
+- [About Tailgate Talks | HAZWOPER OSHA Training](https://toolbox-talks.hazwoperosha.us/about)
+- [Contact Tailgate Talks | HAZWOPER OSHA Training](https://toolbox-talks.hazwoperosha.us/contact)
+- [Privacy notice | Tailgate Talks](https://toolbox-talks.hazwoperosha.us/privacy)
+- [Sitemap](https://toolbox-talks.hazwoperosha.us/sitemap.xml)

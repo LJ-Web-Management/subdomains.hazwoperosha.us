@@ -52,7 +52,7 @@ h1, h2, h3 { font-weight: 900; text-transform: uppercase; }
 
 .foot { background: var(--yellow); border-top: 4px solid var(--fg); padding: 56px 0 40px; }
 .foot-in { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
-.foot h4 { text-transform: uppercase; margin: 0 0 12px; }
+.foot h2 { text-transform: uppercase; margin: 0 0 12px; }
 .foot-in > div:not(:first-child) a { display: block; text-decoration: none; padding: 3px 0; font-weight: 600; }
 
 .eyebrow, .eyebrow a { color: var(--red); font-weight: 800; }
