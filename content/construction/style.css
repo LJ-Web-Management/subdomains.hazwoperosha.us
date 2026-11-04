@@ -65,6 +65,9 @@ h1, h2, h3 { text-transform: uppercase; font-weight: 700; }
   .srow .btn { grid-column: 1 / -1; justify-self: start; }
 }
 @media (max-width: 600px) { .top nav a:not(.btn) { display: none; } }
+/* Small phones: at its 56px minimum the headline's longest word (CONTAMINATED) is wider than the
+   screen, and it stretched the whole hero column past the viewport. Scale it with the width instead. */
+@media (max-width: 400px) { .hero h1 { font-size: 13vw; } }
 
 /* Shared header: the accent is too light for the white bar. */
 :root { --hx-accent: #0d3b78; --hx-accent-fg: #fff; }

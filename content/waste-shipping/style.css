@@ -62,3 +62,6 @@ h1, h2, h3 { font-weight: 400; text-transform: uppercase; letter-spacing: .02em;
 
 @media (max-width: 900px) { .hero-in, .foot-in { grid-template-columns: 1fr; } .label { transform: none; } }
 @media (max-width: 600px) { .top nav a:not(.btn) { display: none; } .logo { font-size: 18px; } .page { width: calc(100% - 16px); } }
+/* Small phones: the label's padding plus HAZARDOUS at the 44px minimum is wider than the screen, and it
+   stretched the whole hero column past the viewport. Tighter padding and a width-scaled headline fit. */
+@media (max-width: 400px) { .label { padding: 18px; } .label h1 { font-size: 11vw; } }
