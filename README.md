@@ -190,7 +190,14 @@ Any element with `data-buy="<LMS course id>"` opens the checkout dialog
 (`sites/_shared/checkout.js`), and `?buy=<id>` opens it on page load. It works like the
 hazwoperosha.us checkout: Stripe.js turns the card into a PaymentMethod, then the dialog calls the
 hazwoper-osha.com `add_new_user` and `add_order` APIs with the course id and seat count. Orders are
-tagged `order_from: <site>-hazwoperosha-us`, for example `rcra-hazwoperosha-us`.
+tagged with the hostname of the site the sale came from, `order_from: <site>.hazwoperosha.us`, for
+example `rcra.hazwoperosha.us`.
+
+The 39 sites with their own `checkout.html` (for example `hazwoper`, `osha-30-construction`) use their
+own `js/checkout.js` and set `ORDER_FROM` in `js/config.js` to the same hostname. If you change a
+site's `config.js`, update the `config.js?v=` hash in its `checkout.html` (the first 10 hex characters
+of the file's SHA-256) so browsers fetch the new file. `npm test` checks that every site reports its
+own hostname.
 
 ## One-time setup
 

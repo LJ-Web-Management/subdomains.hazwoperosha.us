@@ -20,7 +20,8 @@
 
   var script = document.currentScript;
   var SITE = (script && script.getAttribute('data-site')) || location.hostname.split('.')[0];
-  var ORDER_FROM = SITE + '-hazwoperosha-us';
+  // The site the sale came from, as its hostname: rcra.hazwoperosha.us.
+  var ORDER_FROM = SITE + '.hazwoperosha.us';
   var LANG = (script && script.getAttribute('data-lang')) === 'es' ? 'es' : 'en';
 
   var T = {
