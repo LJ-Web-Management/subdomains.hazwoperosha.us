@@ -14,13 +14,10 @@ const EVENTS = [
 ];
 
 export default {
-  brand: "HAZWOPER History",
-  logo: `<span class="yr">1989</span> HAZWOPER History`,
-  title: "The History of HAZWOPER: From Love Canal to Today | HAZWOPER History",
+  title: "The History of HAZWOPER: From Love Canal to Today | Industrial Certified Training",
   description: "A timeline of how HAZWOPER and US hazardous waste law came to be: RCRA, Love Canal, Superfund, SARA Section 126, the 1989 final rule and what's changed since.",
   theme: "#5f3dc4",
   fonts: "family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Sans+3:wght@400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#1b1530"/><path d="M6 26V12l10-6 10 6v14z" fill="none" stroke="#e9d8a6" stroke-width="2"/><path d="M10 26V14M16 26V14M22 26V14" stroke="#e9d8a6" stroke-width="2"/></svg>`,
   hero: {
     title: "Why HAZWOPER <em>exists.</em>",
     lede: "Every rule in your 40-hour course traces back to real events. Walk the timeline from the first hazardous waste law to today.",

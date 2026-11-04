@@ -1,12 +1,9 @@
 // pfas.hazwoperosha.us: PFAS and AFFF remediation crews. Molecular C–F chain, aqua and slate.
 export default {
-  brand: "Forever Chemicals",
-  logo: `<span class="pf-chain"><i></i><i></i><i></i></span>Forever Chemicals`,
-  title: "HAZWOPER Training for PFAS & AFFF Remediation | Forever Chemicals",
+  title: "HAZWOPER Training for PFAS & AFFF Remediation | Industrial Certified Training",
   description: "HAZWOPER training for PFAS investigation and remediation crews: firefighting foam (AFFF) sites, groundwater treatment, sampling precautions and decontamination.",
   theme: "#0c8599",
   fonts: "family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#0b3c49"/><path d="M5 16h22" stroke="#66d9e8" stroke-width="2.5"/><g fill="#66d9e8"><circle cx="6" cy="16" r="3"/><circle cx="16" cy="16" r="3"/><circle cx="26" cy="16" r="3"/></g><g stroke="#e3fafc" stroke-width="2"><path d="M11 16V8M11 16v8M21 16V8M21 16v8"/></g></svg>`,
   hero: {
     title: "Built to last. <span>Cleaned up carefully.</span>",
     lede: "PFAS from firefighting foam and industrial sources are now a major cleanup focus. Remediation and sampling crews need HAZWOPER training and PFAS-specific precautions.",

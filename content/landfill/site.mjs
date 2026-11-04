@@ -1,12 +1,9 @@
 // landfill.hazwoperosha.us: training for landfill and transfer station staff. Topographic contour map.
 export default {
-  brand: "Landfill Safe",
-  logo: `<span class="pin">◉</span> Landfill Safe`,
-  title: "Hazardous Waste & HAZWOPER Training for Landfills | Landfill Safe",
+  title: "Hazardous Waste & HAZWOPER Training for Landfills | Industrial Certified Training",
   description: "Training for landfill and transfer station staff: load checking for hazardous waste, gas detection, awareness, 24-hour and 40-hour HAZWOPER, spill response and decon, with landfill gas and load-check guides.",
   theme: "#5c4a2e",
   fonts: "family=Chivo:wght@400;600;700;900&family=Chivo+Mono:wght@400;500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#efe6d2"/><g fill="none" stroke="#5c4a2e" stroke-width="1.6"><ellipse cx="16" cy="17" rx="12" ry="9"/><ellipse cx="16" cy="17" rx="8" ry="6"/><ellipse cx="16" cy="17" rx="4" ry="3"/></g></svg>`,
   hero: {
     title: "Know what's in <span>the load.</span>",
     lede: "Landfill staff are the last line of defense against hazardous waste in the trash. Training for spotters, equipment operators and gas techs.",

@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://construction-safety.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://construction-safety.hazwoperosha.us/sitemap.xml

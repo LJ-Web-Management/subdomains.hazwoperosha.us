@@ -1,12 +1,9 @@
 // federal-sites.hazwoperosha.us: HAZWOPER for contractors on DoD and DOE cleanup sites. Olive drab stencil.
 export default {
-  brand: "Federal Site HAZWOPER",
-  logo: `FED<span>SITE</span> HAZWOPER`,
-  title: "HAZWOPER for Federal Cleanup Contractors | DoD & DOE Sites | Federal Site HAZWOPER",
+  title: "HAZWOPER for Federal Cleanup Contractors | DoD & DOE Sites | Industrial Certified Training",
   description: "HAZWOPER training for contractors on Department of Defense and Department of Energy cleanup sites: 40-hour, remediation, supervisor, incident command, train-the-trainer and refresher courses.",
   theme: "#4b5320",
   fonts: "family=Saira+Stencil+One&family=IBM+Plex+Sans+Condensed:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#4b5320"/><path d="M16 5l3 7h7l-5.5 4.5 2 7.5L16 19.5 9.5 24l2-7.5L6 12h7z" fill="#e3dcc2"/></svg>`,
   hero: {
     title: "Cleared for <span>federal sites.</span>",
     lede: "Former bases, ranges and weapons-complex sites are some of the largest cleanups in the country. HAZWOPER training for the contractors who work them.",

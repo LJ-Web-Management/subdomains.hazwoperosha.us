@@ -1,12 +1,10 @@
 // espanol.hazwoperosha.us: HAZWOPER for Spanish-speaking workers. Vibrant, bold color blocks. Site copy in Spanish.
 export default {
   lang: "es",
-  brand: "HAZWOPER en Español",
-  title: "Curso OSHA HAZWOPER 40 Horas en Español | En Línea | HAZWOPER en Español",
+  title: "Curso OSHA HAZWOPER 40 Horas en Español | En Línea | Industrial Certified Training",
   description: "Capacitación OSHA HAZWOPER de 40 horas completamente en español, en línea y a su ritmo. Certificado al terminar. Bajo la norma 29 CFR 1910.120.",
   theme: "#ff3e8a",
   fonts: "family=Poppins:wght@400;500;600;700;800;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#ffd23f"/><text x="16" y="22" font-size="14" font-family="Arial" font-weight="900" text-anchor="middle" fill="#1a1033">ES</text></svg>`,
   coursesTagline: "El curso de 40 horas en español, más dos cursos relacionados (impartidos en inglés).",
   guidesTagline: "Información clara sobre HAZWOPER, sus derechos y cómo terminar su capacitación.",
 
@@ -166,7 +164,7 @@ Descargue su certificado y guarde una copia en su teléfono y otra impresa. Recu
     return `${h.header(1100)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">HAZWOPER <span>en Español</span></a><p>Capacitación HAZWOPER de HAZWOPER OSHA Training LLC, impartida en la plataforma hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Capacitación HAZWOPER de Industrial Certified Training, impartida en la plataforma hazwoper-osha.com.</p></div>
 <div><h4>Cursos</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contacto</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

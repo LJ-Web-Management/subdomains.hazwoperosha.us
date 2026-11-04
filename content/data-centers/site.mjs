@@ -1,12 +1,9 @@
 // data-centers.hazwoperosha.us: spill, battery and chemical safety for data center facilities teams. Server rack LEDs.
 export default {
-  brand: "RackRoom Safety",
-  logo: `<span class="leds"><i></i><i></i><i></i></span>RACKROOM SAFETY`,
-  title: "Battery, Fuel & Spill Training for Data Center Teams | RackRoom Safety",
+  title: "Battery, Fuel & Spill Training for Data Center Teams | Industrial Certified Training",
   description: "Training for data center facilities teams: spill prevention for generator fuel, spill kits, universal waste batteries, awareness, gas detection and RCRA generator training, with battery room and SPCC guides.",
   theme: "#0a0f1a",
   fonts: "family=Share+Tech+Mono&family=Inter:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="4" fill="#0a0f1a"/><rect x="6" y="5" width="20" height="5" rx="1" fill="#16213a"/><rect x="6" y="13" width="20" height="5" rx="1" fill="#16213a"/><rect x="6" y="21" width="20" height="5" rx="1" fill="#16213a"/><circle cx="22" cy="7.5" r="1.3" fill="#38bdf8"/><circle cx="22" cy="15.5" r="1.3" fill="#4ade80"/><circle cx="22" cy="23.5" r="1.3" fill="#38bdf8"/></svg>`,
   hero: {
     title: "Uptime starts with <span>safe facilities.</span>",
     lede: "UPS batteries, diesel generators and cooling chemicals bring real hazmat risks into the data center. Training for critical facilities teams.",

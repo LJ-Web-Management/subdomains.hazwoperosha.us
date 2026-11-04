@@ -1,11 +1,9 @@
 // crews.hazwoperosha.us: buying HAZWOPER seats for whole crews. Fintech, with a crew cost calculator.
 export default {
-  brand: "crewseats",
-  title: "HAZWOPER Training for Whole Crews | Buy Seats in One Checkout | crewseats",
+  title: "HAZWOPER Training for Whole Crews | Buy Seats in One Checkout | Industrial Certified Training",
   description: "Buy HAZWOPER training seats for your whole crew: 40-hour, 24-hour, refresher, supervisor, train-the-trainer and awareness courses. Crew cost calculator, one checkout per course, invoices available.",
   theme: "#635bff",
   fonts: "family=Plus+Jakarta+Sans:wght@400;500;600;700;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7ab6"/><stop offset=".5" stop-color="#a960ee"/><stop offset="1" stop-color="#5ad1ff"/></linearGradient></defs><rect width="32" height="32" rx="9" fill="url(#g)"/><circle cx="12" cy="13" r="4" fill="#fff"/><circle cx="21" cy="13" r="4" fill="#fff" opacity=".7"/><path d="M5 26c1-5 4-7 7-7s6 2 7 7z" fill="#fff"/></svg>`,
   coursesTagline: "Every course on this site can be bought for any number of seats in one payment.",
   guidesTagline: "Budgeting, onboarding and planning HAZWOPER training for crews of any size.",
 
@@ -153,7 +151,7 @@ Even a fully certified worker needs your site's briefing: your site safety plan,
     return `${h.header(587)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/"><span class="dot" aria-hidden="true"></span>crewseats</a><p>Crew HAZWOPER training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com. Invoices and purchase orders: +1-866-429-6742.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Crew HAZWOPER training from Industrial Certified Training, delivered on hazwoper-osha.com. Invoices and purchase orders: +1-866-429-6742.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

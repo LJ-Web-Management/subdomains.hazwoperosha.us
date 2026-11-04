@@ -1,11 +1,9 @@
 // 24-hour.hazwoperosha.us: the 24-hour HAZWOPER for occasional and low-exposure workers. Bauhaus.
 export default {
-  brand: "24·Hour·HAZWOPER",
-  title: "OSHA 24-Hour HAZWOPER Training Online | Occasional Site Workers | 24·Hour·HAZWOPER",
+  title: "OSHA 24-Hour HAZWOPER Training Online | Occasional Site Workers | Industrial Certified Training",
   description: "The OSHA 24-hour HAZWOPER online for occasional site workers and workers below exposure limits under 29 CFR 1910.120(e)(3)(ii)-(iii). $169.99, certificate included.",
   theme: "#e63b2e",
   fonts: "family=Josefin+Sans:wght@400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#f2ece0"/><circle cx="11" cy="11" r="8" fill="#e63b2e"/><rect x="16" y="16" width="14" height="14" fill="#1f4fa3"/><path d="M3 30l7-12 7 12z" fill="#f6c41a"/></svg>`,
   coursesTagline: "The 24-hour initial course, its California version and the refreshers that follow.",
   guidesTagline: "Who qualifies for 24 hours, what the field day is and when to step up to 40.",
 
@@ -138,7 +136,7 @@ Your 24-hour qualification is the course certificate plus the field day record. 
     return `${h.header(581)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><p class="foot-big">24</p><p>OSHA 24-hour HAZWOPER from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>OSHA 24-hour HAZWOPER from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

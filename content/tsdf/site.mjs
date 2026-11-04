@@ -1,11 +1,9 @@
 // tsdf.hazwoperosha.us: RCRA treatment, storage and disposal facility (TSDF) operations training. Terminal theme.
 export default {
-  brand: "tsdf_ops",
-  title: "TSDF Operations Training Online | 1910.120(p) 24-Hour & 8-Hour Refresher | tsdf_ops",
+  title: "TSDF Operations Training Online | 1910.120(p) 24-Hour & 8-Hour Refresher | Industrial Certified Training",
   description: "HAZWOPER training for RCRA treatment, storage and disposal facilities: 24-hour TSD operations under 29 CFR 1910.120(p), annual refresher, waste technician and Cal/OSHA TSDF courses.",
   theme: "#050805",
   fonts: "family=JetBrains+Mono:wght@400;500;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="4" fill="#050805"/><path d="M7 10l6 6-6 6" stroke="#39ff7a" stroke-width="3" fill="none"/><rect x="15" y="20" width="10" height="3" fill="#39ff7a"/></svg>`,
   coursesTagline: "Initial and refresher training for the people who run permitted hazardous waste facilities.",
   guidesTagline: "Notes on OSHA (p), EPA personnel training and keeping one set of records for both.",
 
@@ -171,7 +169,7 @@ The simplest approach is to give the OSHA 24-hour at hire, which also covers muc
     return `${h.header(582)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">tsdf_ops<span>://</span></a><p># TSD facility training by HAZWOPER OSHA Training LLC<br># delivered on hazwoper-osha.com</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p># TSD facility training by Industrial Certified Training<br># delivered on hazwoper-osha.com</p></div>
 <div><h4>$ ls courses/</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>$ contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

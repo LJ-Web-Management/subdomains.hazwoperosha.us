@@ -1,12 +1,9 @@
 // industrial-cleaning.hazwoperosha.us: HAZWOPER for industrial cleaning crews (vac trucks, hydroblasting, tank cleaning). Hydroblast.
 export default {
-  brand: "BlastClean",
-  logo: `BLAST<span>CLEAN</span>`,
-  title: "HAZWOPER for Industrial Cleaning Crews | Vac Trucks, Hydroblasting, Tanks | BlastClean",
+  title: "HAZWOPER for Industrial Cleaning Crews | Vac Trucks, Hydroblasting, Tanks | Industrial Certified Training",
   description: "Training for industrial cleaning crews: 40-hour HAZWOPER, gas detection, decontamination, PPE, spill response and the annual refresher, with guides to vacuum trucks and tank cleaning.",
   theme: "#0fb5d6",
   fonts: "family=Exo+2:wght@500;600;700;800;900&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#1b2026"/><path d="M6 16h12" stroke="#0fb5d6" stroke-width="3"/><path d="M19 16l8-6M19 16h9M19 16l8 6" stroke="#7de6ff" stroke-width="2"/></svg>`,
   hero: {
     title: "Clean the <span>dirty jobs.</span>",
     lede: "Industrial cleaning crews handle sludge, residues and hazardous waste in tanks, pits and process units. HAZWOPER and monitoring training built for that work.",

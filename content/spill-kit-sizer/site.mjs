@@ -1,12 +1,9 @@
 // spill-kit-sizer.hazwoperosha.us: recommend a spill kit type and size. Calculator.
 export default {
-  brand: "Spill Kit Sizer",
-  logo: `<span class="gal">gal</span> Spill Kit Sizer`,
-  title: "Spill Kit Size Calculator: Type, Capacity and Extras | Spill Kit Sizer",
+  title: "Spill Kit Size Calculator: Type, Capacity and Extras | Industrial Certified Training",
   description: "Answer four questions and get a spill kit recommendation: universal, oil-only or hazmat, the absorbent capacity you need, and extras like drain covers, booms and neutralizers.",
   theme: "#5c940d",
   fonts: "family=Manrope:wght@500;700;800&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#5c940d"/><path d="M9 9h14l-2 18H11z" fill="#ffe066"/><rect x="8" y="6" width="16" height="4" rx="1" fill="#fff"/></svg>`,
   hero: {
     title: "What size spill kit <span>do you need?</span>",
     lede: "Match the kit to your biggest container, the liquid and where it could flow. Get a recommendation in seconds, then train your staff to use it.",

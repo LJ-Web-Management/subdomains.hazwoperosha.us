@@ -1,12 +1,9 @@
 // dc-hvac.hazwoperosha.us: HVAC and mechanical for data center techs. Copper pipe and gauge.
 export default {
-  brand: "Copper Line",
-  logo: `<span class="cl-gauge"></span>Copper Line`,
-  title: "Data Center HVAC & Mechanical Technician Training | Copper Line",
+  title: "Data Center HVAC & Mechanical Technician Training | Industrial Certified Training",
   description: "Training for data center HVAC and mechanical technicians: HVAC troubleshooting, mechanical maintenance, refrigerant safety and building envelope fundamentals.",
   theme: "#b5651d",
   fonts: "family=Oswald:wght@500;700&family=Work+Sans:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14" fill="#2b2118" stroke="#b5651d" stroke-width="3"/><path d="M16 16l7-6" stroke="#f4a259" stroke-width="2.5" stroke-linecap="round"/><circle cx="16" cy="16" r="2.5" fill="#f4a259"/></svg>`,
   hero: {
     title: "The techs who <span>keep it cold.</span>",
     lede: "Data center mechanical work is unforgiving: no unplanned downtime, tight tolerances and refrigerants under pressure. Training for HVAC and mechanical technicians.",

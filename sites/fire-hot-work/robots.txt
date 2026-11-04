@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://fire-hot-work.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://fire-hot-work.hazwoperosha.us/sitemap.xml

@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://msha-part-46.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://msha-part-46.hazwoperosha.us/sitemap.xml

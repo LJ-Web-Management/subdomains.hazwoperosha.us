@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://cal-osha-hazwoper.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://cal-osha-hazwoper.hazwoperosha.us/sitemap.xml

@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://workplace-violence.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://workplace-violence.hazwoperosha.us/sitemap.xml

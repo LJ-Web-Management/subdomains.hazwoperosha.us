@@ -1,12 +1,9 @@
 // dc-incident-response.hazwoperosha.us: data center incident response, EPO, Li-ion fires, clean agent. Red alert bar.
 export default {
-  brand: "Sev One",
-  logo: `<span class="s1-badge">SEV 1</span>`,
-  title: "Data Center Incident & Emergency Response Training | Sev One",
+  title: "Data Center Incident & Emergency Response Training | Industrial Certified Training",
   description: "Emergency and incident response training for data center teams: incident troubleshooting, emergency power off procedures, lithium-ion battery fires and clean agent fire suppression.",
   theme: "#d00000",
   fonts: "family=Saira+Condensed:wght@600;800&family=Saira:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#d00000"/><path d="M16 6l11 20H5z" fill="#fff"/><path d="M16 13v6M16 22v1.5" stroke="#d00000" stroke-width="2.6" stroke-linecap="round"/></svg>`,
   hero: {
     title: "When it breaks <span>at 3 a.m.</span>",
     lede: "Alarms, smoke, an EPO button pressed by mistake. Training for the people on shift when something goes badly wrong, so they act fast without making it worse.",

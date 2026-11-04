@@ -1,12 +1,9 @@
 // dc-maintenance.hazwoperosha.us: preventive maintenance and building upkeep for data centers. Work-order tags, kraft and ochre.
 export default {
-  brand: "Work Order",
-  logo: `<span class="wo-tag">WO</span>Work Order`,
-  title: "Data Center Maintenance Training: Preventive, Mechanical, Building & Roofing | Work Order",
+  title: "Data Center Maintenance Training: Preventive, Mechanical, Building & Roofing | Industrial Certified Training",
   description: "Maintenance training for data center facility teams: preventive maintenance planning, mechanical systems, building maintenance, building envelope and roofing systems.",
   theme: "#c98f12",
   fonts: "family=Bitter:wght@500;700;800&family=Karla:wght@400;500;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M4 8h18l6 8-6 8H4z" fill="#c98f12"/><circle cx="21" cy="16" r="2.5" fill="#fff"/></svg>`,
   hero: {
     title: "Fix it <span>before it fails.</span>",
     lede: "Good maintenance programs are boring, and boring is exactly what you want in a data center. Training on preventive maintenance, mechanical systems and the building around them.",

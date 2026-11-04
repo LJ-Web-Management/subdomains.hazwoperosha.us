@@ -1,12 +1,9 @@
 // capacity-planning.hazwoperosha.us: capacity planning with a rack heat and cooling calculator. Spreadsheet grid, indigo.
 export default {
-  brand: "Headroom",
-  logo: `<span class="hr-meter"><i></i></span>Headroom`,
-  title: "Data Center Capacity Planning Training & Rack Load Calculator | Headroom",
+  title: "Data Center Capacity Planning Training & Rack Load Calculator | Industrial Certified Training",
   description: "Capacity planning training for data center teams, with a calculator that turns racks and kW per rack into IT load, heat in BTU/hr, tons of cooling and current per rack.",
   theme: "#3a0ca3",
   fonts: "family=Inter+Tight:wght@400;600;800&family=Roboto+Mono:wght@500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#3a0ca3"/><rect x="6" y="20" width="4" height="6" fill="#fff"/><rect x="12" y="15" width="4" height="11" fill="#fff"/><rect x="18" y="10" width="4" height="16" fill="#fff"/><rect x="24" y="5" width="3" height="21" fill="#f72585"/></svg>`,
   hero: {
     title: "Know your <span>headroom.</span>",
     lede: "Running out of power or cooling is a slow emergency that becomes a fast one. Training on forecasting and capacity planning, plus a quick rack load calculator.",

@@ -1,12 +1,9 @@
 // ups-batteries.hazwoperosha.us: UPS and battery systems, with a rough runtime estimator. Battery charge bars.
 export default {
-  brand: "Charge State",
-  logo: `<span class="cs-batt"><i></i></span>Charge State`,
-  title: "UPS & Battery Systems Training for Data Centers | Charge State",
+  title: "UPS & Battery Systems Training for Data Centers | Industrial Certified Training",
   description: "UPS and battery training for data center staff: UPS fundamentals, operations and load testing, battery safety, DC circuits and lithium-ion thermal runaway, with a UPS runtime estimator.",
   theme: "#2a9d8f",
   fonts: "family=Rubik:wght@400;500;700;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="3" y="9" width="23" height="14" rx="3" fill="none" stroke="#264653" stroke-width="2.5"/><rect x="26" y="13" width="3" height="6" rx="1" fill="#264653"/><rect x="6" y="12" width="5" height="8" fill="#2a9d8f"/><rect x="12" y="12" width="5" height="8" fill="#2a9d8f"/><rect x="18" y="12" width="5" height="8" fill="#e9c46a"/></svg>`,
   hero: {
     title: "The minutes <span>that matter most.</span>",
     lede: "When the utility drops, the UPS carries everything until the generators take over. Training on UPS systems, battery safety and load testing, plus a quick runtime estimator.",

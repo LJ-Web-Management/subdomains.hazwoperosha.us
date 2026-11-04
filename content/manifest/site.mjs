@@ -17,13 +17,10 @@ const BOXES = [
 ];
 
 export default {
-  brand: "Manifest 101",
-  logo: `<span class="mf-copies"><i></i><i></i><i></i></span>Manifest 101`,
-  title: "Hazardous Waste Manifest Explained, Box by Box | Manifest 101",
+  title: "Hazardous Waste Manifest Explained, Box by Box | Industrial Certified Training",
   description: "A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest, RCRA/DOT and generator training.",
   theme: "#1971c2",
   fonts: "family=Courier+Prime:wght@400;700&family=Public+Sans:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="9" y="3" width="19" height="24" fill="#ffd8a8"/><rect x="6" y="5" width="19" height="24" fill="#d0ebff"/><rect x="3" y="7" width="19" height="23" fill="#fff" stroke="#1971c2" stroke-width="1.5"/><path d="M6 13h13M6 17h13M6 21h9" stroke="#1971c2" stroke-width="1.5"/></svg>`,
   hero: {
     title: "Every box, <span>explained.</span>",
     lede: "The manifest follows hazardous waste from your dock to its final destination. Most mistakes come from a handful of boxes. Click through the form, then train the people who sign it.",

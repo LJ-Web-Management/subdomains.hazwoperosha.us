@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://stormwater-swppp.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://stormwater-swppp.hazwoperosha.us/sitemap.xml

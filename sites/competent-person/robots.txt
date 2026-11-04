@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://competent-person.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://competent-person.hazwoperosha.us/sitemap.xml

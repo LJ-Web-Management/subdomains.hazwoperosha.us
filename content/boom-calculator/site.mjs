@@ -1,12 +1,9 @@
 // boom-calculator.hazwoperosha.us: spill boom length calculator (encircle and deflect). Water blue with a yellow boom line.
 export default {
-  brand: "Boom Length",
-  logo: `<span class="bl-boom"></span>Boom Length`,
-  title: "Spill Boom Length Calculator & Oil Spill Response Training | Boom Length",
+  title: "Spill Boom Length Calculator & Oil Spill Response Training | Industrial Certified Training",
   description: "Estimate how much containment boom you need to encircle a slick or deflect oil across a current, then train your crew on booms, spill kits and oil spill response.",
   theme: "#0b7285",
   fonts: "family=Atkinson+Hyperlegible:wght@400;700&family=Anton",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#0b7285"/><path d="M4 22c6-10 18-10 24 0" stroke="#ffd43b" stroke-width="4" fill="none" stroke-linecap="round"/><ellipse cx="16" cy="21" rx="6" ry="3" fill="#212529"/></svg>`,
   hero: {
     title: "How much boom <span>do you need?</span>",
     lede: "Containment boom works only if there's enough of it, set at the right angle for the current. Get a quick estimate below, then train the crew that deploys it.",

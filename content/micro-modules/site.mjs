@@ -1,11 +1,9 @@
 // micro-modules.hazwoperosha.us: 15-20 minute HAZWOPER micro-modules and one-hour equipment courses. Neo-brutalist.
 export default {
-  brand: "micro.hazwoper",
-  title: "HAZWOPER Micro-Modules | 15-Minute Safety Lessons Online | micro.hazwoper",
+  title: "HAZWOPER Micro-Modules | 15-Minute Safety Lessons Online | Industrial Certified Training",
   description: "Bite-size HAZWOPER training: PPE levels, decontamination, air monitoring and site characterization in 15-20 minutes, plus one-hour spill equipment courses. From $12.99.",
   theme: "#ff90e8",
   fonts: "family=Space+Grotesk:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="2" y="2" width="28" height="28" fill="#ffe14d" stroke="#000" stroke-width="3"/><path d="M18 6l-8 12h6l-2 8 8-12h-6z" fill="#000"/></svg>`,
   coursesTagline: "Short, focused lessons on one HAZWOPER skill at a time.",
   guidesTagline: "Quick reads to go with the quick lessons.",
 
@@ -177,7 +175,7 @@ If someone is injured or exposed, life comes first. Remove gross contamination f
     return `${h.header(585)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">micro.hazwoper</a><p>Bite-size HAZWOPER lessons from HAZWOPER OSHA Training LLC. Delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Bite-size HAZWOPER lessons from Industrial Certified Training. Delivered on hazwoper-osha.com.</p></div>
 <div><h4>Modules</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Help</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

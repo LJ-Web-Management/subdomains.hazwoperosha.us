@@ -1,12 +1,9 @@
 // metal-finishing.hazwoperosha.us: hazardous waste and response training for plating and metal finishing shops. Chrome.
 export default {
-  brand: "PlateLine",
-  logo: `PLATE<span>LINE</span>`,
-  title: "Hazardous Waste Training for Electroplating & Metal Finishing | PlateLine",
+  title: "Hazardous Waste Training for Electroplating & Metal Finishing | Industrial Certified Training",
   description: "Training for electroplating, anodizing and metal finishing shops: RCRA generator and refresher, satellite accumulation, plant ERT, awareness and contingency planning, with F006, cyanide and pretreatment guides.",
   theme: "#5b6672",
   fonts: "family=Michroma&family=Inter:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f6f8"/><stop offset=".5" stop-color="#8a96a3"/><stop offset="1" stop-color="#dfe4e9"/></linearGradient></defs><rect width="32" height="32" rx="6" fill="url(#c)"/><rect x="7" y="10" width="18" height="14" rx="2" fill="none" stroke="#2c3440" stroke-width="2"/><path d="M7 15h18" stroke="#2c3440" stroke-width="2"/></svg>`,
   hero: {
     title: "Finish clean. <span>Ship compliant.</span>",
     lede: "Plating lines create acids, cyanides, metals and F006 sludge. Hazardous waste and response training for finishing shops.",

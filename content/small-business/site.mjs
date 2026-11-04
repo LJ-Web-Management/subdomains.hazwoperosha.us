@@ -1,12 +1,9 @@
 // small-business.hazwoperosha.us: hazardous waste basics for small businesses. Notebook paper and handwriting.
 export default {
-  brand: "Small Biz Waste",
-  logo: `Small Biz <span>Waste</span>`,
-  title: "Hazardous Waste Training for Small Businesses | Small Biz Waste",
+  title: "Hazardous Waste Training for Small Businesses | Industrial Certified Training",
   description: "Plain-language hazardous waste training for small businesses: RCRA generator, satellite accumulation, universal waste, manifests, spill prevention and awareness, with small generator checklists.",
   theme: "#2a5bd7",
   fonts: "family=Caveat:wght@600;700&family=Source+Sans+3:wght@400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#fffef6"/><path d="M0 10h32M0 17h32M0 24h32" stroke="#a7c3f2"/><path d="M6 0v32" stroke="#f19a9a"/><path d="M10 16l4 4 9-10" stroke="#2a5bd7" stroke-width="3" fill="none" stroke-linecap="round"/></svg>`,
   hero: {
     title: "Hazardous waste, <span>made simple.</span>",
     lede: "You run a small business, not a waste program. Short courses and plain checklists to handle your hazardous waste right the first time.",

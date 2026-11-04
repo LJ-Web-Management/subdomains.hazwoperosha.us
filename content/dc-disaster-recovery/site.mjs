@@ -1,12 +1,9 @@
 // dc-disaster-recovery.hazwoperosha.us: DR and business continuity for data centers. Storm radar.
 export default {
-  brand: "Failover",
-  logo: `<span class="fv-ring"></span>Failover`,
-  title: "Data Center Disaster Recovery & Business Continuity Training | Failover",
+  title: "Data Center Disaster Recovery & Business Continuity Training | Industrial Certified Training",
   description: "Disaster recovery and business continuity training for data center teams: RTO and RPO, continuity planning with ICS-NIMS, incident response and standby power.",
   theme: "#1b263b",
   fonts: "family=Space+Grotesk:wght@400;500;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="16" fill="#1b263b"/><circle cx="16" cy="16" r="11" fill="none" stroke="#4cc9f0" stroke-opacity=".5"/><circle cx="16" cy="16" r="6" fill="none" stroke="#4cc9f0"/><path d="M16 16L26 9" stroke="#f72585" stroke-width="2.5"/></svg>`,
   hero: {
     title: "Plan for the day <span>everything goes wrong.</span>",
     lede: "Floods, fires, outages and cyberattacks don't wait for budget season. Disaster recovery and business continuity training for the teams who keep critical services running.",

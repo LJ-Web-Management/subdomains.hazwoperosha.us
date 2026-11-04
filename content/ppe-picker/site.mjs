@@ -1,12 +1,9 @@
 // ppe-picker.hazwoperosha.us: interactive PPE level (A/B/C/D) explainer. Gear-locker look.
 export default {
-  brand: "PPE Picker",
-  logo: `<span class="lv">A</span><span class="lv">B</span><span class="lv">C</span><span class="lv">D</span> PPE Picker`,
-  title: "Which PPE Level? Interactive Level A, B, C, D Picker | PPE Picker",
+  title: "Which PPE Level? Interactive Level A, B, C, D Picker | Industrial Certified Training",
   description: "Answer a few questions about the hazard and see which EPA/OSHA level of protection (A, B, C or D) typically applies, with an explanation. Then train with PPE and HAZWOPER courses.",
   theme: "#1864ab",
   fonts: "family=Archivo+Black&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#1864ab"/><circle cx="16" cy="11" r="5" fill="#ffd43b"/><path d="M8 28c0-6 4-10 8-10s8 4 8 10z" fill="#ffd43b"/></svg>`,
   hero: {
     title: "Which level <span>of protection?</span>",
     lede: "Work through the same questions a site safety officer asks, and see which level of protection usually fits. For learning, not for picking PPE on a real site.",

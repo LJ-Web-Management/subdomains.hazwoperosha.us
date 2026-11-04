@@ -13,13 +13,10 @@ const QUIZ = [
 ];
 
 export default {
-  brand: "HAZWOPER Quiz",
-  logo: `<span class="q">Q</span> HAZWOPER Quiz`,
-  title: "HAZWOPER Practice Quiz: 10 Questions with Answers | HAZWOPER Quiz",
+  title: "HAZWOPER Practice Quiz: 10 Questions with Answers | Industrial Certified Training",
   description: "Test your HAZWOPER knowledge with a free 10-question practice quiz on training hours, PPE levels, decon, oxygen limits and responder levels, with explanations for every answer.",
   theme: "#7048e8",
   fonts: "family=Rubik:wght@400;500;700;800&family=Inter:wght@400;500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="16" fill="#7048e8"/><text x="16" y="22" font-size="16" font-family="Arial" font-weight="900" text-anchor="middle" fill="#ffe066">Q</text></svg>`,
   hero: {
     title: "Think you know <span>HAZWOPER?</span>",
     lede: "Ten quick questions on training hours, PPE, decon and response levels, with an explanation for every answer. No sign-up.",

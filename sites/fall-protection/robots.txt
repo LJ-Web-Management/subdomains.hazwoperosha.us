@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://fall-protection.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://fall-protection.hazwoperosha.us/sitemap.xml

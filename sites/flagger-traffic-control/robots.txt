@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://flagger-traffic-control.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://flagger-traffic-control.hazwoperosha.us/sitemap.xml

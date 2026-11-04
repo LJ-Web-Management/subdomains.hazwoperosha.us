@@ -1,12 +1,9 @@
 // generator-status.hazwoperosha.us: VSQG / SQG / LQG calculator for hazardous waste generators. Three-step scale, kilogram weights.
 export default {
-  brand: "Generator Status",
-  logo: `<span class="gs-kg">kg</span>Generator Status`,
-  title: "Hazardous Waste Generator Status Calculator: VSQG, SQG or LQG? | Generator Status",
+  title: "Hazardous Waste Generator Status Calculator: VSQG, SQG or LQG? | Industrial Certified Training",
   description: "Work out your RCRA hazardous waste generator category from your monthly waste amounts, see the accumulation limits that apply, and train your staff on generator rules.",
   theme: "#6741d9",
   fonts: "family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#6741d9"/><path d="M6 24h20M10 24v-6h4v6M16 24V12h4v12M22 24V7h4v17" stroke="#fff" stroke-width="2" fill="#b197fc"/></svg>`,
   hero: {
     title: "Which generator <span>are you?</span>",
     lede: "Your generator category sets how long you can store waste, how much paperwork you need and how much training your people need. Enter your monthly amounts to find yours.",

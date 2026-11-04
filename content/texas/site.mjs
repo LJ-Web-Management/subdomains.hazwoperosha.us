@@ -1,12 +1,9 @@
 // texas.hazwoperosha.us: HAZWOPER and hazardous waste training for Texas. Western poster.
 export default {
-  brand: "Texas HAZWOPER",
-  logo: `★ TEXAS <span>HAZWOPER</span>`,
-  title: "HAZWOPER Training in Texas | OSHA, TCEQ & Oilfield | Texas HAZWOPER",
+  title: "HAZWOPER Training in Texas | OSHA, TCEQ & Oilfield | Industrial Certified Training",
   description: "HAZWOPER and hazardous waste training for Texas workers: OSHA 40-hour, 24-hour, refresher, oil & gas spill response and RCRA generator training, with guides to TCEQ and Railroad Commission rules.",
   theme: "#8a3b1e",
   fonts: "family=Rye&family=Source+Sans+3:wght@400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#f1e2c4"/><path d="M16 4l3.5 8.2 8.9.8-6.8 5.8 2.1 8.7L16 22.9l-7.7 4.6 2.1-8.7-6.8-5.8 8.9-.8z" fill="#8a3b1e"/></svg>`,
   hero: {
     title: "Trained in <span>Texas.</span>",
     lede: "OSHA HAZWOPER and hazardous waste training for Texas crews, from Permian well pads to Houston Ship Channel plants. Online, self-paced, certificate the day you finish.",

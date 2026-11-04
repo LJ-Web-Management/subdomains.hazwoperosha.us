@@ -1,11 +1,9 @@
 // utility.hazwoperosha.us: HAZWOPER for gas, pipeline and electric utility crews. Hi-vis.
 export default {
-  brand: "LineCrew HAZ",
-  title: "HAZWOPER Training for Utility & Pipeline Crews | LineCrew HAZ",
+  title: "HAZWOPER Training for Utility & Pipeline Crews | Industrial Certified Training",
   description: "HAZWOPER and emergency response training for gas, pipeline and electric utility crews: 40-hour utility/pipeline, gas detection, incident command, awareness and annual refreshers.",
   theme: "#0f1a2e",
   fonts: "family=Saira+Condensed:wght@600;700;800&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#0f1a2e"/><rect y="8" width="32" height="5" fill="#c6ff00"/><rect y="19" width="32" height="5" fill="#c6ff00"/><rect x="13" width="6" height="32" fill="#c0c6cc"/></svg>`,
   coursesTagline: "HAZWOPER and response training built for crews who work the line.",
   guidesTagline: "Line strikes, unified command and where HAZWOPER fits in utility work.",
 
@@ -155,7 +153,7 @@ Join the critique. Utilities and fire departments that train together respond be
 ${h.header(592)}
 <main>${body}</main>
 <footer class="foot"><div class="tape" aria-hidden="true"></div><div class="wrap foot-in">
-<div><a class="logo" href="/">LINE<span>CREW</span> HAZ</a><p>Utility and pipeline HAZWOPER training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Utility and pipeline HAZWOPER training from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

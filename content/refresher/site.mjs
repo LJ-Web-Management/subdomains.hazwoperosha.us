@@ -1,11 +1,9 @@
 // refresher.hazwoperosha.us: annual 8-hour HAZWOPER refreshers. Swiss / International style.
 export default {
-  brand: "Refresh.8",
-  title: "8-Hour HAZWOPER Refresher Online | Annual OSHA Renewal | Refresh.8",
+  title: "8-Hour HAZWOPER Refresher Online | Annual OSHA Renewal | Industrial Certified Training",
   description: "Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, state-plan, supervisor, incident command and ammonia versions. From $84.99.",
   theme: "#e30613",
   fonts: "family=Inter:wght@400;500;600;700;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#fff"/><text x="16" y="27" font-size="30" font-family="Arial" font-weight="900" text-anchor="middle" fill="#e30613">8</text></svg>`,
   coursesTagline: "Five versions of the annual 8-hour refresher. Same deadline, different jobs.",
   guidesTagline: "Deadlines, lapses and choosing the right refresher, answered in plain language.",
 
@@ -148,10 +146,10 @@ Federal OSHA doesn't cover state and local government workers, but state plans d
     return `${h.header(595)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div class="foot-big">8</div>
+<div><a class="logo" href="/">${h.logo}</a></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Guides</h4>${h.guides.map((g) => `<a href="${g.url}">${h.esc(g.title)}</a>`).join("")}</div>
-<div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><p>HAZWOPER OSHA Training LLC. Courses delivered on hazwoper-osha.com.</p></div>
+<div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><p>Industrial Certified Training, LLC. Courses delivered on hazwoper-osha.com.</p></div>
 </div></footer>`;
   },
 

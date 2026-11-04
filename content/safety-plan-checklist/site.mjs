@@ -15,13 +15,10 @@ const ITEMS = [
 ];
 
 export default {
-  brand: "HASP Checklist",
-  logo: `<span class="clip">☑</span> HASP Checklist`,
-  title: "Site Safety and Health Plan (HASP) Checklist | 29 CFR 1910.120(b)(4) | HASP Checklist",
+  title: "Site Safety and Health Plan (HASP) Checklist | 29 CFR 1910.120(b)(4) | Industrial Certified Training",
   description: "An interactive, printable checklist of what a HAZWOPER site safety and health plan must address under 29 CFR 1910.120(b)(4). Tick items off, save progress in your browser and print.",
   theme: "#495057",
   fonts: "family=Patrick+Hand&family=Inter:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="6" y="5" width="20" height="25" rx="2" fill="#c49a6c"/><rect x="9" y="8" width="14" height="19" fill="#fff"/><rect x="12" y="3" width="8" height="5" rx="1" fill="#495057"/><path d="M11 17l3 3 6-7" stroke="#2f9e44" stroke-width="2.5" fill="none"/></svg>`,
   hero: {
     title: "Is your site safety plan <span>complete?</span>",
     lede: "Every hazardous waste site needs a site-specific safety and health plan. Check yours against what the standard requires, then print the checklist for your file.",

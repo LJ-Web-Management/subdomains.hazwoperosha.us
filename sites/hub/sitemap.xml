@@ -3,6 +3,7 @@
   <sitemap><loc>https://24-hour.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://agriculture.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://ammonia.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://ammonia-refrigeration.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://arc-flash.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://auto-shops.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://awareness.hazwoperosha.us/sitemap.xml</loc></sitemap>
@@ -10,13 +11,18 @@
   <sitemap><loc>https://boom-calculator.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://brownfields.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://cal-osha.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://cal-osha-hazwoper.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://cal-tsdf.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://capacity-planning.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://careers.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://cdl-eldt.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://cert-tracker.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://clean-agent.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://compare.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://competent-person.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://confined-space.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://construction.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://construction-safety.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://course-finder.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://crews.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://data-centers.hazwoperosha.us/sitemap.xml</loc></sitemap>
@@ -41,28 +47,47 @@
   <sitemap><loc>https://decon-drill.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://demolition.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://disaster-recovery.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://dot-hazmat.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://dot-hazmat-carrier.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://dot-hazmat-function-specific.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://drug-alcohol.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://ehs-managers.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://electrical-safety-loto.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://em-385.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://emergency-coordinator.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://environmental-services.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://espanol.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://excavation-trenching.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://exposure-limits.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://fall-protection.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://federal-sites.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://fire-departments.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://fire-hot-work.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://first-responder.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://flagger-traffic-control.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://flashcards.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://forklift-equipment.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://forty-hour.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://generator-status.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://glossary.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://gulf-coast.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://h2s-gas-detection.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hazcom-ghs.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hazwoper.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://hazwoper-faq.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://hazwoper-history.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hazwoper-tsd.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://healthcare.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://healthcare-safety.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://heat-cold-wildfire.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://heat-stress.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://hw-technician.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://incident-command.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://industrial-cleaning.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://lab-waste.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://landfill.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://lel-converter.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://lithium-battery-shipping.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://lithium-ion.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://manifest.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://manufacturing.hazwoperosha.us/sitemap.xml</loc></sitemap>
@@ -71,29 +96,41 @@
   <sitemap><loc>https://meth-lab-cleanup.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://michigan.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://micro-modules.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://mold-remediation.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://msha-part-46.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://new-jersey.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://oil-gas.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://osha-10-general-industry.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://osha-30-construction.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://pfas.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://pipeline.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://placards.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://ppe-picker.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://ppe-respiratory.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://practice-quiz.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://pue.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://radiation-safety.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://rail.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://raised-floor.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://rcra.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://rcra-hazardous-waste.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://refresher.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://refresher-reminder.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://remediation.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://respirator-muc.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://saa-labels.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://safety-management.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://safety-plan-checklist.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://scaffolding.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://silica-lead-asbestos.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://site-zones.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://small-business.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://spill-kit-sizer.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://spill-prevention.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://spill-response.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://staffing-agencies.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://state-plans.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://stormwater-swppp.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://supervisor.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://texas.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://toolbox-talks.hazwoperosha.us/sitemap.xml</loc></sitemap>
@@ -106,8 +143,10 @@
   <sitemap><loc>https://utility.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://veterans.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://warehouse.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://warehouse-ergonomics.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://washington.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://waste-shipping.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://water-utilities.hazwoperosha.us/sitemap.xml</loc></sitemap>
   <sitemap><loc>https://wildfire-cleanup.hazwoperosha.us/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://workplace-violence.hazwoperosha.us/sitemap.xml</loc></sitemap>
 </sitemapindex>

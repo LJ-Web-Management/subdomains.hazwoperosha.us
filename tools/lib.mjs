@@ -1,5 +1,16 @@
 // Helpers for tools/build.mjs and the site templates in content/.
 
+// Every site is branded Industrial Certified Training: header, footer, page titles, favicon and
+// structured data. The logo and icons live in sites/_shared/.
+export const ICT = {
+  name: "Industrial Certified Training",
+  legalName: "Industrial Certified Training, LLC",
+  url: "https://ictraining.us/",
+  logo: "/_shared/ict-logo.webp",
+};
+// The seal and name, for a footer: <a class="logo" href="/">${ICT_LOGO}</a> (h.logo in site templates).
+export const ICT_LOGO = `<img class="ict-logo" src="${ICT.logo}" alt="" width="240" height="222">${ICT.name}`;
+
 export function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 }
@@ -56,8 +67,6 @@ export function guideCard(g, h) {
 // The header every site shares: a floating bar with the brand, page links, a call button and Enroll.
 // h.path is the page being built, so the current section gets the active underline.
 export function header(site, h, enrollId) {
-  const words = site.brand.replace(/[^A-Za-z0-9 ]/g, " ").trim().split(/\s+/);
-  const mark = words.length > 1 ? words[0][0] + words[1][0] : words[0].slice(0, 2);
   const path = h.path || "/";
   const link = (href, label, on) => `<a href="${href}"${on ? ' class="on" aria-current="page"' : ""}>${esc(label)}</a>`;
   const links = [
@@ -68,7 +77,7 @@ export function header(site, h, enrollId) {
   ].join("");
   const enroll = `<a class="hx-cta" href="?buy=${enrollId}" data-buy="${enrollId}">${esc(h.L.enroll)}</a>`;
   return `<header class="hx"><div class="hx-bar">
-<a class="hx-brand" href="/"><span class="hx-mark" aria-hidden="true">${esc(mark)}</span><span class="hx-name">${esc(site.brand)}</span></a>
+<a class="hx-brand" href="/"><img class="hx-logo" src="${ICT.logo}" alt="" width="240" height="222"><span class="hx-name">Industrial Certified <span>Training</span></span></a>
 <nav class="hx-links" aria-label="Main">${links}</nav>
 <div class="hx-actions"><a class="hx-call" href="tel:+18664296742">${esc(h.L.call)} (866) 429-6742</a>${enroll}</div>
 <details class="hx-menu"><summary aria-label="${esc(h.L.menu)}"><span></span></summary><div class="hx-drop">${links}<a href="tel:+18664296742">${esc(h.L.call)} (866) 429-6742</a></div></details>
@@ -76,11 +85,10 @@ export function header(site, h, enrollId) {
 }
 
 export function defaultShell(site, { body, h }) {
-  const logo = site.logo || esc(site.brand);
   return `${header(site, h, site.hero.cta[0])}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">${logo}</a><p>${esc(site.footNote || `${site.brand}: training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.`)}</p></div>
+<div><a class="logo" href="/">${ICT_LOGO}</a><p>${esc(site.footNote || `Online safety training from ${ICT.name}, delivered on hazwoper-osha.com.`)}</p></div>
 <div><h4>${h.L.courses}</h4>${h.courses.map((c) => `<a href="${c.url}">${esc(c.short || c.name)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><a href="/guides/">${h.L.guides}</a><a href="/courses/#all">${h.L.allTrainings}</a></div>
 </div></footer>`;

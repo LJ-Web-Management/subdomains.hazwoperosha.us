@@ -1,12 +1,9 @@
 // auto-shops.hazwoperosha.us: hazardous waste training for auto repair, body and fleet shops. Racing garage.
 export default {
-  brand: "ShopWaste",
-  logo: `SHOP<span>WASTE</span>`,
-  title: "Hazardous Waste Training for Auto Repair & Fleet Shops | ShopWaste",
+  title: "Hazardous Waste Training for Auto Repair & Fleet Shops | Industrial Certified Training",
   description: "Hazardous waste training for auto repair, body and fleet maintenance shops: RCRA generator, universal waste, satellite accumulation, spill prevention, spill kits and awareness, with used oil and SQG guides.",
   theme: "#d7261e",
   fonts: "family=Russo+One&family=Inter:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#111"/><g fill="#fff"><rect x="0" y="0" width="8" height="8"/><rect x="16" y="0" width="8" height="8"/><rect x="8" y="8" width="8" height="8"/><rect x="24" y="8" width="8" height="8"/><rect x="0" y="16" width="8" height="8"/><rect x="16" y="16" width="8" height="8"/><rect x="8" y="24" width="8" height="8"/><rect x="24" y="24" width="8" height="8"/></g></svg>`,
   hero: {
     title: "Clean shop. <span>Clean record.</span>",
     lede: "Used oil, solvents, brake cleaner, batteries and antifreeze. Hazardous waste training for techs and shop managers, so inspections go smoothly.",

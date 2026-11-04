@@ -1,12 +1,9 @@
 // new-jersey.hazwoperosha.us: HAZWOPER and remediation training for New Jersey. Highway-sign green.
 export default {
-  brand: "NJ HAZWOPER",
-  logo: `<span class="shield">NJ</span> HAZWOPER`,
-  title: "HAZWOPER Training in New Jersey | Remediation, OSHA & PEOSH | NJ HAZWOPER",
+  title: "HAZWOPER Training in New Jersey | Remediation, OSHA & PEOSH | Industrial Certified Training",
   description: "HAZWOPER training for New Jersey remediation and industrial workers: 40-hour, environmental remediation, refresher, state-plan refresher, RCRA generator and awareness, with guides to NJ rules.",
   theme: "#00613a",
   fonts: "family=Overpass:wght@400;600;700;800;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="5" fill="#00613a"/><rect x="3" y="3" width="26" height="26" rx="3" fill="none" stroke="#fff" stroke-width="1.5"/><text x="16" y="21" font-size="12" font-family="Arial" font-weight="700" text-anchor="middle" fill="#fff">NJ</text></svg>`,
   hero: {
     title: "Cleanups at<br><span>every exit.</span>",
     lede: "From historic fill in Newark to tank farms in Linden, New Jersey has more cleanup sites than almost anywhere. Get your crew trained for them.",

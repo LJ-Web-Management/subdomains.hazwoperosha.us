@@ -1,12 +1,9 @@
 // course-finder.hazwoperosha.us: answer a few questions, get the right HAZWOPER course. Interactive wizard.
 export default {
-  brand: "Course Finder",
-  logo: `<span class="dot"></span>Which HAZWOPER?`,
   title: "Which HAZWOPER Course Do I Need? | Interactive Course Finder",
   description: "Answer a few questions about your job and get the right OSHA HAZWOPER or hazardous waste course: 40-hour, 24-hour, TSDF, emergency response, generator training or refresher.",
   theme: "#3b5bdb",
   fonts: "family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="10" fill="#3b5bdb"/><text x="16" y="23" font-size="20" font-family="Arial" font-weight="700" text-anchor="middle" fill="#fff">?</text></svg>`,
   hero: {
     title: "Which course <span>do I need?</span>",
     lede: "HAZWOPER training depends on what you do, not your job title. Answer a few questions and we'll point you to the right course.",

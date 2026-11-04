@@ -1,12 +1,9 @@
 // wildfire-cleanup.hazwoperosha.us: HAZWOPER for wildfire debris and hazardous materials cleanup. Ash gray and ember orange.
 export default {
-  brand: "Ash & Ember",
-  logo: `<span class="ae-ember"></span>Ash &amp; Ember`,
-  title: "HAZWOPER Training for Wildfire Debris & Hazardous Materials Cleanup | Ash & Ember",
+  title: "HAZWOPER Training for Wildfire Debris & Hazardous Materials Cleanup | Industrial Certified Training",
   description: "Training for crews cleaning up after wildfires: household hazardous waste removal, ash and debris hazards, PPE and HAZWOPER courses for disaster cleanup contractors.",
   theme: "#e8590c",
   fonts: "family=Big+Shoulders+Text:wght@700;800&family=Inter:wght@400;500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#343a40"/><path d="M16 4c3 6 9 8 9 15a9 9 0 01-18 0c0-4 2-6 4-8 0 3 2 5 3 5 0-5 0-9 2-12z" fill="#e8590c"/><path d="M16 16c2 3 4 4 4 7a4 4 0 01-8 0c0-2 2-4 4-7z" fill="#ffd43b"/></svg>`,
   hero: {
     title: "After the fire, <span>the hazards stay.</span>",
     lede: "Burned homes and businesses leave behind ash with heavy metals, asbestos, damaged batteries, propane tanks and pool chemicals. Training for the crews who clean it up.",

@@ -21,13 +21,10 @@ const ITEMS = [
 ];
 
 export default {
-  brand: "Which Bin?",
-  logo: `<span class="ub-bins"><i></i><i></i><i></i></span>Which Bin?`,
-  title: "Universal Waste Sorter & Handler Training | Which Bin?",
+  title: "Universal Waste Sorter & Handler Training | Industrial Certified Training",
   description: "Is it universal waste? Sort ten common items into batteries, lamps, mercury-containing equipment, aerosol cans and pesticides, then train your handlers on the rules.",
   theme: "#2f9e44",
   fonts: "family=Nunito:wght@600;800;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M5 10h8l-1 18H6z" fill="#2f9e44"/><path d="M12 10h8l-1 18h-6z" fill="#1c7ed6"/><path d="M19 10h8l-1 18h-6z" fill="#f08c00"/><path d="M4 7h24v3H4z" fill="#333"/></svg>`,
   hero: {
     title: "Which bin <span>does it go in?</span>",
     lede: "Universal waste rules make batteries, lamps, mercury equipment, aerosol cans and pesticides easier to manage. But only if they go in the right place. Test yourself below.",

@@ -1,12 +1,9 @@
 // compare.hazwoperosha.us: compare any HAZWOPER courses side by side. Comparison table tool.
 export default {
-  brand: "Course Compare",
-  logo: `<span class="vs">A|B</span> Course Compare`,
-  title: "Compare HAZWOPER Courses Side by Side | Course Compare",
+  title: "Compare HAZWOPER Courses Side by Side | Industrial Certified Training",
   description: "Pick up to three HAZWOPER, refresher, waste or data center courses and compare length, price, regulation and audience side by side, then enroll in the one that fits.",
   theme: "#0b7285",
   fonts: "family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#0b7285"/><rect x="6" y="8" width="8" height="16" rx="2" fill="#fff"/><rect x="18" y="8" width="8" height="16" rx="2" fill="#99e9f2"/></svg>`,
   hero: {
     title: "40 or 24? <span>Compare them.</span>",
     lede: "Not sure between two courses? Put up to three side by side and see the length, price, regulation and who each one is for.",

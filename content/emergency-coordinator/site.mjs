@@ -1,12 +1,9 @@
 // emergency-coordinator.hazwoperosha.us: LQG contingency plan quick reference guide builder. Red binder tab, emergency card.
 export default {
-  brand: "Quick Reference",
-  logo: `<span class="qr-plus">+</span>Quick Reference`,
-  title: "Contingency Plan Quick Reference Guide Builder & Emergency Coordinator Training | Quick Reference",
+  title: "Contingency Plan Quick Reference Guide Builder & Emergency Coordinator Training | Industrial Certified Training",
   description: "Build a printable quick reference guide for your hazardous waste contingency plan, and train your emergency coordinators on their duties under the RCRA generator rules.",
   theme: "#c92a2a",
   fonts: "family=Schibsted+Grotesk:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="4" y="3" width="22" height="26" rx="3" fill="#fff" stroke="#c92a2a" stroke-width="2"/><rect x="24" y="8" width="5" height="8" rx="1" fill="#c92a2a"/><path d="M15 10v10M10 15h10" stroke="#c92a2a" stroke-width="3"/></svg>`,
   hero: {
     title: "When it goes wrong, <span>one page</span> they can use.",
     lede: "Large quantity generators must give local responders a quick reference guide to their contingency plan. Fill in the blanks below and print it, then train your emergency coordinators.",

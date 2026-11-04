@@ -1,11 +1,9 @@
 // spill-response.hazwoperosha.us: spill prevention, spill kits, booms and spill response. Aqua glass.
 export default {
-  brand: "SpillReady",
-  title: "Spill Response Training Online | SPCC, Spill Kits & Booms | SpillReady",
+  title: "Spill Response Training Online | SPCC, Spill Kits & Booms | Industrial Certified Training",
   description: "Online spill prevention and response training: SPCC and OSHA spill response, spill kit selection, absorbent and containment booms, air monitoring and 40-hour oil spill HAZWOPER.",
   theme: "#065a6b",
   fonts: "family=Outfit:wght@300;400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="9" fill="#065a6b"/><path d="M16 5c5 7 8 11 8 15a8 8 0 01-16 0c0-4 3-8 8-15z" fill="#5eead4"/></svg>`,
   coursesTagline: "Short, practical courses for the people who'll be first to the spill, plus the full 40-hour for response crews.",
   guidesTagline: "How to prevent spills, pick the right kit and stop a release before it reaches a drain.",
 
@@ -185,7 +183,7 @@ Collect saturated absorbent booms into lined drums or bags and treat them as was
     return `${h.header(416)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">SpillReady</a><p>Spill prevention and response training by HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Spill prevention and response training by Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Talk to us</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

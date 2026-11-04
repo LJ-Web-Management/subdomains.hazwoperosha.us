@@ -1,12 +1,9 @@
 // heat-stress.hazwoperosha.us: heat index calculator for crews in PPE. Thermometer gradient, warm sunset.
 export default {
-  brand: "Suit Heat",
-  logo: `<span class="sh-therm"></span>Suit Heat`,
-  title: "Heat Index Calculator for HAZWOPER Crews in PPE | Suit Heat",
+  title: "Heat Index Calculator for HAZWOPER Crews in PPE | Industrial Certified Training",
   description: "Calculate the heat index and risk level for your crew, see why chemical protective clothing makes heat stress worse, and train on PPE and site safety.",
   theme: "#e8590c",
   fonts: "family=Familjen+Grotesk:wght@400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="13" y="3" width="6" height="20" rx="3" fill="#fff" stroke="#e8590c" stroke-width="2"/><circle cx="16" cy="25" r="5" fill="#e8590c"/><rect x="15" y="10" width="2" height="14" fill="#e8590c"/></svg>`,
   hero: {
     title: "It's hotter <span>inside the suit.</span>",
     lede: "Chemical protective clothing traps heat and sweat, so crews in PPE can overheat at temperatures that feel comfortable in a T-shirt. Check today's heat index and plan for it.",

@@ -9,7 +9,7 @@
 import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, copyFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
-import { md, esc, money, courseRow, guideCard, defaultShell, header, defaultHome } from "./lib.mjs";
+import { md, esc, money, courseRow, guideCard, defaultShell, header, defaultHome, ICT, ICT_LOGO } from "./lib.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DOMAIN = "hazwoperosha.us";
@@ -27,7 +27,7 @@ const LABELS = {
     buyNow: "Enroll now", minRead: "min read", certificate: "Certificate of completion included. 100% online, self-paced.",
     guidesIntro: "Plain-language articles for the people who take and assign this training.",
     coursesIntro: "Every course here is online, self-paced and issued with a certificate on completion.",
-    home: "Home", call: "Call", menu: "Menu", featured: "Featured on this site", allTrainings: "All trainings", allTrainingsIntro: "Every training available from HAZWOPER OSHA Training, all enrollable here.",
+    home: "Home", call: "Call", menu: "Menu", featured: "Featured on this site", allTrainings: "All trainings", allTrainingsIntro: "Every training available from Industrial Certified Training, all enrollable here.",
   },
   es: {
     home: "Inicio", courses: "Cursos", guides: "Guías", enroll: "Inscribirse", course: "Curso", hours: "Duración",
@@ -37,7 +37,7 @@ const LABELS = {
     buyNow: "Inscríbase ahora", minRead: "min de lectura", certificate: "Incluye certificado al terminar. 100% en línea, a su ritmo.",
     guidesIntro: "Artículos claros para los trabajadores y empleadores que toman esta capacitación.",
     coursesIntro: "Todos los cursos son en línea, a su propio ritmo y con certificado al terminar.",
-    home: "Inicio", call: "Llamar", menu: "Menú", featured: "Cursos destacados", allTrainings: "Todas las capacitaciones", allTrainingsIntro: "Todas las capacitaciones de HAZWOPER OSHA Training. Los cursos se imparten en inglés salvo que se indique lo contrario.",
+    home: "Inicio", call: "Llamar", menu: "Menú", featured: "Cursos destacados", allTrainings: "Todas las capacitaciones", allTrainingsIntro: "Todas las capacitaciones de Industrial Certified Training. Los cursos se imparten en inglés salvo que se indique lo contrario.",
   },
 };
 
@@ -82,6 +82,7 @@ async function buildSite(name) {
     guideCard: (g) => guideCard(g, h),
     courseLink: (id) => { const c = course(id); return c.url ? `<a href="${c.url}">${esc(c.name)}</a>` : esc(c.name); },
     header: (enrollId) => header(site, h, enrollId),
+    logo: ICT_LOGO,
   };
 
   const pages = [];
@@ -101,8 +102,9 @@ async function buildSite(name) {
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${canonical}">
-<meta property="og:site_name" content="${esc(site.brand)}">
-<link rel="icon" href="data:image/svg+xml,${encodeURIComponent(site.icon)}">
+<meta property="og:site_name" content="${esc(ICT.name)}">
+<link rel="icon" href="/_shared/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/_shared/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?${site.fonts}&display=swap">
 <link rel="stylesheet" href="/_shared/base.css">
@@ -121,17 +123,17 @@ ${(h.path = path, shell({ path, body, h }))}
     if (file !== "404.html") pages.push(canonical);
   };
 
-  const org = { "@type": "Organization", name: "HAZWOPER OSHA Training LLC", url: "https://hazwoper-osha.com/", telephone: "+1-866-429-6742" };
+  const org = { "@type": "Organization", "@id": ICT.url + "#organization", name: ICT.name, legalName: ICT.legalName, url: ICT.url, logo: base + ICT.logo, telephone: "+1-866-429-6742" };
 
   page("/", "index.html", {
     title: site.title, description: site.description, body: home(h),
-    jsonld: [{ "@context": "https://schema.org", "@type": "WebSite", name: site.brand, url: base + "/", publisher: org },
+    jsonld: [{ "@context": "https://schema.org", "@type": "WebSite", name: ICT.name, url: base + "/", publisher: org },
       { "@context": "https://schema.org", "@type": "ItemList", itemListElement: courses.map((c, i) => ({ "@type": "ListItem", position: i + 1, url: base + c.url, name: c.name })) }],
   });
 
   page("/courses/", "courses/index.html", {
-    title: `${L.courses} | ${site.brand}`, description: `${site.coursesTagline || L.coursesIntro}`,
-    body: `<section class="page page-list"><header class="page-head"><p class="eyebrow">${esc(site.brand)}</p><h1>${L.courses}</h1><p class="lede">${esc(site.coursesTagline || L.coursesIntro)}</p></header>
+    title: `${L.courses} | ${ICT.name}`, description: `${site.coursesTagline || L.coursesIntro}`,
+    body: `<section class="page page-list"><header class="page-head"><p class="eyebrow">${esc(ICT.name)}</p><h1>${L.courses}</h1><p class="lede">${esc(site.coursesTagline || L.coursesIntro)}</p></header>
 <h2 class="list-title">${L.featured}</h2>
 <div class="course-list">${courses.map((c) => courseRow(c, h)).join("\n")}</div>
 <h2 class="list-title" id="all">${L.allTrainings} (${catalog.length})</h2>
@@ -143,7 +145,7 @@ ${allTrainings(h)}</section>`,
     const related = guides.filter((g) => (g.courses || []).includes(c.id));
     const others = courses.filter((o) => o.id !== c.id);
     page(c.url, `courses/${c.slug}.html`, {
-      title: `${c.name} | ${site.brand}`, description: c.summary, type: "product",
+      title: `${c.name} | ${ICT.name}`, description: c.summary, type: "product",
       jsonld: [{ "@context": "https://schema.org", "@type": "Course", name: c.name, description: c.summary, courseCode: String(c.id), provider: org,
         offers: { "@type": "Offer", price: c.price.toFixed(2), priceCurrency: "USD", category: "Paid", availability: "https://schema.org/InStock", url: base + c.url },
         hasCourseInstance: { "@type": "CourseInstance", courseMode: "online", courseWorkload: c.duration } }],
@@ -171,17 +173,17 @@ ${others.length ? `<section class="more"><h2>${L.more}</h2><div class="course-li
   }
 
   page("/guides/", "guides/index.html", {
-    title: `${L.guides} | ${site.brand}`, description: site.guidesTagline || L.guidesIntro,
-    body: `<section class="page page-list"><header class="page-head"><p class="eyebrow">${esc(site.brand)}</p><h1>${L.guides}</h1><p class="lede">${esc(site.guidesTagline || L.guidesIntro)}</p></header>
+    title: `${L.guides} | ${ICT.name}`, description: site.guidesTagline || L.guidesIntro,
+    body: `<section class="page page-list"><header class="page-head"><p class="eyebrow">${esc(ICT.name)}</p><h1>${L.guides}</h1><p class="lede">${esc(site.guidesTagline || L.guidesIntro)}</p></header>
 <div class="guide-list">${guides.map((g) => guideCard(g, h)).join("\n")}</div></section>`,
   });
 
   for (const g of guides) {
     const recommended = (g.courses || []).map(course).filter((c) => c.url);
     page(g.url, `guides/${g.slug}.html`, {
-      title: `${g.title} | ${site.brand}`, description: g.description, type: "article",
+      title: `${g.title} | ${ICT.name}`, description: g.description, type: "article",
       jsonld: [{ "@context": "https://schema.org", "@type": "Article", headline: g.title, description: g.description, datePublished: g.date, dateModified: g.date,
-        author: { "@type": "Organization", name: site.brand }, publisher: org, mainEntityOfPage: base + g.url, inLanguage: site.lang || "en" }],
+        author: org, publisher: org, mainEntityOfPage: base + g.url, inLanguage: site.lang || "en" }],
       body: `<article class="page page-guide">
 <header class="page-head"><p class="eyebrow"><a href="/guides/">${L.guides}</a> · ${g.minutes} ${L.minRead}</p><h1>${esc(g.title)}</h1><p class="lede">${esc(g.description)}</p></header>
 <div class="prose">
@@ -193,7 +195,7 @@ ${recommended.length ? `<aside class="guide-courses"><h2>${L.courses}</h2><div c
   }
 
   page("/404", "404.html", {
-    title: `${L.notFound} | ${site.brand}`, description: L.notFoundText,
+    title: `${L.notFound} | ${ICT.name}`, description: L.notFoundText,
     body: `<section class="page page-404"><header class="page-head"><h1>${L.notFound}</h1><p class="lede">${L.notFoundText}</p></header>
 <p><a class="btn" href="/courses/">${L.allCourses}</a> <a class="btn btn-alt" href="/guides/">${L.allGuides}</a></p></section>`,
   });

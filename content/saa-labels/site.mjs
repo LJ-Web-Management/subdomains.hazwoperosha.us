@@ -1,12 +1,9 @@
 // saa-labels.hazwoperosha.us: satellite accumulation area rules plus a printable hazardous waste label maker. Label stock, yellow and black.
 export default {
-  brand: "SAA Label Maker",
-  logo: `<span class="sl-tag">HW</span>SAA Label Maker`,
-  title: "Hazardous Waste Label Maker & Satellite Accumulation Area Training | SAA Label Maker",
+  title: "Hazardous Waste Label Maker & Satellite Accumulation Area Training | Industrial Certified Training",
   description: "Make a printable hazardous waste container label with the words and hazard indication the generator rules require, and train staff on satellite accumulation area rules.",
   theme: "#fcc419",
   fonts: "family=Archivo+Narrow:wght@500;700&family=Archivo:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="3" y="5" width="26" height="22" rx="2" fill="#fcc419" stroke="#111" stroke-width="2"/><rect x="3" y="5" width="26" height="7" fill="#111"/><path d="M8 17h16M8 21h11" stroke="#111" stroke-width="2"/></svg>`,
   hero: {
     title: "Label it <span>right</span> at the point of generation.",
     lede: "Satellite accumulation areas are where most hazardous waste violations start: unlabeled, open containers. Make a compliant label below, then train the people who fill the containers.",

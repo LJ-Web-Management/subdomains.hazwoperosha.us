@@ -49,13 +49,10 @@ const TERMS = [
 ];
 
 export default {
-  brand: "HAZWOPER Glossary",
-  logo: `<span class="aa">Aa</span> HAZWOPER Glossary`,
-  title: "HAZWOPER Glossary: Terms and Definitions A to Z | HAZWOPER Glossary",
+  title: "HAZWOPER Glossary: Terms and Definitions A to Z | Industrial Certified Training",
   description: `A searchable glossary of ${TERMS.length} HAZWOPER and hazardous waste terms, from action level to universal waste, in plain language, plus the courses that teach them.`,
   theme: "#3d2c1e",
   fonts: "family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="4" fill="#f6efe4"/><text x="16" y="23" font-size="17" font-family="Georgia" font-style="italic" text-anchor="middle" fill="#3d2c1e">Aa</text></svg>`,
   hero: {
     title: "Speak <em>HAZWOPER.</em>",
     lede: "PEL, IDLH, LEL, Level B, CRZ. A plain-language glossary of the terms you'll hear on every hazardous waste site.",

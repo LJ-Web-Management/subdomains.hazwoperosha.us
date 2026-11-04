@@ -2,13 +2,10 @@
 const GASES = [["Methane", 5.0], ["Propane", 2.1], ["Hydrogen", 4.0], ["Pentane", 1.5], ["Hexane", 1.1], ["Gasoline", 1.4], ["Toluene", 1.1], ["Acetone", 2.5], ["Ethanol", 3.3], ["Hydrogen sulfide", 4.0], ["Carbon monoxide", 12.5], ["Ammonia", 15.0]];
 
 export default {
-  brand: "LEL Convert",
-  logo: `<span class="lc-lcd">%</span>LEL Convert`,
-  title: "%LEL to PPM Converter & Gas Detection Training | LEL Convert",
+  title: "%LEL to PPM Converter & Gas Detection Training | Industrial Certified Training",
   description: "Convert %LEL readings to ppm and percent by volume for common gases, see where 10% LEL falls, and train on air monitoring and gas detection.",
   theme: "#94d82d",
   fonts: "family=VT323&family=Inter:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="5" y="3" width="22" height="26" rx="5" fill="#212529"/><rect x="8" y="7" width="16" height="9" rx="1" fill="#94d82d"/><circle cx="12" cy="22" r="2" fill="#fcc419"/><circle cx="20" cy="22" r="2" fill="#fa5252"/></svg>`,
   hero: {
     title: "What does <span>10% LEL</span> really mean?",
     lede: "Combustible gas meters read in percent of the lower explosive limit. Convert a reading to ppm and percent by volume for the gas you're dealing with.",

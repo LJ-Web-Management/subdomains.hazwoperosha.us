@@ -1,12 +1,9 @@
 // agriculture.hazwoperosha.us: spill, ammonia and chemical safety training for farms and ag retailers. Barn red and wheat.
 export default {
-  brand: "FarmSafe Hazmat",
-  logo: `<span class="barn">⌂</span> FarmSafe Hazmat`,
-  title: "Hazmat & Spill Training for Farms and Ag Retailers | FarmSafe Hazmat",
+  title: "Hazmat & Spill Training for Farms and Ag Retailers | Industrial Certified Training",
   description: "Training for farms, co-ops and ag retailers: first responder awareness, spill prevention, ammonia handling refresher, gas detection, spill kits and universal waste, with anhydrous ammonia, pesticide spill and fuel storage guides.",
   theme: "#9c2b23",
   fonts: "family=Bitter:wght@500;700;800&family=Open+Sans:wght@400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#f3e3b5"/><path d="M5 28V14l11-8 11 8v14z" fill="#9c2b23"/><path d="M12 28v-8h8v8M12 20l8 8M20 20l-8 8" stroke="#f3e3b5" stroke-width="1.5" fill="none"/></svg>`,
   hero: {
     title: "Safe from <span>field to bin.</span>",
     lede: "Anhydrous ammonia, pesticides and fuel are everyday risks in agriculture. Spill and response training for farm crews and ag retail staff.",

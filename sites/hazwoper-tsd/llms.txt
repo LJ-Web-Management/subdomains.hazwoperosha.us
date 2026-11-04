@@ -2,21 +2,21 @@
 
 > HAZWOPER for RCRA TSD & Hazardous Waste Technicians: 4 self-paced online courses from $89.99. 100% online, certificate on completion, team pricing.
 
-Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
+Self-paced online training from Industrial Certified Training, LLC (https://ictraining.us/), delivered on its learning portal at https://hazwoper-osha.com. Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
 ## Courses
 
-- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://hazwoper-tsd.onlinetrainingcourses.us/#course-138): $89.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(p) and 29 CFR 1926.65(p). Enroll: https://hazwoper-tsd.onlinetrainingcourses.us/checkout?course=138. Full syllabus: https://hazwoper-osha.com/online-courses/8-hour-hazwoper-tsd-operations-p
-- [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://hazwoper-tsd.onlinetrainingcourses.us/#course-357): $89.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper-tsd.onlinetrainingcourses.us/checkout?course=357. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training
-- [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://hazwoper-tsd.onlinetrainingcourses.us/#course-135): $229.99 per person, 24 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(p) and 29 CFR 1926.65(p). Enroll: https://hazwoper-tsd.onlinetrainingcourses.us/checkout?course=135. Full syllabus: https://hazwoper-osha.com/online-courses/24-hour-hazwoper-tsd-operations-p
-- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hazwoper-tsd.onlinetrainingcourses.us/#course-346): $349.99 per person, 40 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e) and EPA Regulations 40 CFR Part 261 and Part 262. Enroll: https://hazwoper-tsd.onlinetrainingcourses.us/checkout?course=346. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training
+- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://hazwoper-tsd.hazwoperosha.us/#course-138): $89.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(p) and 29 CFR 1926.65(p). Enroll: https://hazwoper-tsd.hazwoperosha.us/checkout?course=138. Full syllabus: https://hazwoper-osha.com/online-courses/8-hour-hazwoper-tsd-operations-p
+- [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://hazwoper-tsd.hazwoperosha.us/#course-357): $89.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e). Enroll: https://hazwoper-tsd.hazwoperosha.us/checkout?course=357. Full syllabus: https://hazwoper-osha.com/online-courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training
+- [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://hazwoper-tsd.hazwoperosha.us/#course-135): $229.99 per person, 24 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(p) and 29 CFR 1926.65(p). Enroll: https://hazwoper-tsd.hazwoperosha.us/checkout?course=135. Full syllabus: https://hazwoper-osha.com/online-courses/24-hour-hazwoper-tsd-operations-p
+- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hazwoper-tsd.hazwoperosha.us/#course-346): $349.99 per person, 40 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(e) and 29 CFR 1926.65(e) and EPA Regulations 40 CFR Part 261 and Part 262. Enroll: https://hazwoper-tsd.hazwoperosha.us/checkout?course=346. Full syllabus: https://hazwoper-osha.com/online-courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training
 
 ## Bundle
 
-All 4 courses in one order: https://hazwoper-tsd.onlinetrainingcourses.us/checkout?course=138,357,135,346
+All 4 courses in one order: https://hazwoper-tsd.hazwoperosha.us/checkout?course=138,357,135,346
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://www.hazwoperosha.us/#courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact

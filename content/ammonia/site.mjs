@@ -1,11 +1,9 @@
 // ammonia.hazwoperosha.us: HAZWOPER for ammonia refrigeration facilities. Ice frost.
 export default {
-  brand: "NH3 Ready",
-  title: "Ammonia Refrigeration HAZWOPER Training | Release Response | NH3 Ready",
+  title: "Ammonia Refrigeration HAZWOPER Training | Release Response | Industrial Certified Training",
   description: "HAZWOPER training for anhydrous ammonia refrigeration: 8-hour HAZWOPER and safe ammonia handling refresher, gas detection, incident command, awareness and responder refresher.",
   theme: "#0b2a4a",
   fonts: "family=Sora:wght@300;400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="9" fill="#e8f6ff"/><text x="16" y="21" font-size="11" font-family="Arial" font-weight="700" text-anchor="middle" fill="#0b2a4a">NH₃</text></svg>`,
   coursesTagline: "Training for technicians, operators and responders at ammonia refrigeration facilities.",
   guidesTagline: "Ammonia hazards, regulations and release response for cold storage and food plants.",
 
@@ -169,7 +167,7 @@ Only trained, properly equipped responders make entry. For large releases that t
     return `${h.header(598)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">NH<sub>3</sub> Ready</a><p>Ammonia refrigeration HAZWOPER training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Ammonia refrigeration HAZWOPER training from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

@@ -1,11 +1,9 @@
 // oil-gas.hazwoperosha.us: HAZWOPER, gas detection and spill response for oilfield crews. Rugged slab.
 export default {
-  brand: "OilfieldHAZ",
-  title: "HAZWOPER Training for Oil & Gas Crews | H2S, Gas Detection, Spills | OilfieldHAZ",
+  title: "HAZWOPER Training for Oil & Gas Crews | H2S, Gas Detection, Spills | Industrial Certified Training",
   description: "HAZWOPER and spill response training for upstream and midstream oil and gas crews: 40-hour oil & gas spill response, gas detection, spill prevention, booms and the annual refresher.",
   theme: "#151311",
   fonts: "family=Zilla+Slab:wght@500;600;700&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#151311"/><path d="M16 4l-8 24h16z" fill="none" stroke="#ff8a1f" stroke-width="2.5"/><path d="M11 18h10M9.5 23h13" stroke="#ff8a1f" stroke-width="2"/></svg>`,
   coursesTagline: "Training for crews on the pad, at the tank battery and along the gathering line.",
   guidesTagline: "Field guides on H2S, benzene, produced water spills and HAZWOPER in the oil patch.",
 
@@ -165,7 +163,7 @@ Booms help with any oil sheen on top, but they won't contain the brine itself. F
     return `${h.header(591)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">Oilfield<span>HAZ</span></a><p>Oil and gas HAZWOPER training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Oil and gas HAZWOPER training from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

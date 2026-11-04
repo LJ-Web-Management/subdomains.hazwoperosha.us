@@ -1,12 +1,9 @@
 // marine.hazwoperosha.us: oil spill and hazmat training for marinas, ports and marine terminals. Nautical.
 export default {
-  brand: "Harbor Hazmat",
-  logo: `<span class="flags"><i></i><i></i><i></i></span> Harbor Hazmat`,
-  title: "Oil Spill & Hazmat Training for Marinas, Ports and Terminals | Harbor Hazmat",
+  title: "Oil Spill & Hazmat Training for Marinas, Ports and Terminals | Industrial Certified Training",
   description: "Training for marinas, ports and marine terminals: 40-hour oil spill HAZWOPER, booms, spill prevention, awareness, incident command and gas detection, with spill reporting and facility response guides.",
   theme: "#0e2a47",
   fonts: "family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#0e2a47"/><circle cx="16" cy="9" r="3" fill="none" stroke="#f1e6cf" stroke-width="2"/><path d="M16 12v14M10 16h12M7 21c2 5 7 6 9 5 2 1 7 0 9-5" stroke="#f1e6cf" stroke-width="2" fill="none"/></svg>`,
   hero: {
     title: "Keep it <em>off the water.</em>",
     lede: "Fuel docks, transfer hoses and vessel traffic make spills a constant risk on the waterfront. Spill response training for dock crews and terminal staff.",

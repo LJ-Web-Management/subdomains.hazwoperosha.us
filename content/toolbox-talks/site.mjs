@@ -15,13 +15,10 @@ const TALKS = [
 ];
 
 export default {
-  brand: "Tailgate Talks",
-  logo: `<span class="tt-pin"></span>Tailgate Talks`,
-  title: "Free HAZWOPER Toolbox Talks: Printable 5-Minute Safety Briefings | Tailgate Talks",
+  title: "Free HAZWOPER Toolbox Talks: Printable 5-Minute Safety Briefings | Industrial Certified Training",
   description: `${TALKS.length} free, printable 5-minute toolbox talks for HAZWOPER crews: buddy system, decon, heat stress, air monitoring, drums, confined spaces and more.`,
   theme: "#a0522d",
   fonts: "family=Patrick+Hand&family=Inter:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="4" fill="#c69c6d"/><rect x="8" y="6" width="16" height="22" fill="#fff"/><path d="M11 12h10M11 16h10M11 20h7" stroke="#555" stroke-width="1.5"/><circle cx="16" cy="6" r="3" fill="#e03131"/></svg>`,
   hero: {
     title: "Five minutes <span>before the gate.</span>",
     lede: "Short, printable toolbox talks for the morning tailgate on HAZWOPER sites. Pick one, print it, talk it through, and get signatures.",

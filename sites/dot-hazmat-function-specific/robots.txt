@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://dot-hazmat-function-specific.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://dot-hazmat-function-specific.hazwoperosha.us/sitemap.xml

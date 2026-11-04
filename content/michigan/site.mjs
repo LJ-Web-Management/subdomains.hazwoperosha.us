@@ -1,12 +1,9 @@
 // michigan.hazwoperosha.us: HAZWOPER in Michigan (MIOSHA Part 432). Retro Detroit badge.
 export default {
-  brand: "Michigan HAZWOPER",
-  logo: `<span class="badge">MI</span> Michigan HAZWOPER`,
-  title: "HAZWOPER Training in Michigan | MIOSHA Part 432 | Michigan HAZWOPER",
+  title: "HAZWOPER Training in Michigan | MIOSHA Part 432 | Industrial Certified Training",
   description: "HAZWOPER training for Michigan workers under MIOSHA Part 432: 40-hour, refreshers, state-plan refresher, manufacturing ERT, RCRA generator and awareness, with guides to Part 201 cleanups.",
   theme: "#c8102e",
   fonts: "family=Righteous&family=Work+Sans:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="16" fill="#c8102e"/><circle cx="16" cy="16" r="12" fill="none" stroke="#f5efe0" stroke-width="2"/><text x="16" y="21" font-size="12" font-family="Arial" font-weight="700" text-anchor="middle" fill="#f5efe0">MI</text></svg>`,
   hero: {
     title: "Made in <span>Michigan.</span>",
     lede: "HAZWOPER training for Michigan's plants, cleanup crews and public responders, under MIOSHA's own HAZWOPER standard.",

@@ -1,12 +1,9 @@
 // dc-security.hazwoperosha.us: data center security and compliance (SOC 2, ISO 27001). Audit binder, navy and gold seal.
 export default {
-  brand: "Audit Ready DC",
-  logo: `<span class="ar-seal">✓</span>Audit Ready DC`,
-  title: "Data Center Security & Compliance Training: SOC 2, ISO 27001 | Audit Ready DC",
+  title: "Data Center Security & Compliance Training: SOC 2, ISO 27001 | Industrial Certified Training",
   description: "Security and compliance training for data center teams: SOC 2 and ISO 27001 controls, access control, physical security and environmental compliance.",
   theme: "#14213d",
   fonts: "family=Libre+Baskerville:wght@400;700&family=Source+Sans+3:wght@400;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><circle cx="16" cy="16" r="15" fill="#14213d"/><circle cx="16" cy="16" r="11" fill="none" stroke="#c9a227" stroke-width="2"/><path d="M11 16l4 4 7-8" stroke="#c9a227" stroke-width="3" fill="none"/></svg>`,
   hero: {
     title: "Pass the audit <span>every day,</span> not just audit day.",
     lede: "Auditors look for controls that actually operate. Training for the facility, security and operations staff whose daily work is the evidence.",

@@ -1,12 +1,9 @@
 // hw-technician.hazwoperosha.us: hazardous waste management technicians (field chemists, lab packers, waste techs). Lab-pack drum lids, cobalt.
 export default {
-  brand: "Waste Tech",
-  logo: `<span class="wt-lid"></span>Waste Tech`,
-  title: "Hazardous Waste Technician Training: HAZWOPER, RCRA & DOT | Waste Tech",
+  title: "Hazardous Waste Technician Training: HAZWOPER, RCRA & DOT | Industrial Certified Training",
   description: "Training for hazardous waste technicians, field chemists and lab packers: the HAZWOPER and RCRA technician course, generator rules, RCRA/DOT shipping and the manifest.",
   theme: "#3b5bdb",
   fonts: "family=Red+Hat+Text:wght@400;500;700&family=Red+Hat+Display:wght@700;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><ellipse cx="16" cy="9" rx="11" ry="4" fill="#3b5bdb"/><path d="M5 9v15c0 2 5 4 11 4s11-2 11-4V9" fill="#4c6ef5"/><path d="M5 15c0 2 5 4 11 4s11-2 11-4" stroke="#bac8ff" stroke-width="1.5" fill="none"/></svg>`,
   hero: {
     title: "The people who <span>make waste go away.</span>",
     lede: "Hazardous waste technicians identify, package, label and ship the waste that everyone else wants gone. Training that covers both the safety and the compliance sides of the job.",

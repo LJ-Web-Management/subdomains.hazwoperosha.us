@@ -1,12 +1,9 @@
 // brownfields.hazwoperosha.us: HAZWOPER for brownfield redevelopment. Concrete-to-green urban renewal.
 export default {
-  brand: "Brownfield Build",
-  logo: `brownfield<span>/</span>build`,
-  title: "HAZWOPER for Brownfield Redevelopment | Brownfield Build",
+  title: "HAZWOPER for Brownfield Redevelopment | Industrial Certified Training",
   description: "HAZWOPER training for brownfield redevelopment: construction on contaminated sites, remediation, site characterization, supervisor and gas detection courses, with guides to ESAs and vapor intrusion.",
   theme: "#3f6b3f",
   fonts: "family=DM+Serif+Display:ital@0;1&family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#8a8f93"/><rect x="16" width="16" height="32" fill="#3f6b3f"/><path d="M6 26V14h6v12M20 26V10h6v16" fill="#fff"/></svg>`,
   hero: {
     title: "From brownfield <em>to building.</em>",
     lede: "Redevelopment turns contaminated land into housing, parks and jobs. The crews who dig the first foundation need HAZWOPER training.",

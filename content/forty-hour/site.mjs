@@ -1,11 +1,9 @@
 // forty-hour.hazwoperosha.us: the OSHA 40-Hour HAZWOPER and its industry tracks. Industrial look.
 export default {
-  brand: "40 Hour HAZWOPER",
-  title: "OSHA 40-Hour HAZWOPER Training Online | Industry Tracks | 40 Hour HAZWOPER",
+  title: "OSHA 40-Hour HAZWOPER Training Online | Industry Tracks | Industrial Certified Training",
   description: "Take the OSHA 40-Hour HAZWOPER online under 29 CFR 1910.120(e). General, construction, remediation, oil & gas, pipeline and fire/hazmat tracks. $249.99, certificate included.",
   theme: "#111111",
   fonts: "family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#111"/><path d="M4 26L16 5l12 21z" fill="#ffcc00"/><text x="16" y="24" font-size="11" font-family="Arial" font-weight="900" text-anchor="middle" fill="#111">40</text></svg>`,
   coursesTagline: "The full 40-hour initial HAZWOPER, plus versions built around the work your crew actually does.",
   guidesTagline: "Straight answers about the 40-hour: who needs it, what it covers and what happens after you pass.",
 
@@ -187,7 +185,7 @@ Yes. The certificate states the 40 hours under 1910.120(e). The industry name te
 ${h.header(587)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">40HOUR<b>HAZWOPER</b></a><p>Online OSHA 40-Hour HAZWOPER training from HAZWOPER OSHA Training LLC. Courses are delivered through the hazwoper-osha.com learning platform.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Online OSHA 40-Hour HAZWOPER training from Industrial Certified Training. Courses are delivered through the hazwoper-osha.com learning platform.</p></div>
 <div><h4>Tracks</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Help</h4><a href="/guides/">Guides</a><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div><div class="tape tape-thin" aria-hidden="true"></div></footer>`;

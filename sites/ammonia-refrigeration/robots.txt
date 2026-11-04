@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://ammonia-refrigeration.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://ammonia-refrigeration.hazwoperosha.us/sitemap.xml

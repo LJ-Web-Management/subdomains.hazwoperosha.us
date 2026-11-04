@@ -1,12 +1,9 @@
 // dc-bms.hazwoperosha.us: monitoring, BMS/BAS and DCIM. Trend-graph UI, violet and teal.
 export default {
-  brand: "PointList",
-  logo: `<span class="pt-spark"></span>PointList`,
-  title: "Data Center Monitoring, BMS & BAS Training | PointList",
+  title: "Data Center Monitoring, BMS & BAS Training | Industrial Certified Training",
   description: "Monitoring and automation training for data center teams: BMS and DCIM systems, building automation (BAS) fundamentals, DCIM platforms and energy efficiency.",
   theme: "#5a189a",
   fonts: "family=Plus+Jakarta+Sans:wght@400;600;800&family=Fira+Code:wght@500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#240046"/><path d="M4 22l6-7 5 4 6-10 7 6" stroke="#2ec4b6" stroke-width="2.5" fill="none" stroke-linejoin="round"/></svg>`,
   hero: {
     title: "Every point <span>tells a story.</span>",
     lede: "Thousands of sensors, setpoints and alarms run a modern data center. Training on building management, automation and DCIM so your team can read the trends and act on them.",

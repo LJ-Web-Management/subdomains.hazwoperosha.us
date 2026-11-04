@@ -1,11 +1,9 @@
 // remediation.hazwoperosha.us: environmental remediation crews. Earthy, organic, editorial.
 export default {
-  brand: "Remediate",
-  title: "HAZWOPER Training for Environmental Remediation Crews | Remediate",
+  title: "HAZWOPER Training for Environmental Remediation Crews | Industrial Certified Training",
   description: "Training for environmental remediation crews: 40-hour HAZWOPER for remediation, site characterization, air monitoring, decontamination and gas detection, online and self-paced.",
   theme: "#4c6b3c",
   fonts: "family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,600&family=Work+Sans:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#ece3cf"/><path d="M8 24C8 12 16 7 26 6c-1 10-6 18-18 18z" fill="#4c6b3c"/><path d="M8 24l10-10" stroke="#ece3cf" stroke-width="2"/></svg>`,
   coursesTagline: "From the first site walk to the last confirmation sample: training for remediation crews.",
   guidesTagline: "Field notes for samplers, techs and laborers on cleanup sites.",
 
@@ -166,7 +164,7 @@ Remote drum handling (grapplers, drum openers) and non-sparking tools are standa
     return `${h.header(590)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">Remediate<span>.</span></a><p>Training for environmental remediation crews from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Training for environmental remediation crews from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

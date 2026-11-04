@@ -2,12 +2,10 @@
 const SYMBOLS = { 415: ["Sa", "#ffe1d6"], 601: ["Gn", "#d9ecff"], 600: ["Rf", "#e3f7dd"], 580: ["Mf", "#fff3c4"], 602: ["Uw", "#efe2ff"], 412: ["Cp", "#ffe1ec"] };
 
 export default {
-  brand: "LabWaste.",
-  title: "Hazardous Waste Training for Laboratories | Satellite Areas, RCRA, Subpart K | LabWaste.",
+  title: "Hazardous Waste Training for Laboratories | Satellite Areas, RCRA, Subpart K | Industrial Certified Training",
   description: "RCRA hazardous waste training for university, research, hospital and industrial labs: satellite accumulation, generator training, refresher, manifests, universal waste and contingency planning.",
   theme: "#14213d",
   fonts: "family=Red+Hat+Display:wght@400;500;700;900&family=Red+Hat+Mono:wght@400;500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="5" fill="#ffe1d6"/><text x="16" y="22" font-size="15" font-family="Arial" font-weight="900" text-anchor="middle" fill="#14213d">Lw</text></svg>`,
   coursesTagline: "Every element of a compliant lab waste program, one course at a time.",
   guidesTagline: "Practical notes for lab managers, PIs, grad students and EHS staff.",
 
@@ -171,7 +169,7 @@ Update the inventory, re-label surviving stock and set a schedule to review shel
     return `${h.header(415)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/"><span class="el">Lw</span>LabWaste<i>.</i></a><p>Hazardous waste training for laboratories from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Hazardous waste training for laboratories from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

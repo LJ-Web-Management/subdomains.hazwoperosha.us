@@ -2,20 +2,20 @@
 
 > Incident Command System Training: 3 self-paced online courses from $39.99. 100% online, certificate on completion, team pricing.
 
-Self-paced online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com), part of Industrial Certified Training, LLC (https://ictraining.us/). Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
+Self-paced online training from Industrial Certified Training, LLC (https://ictraining.us/), delivered on its learning portal at https://hazwoper-osha.com. Courses are 100% online and work on any device, with a certificate of completion as soon as the final exam is passed. Team pricing applies from 2 to 1,000 seats. Phone: 1-866-429-6742.
 
 ## Courses
 
-- [Introduction to the Incident Command System (ICS 100) Training](https://incident-command.onlinetrainingcourses.us/#course-548): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with FEMA IS-100: Introduction to the Incident Command System (ICS 100). Enroll: https://incident-command.onlinetrainingcourses.us/checkout?course=548. Full syllabus: https://hazwoper-osha.com/online-courses/introduction-to-the-incident-command-system-ics-100-training
-- [Basic Incident Command System for Initial Response (ICS 200) Training](https://incident-command.onlinetrainingcourses.us/#course-550): $79.99 per person, 4 hours, English and Spanish, certificate valid 36 months. In accordance with FEMA IS-200: Basic Incident Command System for Initial Response (ICS 200). Enroll: https://incident-command.onlinetrainingcourses.us/checkout?course=550. Full syllabus: https://hazwoper-osha.com/online-courses/basic-incident-command-system-for-initial-response-ics-200-training
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://incident-command.onlinetrainingcourses.us/#course-259): $199.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(q) and 29 CFR 1926.65(q). Enroll: https://incident-command.onlinetrainingcourses.us/checkout?course=259. Full syllabus: https://hazwoper-osha.com/online-courses/8-hour-hazwoper-incident-command-training
+- [Introduction to the Incident Command System (ICS 100) Training](https://incident-command.hazwoperosha.us/#course-548): $39.99 per person, 2 hours, English and Spanish, certificate valid 36 months. In accordance with FEMA IS-100: Introduction to the Incident Command System (ICS 100). Enroll: https://incident-command.hazwoperosha.us/checkout?course=548. Full syllabus: https://hazwoper-osha.com/online-courses/introduction-to-the-incident-command-system-ics-100-training
+- [Basic Incident Command System for Initial Response (ICS 200) Training](https://incident-command.hazwoperosha.us/#course-550): $79.99 per person, 4 hours, English and Spanish, certificate valid 36 months. In accordance with FEMA IS-200: Basic Incident Command System for Initial Response (ICS 200). Enroll: https://incident-command.hazwoperosha.us/checkout?course=550. Full syllabus: https://hazwoper-osha.com/online-courses/basic-incident-command-system-for-initial-response-ics-200-training
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://incident-command.hazwoperosha.us/#course-259): $199.99 per person, 8 hours, English and Spanish, certificate valid 12 months. In accordance with Federal OSHA Regulations 29 CFR 1910.120(q) and 29 CFR 1926.65(q). Enroll: https://incident-command.hazwoperosha.us/checkout?course=259. Full syllabus: https://hazwoper-osha.com/online-courses/8-hour-hazwoper-incident-command-training
 
 ## Bundle
 
-All 3 courses in one order: https://incident-command.onlinetrainingcourses.us/checkout?course=548,550,259
+All 3 courses in one order: https://incident-command.hazwoperosha.us/checkout?course=548,550,259
 
 ## More
 
-- All training programs: https://www.onlinetrainingcourses.us/courses/
+- All training programs: https://www.hazwoperosha.us/#courses
 - Refund policy: https://hazwoper-osha.com/refund-policy
 - Contact: https://hazwoper-osha.com/contact

@@ -1,12 +1,9 @@
 // trucking.hazwoperosha.us: hazmat and hazardous waste training for carriers and drivers. Truck-stop neon.
 export default {
-  brand: "Haul Safe",
-  logo: `HAUL<span>SAFE</span>`,
-  title: "Hazmat Training for Truck Drivers & Carriers | DOT, Spills, Waste Hauling | Haul Safe",
+  title: "Hazmat Training for Truck Drivers & Carriers | DOT, Spills, Waste Hauling | Industrial Certified Training",
   description: "Training for hazmat carriers and drivers: RCRA/DOT combined, first responder awareness, spill prevention, spill kit use and hazardous waste manifests, with guides for drivers and waste transporters.",
   theme: "#1a0b2e",
   fonts: "family=Monoton&family=Inter:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#1a0b2e"/><rect x="3" y="11" width="17" height="11" fill="none" stroke="#ff4fd8" stroke-width="2"/><path d="M20 15h5l3 4v3h-8z" fill="none" stroke="#3ef3ff" stroke-width="2"/><circle cx="9" cy="24" r="2.5" fill="#3ef3ff"/><circle cx="24" cy="24" r="2.5" fill="#3ef3ff"/></svg>`,
   hero: {
     title: "Haul it <span>right.</span>",
     lede: "DOT hazmat, spill response and hazardous waste transport training for drivers, dispatchers and carrier safety managers.",

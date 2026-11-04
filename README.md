@@ -39,12 +39,25 @@ has a `noindex, nofollow` meta tag, and the Worker sends `X-Robots-Tag: noindex,
 ## Shared files
 
 `sites/_shared/` is served to every site at `/_shared/` (for example
-`https://rcra.hazwoperosha.us/_shared/checkout.js`). It holds the course catalog, the Stripe checkout
-and the base styles the course sites use. `_shared` can't be a subdomain, so it is never a site itself.
+`https://rcra.hazwoperosha.us/_shared/checkout.js`). It holds the course catalog, the Stripe checkout,
+the base styles the course sites use, and the Industrial Certified Training logo (`ict-logo.webp`),
+`favicon.ico` and `apple-touch-icon.png`. `_shared` can't be a subdomain, so it is never a site itself.
 
 ## Course landing sites
 
-A hundred and ten sites sell hazwoper-osha.com courses, each with its own niche, design, guides and course pages. Every site's
+A hundred and ten sites sell hazwoper-osha.com courses, each with its own niche, design, guides and course pages.
+
+### Branding
+
+Every site is branded **Industrial Certified Training** (https://ictraining.us/). A site has no brand
+name of its own: the header (seal and name), footer seal, page-title suffix, `og:site_name`, favicon
+and the Organization in structured data all come from `ICT` in `tools/lib.mjs`. A site with its own
+`shell()` puts the footer seal in with `<a class="logo" href="/">${h.logo}</a>`. Courses are still
+delivered on the hazwoper-osha.com learning portal, so its login, refund policy and course pages are
+linked as they are. `npm test` fails if any page carries another brand or the old
+onlinetrainingcourses.us domain.
+
+Every site's
 `/courses/` page lists its own featured courses first, then all trainings in the catalog, grouped by category, each with an Enroll button:
 
 | Site | Niche | LMS course ids |

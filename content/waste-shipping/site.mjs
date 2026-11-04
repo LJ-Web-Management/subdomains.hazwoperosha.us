@@ -1,11 +1,9 @@
 // waste-shipping.hazwoperosha.us: shipping hazardous waste (RCRA + DOT). Cargo label look.
 export default {
-  brand: "Waste//Freight",
-  title: "Hazardous Waste Shipping Training | RCRA, DOT Hazmat & Manifests | Waste//Freight",
+  title: "Hazardous Waste Shipping Training | RCRA, DOT Hazmat & Manifests | Industrial Certified Training",
   description: "Training for the people who ship hazardous waste: combined RCRA/DOT hazmat training, hazardous waste manifests, generator training and universal waste shipping.",
   theme: "#2a1d10",
   fonts: "family=Black+Ops+One&family=Courier+Prime:wght@400;700&family=Inter:wght@400;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#c9a878"/><rect x="5" y="7" width="22" height="18" fill="#fffdf6" stroke="#2a1d10" stroke-width="2"/><path d="M8 20h2M11 20h1M13 20h3M17 20h1M19 20h2M22 20h2" stroke="#2a1d10" stroke-width="3"/></svg>`,
   coursesTagline: "Training for everyone who classifies, packages, marks or signs for a hazardous waste shipment.",
   guidesTagline: "Shipping papers, markings and the steps between the drum and the truck.",
 
@@ -167,7 +165,7 @@ Many waste vendors prepare LDR notices for you, but **the generator is responsib
     return `${h.header(403)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">WASTE//FREIGHT</a><p>Hazardous waste shipping training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Hazardous waste shipping training from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

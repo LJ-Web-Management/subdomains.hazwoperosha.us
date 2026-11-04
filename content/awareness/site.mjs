@@ -1,11 +1,9 @@
 // awareness.hazwoperosha.us: first responder awareness for front-line staff. Comic pop art.
 export default {
-  brand: "Spot·It·Safe",
-  title: "First Responder Awareness Training Online | Security & Warehouse Staff | Spot·It·Safe",
+  title: "First Responder Awareness Training Online | Security & Warehouse Staff | Industrial Certified Training",
   description: "HAZWOPER first responder awareness level training for security, warehouse, drivers and front-line staff: recognize a release, isolate the area and notify. Plus spill kit and PPE modules.",
   theme: "#ff3b30",
   fonts: "family=Bangers&family=Comic+Neue:wght@400;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#ffe600"/><path d="M16 2l3 9 9-3-6 8 8 4-9 2 2 9-7-6-7 6 2-9-9-2 8-4-6-8 9 3z" fill="#ff3b30" stroke="#111" stroke-width="1.2"/><text x="16" y="20" font-size="10" font-family="Arial" font-weight="900" text-anchor="middle" fill="#fff">!</text></svg>`,
   coursesTagline: "Short, practical training for the people most likely to spot a release first.",
   guidesTagline: "What front-line staff should do, and not do, when something spills.",
 
@@ -158,7 +156,7 @@ If you can't read it from a safe distance, back off and report what you can see.
     return `${h.header(1099)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">SPOT·IT·SAFE!</a><p>First responder awareness training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>First responder awareness training from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

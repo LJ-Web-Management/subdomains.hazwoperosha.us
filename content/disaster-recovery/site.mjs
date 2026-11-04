@@ -1,12 +1,9 @@
 // disaster-recovery.hazwoperosha.us: HAZWOPER for disaster cleanup crews. Tarp blue + caution orange.
 export default {
-  brand: "Recovery Crew",
-  logo: `RECOVERY<span>CREW</span>`,
-  title: "HAZWOPER for Disaster Cleanup Crews | Floods, Hurricanes, Wildfires | Recovery Crew",
+  title: "HAZWOPER for Disaster Cleanup Crews | Floods, Hurricanes, Wildfires | Industrial Certified Training",
   description: "Training for crews cleaning up after floods, hurricanes and wildfires: 40-hour and 24-hour HAZWOPER, awareness, spill prevention, PPE and decontamination modules, with disaster cleanup guides.",
   theme: "#1d5fbf",
   fonts: "family=Big+Shoulders+Display:wght@700;800;900&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#1d5fbf"/><path d="M4 22l6-6 4 4 8-9 6 6v11H4z" fill="#ff8a00"/></svg>`,
   hero: {
     title: "After the storm, <span>clean up safe.</span>",
     lede: "Disaster cleanup mixes floodwater, fuel, chemicals and debris. Get recovery crews trained before they deploy.",

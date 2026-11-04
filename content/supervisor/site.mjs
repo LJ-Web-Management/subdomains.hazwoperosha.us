@@ -1,11 +1,9 @@
 // supervisor.hazwoperosha.us: HAZWOPER supervisor, incident command and train-the-trainer. Editorial magazine.
 export default {
-  brand: "The Site Supervisor",
-  title: "HAZWOPER Supervisor Training Online | Incident Command & Train-the-Trainer | The Site Supervisor",
+  title: "HAZWOPER Supervisor Training Online | Incident Command & Train-the-Trainer | Industrial Certified Training",
   description: "HAZWOPER leadership training: 8-hour supervisor course under 29 CFR 1910.120(e)(4), supervisor refresher, (q) incident command and HAZWOPER train-the-trainer certification.",
   theme: "#141414",
   fonts: "family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600;1,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#fbf8f1"/><text x="16" y="25" font-size="24" font-family="Georgia" font-style="italic" font-weight="700" text-anchor="middle" fill="#141414">S</text><rect x="6" y="28" width="20" height="2" fill="#a07c2c"/></svg>`,
   bodyClass: "ed",
   coursesTagline: "Four courses for the people who run the site, command the response and train the crew.",
   guidesTagline: "Essays and how-tos on leading hazardous waste work.",
@@ -166,7 +164,7 @@ Many employers mix approaches. New hires take the online 40-hour for the classro
     return `${h.header(597)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><p class="foot-logo">The Site Supervisor</p><p>Leadership training for hazardous waste operations, published by HAZWOPER OSHA Training LLC. Courses delivered on hazwoper-osha.com.</p></div>
+<div><p class="foot-logo">${h.logo}</p><p>Leadership training for hazardous waste operations, published by Industrial Certified Training. Courses delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Correspondence</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

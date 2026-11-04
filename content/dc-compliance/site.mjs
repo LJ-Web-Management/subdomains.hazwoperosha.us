@@ -1,12 +1,9 @@
 // dc-compliance.hazwoperosha.us: environmental compliance for data centers (fuel, refrigerants, batteries, stormwater). Permit stamp, sage.
 export default {
-  brand: "Green Permit",
-  logo: `<span class="gp-leaf"></span>Green Permit`,
-  title: "Data Center Environmental Compliance Training | Green Permit",
+  title: "Data Center Environmental Compliance Training | Industrial Certified Training",
   description: "Environmental compliance training for data centers: generator air permits, SPCC for diesel fuel, refrigerant management, universal waste batteries and spill prevention.",
   theme: "#52796f",
   fonts: "family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><circle cx="16" cy="16" r="15" fill="#52796f"/><path d="M10 22c0-8 5-12 13-12 0 8-5 12-13 12zM10 22l7-7" stroke="#e9f5db" stroke-width="2" fill="none"/></svg>`,
   hero: {
     title: "Big buildings, <span>big footprints.</span>",
     lede: "Generators, fuel tanks, refrigerants and thousands of batteries bring environmental permits and rules into every data center. Compliance training for facility teams.",

@@ -1,12 +1,9 @@
 // dcim.hazwoperosha.us: DCIM platforms and data center operations software. SaaS dashboard, soft cards, blue-violet.
 export default {
-  brand: "Single Pane",
-  logo: `<span class="sp-panes"><i></i><i></i><i></i><i></i></span>Single Pane`,
-  title: "DCIM Training: Platforms, Monitoring & Capacity | Single Pane",
+  title: "DCIM Training: Platforms, Monitoring & Capacity | Industrial Certified Training",
   description: "DCIM training for data center teams: DCIM platform fundamentals, monitoring and BMS integration, operations management and capacity planning.",
   theme: "#4361ee",
   fonts: "family=Figtree:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#4361ee"/><rect x="7" y="7" width="8" height="8" rx="2" fill="#fff"/><rect x="17" y="7" width="8" height="8" rx="2" fill="#bfd0ff"/><rect x="7" y="17" width="8" height="8" rx="2" fill="#bfd0ff"/><rect x="17" y="17" width="8" height="8" rx="2" fill="#fff"/></svg>`,
   hero: {
     title: "One view of <span>the whole floor.</span>",
     lede: "DCIM brings assets, power, cooling and capacity together. Training to choose, roll out and actually use a DCIM platform.",

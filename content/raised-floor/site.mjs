@@ -1,12 +1,9 @@
 // raised-floor.hazwoperosha.us: raised floor, confined space awareness and ergonomics. Perforated floor tiles.
 export default {
-  brand: "Under Floor",
-  logo: `<span class="uf-tile"></span>Under Floor`,
-  title: "Raised Floor Safety, Confined Space Awareness & Ergonomics for Data Centers | Under Floor",
+  title: "Raised Floor Safety, Confined Space Awareness & Ergonomics for Data Centers | Industrial Certified Training",
   description: "Safety training for data center floor work: raised floor and confined space awareness, server room ergonomics and manual handling, and data center electrical safety.",
   theme: "#495057",
   fonts: "family=Manrope:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#dee2e6"/><rect x="2" y="2" width="13" height="13" fill="#adb5bd"/><rect x="17" y="17" width="13" height="13" fill="#adb5bd"/><rect x="17" y="2" width="13" height="13" fill="#495057"/><rect x="2" y="17" width="13" height="13" fill="#495057"/></svg>`,
   hero: {
     title: "Mind the <span>open tile.</span>",
     lede: "An open floor tile is a fall hazard. The space under it can hold cables, pipes and sometimes poor air. Safety training for everyone working on the data center floor.",

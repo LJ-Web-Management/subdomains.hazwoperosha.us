@@ -1,12 +1,9 @@
 // rail.hazwoperosha.us: hazmat response for rail incidents. Vintage railroad timetable.
 export default {
-  brand: "Rail Hazmat",
-  logo: `RAIL <span>HAZMAT</span>`,
-  title: "Rail Hazmat Response Training | Awareness, Incident Command, Spills | Rail Hazmat",
+  title: "Rail Hazmat Response Training | Awareness, Incident Command, Spills | Industrial Certified Training",
   description: "Hazmat training for rail incidents: first responder awareness, fire/hazmat 40-hour, incident command, spill response, booms and responder refresher, with guides to tank cars and rail emergency response.",
   theme: "#9b1c1c",
   fonts: "family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#f4ecd8"/><path d="M4 24h24M7 28l3-4M25 28l-3-4" stroke="#1a1a1a" stroke-width="2"/><rect x="7" y="8" width="18" height="12" rx="6" fill="#9b1c1c"/></svg>`,
   hero: {
     title: "When a tank car <em>leaks.</em>",
     lede: "Training for railroad employees, shippers and local responders who may be first to a rail hazmat incident.",

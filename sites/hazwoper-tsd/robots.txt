@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://hazwoper-tsd.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://hazwoper-tsd.hazwoperosha.us/sitemap.xml

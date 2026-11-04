@@ -23,13 +23,10 @@ const CHEMS = [
 ];
 
 export default {
-  brand: "Exposure Limits",
-  logo: `<span class="ppm">ppm</span> Exposure Limits`,
-  title: "OSHA PEL and IDLH Lookup for Common Hazardous Chemicals | Exposure Limits",
+  title: "OSHA PEL and IDLH Lookup for Common Hazardous Chemicals | Industrial Certified Training",
   description: `Look up OSHA permissible exposure limits and NIOSH IDLH values for ${CHEMS.length} chemicals common on hazardous waste sites, with links to air monitoring and HAZWOPER training.`,
   theme: "#2b8a3e",
   fonts: "family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="5" fill="#2b8a3e"/><path d="M12 5h8M14 5v8l-6 12a2 2 0 002 3h12a2 2 0 002-3l-6-12V5" stroke="#fff" stroke-width="2" fill="none"/></svg>`,
   hero: {
     title: "Look up the <span>limit.</span>",
     lede: "Quick reference for exposure limits of chemicals you're likely to meet on hazardous waste sites. Search, compare and then learn to monitor for them.",

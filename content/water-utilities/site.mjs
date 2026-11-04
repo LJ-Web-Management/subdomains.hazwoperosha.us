@@ -1,12 +1,9 @@
 // water-utilities.hazwoperosha.us: hazmat response for water and wastewater utilities. Water ripples.
 export default {
-  brand: "WaterWorks Hazmat",
-  logo: `<span class="drop">💧</span> WaterWorks Hazmat`,
-  title: "Hazmat & HAZWOPER Training for Water and Wastewater Utilities | WaterWorks Hazmat",
+  title: "Hazmat & HAZWOPER Training for Water and Wastewater Utilities | Industrial Certified Training",
   description: "Training for water and wastewater utility staff: first responder awareness, gas detection, incident command, responder refresher, spill response and plant ERT, with chlorine and H2S guides.",
   theme: "#0d6efd",
   fonts: "family=Quicksand:wght@500;600;700&family=Inter:wght@400;500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="16" fill="#e0efff"/><path d="M16 5c5 7 8 10.5 8 14a8 8 0 01-16 0c0-3.5 3-7 8-14z" fill="#0d6efd"/></svg>`,
   hero: {
     title: "Clean water, <span>safe operators.</span>",
     lede: "Chlorine, ammonia, H2S and confined spaces are part of the job at water and wastewater utilities. Response training for operators and crews.",

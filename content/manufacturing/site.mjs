@@ -1,11 +1,9 @@
 // manufacturing.hazwoperosha.us: HAZWOPER, ERT and waste training for manufacturing plants. ANSI safety-sign look.
 export default {
-  brand: "PlantSafe",
-  title: "HAZWOPER & ERT Training for Manufacturing Plants | PlantSafe",
+  title: "HAZWOPER & ERT Training for Manufacturing Plants | Industrial Certified Training",
   description: "Emergency response and hazardous waste training for manufacturing plants: in-plant ERT, first responder awareness, incident command, RCRA generator training, spill prevention and contingency planning.",
   theme: "#e11d1d",
   fonts: "family=Archivo:wght@500;600;700;800;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#fff"/><rect width="32" height="11" fill="#e11d1d"/><path d="M16 14l9 15H7z" fill="#ffd400" stroke="#111" stroke-width="1.5"/></svg>`,
   coursesTagline: "Training for every role on the plant's emergency and hazardous waste roster.",
   guidesTagline: "How plants build response teams, map their training and run drills.",
 
@@ -169,7 +167,7 @@ Hold a short debrief right after, while it's fresh, and a written critique withi
     return `${h.header(702)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">PLANT<span>SAFE</span></a><p>Emergency response and hazardous waste training for manufacturing from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Emergency response and hazardous waste training for manufacturing from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

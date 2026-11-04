@@ -9,13 +9,10 @@ const TRACKS = [
 ];
 
 export default {
-  brand: "DC Career Lines",
-  logo: `<span class="cl-lines"><i></i><i></i><i></i></span>DC Career Lines`,
-  title: "Data Center Careers: Training Tracks for Technicians & Engineers | DC Career Lines",
+  title: "Data Center Careers: Training Tracks for Technicians & Engineers | Industrial Certified Training",
   description: "Map your data center career: six training tracks from entry-level technician safety courses to engineering and management, with courses you can enroll in today.",
   theme: "#264653",
   fonts: "family=Overpass:wght@400;600;800;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#fff"/><path d="M4 10h24M4 16h12l6 6h6M4 22h8l6-6h10" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M4 10h24" stroke="#e63946" stroke-width="3"/><path d="M4 16h12l6 6h6" stroke="#1d9bf0" stroke-width="3" fill="none"/><path d="M4 22h8l6-6h10" stroke="#2a9d8f" stroke-width="3" fill="none"/></svg>`,
   hero: {
     title: "Pick a line. <span>Ride it up.</span>",
     lede: "Data centers need electricians, mechanics, operators, security staff and engineers, and they're growing fast. Pick a track, start with the basics and build toward senior roles.",

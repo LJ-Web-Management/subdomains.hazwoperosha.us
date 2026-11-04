@@ -1,12 +1,9 @@
 // fire-departments.hazwoperosha.us: hazmat and HAZWOPER training for fire departments. Firehouse red and gold leaf.
 export default {
-  brand: "Engine Company Hazmat",
-  logo: `<span class="maltese">✠</span> Engine Co. Hazmat`,
-  title: "Hazmat & HAZWOPER Training for Fire Departments | Engine Company Hazmat",
+  title: "Hazmat & HAZWOPER Training for Fire Departments | Industrial Certified Training",
   description: "HAZWOPER and hazmat training for fire departments: 40-hour fire/hazmat, incident command, responder refresher, awareness, gas detection and decon, with guides to responder levels and decon.",
   theme: "#a4161a",
   fonts: "family=Cinzel:wght@600;700;800&family=Lato:wght@400;700;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#a4161a"/><path d="M16 3l3 8 8-3-3 8 3 8-8-3-3 8-3-8-8 3 3-8-3-8 8 3z" fill="#e6b85c"/></svg>`,
   hero: {
     title: "Ready for the <em>call.</em>",
     lede: "Hazmat and HAZWOPER training for career and volunteer departments: awareness for every member, command for officers, and the 40-hour for hazmat teams.",

@@ -1,12 +1,9 @@
 // washington.hazwoperosha.us: HAZWOPER in Washington State (WAC 296-843). Pacific Northwest evergreen.
 export default {
-  brand: "Evergreen HAZWOPER",
-  logo: `<span class="tree">▲</span> Evergreen HAZWOPER`,
-  title: "HAZWOPER Training in Washington State | WAC 296-843 | Evergreen HAZWOPER",
+  title: "HAZWOPER Training in Washington State | WAC 296-843 | Industrial Certified Training",
   description: "HAZWOPER training for Washington State workers under WAC 296-843: 40-hour, 24-hour, remediation, refreshers and gas detection, with guides to dangerous waste and MTCA cleanups.",
   theme: "#1f3b2d",
   fonts: "family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#e6ece6"/><path d="M16 3l-7 10h4l-6 8h5l-5 7h18l-5-7h5l-6-8h4z" fill="#1f3b2d"/></svg>`,
   hero: {
     title: "HAZWOPER for the <em>Evergreen State.</em>",
     lede: "Washington writes its own HAZWOPER rule and its own dangerous waste rules. Training for crews from Puget Sound to the Tri-Cities.",

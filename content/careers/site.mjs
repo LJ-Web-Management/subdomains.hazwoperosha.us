@@ -1,12 +1,9 @@
 // careers.hazwoperosha.us: starting a career in hazardous waste and environmental services. Optimistic job board.
 export default {
-  brand: "HAZWOPER Careers",
-  logo: `<span class="spark">✦</span> HAZWOPER Careers`,
-  title: "Start a Career in Hazardous Waste & Environmental Cleanup | HAZWOPER Careers",
+  title: "Start a Career in Hazardous Waste & Environmental Cleanup | Industrial Certified Training",
   description: "Get the training employers look for in hazardous waste, remediation and environmental services jobs: 40-hour and 24-hour HAZWOPER, RCRA/DOT, waste technician, refresher and awareness courses.",
   theme: "#6d28d9",
   fonts: "family=Lexend:wght@400;500;600;700;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="9" fill="#6d28d9"/><path d="M16 5l2.5 8.5L27 16l-8.5 2.5L16 27l-2.5-8.5L5 16l8.5-2.5z" fill="#fde047"/></svg>`,
   hero: {
     title: "Your first step into <span>environmental work.</span>",
     lede: "Remediation, waste services and emergency response companies hire people with HAZWOPER training. Get certified online and walk into interviews ready.",

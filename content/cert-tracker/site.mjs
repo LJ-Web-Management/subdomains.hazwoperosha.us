@@ -1,12 +1,9 @@
 // cert-tracker.hazwoperosha.us: free crew HAZWOPER certificate tracker (browser-only). Dashboard.
 export default {
-  brand: "Cert Tracker",
-  logo: `<span class="pulse"></span>Cert Tracker`,
-  title: "Free HAZWOPER Certificate Tracker for Crews | Cert Tracker",
+  title: "Free HAZWOPER Certificate Tracker for Crews | Industrial Certified Training",
   description: "Track your crew's HAZWOPER certificates and refresher due dates in your browser. See who's current, due soon or overdue, export a CSV and renew in one click.",
   theme: "#1971c2",
   fonts: "family=Plus+Jakarta+Sans:wght@500;700;800&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#1971c2"/><rect x="7" y="18" width="4" height="7" fill="#fff"/><rect x="14" y="12" width="4" height="13" fill="#fff"/><rect x="21" y="7" width="4" height="18" fill="#69db7c"/></svg>`,
   hero: {
     title: "Who's due <span>for a refresher?</span>",
     lede: "Add your crew, the date of each person's last HAZWOPER certificate and see at a glance who's current, due soon or overdue.",

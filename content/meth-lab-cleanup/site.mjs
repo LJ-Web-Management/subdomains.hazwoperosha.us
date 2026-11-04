@@ -1,12 +1,9 @@
 // meth-lab-cleanup.hazwoperosha.us: clandestine drug lab remediation crews. Crime-scene tape yellow on concrete gray.
 export default {
-  brand: "Clandestine Lab Cleanup",
-  logo: `<span class="cl-tape"></span>CLAN LAB CLEANUP`,
-  title: "HAZWOPER Training for Meth Lab & Clandestine Drug Lab Cleanup | Clandestine Lab Cleanup",
+  title: "HAZWOPER Training for Meth Lab & Clandestine Drug Lab Cleanup | Industrial Certified Training",
   description: "HAZWOPER, PPE, air monitoring and decontamination training for contractors who remediate former meth labs and other clandestine drug labs.",
   theme: "#ffd43b",
   fonts: "family=Oswald:wght@500;700&family=Inter:wght@400;500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#495057"/><path d="M-4 22L36 6v8L-4 30z" fill="#ffd43b"/><path d="M2 21l4-1.6M10 18l4-1.6M18 15l4-1.6M26 12l4-1.6" stroke="#000" stroke-width="3"/></svg>`,
   hero: {
     title: "The chemicals <span>stay behind.</span>",
     lede: "Clandestine drug labs leave toxic residues in walls, carpets, HVAC systems and plumbing. Cleanup crews need hazardous materials training, the right PPE and careful decon.",

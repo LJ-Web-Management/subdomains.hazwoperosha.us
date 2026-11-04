@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://radiation-safety.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://radiation-safety.hazwoperosha.us/sitemap.xml

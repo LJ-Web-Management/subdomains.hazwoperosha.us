@@ -13,4 +13,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://electrical-safety-loto.onlinetrainingcourses.us/sitemap.xml
+Sitemap: https://electrical-safety-loto.hazwoperosha.us/sitemap.xml

@@ -1,12 +1,9 @@
 // universities.hazwoperosha.us: campus-wide hazardous waste and spill training for colleges. Collegiate varsity.
 export default {
-  brand: "Campus EHS",
-  logo: `<span class="pennant">EHS</span> Campus EHS`,
-  title: "Hazardous Waste Training for Colleges & Universities | Campus EHS",
+  title: "Hazardous Waste Training for Colleges & Universities | Industrial Certified Training",
   description: "Campus-wide hazardous waste and spill training for colleges and universities: satellite accumulation, RCRA generator and refresher, universal waste, awareness and contingency planning.",
   theme: "#7a1f2b",
   fonts: "family=Graduate&family=Libre+Franklin:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#7a1f2b"/><path d="M4 8l24 8-24 8z" fill="#f2c14e"/></svg>`,
   hero: {
     title: "The whole campus <span>makes waste.</span>",
     lede: "Hazardous waste on campus isn't only in the chemistry building. Training for labs, facilities, art studios, motor pools and everyone who might find a spill.",

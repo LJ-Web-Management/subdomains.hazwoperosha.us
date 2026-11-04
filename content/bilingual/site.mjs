@@ -1,12 +1,9 @@
 // bilingual.hazwoperosha.us: HAZWOPER for employers with English- and Spanish-speaking crews. EN/ES split.
 export default {
-  brand: "Bilingual HAZWOPER",
-  logo: `<span class="en">EN</span><span class="es">ES</span> Bilingual HAZWOPER`,
-  title: "HAZWOPER for Bilingual Crews | English & Spanish Training | Bilingual HAZWOPER",
+  title: "HAZWOPER for Bilingual Crews | English & Spanish Training | Industrial Certified Training",
   description: "HAZWOPER training for employers with English- and Spanish-speaking crews: 40-hour in Spanish, 40-hour in English, refresher, supervisor and awareness, with guides and an English-Spanish glossary.",
   theme: "#0f8b8d",
   fonts: "family=Figtree:wght@400;500;600;700;800;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="16" height="32" fill="#0f8b8d"/><rect x="16" width="16" height="32" fill="#ec6b56"/><text x="8" y="20" font-size="9" font-family="Arial" font-weight="700" text-anchor="middle" fill="#fff">EN</text><text x="24" y="20" font-size="9" font-family="Arial" font-weight="700" text-anchor="middle" fill="#fff">ES</text></svg>`,
   hero: {
     title: "One crew. <span>Two languages.</span>",
     lede: "Train every worker in the language they understand best: the full 40-hour HAZWOPER in English or in Spanish, plus supervisor and refresher courses.",

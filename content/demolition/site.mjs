@@ -1,12 +1,9 @@
 // demolition.hazwoperosha.us: HAZWOPER for demolition on contaminated sites. Brutalist concrete + wrecking ball.
 export default {
-  brand: "DEMO/HAZ",
-  logo: `DEMO<span>/</span>HAZ`,
-  title: "HAZWOPER for Demolition Crews | Contaminated Buildings & Sites | DEMO/HAZ",
+  title: "HAZWOPER for Demolition Crews | Contaminated Buildings & Sites | Industrial Certified Training",
   description: "HAZWOPER training for demolition crews on contaminated sites: 40-hour construction, 24-hour, supervisor, gas detection, PPE and decon, with guides to pre-demolition surveys and dust control.",
   theme: "#2b2b2b",
   fonts: "family=Bebas+Neue&family=Inter:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#b9b6ae"/><path d="M16 2v12" stroke="#111" stroke-width="2"/><circle cx="16" cy="20" r="7" fill="#111"/><rect x="3" y="26" width="8" height="6" fill="#ffcc00"/></svg>`,
   hero: {
     title: "Tear it down. <span>Not your lungs.</span>",
     lede: "Old plants and contaminated buildings hide chemicals, residues and impacted soil. HAZWOPER training for the crews who take them apart.",

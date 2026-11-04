@@ -1,11 +1,9 @@
 // healthcare.hazwoperosha.us: hazardous waste training for hospitals and clinics. Calm clinical.
 export default {
-  brand: "CareWaste",
-  title: "Hazardous Waste Training for Healthcare | Hospitals, Pharmacies, Clinics | CareWaste",
+  title: "Hazardous Waste Training for Healthcare | Hospitals, Pharmacies, Clinics | Industrial Certified Training",
   description: "RCRA hazardous waste training for hospitals, clinics, pharmacies and surgery centers: generator training, satellite areas, universal waste, pharmaceutical waste guidance and first responder awareness.",
   theme: "#2bb3a3",
   fonts: "family=Nunito:wght@400;600;700;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="10" fill="#dff5f2"/><path d="M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z" fill="#2bb3a3"/></svg>`,
   coursesTagline: "Short courses for the people who handle hazardous waste across a healthcare facility.",
   guidesTagline: "Plain-language guidance for EHS, pharmacy, environmental services and lab teams.",
 
@@ -157,7 +155,7 @@ Inspectors from EPA or your state agency will ask who was trained, when and on w
     return `${h.header(601)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/"><span class="plus">+</span>CareWaste</a><p>Hazardous waste training for healthcare from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Hazardous waste training for healthcare from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

@@ -1,11 +1,9 @@
 // ehs-managers.hazwoperosha.us: HAZWOPER program building for EHS managers. Dark SaaS.
 export default {
-  brand: "EHS Stack",
-  title: "HAZWOPER Program Training for EHS Managers | EHS Stack",
+  title: "HAZWOPER Program Training for EHS Managers | Industrial Certified Training",
   description: "Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, RCRA generator and state-plan refresher courses.",
   theme: "#0c0a1a",
   fonts: "family=Manrope:wght@400;500;600;700;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs><rect width="32" height="32" rx="8" fill="#0c0a1a"/><path d="M16 6l9 10-9 10-9-10z" fill="url(#g)"/></svg>`,
   coursesTagline: "The courses an EHS lead uses to build, staff and run a compliant HAZWOPER program.",
   guidesTagline: "Program checklists, renewal cycles and medical surveillance, for the people who own compliance.",
 
@@ -166,7 +164,7 @@ Align medical exams with fit tests and refreshers, and keep a single due-date li
     return `${h.header(1016)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/"><span class="dia" aria-hidden="true"></span>EHS Stack</a><p>HAZWOPER program training for EHS teams from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>HAZWOPER program training for EHS teams from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

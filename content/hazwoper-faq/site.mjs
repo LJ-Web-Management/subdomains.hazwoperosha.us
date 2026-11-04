@@ -27,13 +27,10 @@ const FAQ = [
 ];
 
 export default {
-  brand: "HAZWOPER Answers",
-  logo: `<span class="qm">?</span> HAZWOPER Answers`,
-  title: "HAZWOPER FAQ: Training, Refreshers, Certificates and More | HAZWOPER Answers",
+  title: "HAZWOPER FAQ: Training, Refreshers, Certificates and More | Industrial Certified Training",
   description: `${FAQ.length} straight answers to the most common HAZWOPER questions: 40 vs 24-hour, online training, refreshers, certificates, PPE levels and more. Searchable.`,
   theme: "#c2255c",
   fonts: "family=Nunito+Sans:wght@400;600;700;800;900",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="16" fill="#c2255c"/><text x="16" y="23" font-size="18" font-family="Arial" font-weight="900" text-anchor="middle" fill="#fff">?</text></svg>`,
   hero: {
     title: "Got a HAZWOPER <span>question?</span>",
     lede: "Training hours, refreshers, certificates, PPE and enrollment. Search the answers people ask for most.",

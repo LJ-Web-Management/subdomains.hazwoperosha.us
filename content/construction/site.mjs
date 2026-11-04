@@ -1,11 +1,9 @@
 // construction.hazwoperosha.us: HAZWOPER for construction on contaminated sites (29 CFR 1926.65). Blueprint.
 export default {
-  brand: "SITEWORK/HAZ",
-  title: "HAZWOPER for Construction Workers | 29 CFR 1926.65 Online | SITEWORK/HAZ",
+  title: "HAZWOPER for Construction Workers | 29 CFR 1926.65 Online | Industrial Certified Training",
   description: "HAZWOPER training for construction crews on brownfields, landfills and contaminated excavations: 40-hour construction track, 24-hour, supervisor and PPE modules under 29 CFR 1926.65.",
   theme: "#0d3b78",
   fonts: "family=Archivo+Narrow:wght@500;600;700&family=Roboto+Mono:wght@400;500;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#0d3b78"/><path d="M4 26h24M8 26V12l8-6 8 6v14" stroke="#e6f0ff" stroke-width="2" fill="none"/><path d="M13 26v-7h6v7" stroke="#9cc3ff" stroke-width="2" fill="none"/></svg>`,
   coursesTagline: "HAZWOPER courses specified for construction crews working on contaminated ground.",
   guidesTagline: "Drawings and notes for contractors who dig, grade and build on impacted sites.",
 
@@ -160,7 +158,7 @@ Your company still owns its own workers' safety under OSHA's multi-employer cita
     return `${h.header(588)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div class="titleblock"><div><span>PROJECT</span><b>SITEWORK/HAZ</b></div><div><span>BY</span><b>HAZWOPER OSHA Training LLC</b></div><div><span>DELIVERED ON</span><b>hazwoper-osha.com</b></div><div><span>SHEET</span><b>A-9</b></div></div>
+<div><a class="logo" href="/">${h.logo}</a><div class="titleblock"><div><span>PROJECT</span><b>Construction HAZWOPER</b></div><div><span>BY</span><b>Industrial Certified Training</b></div><div><span>DELIVERED ON</span><b>hazwoper-osha.com</b></div><div><span>SHEET</span><b>A-9</b></div></div></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

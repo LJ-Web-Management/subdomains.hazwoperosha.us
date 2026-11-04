@@ -1,11 +1,9 @@
 // rcra.hazwoperosha.us: EPA RCRA hazardous waste generator compliance training. Corporate / document style.
 export default {
-  brand: "RCRA Compliance Center",
-  title: "RCRA Hazardous Waste Training Online | Generator, Manifest, SAA | RCRA Compliance Center",
+  title: "RCRA Hazardous Waste Training Online | Generator, Manifest, SAA | Industrial Certified Training",
   description: "EPA RCRA hazardous waste training for generators: 40 CFR 262.17 generator training, annual refresher, manifests, satellite accumulation, universal waste and contingency planning.",
   theme: "#0b2545",
   fonts: "family=IBM+Plex+Serif:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="4" fill="#0b2545"/><path d="M9 16.5l4.5 4.5L23 11" stroke="#3ccf9e" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg>`,
   coursesTagline: "Everything a hazardous waste generator's staff needs, from the loading dock to the manifest.",
   guidesTagline: "Practical compliance notes for EHS managers, plant managers and the people who sign the paperwork.",
 
@@ -185,7 +183,7 @@ Since 2018, manifests are tracked in EPA's e-Manifest system. Receiving faciliti
     return `${h.header(601)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><p class="foot-brand">RCRA Compliance Center</p><p>EPA hazardous waste training for generators, by HAZWOPER OSHA Training LLC. Courses are delivered on hazwoper-osha.com with completion certificates for your training records.</p></div>
+<div><p class="foot-brand">${h.logo}</p><p>EPA hazardous waste training for generators, by Industrial Certified Training. Courses are delivered on hazwoper-osha.com with completion certificates for your training records.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><p class="small">Invoices and purchase orders available for facility-wide training.</p></div>
 </div></footer>`;

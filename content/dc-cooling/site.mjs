@@ -1,12 +1,9 @@
 // dc-cooling.hazwoperosha.us: data center cooling design and optimization. Hot aisle / cold aisle gradient.
 export default {
-  brand: "Cold Aisle",
-  logo: `<span class="ca-flake">❄</span>Cold Aisle`,
-  title: "Data Center Cooling Training: Design, HVAC, Refrigerant Safety & Efficiency | Cold Aisle",
+  title: "Data Center Cooling Training: Design, HVAC, Refrigerant Safety & Efficiency | Industrial Certified Training",
   description: "Cooling training for data center facility teams: cooling system design and optimization, HVAC troubleshooting, refrigerant safety, mechanical maintenance and PUE.",
   theme: "#0077b6",
   fonts: "family=Sora:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#48cae4"/><stop offset="1" stop-color="#ef476f"/></linearGradient></defs><rect width="32" height="32" rx="8" fill="url(#g)"/><path d="M16 6v20M7 11l18 10M25 11L7 21" stroke="#fff" stroke-width="2.5"/></svg>`,
   hero: {
     title: "Keep the <span>cold air</span> where it counts.",
     lede: "Cooling is the biggest energy load after IT itself. Training on cooling design, airflow, HVAC troubleshooting, refrigerant safety and efficiency for facility teams.",

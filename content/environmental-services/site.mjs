@@ -1,11 +1,9 @@
 // environmental-services.hazwoperosha.us: field waste technicians at environmental services companies. Risograph print.
 export default {
-  brand: "ENV/SERVICES",
-  title: "Training for Environmental Services Field Technicians | Lab Packs, Drums, Load-outs | ENV/SERVICES",
+  title: "Training for Environmental Services Field Technicians | Lab Packs, Drums, Load-outs | Industrial Certified Training",
   description: "Training for hazardous waste field technicians: HAZWOPER and RCRA waste technician, RCRA/DOT combined, 24-hour TSD operations, TSD refresher, manifests and decontamination.",
   theme: "#1b1b3a",
   fonts: "family=Rubik+Mono+One&family=Karla:wght@400;500;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#f6f1e7"/><circle cx="13" cy="13" r="9" fill="#ff48b0" opacity=".85"/><circle cx="19" cy="19" r="9" fill="#00a9b5" opacity=".85"/></svg>`,
   coursesTagline: "The training stack for technicians who pack, consolidate, profile and ship hazardous waste.",
   guidesTagline: "Field notes on lab packing, compatibility and building a career as a waste tech.",
 
@@ -175,7 +173,7 @@ Your certificates are your résumé in this industry. Keep copies on your phone 
     return `${h.header(599)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">ENV/SERVICES</a><p>Training for environmental services field technicians from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Training for environmental services field technicians from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

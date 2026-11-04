@@ -1,12 +1,9 @@
 // dc-operations.hazwoperosha.us: data center operations management. NOC wall, dark status board.
 export default {
-  brand: "Floor Ops",
-  logo: `<span class="fo-dot"></span>FLOOR OPS`,
-  title: "Data Center Operations Training: Ops Management, Maintenance & Incident Response | Floor Ops",
+  title: "Data Center Operations Training: Ops Management, Maintenance & Incident Response | Industrial Certified Training",
   description: "Data center operations training for shift leads and facility managers: operations management, preventive maintenance, incident response, DCIM and building maintenance.",
   theme: "#0e1116",
   fonts: "family=JetBrains+Mono:wght@500;700&family=Manrope:wght@400;600;800",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#0e1116"/><circle cx="16" cy="16" r="6" fill="#3ddc84"/><circle cx="16" cy="16" r="10" fill="none" stroke="#3ddc84" stroke-opacity=".4" stroke-width="2"/></svg>`,
   hero: {
     title: "Run the floor <span>like it matters.</span>",
     lede: "Uptime is earned shift by shift. Training for the people who run data centers: operations management, maintenance programs, incident response and the tools that tie them together.",

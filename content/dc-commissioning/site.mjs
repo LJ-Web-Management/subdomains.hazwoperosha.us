@@ -8,13 +8,10 @@ const LEVELS = [
 ];
 
 export default {
-  brand: "Punch List",
-  logo: `<span class="pl-box">✓</span>Punch List`,
-  title: "Data Center Commissioning Training: Levels 1–5 Explained | Punch List",
+  title: "Data Center Commissioning Training: Levels 1–5 Explained | Industrial Certified Training",
   description: "Learn the five levels of data center commissioning, from factory witness tests to integrated systems testing, with training on commissioning, design and UPS and generator testing.",
   theme: "#2b9348",
   fonts: "family=Chivo:wght@400;700;900&family=Chivo+Mono:wght@500",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="3" y="3" width="26" height="26" rx="5" fill="#2b9348"/><path d="M9 16l5 5 9-11" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round"/></svg>`,
   hero: {
     title: "Test it all <span>before day one.</span>",
     lede: "Commissioning proves a data center works before the first server goes live. Walk through the five levels, then train the team that runs them.",

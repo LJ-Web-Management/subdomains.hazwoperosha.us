@@ -1,11 +1,9 @@
 // state-plans.hazwoperosha.us: HAZWOPER in OSHA state-plan states. WPA national park poster.
 export default {
-  brand: "State Plan HAZWOPER",
-  title: "HAZWOPER Training for OSHA State-Plan States | State Plan HAZWOPER",
+  title: "HAZWOPER Training for OSHA State-Plan States | Industrial Certified Training",
   description: "HAZWOPER training for workers in OSHA state-plan states: state-plan 8-hour refresher, federal refresher and Cal/OSHA 40-hour, 24-hour and refresher courses, with guides to state rules.",
   theme: "#b5452a",
   fonts: "family=Alfa+Slab+One&family=Libre+Franklin:wght@400;500;600;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#e9dcc0"/><rect y="20" width="32" height="12" fill="#3e5641"/><path d="M0 22l9-10 7 7 6-5 10 8z" fill="#7a8b5a"/><circle cx="22" cy="9" r="4" fill="#d2693c"/></svg>`,
   coursesTagline: "HAZWOPER courses for workers in the states that run their own OSHA programs.",
   guidesTagline: "Which states run their own plans, which wrote their own HAZWOPER rules and who's covered.",
 
@@ -161,7 +159,7 @@ Public employees need the same training as private workers in the same roles: re
     return `${h.header(900)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">State Plan HAZWOPER</a><p>HAZWOPER training for state-plan states from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>HAZWOPER training for state-plan states from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Contact</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;

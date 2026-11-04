@@ -1,11 +1,9 @@
 // cal-osha.hazwoperosha.us: Cal/OSHA (Title 8, section 5192) HAZWOPER and California hazardous waste. Retro sunset.
 export default {
-  brand: "Cal HAZWOPER",
-  title: "Cal/OSHA HAZWOPER Training Online | 8 CCR 5192 | Cal HAZWOPER",
+  title: "Cal/OSHA HAZWOPER Training Online | 8 CCR 5192 | Industrial Certified Training",
   description: "California HAZWOPER courses written for Cal/OSHA Title 8 section 5192: 40-hour, 24-hour, 8-hour refresher, TSDF and California RCRA hazardous waste training.",
   theme: "#e84a27",
   fonts: "family=Shrikhand&family=DM+Sans:wght@400;500;700",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#fff4e0"/><circle cx="16" cy="18" r="11" fill="#e84a27"/><rect y="17" width="32" height="2" fill="#fff4e0"/><rect y="22" width="32" height="2" fill="#fff4e0"/></svg>`,
   coursesTagline: "Cal/OSHA HAZWOPER and California hazardous waste courses, built on Title 8 and Title 22.",
   guidesTagline: "How California's rules differ from federal OSHA and EPA, and what that means for your training.",
 
@@ -172,7 +170,7 @@ Bring your initial certificate, every refresher, any supervisor certificate, you
     return `${h.header(577)}
 <main>${body}</main>
 <footer class="foot"><div class="foot-sun" aria-hidden="true"></div><div class="wrap foot-in">
-<div><a class="logo" href="/">Cal HAZWOPER</a><p>Cal/OSHA HAZWOPER and California hazardous waste training from HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>Cal/OSHA HAZWOPER and California hazardous waste training from Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Reach us</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a><a href="/guides/">Guides</a></div>
 </div></footer>`;

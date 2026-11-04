@@ -8,13 +8,10 @@ const STAGES = [
 ];
 
 export default {
-  brand: "Runaway",
-  logo: `<span class="rw-cell"></span>Runaway`,
-  title: "Lithium-Ion Battery Thermal Runaway Training for Data Centers | Runaway",
+  title: "Lithium-Ion Battery Thermal Runaway Training for Data Centers | Industrial Certified Training",
   description: "Training on lithium-ion battery thermal runaway in data centers: warning signs, off-gas detection, emergency response, UPS battery safety and DC circuits, with a five-stage explorer.",
   theme: "#ff7b00",
   fonts: "family=Unbounded:wght@500;700;800&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#1a1a1d"/><rect x="9" y="6" width="14" height="22" rx="3" fill="url(#h)"/><defs><linearGradient id="h" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ffba08"/><stop offset="1" stop-color="#d00000"/></linearGradient></defs><rect x="13" y="3" width="6" height="3" rx="1" fill="#888"/></svg>`,
   hero: {
     title: "Catch it at <span>off-gas.</span>",
     lede: "Lithium-ion UPS batteries save space and last longer, but a cell in thermal runaway is a serious emergency. Learn the warning signs and how to respond.",

@@ -1,11 +1,9 @@
 // first-responder.hazwoperosha.us: HAZWOPER emergency response under 1910.120(q). Dark tactical / HUD.
 export default {
-  brand: "FirstResponse",
-  title: "HAZWOPER Emergency Response Training | First Responder, Incident Command, ERT | FirstResponse",
+  title: "HAZWOPER Emergency Response Training | First Responder, Incident Command, ERT | Industrial Certified Training",
   description: "HAZWOPER emergency response training under 29 CFR 1910.120(q): first responder awareness, incident command, manufacturing ERT, 40-hour fire/hazmat and responder refresher.",
   theme: "#0a0b0d",
   fonts: "family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600",
-  icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#0a0b0d"/><path d="M16 4l11 6v8c0 6-5 9-11 10C10 27 5 24 5 18v-8z" fill="none" stroke="#ff2d2d" stroke-width="2.5"/><circle cx="16" cy="16" r="3" fill="#ff2d2d"/></svg>`,
   coursesTagline: "Training for every level of the response, from the person who spots the release to the person in command.",
   guidesTagline: "Briefings on responder levels, emergency plans and where incidental spills end.",
 
@@ -177,7 +175,7 @@ A release is likely **incidental** if:
     return `${h.header(1099)}
 <main>${body}</main>
 <footer class="foot"><div class="wrap foot-in">
-<div><a class="logo" href="/">First<b>Response</b></a><p>HAZWOPER emergency response training by HAZWOPER OSHA Training LLC, delivered on hazwoper-osha.com.</p></div>
+<div><a class="logo" href="/">${h.logo}</a><p>HAZWOPER emergency response training by Industrial Certified Training, delivered on hazwoper-osha.com.</p></div>
 <div><h4>Courses</h4>${h.courses.map((c) => `<a href="${c.url}">${h.esc(c.short)}</a>`).join("")}</div>
 <div><h4>Dispatch</h4><a href="tel:+18664296742">+1-866-429-6742</a><a href="mailto:info@hazwoper-osha.com">info@hazwoper-osha.com</a></div>
 </div></footer>`;
