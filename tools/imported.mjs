@@ -93,11 +93,19 @@ function footer(s) {
 }
 
 function headHints(s, md) {
-  if (s.includes('name="is-agentic-site-type"')) return s;
-  return s.replace(`<meta name="robots" content="index, follow">`,
-    `<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  if (!s.includes('name="is-agentic-site-type"')) {
+    s = s.replace(`<meta name="robots" content="index, follow">`,
+      `<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="is-agentic-site-type" content="business">
 <link rel="alternate" type="text/markdown" href="${md}">`);
+  }
+  if (!s.includes('<meta name="keywords"')) {
+    // The product terms AI search should tie to the site: its course names, from the ItemList.
+    const names = [...s.matchAll(/"@type":"Course","@id":"[^"]+","url":"[^"]+","name":"([^"]+)"/g)].map((m) => m[1]);
+    if (names.length) s = s.replace(`<meta name="is-agentic-site-type" content="business">`,
+      `<meta name="keywords" content="${esc([...new Set(names)].join(", "))}">\n<meta name="is-agentic-site-type" content="business">`);
+  }
+  return s;
 }
 
 // The company node gets the full record (address, contact point, logo, profiles); a WebSite node with
@@ -106,6 +114,8 @@ function enrichLd(s, base) {
   return s.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/, (all, json) => {
     const data = JSON.parse(json);
     const graph = data["@graph"] || [];
+    const ict = graph.find((n) => n["@id"] === "https://ictraining.us/#organization");
+    if (ict && !ict.description) ict.description = "Industrial Certified Training, LLC, the parent company of HAZWOPER OSHA Training, LLC, which delivers these courses online.";
     const i = graph.findIndex((n) => n["@id"] === ORG_ID);
     if (i !== -1) graph[i] = { ...ORG, ...(graph[i].parentOrganization ? { parentOrganization: graph[i].parentOrganization } : {}) };
     const page = graph.find((n) => n["@type"] === "WebPage");

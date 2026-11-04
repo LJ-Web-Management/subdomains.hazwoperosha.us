@@ -22,6 +22,7 @@ export const ORG = {
   "@type": "Organization",
   "@id": ORG_ID,
   name: "HAZWOPER OSHA Training, LLC",
+  description: "Online OSHA HAZWOPER, hazardous waste, DOT hazmat and workplace safety training. Self-paced courses with a certificate of completion, sold per seat for individuals and crews.",
   url: "https://hazwoper-osha.com/",
   logo: "https://media.hazwoper-osha.com/wp-content/uploads/2023/02/1676446749/logo-final.webp",
   email: EMAIL,
