@@ -14,7 +14,8 @@ h1, h2, h3 { font-weight: 700; }
 .tpl .hc em { color: var(--red); }
 .gl-sec { background: var(--card); border-block: 1px solid var(--line); }
 .gl-search { display: flex; align-items: center; gap: 14px; margin-bottom: 14px; }
-.gl-search input { flex: 1; font: 18px var(--font); padding: 14px 16px; border: 1.5px solid var(--fg); border-radius: 2px; background: #fff; }
+/* min-width: 0 lets the input shrink below its intrinsic ~290px so the result count fits beside it on phones. */
+.gl-search input { flex: 1; min-width: 0; font: 18px var(--font); padding: 14px 16px; border: 1.5px solid var(--fg); border-radius: 2px; background: #fff; }
 .gl-search span { color: var(--muted); white-space: nowrap; }
 .az { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 24px; }
 .az a { display: grid; place-items: center; width: 34px; height: 34px; background: var(--fg); color: var(--bg); font: 700 15px var(--head-font); text-decoration: none; border-radius: 0 8px 8px 0; }
@@ -31,3 +32,6 @@ h1, h2, h3 { font-weight: 700; }
 .eyebrow, .eyebrow a, .buy-price, .course-row-price { color: var(--red); }
 .prose a { color: var(--red); }
 .prose th { font-family: var(--head-font); border-bottom: 2px solid var(--fg); }
+
+/* Small phones: a little less padding and gap keeps the whole search placeholder visible beside the count. */
+@media (max-width: 400px) { .gl-search { gap: 10px; } .gl-search input { padding-inline: 12px; } }

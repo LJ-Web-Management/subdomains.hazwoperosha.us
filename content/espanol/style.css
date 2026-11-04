@@ -95,3 +95,6 @@ mark { background: var(--pink); color: #fff; padding: 0 .18em; border-radius: 6p
   .logo { font-size: 18px; }
   .blocks-in, .steps { grid-template-columns: 1fr; }
 }
+/* Small phones: at its 52px minimum the headline's longest word (Capacitación) is wider than the
+   screen, and it stretched the whole hero column past the viewport. Scale it with the width instead. */
+@media (max-width: 400px) { .hero h1 { font-size: 12.5vw; } }
