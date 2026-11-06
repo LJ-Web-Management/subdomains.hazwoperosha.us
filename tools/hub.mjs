@@ -71,7 +71,7 @@ const SPRITE = `<svg width="0" height="0" style="position:absolute" aria-hidden=
 // Categories, in sidebar order. A site goes in the first category whose list names it; anything new and
 // unlisted falls back to "hazwoper", so add it to the right list when you add a site.
 const CATEGORIES = [
-  { id: "network", label: "ICT Websites", color: "#3a5bd9", glyph: "globe", blurb: "The main Industrial Certified Training and HAZWOPER OSHA Training websites." },
+  { id: "network", label: "ICT Websites", color: "#3a5bd9", glyph: "globe", blurb: "The main store and the SCORM packages, which cover every topic." },
   { id: "hazwoper", label: "HAZWOPER", color: "#ff9f0a", glyph: "hazard", blurb: "40-hour, 24-hour, refreshers, supervisors and emergency response under 29 CFR 1910.120." },
   { id: "safety", label: "Workplace Safety", color: "#ff453a", glyph: "helmet",
     sites: "osha-10-general-industry osha-30-construction construction-safety competent-person confined-space drug-alcohol electrical-safety-loto em-385 excavation-trenching fall-protection fire-hot-work flagger-traffic-control forklift-equipment h2s-gas-detection hazcom-ghs heat-cold-wildfire incident-command mold-remediation msha-part-46 ppe-respiratory radiation-safety safety-management scaffolding silica-lead-asbestos warehouse-ergonomics workplace-violence healthcare-safety",
@@ -129,20 +129,23 @@ const sites = names.map((name) => {
   return { name, host: `${name}.${DOMAIN}`, title: title.split(" | ")[0].trim() || name, desc, cat, glyph: glyphOf(name, cat) };
 });
 
-// The company's own websites on other domains. They aren't folders in sites/, so their names and descriptions are written here.
+// The company's own websites on other domains. They aren't folders in sites/, so their names and descriptions are written
+// here, from each site's own <title> and meta description (read November 2026). Each goes in the category for its topic;
+// the two that cover every topic stay in "ICT Websites". The hub lists them first in their category.
 const EXTERNAL = [
-  ["hazwoper-osha.com", "HAZWOPER OSHA Training", "The main course catalog and store: every OSHA HAZWOPER, DOT hazmat, EPA RCRA and safety course, with checkout and the student login.", "shield"],
-  ["hazwoperosha.org", "HazwoperOSHA.org", "OSHA HAZWOPER training online: 40-hour, 24-hour, 8-hour refresher and supervisor courses.", "hazard"],
-  ["hazwoperosha.com", "HazwoperOSHA.com", "OSHA HAZWOPER training online: 40-hour, 24-hour, 8-hour refresher and supervisor courses.", "hazard"],
-  ["hazwoperosha.us", "HazwoperOSHA.us", "OSHA HAZWOPER training online, and the home domain of every course site in this directory.", "hazard"],
-  ["confined-space.com", "Confined Space Training", "OSHA confined space training online for entrants, attendants, supervisors and rescue teams.", "helmet"],
-  ["moldtraining.us", "Mold Training", "Mold awareness and mold remediation training online for workers and supervisors.", "mask"],
-  ["excavationtrenchingshoring.com", "Excavation, Trenching & Shoring Training", "OSHA excavation, trenching and shoring training online, including competent person courses.", "helmet"],
-  ["stormwaterplanning.us", "Stormwater Planning", "Stormwater pollution prevention (SWPPP) training and planning resources.", "drop"],
-  ["datacentertraining.us", "Data Center Training", "Data center training online: design, power, cooling, security, commissioning and operations.", "server"],
+  ["hazwoper-osha.com", "network", "HAZWOPER OSHA Training: Safety & Compliance Courses", "Onsite and online courses in OSHA, HAZWOPER, ELDT, DOT, IATA, IMDG, RCRA, EPA, NFPA 70E and NY SST. The main store, with checkout and student login.", "shield"],
+  ["oshascorm.org", "network", "Safety Training SCORM Packages", "OSHA-compliant safety training as ready-to-deploy SCORM packages for your company's own LMS, with tracking and reporting.", "grid"],
+  ["hazwoperosha.com", "hazwoper", "HAZWOPER Training Online: OSHA 40, 24 & 8 Hour Certification", "40 hour from $249.99, 24 hour, 8 hour refresher, supervisor, first responder, Cal/OSHA, Spanish and RCRA. 42 courses, instant certificates, 29 CFR 1910.120.", "hazard"],
+  ["hazwoperosha.org", "hazwoper", "HAZWOPER Learning Center: Free Lessons & Practice Quizzes", "Free HAZWOPER lessons and practice quizzes on SDS, the Emergency Response Guidebook, toxicology, respirators, heat stress and confined spaces, plus certified courses.", "book"],
+  ["hazwoperosha.us", "hazwoper", "HAZWOPER Compliance Training for Employers", "Order OSHA HAZWOPER training for your whole crew in one checkout: 40 hour, 24 hour, refreshers, supervisor, incident command, Cal/OSHA and Spanish.", "people"],
+  ["confined-space.com", "safety", "OSHA Confined Space Training Online", "Four online OSHA confined space courses: Awareness, Entry, Supervisor and Competent Person. Self-paced, English & Spanish, instant certificate.", "helmet"],
+  ["excavationtrenchingshoring.com", "safety", "OSHA Excavation, Trenching & Shoring Training", "Excavation Safety and Competent Person courses under 29 CFR 1926 Subpart P. Self-paced, English & Spanish, instant certificate.", "helmet"],
+  ["moldtraining.us", "safety", "Mold Awareness & Remediation Training", "Mold training for every role: Mold Awareness, Property Management and IAC2 Inspector Certification. Self-paced, English & Spanish.", "mask"],
+  ["stormwaterplanning.us", "waste", "Qualified SWPPP Practitioner & Preparer Training", "Online QSP Practitioner and SWPPP Preparer training for construction sites. CWA and NPDES aligned, self-paced, English & Spanish.", "drop"],
+  ["eldttraining.us", "transport", "ELDT Training: Entry-Level Driver Training", "FMCSA-compliant online ELDT theory courses for the Class A and Class B CDL, the B-to-A upgrade and the HAZMAT (H) endorsement.", "truck"],
+  ["datacentertraining.us", "datacenter", "Data Center Training Online: Courses & Bundles", "43 self-paced data center courses, 184 hours in all, for power, cooling, operations, security and design teams. Certificate included.", "server"],
 ];
-const network = CATEGORIES.find((c) => c.id === "network");
-sites.unshift(...EXTERNAL.map(([host, title, desc, glyph]) => ({ name: host.replace(/\./g, "-"), host, title, desc, cat: network, glyph, external: true })));
+sites.unshift(...EXTERNAL.map(([host, cat, title, desc, glyph]) => ({ name: host.replace(/\./g, "-"), host, title, desc, cat: CATEGORIES.find((c) => c.id === cat), glyph, external: true })));
 const N = sites.length;
 const counts = Object.fromEntries(CATEGORIES.map((c) => [c.id, sites.filter((s) => s.cat === c).length]));
 const cats = CATEGORIES.filter((c) => counts[c.id]);
