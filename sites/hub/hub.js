@@ -6,6 +6,44 @@
   var reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
   var wait = function (ms) { return new Promise(function (r) { setTimeout(r, reduce ? Math.min(ms, 60) : ms); }); };
 
+  // ---- Shortcut hints that follow the device (INPUT in tools/hub.mjs sets the first value) ----------------
+  var root = document.documentElement, coarse = matchMedia("(hover: none) and (pointer: coarse)");
+  var os = /mac|iphone|ipad|ipod/i.test(((navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || "") + " " + navigator.userAgent) ? "mac" : "pc";
+  function setInput(touch) { root.dataset.input = touch ? "touch" : os; }
+  function onCoarse() { setInput(coarse.matches); }
+  if (!root.dataset.input) onCoarse();
+  if (coarse.addEventListener) coarse.addEventListener("change", onCoarse); else if (coarse.addListener) coarse.addListener(onCoarse);
+  // A tablet with a hardware keyboard: pressing ⌘K or Ctrl+K there switches the hints to keys.
+  document.addEventListener("keydown", function (e) {
+    if ((e.metaKey || e.ctrlKey) && (e.key === "k" || e.key === "K") && root.dataset.input === "touch") setInput(false);
+  }, true);
+
+  // ---- Keep the menu bar clear of the notch -----------------------------------------------------------
+  // hub.css shows the names, links and clock only at widths where they clear the notch. Fonts, locales and the
+  // clock's own text change those widths, so this also hides whatever still reaches it: links, then the full
+  // name (for the short one), then the short name; the clock on the right.
+  var CUTS = ["cut-links", "cut-full", "cut-short", "cut-clock"];
+  function clearNotch() {
+    var bar = $(".menubar");
+    if (!bar) return;
+    CUTS.forEach(function (c) { bar.classList.toggle(c, false); });
+    var vw = root.clientWidth, w = parseFloat(getComputedStyle(root).getPropertyValue("--notch")) || 200;
+    var L = (vw - w) / 2 - 10, R = (vw + w) / 2 + 10;
+    var edge = function () {
+      return $$(".left > *", bar).reduce(function (m, el) { return el.offsetWidth ? Math.max(m, el.getBoundingClientRect().right) : m; }, 0);
+    };
+    for (var i = 0; i < 3 && edge() > L; i++) bar.classList.add(CUTS[i]);
+    var c = $(".clock", bar);
+    if (c && c.offsetWidth && c.getBoundingClientRect().left < R) bar.classList.add("cut-clock");
+  }
+  var fitQueued = false;
+  addEventListener("resize", function () {
+    if (fitQueued) return;
+    fitQueued = true;
+    requestAnimationFrame(function () { fitQueued = false; clearNotch(); });
+  });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(clearNotch);
+
   // ---- Menu bar clock -------------------------------------------------------------------------------
   var clock = $("#clock");
   function tick() {
@@ -13,6 +51,7 @@
     var d = new Date();
     clock.textContent = d.toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" }) + "  " +
       d.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" });
+    clearNotch();
   }
   tick(); setInterval(tick, 15000);
 
@@ -86,7 +125,11 @@
     scan.classList.remove("scanning", "ok", "bad");
     if (state) scan.classList.add(state);
   }
+  // The panel grows to fit its results, but never past the visible screen (short landscape phones, or an
+  // on-screen keyboard): the results list scrolls instead.
   function fit() {
+    var vh = window.visualViewport ? window.visualViewport.height : innerHeight;
+    results.style.maxHeight = Math.max(110, vh - 100) + "px";
     var h = $(".body", island).scrollHeight;
     island.style.setProperty("--h", h + "px");
     island.classList.toggle("tall", h > 64);
@@ -128,7 +171,13 @@
     }, 220);
   }
   function highlight() {
-    $$("a", results).forEach(function (a, i) { a.classList.toggle("on", i === sel); });
+    var links = $$("a", results);
+    links.forEach(function (a, i) { a.classList.toggle("on", i === sel); });
+    var a = links[sel];
+    if (!a) return;
+    var rb = results.getBoundingClientRect(), ab = a.getBoundingClientRect();
+    if (ab.top < rb.top) results.scrollTop -= rb.top - ab.top;
+    else if (ab.bottom > rb.bottom) results.scrollTop += ab.bottom - rb.bottom;
   }
   // A short message in the panel: scanning, then success or failure, then back into the notch.
   function announce(title, sub, outcome, hold) {
@@ -152,6 +201,9 @@
   window.hubAnnounce = announce;
 
   idle.addEventListener("click", function (e) { e.stopPropagation(); openIsland(); });
+  // A tap on the notch while it shows a message (the opening animation) opens search too.
+  island.addEventListener("click", function (e) { if (busy) { e.stopPropagation(); openIsland(); } });
+  if (window.visualViewport) window.visualViewport.addEventListener("resize", function () { if (island.classList.contains("open")) fit(); });
   closeBtn.addEventListener("click", closeIsland);
   input.addEventListener("input", runSearch);
   input.addEventListener("keydown", function (e) {

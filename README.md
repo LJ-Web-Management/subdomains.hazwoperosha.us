@@ -63,14 +63,22 @@ What every site has:
 https://hub.hazwoperosha.us is the Industrial Certified Training (ICT) hub: a small website, styled like a built-in macOS
 feature, that leads to every site in `sites/`.
 
-- **Notch search.** A black capsule at the top center grows into a panel (click it, press `⌘K` or `/`). It searches every
-  site's name and description; its Face ID–style ring pulses while searching, turns green with a check on a match, and turns
-  red with a small shake when nothing matches.
+- **Notch search.** A black capsule at the top center grows into a panel (tap or click it, press `⌘K`, `Ctrl+K` or `/`). It
+  searches every site's name and description; its Face ID–style ring pulses while searching, turns green with a check on a
+  match, and turns red with a small shake when nothing matches. On phones the notch is narrower and reads "Search", and the
+  panel never grows past the visible screen (its results scroll instead).
+- **Hints that fit the device.** The hero line under the buttons, the status menu's shortcut and the panel's close button
+  follow the visitor's device: "Or press ⌘K" and `esc` on a Mac, "Or press Ctrl+K" on Windows, Linux and ChromeOS, and "Or tap
+  the notch at the top to search" with a Cancel button on phones and tablets without a mouse. A one-line script in each
+  page's `<head>` (`INPUT` in `tools/hub.mjs`) sets `<html data-input="mac|pc|touch">` before the first paint, and
+  `hub.js` switches it if a mouse or a hardware keyboard turns up later.
 - **Course Finder.** Five onboarding-style cards (welcome, your work, optional keywords, matching ring, results) that rank the
   sites for the visitor's answers. Nothing is sent anywhere.
 - **Directory.** A System Settings–style window: category sidebar with counts, search, a sort pop-up, a details switch, and
   grouped inset lists of every site.
-- **Menu bar.** ICT logo and links, a status menu (search, finder, directory, call, email, ictraining.us) and a clock.
+- **Menu bar.** ICT logo and links, a status menu (search, finder, directory, call, email, ictraining.us) and a clock. The
+  name, links and clock each show only at widths where they clear the notch (breakpoints in `hub.css`), and `hub.js` hides
+  any that still reach it in another font or locale. The bar and page respect the iPhone's landscape safe areas.
 - `/about`, `/contact`, `/privacy` and a 404 page.
 
 `tools/hub.mjs` writes it from the folders in `sites/` (each site's `<title>` and meta description), and Wrangler runs that

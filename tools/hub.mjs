@@ -161,6 +161,12 @@ const CSS = `/hub.css?v=${v("hub.css")}`;
 const JS = `/hub.js?v=${v("hub.js")}`;
 const LOGO = `/assets/ict-logo.webp?v=${v("ict-logo.webp")}`;
 
+// Shortcut hints that follow the device. INPUT (inline in <head>, so the right one shows on first paint) sets
+// <html data-input>: "touch" on phones and tablets without a mouse, "mac" on Apple devices, "pc" elsewhere. hub.css
+// shows .on-keys or .on-touch, and .mac or .pc, to match; hub.js updates it if a mouse or keyboard turns up later.
+const INPUT = `<script>!function(d,n){var p=((n.userAgentData&&n.userAgentData.platform)||n.platform||"")+" "+n.userAgent;d.dataset.input=matchMedia("(hover: none) and (pointer: coarse)").matches?"touch":/mac|iphone|ipad|ipod/i.test(p)?"mac":"pc"}(document.documentElement,navigator)</script>`;
+const KEY = `<span class="mac">⌘K</span><span class="pc">Ctrl+K</span>`;
+
 const tile = (color, glyph, cls = "tile") => `<span class="${cls}" style="background:${color}">${svg(glyph)}</span>`;
 const chev = `<svg class="chev" viewBox="0 0 12 12" aria-hidden="true"><path d="M4.5 2.5 8 6l-3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
@@ -175,6 +181,7 @@ function shell({ path, title, description, body, home = false }) {
 <meta name="description" content="${esc(description)}">
 <meta name="theme-color" content="#000000">
 <meta name="color-scheme" content="dark">
+${INPUT}
 <link rel="canonical" href="${BASE}${path}">
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -215,7 +222,7 @@ function menubar() {
 <div class="menu" id="statusMenu" role="menu" hidden>
 <div class="state"><span class="dot" aria-hidden="true"></span><span><b>Industrial Certified Training Directory</b><small>${N} course sites · 100% online</small></span></div>
 <hr>
-<button type="button" role="menuitem" data-act="search">Search Sites… <kbd>⌘K</kbd></button>
+<button type="button" role="menuitem" data-act="search">Search Sites… <kbd class="on-keys">${KEY}</kbd></button>
 <a role="menuitem" href="/#finder">Find My Course</a>
 <a role="menuitem" href="/#directory">Browse Directory</a>
 <hr>
@@ -238,13 +245,13 @@ function scanRing(id = "") {
 
 function island() {
   return `<div class="island" id="island" role="dialog" aria-label="Search ${N} training sites" aria-modal="false">
-<button type="button" class="idle" id="islandIdle" aria-label="Search ${N} training sites (⌘K)">${svg("search")}<span>Search ${N} sites</span></button>
+<button type="button" class="idle" id="islandIdle" aria-label="Search ${N} training sites" aria-keyshortcuts="Meta+K Control+K /">${svg("search")}<span>Search<span class="n"> ${N} sites</span></span></button>
 <div class="body">
 <div class="row">${scanRing("islandScan")}
 <div class="msg" id="islandMsg" hidden><b></b><small></small></div>
 <label class="sr" for="islandInput">Search training sites</label>
 <input id="islandInput" type="search" placeholder="Search courses, states, tools…" autocomplete="off" spellcheck="false" enterkeyhint="go">
-<button type="button" class="esc" id="islandClose">esc</button></div>
+<button type="button" class="esc" id="islandClose" aria-label="Close search"><span class="on-keys">esc</span><span class="on-touch">Cancel</span></button></div>
 <ul class="results" id="islandResults" hidden></ul>
 </div>
 </div>`;
@@ -280,7 +287,7 @@ const homeBody = `<section class="hero wrap">
 <h1>Certified training.<br><span>At a glance.</span></h1>
 <p class="lede">${N} focused course sites for OSHA HAZWOPER, DOT hazmat, EPA RCRA, workplace safety and data centers. Self-paced, 100% online, certificate on completion.</p>
 <div class="actions"><a class="btn primary" href="#finder">Find my course</a><a class="btn plain" href="#directory">Browse all ${N} sites</a></div>
-<p class="kbd-hint">Or press <kbd>⌘K</kbd> to search from the notch.</p>
+<p class="kbd-hint"><span class="on-keys">Or press <kbd>${KEY}</kbd> to search from the notch.</span><span class="on-touch">Or tap the notch at the top to search.</span></p>
 <ul class="stats">
 <li><b>${N}</b>course sites</li><li><b>${cats.length}</b>categories</li><li><b>2008</b>training since</li><li><b>24/7</b>self-paced access</li>
 </ul>

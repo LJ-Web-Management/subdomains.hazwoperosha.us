@@ -22,12 +22,19 @@
   --display: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
   --text: "SF Pro Text", -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
   --bar: 32px;
+  --notch: 200px;
+  --bar-pad: 10px;
+  --safe-l: env(safe-area-inset-left, 0px);
+  --safe-r: env(safe-area-inset-right, 0px);
 }
+/* Phones get a narrower notch and a tighter menu bar, so the brand still fits beside it. */
+@media (max-width: 560px) { :root { --notch: 120px; --bar-pad: 6px; } }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; scroll-padding-top: 56px; }
 body {
   margin: 0; min-height: 100vh; background: #050608; color: var(--label);
   font: 400 15px/1.5 var(--text); letter-spacing: -.01em; -webkit-font-smoothing: antialiased; overflow-x: hidden;
+  padding: 0 var(--safe-r) 0 var(--safe-l); /* iPhone landscape: keep content clear of the sensor housing. */
 }
 a { color: var(--blue); text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -37,6 +44,9 @@ button, input, select { font: inherit; color: inherit; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .skip { position: fixed; left: 12px; top: -60px; z-index: 100; background: var(--blue); color: #fff; padding: 8px 14px; border-radius: 10px; }
 .skip:focus { top: 44px; }
+/* Shortcut hints follow the visitor's device: <html data-input="mac|pc|touch">, set in <head> and kept current by hub.js. */
+html[data-input="pc"] .mac, html:not([data-input="pc"]) .pc { display: none; }
+html[data-input="touch"] .on-keys, html:not([data-input="touch"]) .on-touch { display: none; }
 svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; flex: none; }
 
 /* Wallpaper: a blurred gradient behind everything, so the glass has something to show. */
@@ -48,7 +58,8 @@ svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-widt
 
 /* Menu bar */
 .menubar {
-  position: fixed; inset: 0 0 auto; height: var(--bar); z-index: 50; display: flex; align-items: center; gap: 4px; padding: 0 10px;
+  position: fixed; inset: 0 0 auto; height: var(--bar); z-index: 50; display: flex; align-items: center; gap: 4px;
+  padding: 0 max(var(--bar-pad), var(--safe-r)) 0 max(var(--bar-pad), var(--safe-l));
   background: rgba(20, 22, 28, .55); backdrop-filter: saturate(180%) blur(24px); -webkit-backdrop-filter: saturate(180%) blur(24px);
   border-bottom: 1px solid var(--hair); font-size: 13px;
 }
@@ -61,15 +72,18 @@ svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-widt
 .menubar .clock { color: var(--label); padding: 0 8px; font-variant-numeric: tabular-nums; }
 .menubar .status { display: flex; align-items: center; padding: 3px 7px; }
 .menubar .status svg { width: 17px; height: 17px; }
-/* The notch owns the middle 200px, so the full name and the links only show where they clear it. */
-.menubar .left .m, .menubar .brand .full { display: none; }
-@media (min-width: 820px) { .menubar .brand .full { display: inline; } .menubar .brand .short { display: none; } }
+/* The notch owns the middle of the bar, so the names, links and clock only show where they clear it. hub.js also
+   hides any that still reach it (another font or locale), with the .cut-* classes. */
+.menubar .left .m, .menubar .brand .full, .menubar .brand .short, .menubar .clock { display: none; }
+@media (min-width: 406px) { .menubar .brand .short { display: inline; } }
+@media (min-width: 640px) { .menubar .clock { display: inline; } }
+@media (min-width: 860px) { .menubar .brand .full { display: inline; } .menubar .brand .short { display: none; } }
 @media (min-width: 1280px) { .menubar .left .m { display: inline-block; } }
-@media (max-width: 560px) { .menubar .clock { display: none; } }
-@media (max-width: 400px) { .menubar .brand .short { display: none; } }
+.menubar.cut-links .left .m, .menubar.cut-full .brand .full, .menubar.cut-short .brand .short, .menubar.cut-clock .clock { display: none; }
+.menubar.cut-full:not(.cut-short) .brand .short { display: inline; }
 
 .menu {
-  position: fixed; top: calc(var(--bar) + 4px); right: 8px; z-index: 60; width: 248px; padding: 5px;
+  position: fixed; top: calc(var(--bar) + 4px); right: max(8px, var(--safe-r)); z-index: 60; width: min(248px, calc(100vw - 16px)); padding: 5px;
   background: var(--glass-strong); backdrop-filter: saturate(180%) blur(30px); -webkit-backdrop-filter: saturate(180%) blur(30px);
   border: 1px solid var(--hair); border-radius: 12px; box-shadow: 0 18px 50px rgba(0, 0, 0, .5);
   transform-origin: top right; transition: opacity .18s var(--ease), transform .3s var(--spring); font-size: 13px;
@@ -87,19 +101,21 @@ svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-widt
 
 /* The notch: a black capsule that grows into a panel. */
 .island {
-  position: fixed; top: 0; left: 50%; z-index: 70; width: 200px; height: var(--bar); transform: translateX(-50%);
+  position: fixed; top: 0; left: 50%; z-index: 70; width: var(--notch); height: var(--bar); transform: translateX(-50%);
   background: var(--black); border-radius: 0 0 14px 14px; color: #fff; overflow: hidden; cursor: pointer;
   transition: width .46s var(--spring), height .46s var(--spring), border-radius .46s var(--spring), box-shadow .3s var(--ease);
   box-shadow: 0 0 0 1px rgba(255, 255, 255, .02);
 }
-.island:hover:not(.open) { width: 214px; }
+@media (hover: hover) { .island:hover:not(.open) { width: calc(var(--notch) + 14px); } }
 .island.open { width: min(440px, calc(100vw - 24px)); height: 64px; border-radius: 0 0 30px 30px; box-shadow: 0 22px 60px rgba(0, 0, 0, .6); cursor: default; }
 .island.open.tall { height: var(--h, 64px); }
 .island .idle { position: absolute; inset: 0; width: 100%; background: none; border: 0; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; font-size: 12px; color: var(--label-2); transition: opacity .2s var(--ease); }
 .island .idle svg { width: 13px; height: 13px; }
+@media (max-width: 560px) { .island .idle .n { display: none; } }
 .island.open .idle { opacity: 0; pointer-events: none; }
-.island .body { opacity: 0; transition: opacity .2s var(--ease); padding: 14px 18px 14px 16px; }
-.island.open .body { opacity: 1; transition-delay: .12s; }
+.island .body { padding: 14px 18px 14px 16px; opacity: 0; visibility: hidden; pointer-events: none; transition: opacity .2s var(--ease), visibility 0s linear .2s; }
+/* Hidden, the panel must not catch taps meant for the notch (or be reachable with Tab). */
+.island.open .body { opacity: 1; visibility: visible; pointer-events: auto; transition: opacity .2s var(--ease) .12s, visibility 0s; }
 .island .row { display: flex; align-items: center; gap: 12px; height: 36px; }
 .island .msg { flex: 1; min-width: 0; }
 .island .msg b { display: block; font: 600 14px/1.2 var(--display); letter-spacing: -.01em; }
@@ -107,8 +123,9 @@ svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-widt
 .island input { flex: 1; min-width: 0; background: none; border: 0; outline: 0; color: #fff; font: 500 16px/1.2 var(--display); letter-spacing: -.01em; }
 .island input::-webkit-search-cancel-button { display: none; }
 .island input::placeholder { color: var(--label-3); }
-.island .esc { font-size: 11px; color: var(--label-3); border: 1px solid rgba(255, 255, 255, .16); border-radius: 5px; padding: 1px 6px; background: none; cursor: pointer; }
-.island .results { list-style: none; margin: 10px 0 0; padding: 8px 0 0; border-top: 1px solid rgba(255, 255, 255, .1); }
+.island .esc { flex: none; font-size: 11px; color: var(--label-3); border: 1px solid rgba(255, 255, 255, .16); border-radius: 5px; padding: 1px 6px; background: none; cursor: pointer; }
+html[data-input="touch"] .island .esc { border: 0; padding: 6px 0 6px 4px; font-size: 15px; color: var(--blue); }
+.island .results { list-style: none; margin: 10px 0 0; padding: 8px 0 0; border-top: 1px solid rgba(255, 255, 255, .1); overflow-y: auto; overscroll-behavior: contain; }
 .island .results a { display: flex; align-items: center; gap: 11px; padding: 6px 8px; margin: 0 -8px; border-radius: 12px; color: #fff; }
 .island .results a:hover, .island .results a.on { background: rgba(255, 255, 255, .1); text-decoration: none; }
 .island .results span { min-width: 0; }
@@ -166,7 +183,7 @@ h3 { font-size: 17px; font-weight: 600; letter-spacing: -.015em; }
 .stats { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px 28px; margin: 44px 0 0; padding: 0; list-style: none; color: var(--label-2); font-size: 13px; }
 .stats b { color: #fff; font: 600 15px var(--display); margin-right: 5px; }
 .kbd-hint { color: var(--label-3); font-size: 12px; margin-top: 14px; }
-.kbd-hint kbd { font: inherit; border: 1px solid var(--hair); border-radius: 5px; padding: 0 5px; color: var(--label-2); }
+.kbd-hint kbd { font: inherit; border: 1px solid var(--hair); border-radius: 5px; padding: 0 5px; color: var(--label-2); white-space: nowrap; }
 section.sec { padding: clamp(56px, 9vh, 96px) 0; }
 .sec-head { text-align: center; margin-bottom: 36px; }
 .sec-head p { color: var(--label-2); margin: 10px auto 0; max-width: 540px; font-size: 17px; }
@@ -205,7 +222,7 @@ section.sec { padding: clamp(56px, 9vh, 96px) 0; }
 .choice:hover { background: rgba(255, 255, 255, .03); }
 .choice .tile { width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; flex: none; color: #fff; }
 .choice .tile svg { width: 17px; height: 17px; }
-.choice .t { flex: 1; min-width: 0; }
+.choice .t { flex: 1; min-width: 0; overflow-wrap: break-word; }
 .choice .t b { display: block; font-weight: 500; font-size: 14px; }
 .choice .t small { display: block; color: var(--label-2); font-size: 12px; line-height: 1.35; }
 .choice .grant { font-size: 12px; font-weight: 500; color: #fff; background: var(--fill); border-radius: 999px; padding: 3px 12px; min-width: 64px; text-align: center; transition: background .25s, color .25s, transform .3s var(--spring); }
@@ -279,11 +296,11 @@ section.sec { padding: clamp(56px, 9vh, 96px) 0; }
 .site:hover { background: rgba(255, 255, 255, .04); text-decoration: none; }
 .site .tile { width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; flex: none; box-shadow: inset 0 0 0 .5px rgba(255, 255, 255, .15); }
 .site .tile svg { width: 17px; height: 17px; }
-.site .t { flex: 1; min-width: 0; }
+.site .t { flex: 1; min-width: 0; overflow-wrap: break-word; }
 .site .t b { display: block; font-weight: 500; font-size: 14px; line-height: 1.3; }
 .site .t small { display: block; color: var(--label-2); font-size: 12px; line-height: 1.4; }
 .site .t small:not(.host) { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.site .t .host { color: var(--label-3); font-size: 11px; }
+.site .t .host { color: var(--label-3); font-size: 11px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .list.compact .site .t small:not(.host) { display: none; }
 .site .chev { width: 12px; height: 12px; color: var(--label-3); }
 .empty { text-align: center; color: var(--label-2); padding: 60px 20px; }
@@ -300,8 +317,27 @@ section.sec { padding: clamp(56px, 9vh, 96px) 0; }
   .cats::-webkit-scrollbar { display: none; }
   .cats button { white-space: nowrap; background: var(--fill-2); border-radius: 999px; padding: 4px 12px 4px 5px; }
   .cats .n { margin-left: 2px; }
-  .toolbar { padding: 10px 14px; flex-wrap: wrap; }
-  .list { max-height: 70vh; padding: 14px 12px 22px; }
+  .toolbar { padding: 10px 14px; flex-wrap: wrap; row-gap: 8px; }
+  .list { max-height: 70vh; max-height: 70svh; padding: 14px 12px 22px; }
+}
+/* Small phones: the pane title gets its own line above Sort and Details. */
+@media (max-width: 560px) {
+  .toolbar h3 { flex-basis: 100%; }
+  .toolbar label:last-child { margin-left: auto; }
+}
+/* Small phones: a tighter Course Finder card, and a round check in place of the Choose pill. */
+@media (max-width: 420px) {
+  .onboard { padding: 14px 12px 24px; }
+  .step { padding-left: 0; padding-right: 0; }
+  .choice { gap: 10px; padding: 11px 10px; }
+  .choice .grant { font-size: 0; min-width: 0; width: 24px; height: 24px; padding: 0; border-radius: 50%; background: none; box-shadow: inset 0 0 0 1.5px var(--label-3); display: grid; place-items: center; }
+  .choice[aria-pressed="true"] .grant { background: var(--green); box-shadow: none; padding: 0; }
+  .choice[aria-pressed="true"] .grant::before { content: ""; width: 10px; height: 5px; border: solid #fff; border-width: 0 0 2px 2px; transform: translateY(-1px) rotate(-45deg); }
+}
+/* Touch screens: iOS zooms into any field under 16px, so fields get 16px there. */
+@media (hover: none) and (pointer: coarse) {
+  .search input, .field input, .popup { font-size: 16px; }
+  .popup { height: 30px; }
 }
 
 /* Features: three quiet points */
@@ -328,7 +364,7 @@ section.sec { padding: clamp(56px, 9vh, 96px) 0; }
 .page .group .tile { width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; flex: none; color: #fff; }
 .page .group .tile svg { width: 17px; height: 17px; }
 
-footer { border-top: 1px solid var(--hair); padding: 34px 0 48px; color: var(--label-2); font-size: 12px; }
+footer { border-top: 1px solid var(--hair); padding: 34px 0 calc(48px + env(safe-area-inset-bottom, 0px)); color: var(--label-2); font-size: 12px; }
 footer .wrap { display: flex; flex-wrap: wrap; gap: 18px 32px; align-items: flex-start; justify-content: space-between; }
 footer .org { display: flex; gap: 12px; align-items: center; max-width: 440px; }
 footer .org img { width: 40px; height: auto; background: #fff; border-radius: 10px; padding: 4px; }

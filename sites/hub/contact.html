@@ -8,14 +8,15 @@
 <meta name="description" content="Call, email or write to Industrial Certified Training and HAZWOPER OSHA Training for course questions, team seats and certificates.">
 <meta name="theme-color" content="#000000">
 <meta name="color-scheme" content="dark">
+<script>!function(d,n){var p=((n.userAgentData&&n.userAgentData.platform)||n.platform||"")+" "+n.userAgent;d.dataset.input=matchMedia("(hover: none) and (pointer: coarse)").matches?"touch":/mac|iphone|ipad|ipod/i.test(p)?"mac":"pc"}(document.documentElement,navigator)</script>
 <link rel="canonical" href="https://hub.hazwoperosha.us/contact">
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="/hub.css?v=686f1266ed">
-<script src="/hub.js?v=435a461931" defer></script>
+<link rel="stylesheet" href="/hub.css?v=4be189e1eb">
+<script src="/hub.js?v=72277320d3" defer></script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -36,7 +37,7 @@
 <div class="menu" id="statusMenu" role="menu" hidden>
 <div class="state"><span class="dot" aria-hidden="true"></span><span><b>Industrial Certified Training Directory</b><small>160 course sites · 100% online</small></span></div>
 <hr>
-<button type="button" role="menuitem" data-act="search">Search Sites… <kbd>⌘K</kbd></button>
+<button type="button" role="menuitem" data-act="search">Search Sites… <kbd class="on-keys"><span class="mac">⌘K</span><span class="pc">Ctrl+K</span></kbd></button>
 <a role="menuitem" href="/#finder">Find My Course</a>
 <a role="menuitem" href="/#directory">Browse Directory</a>
 <hr>
@@ -47,7 +48,7 @@
 <a role="menuitem" href="https://ictraining.us/" rel="noopener">Go to ictraining.us</a>
 </div>
 <div class="island" id="island" role="dialog" aria-label="Search 160 training sites" aria-modal="false">
-<button type="button" class="idle" id="islandIdle" aria-label="Search 160 training sites (⌘K)"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><use href="#g-search"/></svg><span>Search 160 sites</span></button>
+<button type="button" class="idle" id="islandIdle" aria-label="Search 160 training sites" aria-keyshortcuts="Meta+K Control+K /"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><use href="#g-search"/></svg><span>Search<span class="n"> 160 sites</span></span></button>
 <div class="body">
 <div class="row"><span class="scan" id="islandScan" aria-hidden="true"><svg viewBox="0 0 36 36">
 <circle class="track" cx="18" cy="18" r="15.9"/><circle class="arc" cx="18" cy="18" r="15.9" pathLength="100"/>
@@ -58,7 +59,7 @@
 <div class="msg" id="islandMsg" hidden><b></b><small></small></div>
 <label class="sr" for="islandInput">Search training sites</label>
 <input id="islandInput" type="search" placeholder="Search courses, states, tools…" autocomplete="off" spellcheck="false" enterkeyhint="go">
-<button type="button" class="esc" id="islandClose">esc</button></div>
+<button type="button" class="esc" id="islandClose" aria-label="Close search"><span class="on-keys">esc</span><span class="on-touch">Cancel</span></button></div>
 <ul class="results" id="islandResults" hidden></ul>
 </div>
 </div>
