@@ -38,3 +38,6 @@ h1, h2, h3 { font-weight: 400; letter-spacing: .01em; }
 .prose a { color: var(--fg); font-weight: 700; text-decoration-color: var(--yellow); text-decoration-thickness: 4px; }
 .prose th { background: var(--fg); color: var(--yellow); font-family: var(--head-font); font-size: 18px; font-weight: 400; letter-spacing: .04em; }
 @media (max-width: 900px) { .ball { opacity: .3; } }
+
+/* Phones: the longest word in a page title fits a 375px screen. */
+@media (max-width: 480px) { .page-head h1 { font-size: 42px; } }

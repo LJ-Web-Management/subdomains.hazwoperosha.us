@@ -74,7 +74,10 @@ feature, that leads to every site in `sites/`.
 - `/about`, `/contact`, `/privacy` and a 404 page.
 
 `tools/hub.mjs` writes it from the folders in `sites/` (each site's `<title>` and meta description), and Wrangler runs that
-script before every deploy (the `build` block in `wrangler.jsonc`), so new sites appear on their own. A site's category comes
+script before every deploy (the `build` block in `wrangler.jsonc`), so new sites appear on their own. The company's sites on
+other domains (hazwoper-osha.com, confined-space.com, eldttraining.us and the rest) come from the `EXTERNAL` list in
+`tools/hub.mjs`: names and descriptions copied from each site's own title and meta description, filed under their topic's
+category (the main store and oshascorm.org, which cover every topic, under "ICT Websites"). Update them there when a site changes. A site's category comes
 from the `CATEGORIES` lists in `tools/hub.mjs`; an unlisted site falls back to HAZWOPER, so add new sites to the right list.
 The design and script are `tools/hub/hub.css` and `tools/hub/hub.js` (copied with a `?v=<hash>`), and the ICT logo is
 `tools/hub/ict-logo.webp`. The hub is still hidden from search engines and untracked: its pages have a `noindex, nofollow` meta

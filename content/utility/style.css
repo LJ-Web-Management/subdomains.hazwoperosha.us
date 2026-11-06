@@ -72,3 +72,6 @@ h1, h2, h3 { text-transform: uppercase; font-weight: 800; }
 
 /* Shared header: the accent is too light for the white bar. */
 :root { --hx-accent: #0f1a2e; --hx-accent-fg: #c6ff00; }
+
+/* Phones: the longest word in a page title fits a 375px screen. */
+@media (max-width: 480px) { .hero h1 { font-size: 64px; } .page-head h1 { font-size: 38px; } }
