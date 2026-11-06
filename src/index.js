@@ -2,7 +2,7 @@
 // johnny.hazwoperosha.us/about -> sites/johnny/about.html (or sites/johnny/about/index.html).
 // /_shared/ is the exception: every site gets sites/_shared/ there (checkout, course catalog).
 // "_shared" can't be a subdomain, so it is never served as a site of its own.
-// hub.<domain> lists every site (tools/hub.mjs) and is kept out of search engines.
+// hub.<domain> is the ICT hub website that leads to every site (tools/hub.mjs); it is kept out of search engines.
 // Every HTML page gets the Google Analytics and Microsoft Clarity tags added before </head>, so sites
 // never include them. The hub is internal, so it isn't tracked.
 //
