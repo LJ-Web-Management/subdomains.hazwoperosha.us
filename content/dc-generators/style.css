@@ -37,3 +37,6 @@ h1, h2, h3 { font-weight: 900; text-transform: uppercase; letter-spacing: .02em;
 .tpl .foot .logo, .tpl .foot h2 { color: var(--accent); }
 .prose a { color: #a34f00; font-weight: 600; }
 @media (max-width: 800px) { .gy-in { grid-template-columns: 1fr; } }
+
+/* Phones: the longest word in a page title fits a 375px screen. */
+@media (max-width: 480px) { .page-head h1 { font-size: 28px; } }

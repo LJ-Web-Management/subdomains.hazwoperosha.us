@@ -71,6 +71,7 @@ const SPRITE = `<svg width="0" height="0" style="position:absolute" aria-hidden=
 // Categories, in sidebar order. A site goes in the first category whose list names it; anything new and
 // unlisted falls back to "hazwoper", so add it to the right list when you add a site.
 const CATEGORIES = [
+  { id: "network", label: "ICT Websites", color: "#3a5bd9", glyph: "globe", blurb: "The main Industrial Certified Training and HAZWOPER OSHA Training websites." },
   { id: "hazwoper", label: "HAZWOPER", color: "#ff9f0a", glyph: "hazard", blurb: "40-hour, 24-hour, refreshers, supervisors and emergency response under 29 CFR 1910.120." },
   { id: "safety", label: "Workplace Safety", color: "#ff453a", glyph: "helmet",
     sites: "osha-10-general-industry osha-30-construction construction-safety competent-person confined-space drug-alcohol electrical-safety-loto em-385 excavation-trenching fall-protection fire-hot-work flagger-traffic-control forklift-equipment h2s-gas-detection hazcom-ghs heat-cold-wildfire incident-command mold-remediation msha-part-46 ppe-respiratory radiation-safety safety-management scaffolding silica-lead-asbestos warehouse-ergonomics workplace-violence healthcare-safety",
@@ -95,7 +96,7 @@ const CATEGORIES = [
     blurb: "Free calculators, finders, quizzes and checklists. No account needed." },
 ];
 for (const c of CATEGORIES) c.set = new Set((c.sites || "").split(/\s+/).filter(Boolean));
-const catOf = (n) => CATEGORIES.find((c) => c.set.has(n) || (c.prefix && n.startsWith(c.prefix))) || CATEGORIES[0];
+const catOf = (n) => CATEGORIES.find((c) => c.set.has(n) || (c.prefix && n.startsWith(c.prefix))) || CATEGORIES.find((c) => c.id === "hazwoper");
 
 // A site's own glyph, picked from words in its folder name; the category's glyph otherwise.
 const GLYPHS = [
@@ -127,6 +128,21 @@ const sites = names.map((name) => {
   const cat = catOf(name);
   return { name, host: `${name}.${DOMAIN}`, title: title.split(" | ")[0].trim() || name, desc, cat, glyph: glyphOf(name, cat) };
 });
+
+// The company's own websites on other domains. They aren't folders in sites/, so their names and descriptions are written here.
+const EXTERNAL = [
+  ["hazwoper-osha.com", "HAZWOPER OSHA Training", "The main course catalog and store: every OSHA HAZWOPER, DOT hazmat, EPA RCRA and safety course, with checkout and the student login.", "shield"],
+  ["hazwoperosha.org", "HazwoperOSHA.org", "OSHA HAZWOPER training online: 40-hour, 24-hour, 8-hour refresher and supervisor courses.", "hazard"],
+  ["hazwoperosha.com", "HazwoperOSHA.com", "OSHA HAZWOPER training online: 40-hour, 24-hour, 8-hour refresher and supervisor courses.", "hazard"],
+  ["hazwoperosha.us", "HazwoperOSHA.us", "OSHA HAZWOPER training online, and the home domain of every course site in this directory.", "hazard"],
+  ["confined-space.com", "Confined Space Training", "OSHA confined space training online for entrants, attendants, supervisors and rescue teams.", "helmet"],
+  ["moldtraining.us", "Mold Training", "Mold awareness and mold remediation training online for workers and supervisors.", "mask"],
+  ["excavationtrenchingshoring.com", "Excavation, Trenching & Shoring Training", "OSHA excavation, trenching and shoring training online, including competent person courses.", "helmet"],
+  ["stormwaterplanning.us", "Stormwater Planning", "Stormwater pollution prevention (SWPPP) training and planning resources.", "drop"],
+  ["datacentertraining.us", "Data Center Training", "Data center training online: design, power, cooling, security, commissioning and operations.", "server"],
+];
+const network = CATEGORIES.find((c) => c.id === "network");
+sites.unshift(...EXTERNAL.map(([host, title, desc, glyph]) => ({ name: host.replace(/\./g, "-"), host, title, desc, cat: network, glyph, external: true })));
 const N = sites.length;
 const counts = Object.fromEntries(CATEGORIES.map((c) => [c.id, sites.filter((s) => s.cat === c).length]));
 const cats = CATEGORIES.filter((c) => counts[c.id]);
@@ -183,8 +199,7 @@ ${footer()}
 function menubar() {
   return `<header class="menubar">
 <nav class="left" aria-label="Main">
-<a class="brand" href="/"><img src="${LOGO}" alt="" width="18" height="17"><span>ICT Training</span></a>
-<a class="m" href="/#directory">Directory</a>
+<a class="brand" href="/"><img src="${LOGO}" alt="" width="18" height="17"><span class="full">Industrial Certified Training Directory</span><span class="short">ICT Directory</span></a>
 <a class="m" href="/#finder">Course Finder</a>
 <a class="m" href="/about">About</a>
 <a class="m" href="/contact">Contact</a>
@@ -195,7 +210,7 @@ function menubar() {
 </div>
 </header>
 <div class="menu" id="statusMenu" role="menu" hidden>
-<div class="state"><span class="dot" aria-hidden="true"></span><span><b>ICT Training</b><small>${N} course sites · 100% online</small></span></div>
+<div class="state"><span class="dot" aria-hidden="true"></span><span><b>Industrial Certified Training Directory</b><small>${N} course sites · 100% online</small></span></div>
 <hr>
 <button type="button" role="menuitem" data-act="search">Search Sites… <kbd>⌘K</kbd></button>
 <a role="menuitem" href="/#finder">Find My Course</a>
@@ -212,7 +227,7 @@ function menubar() {
 function scanRing(id = "") {
   return `<span class="scan"${id ? ` id="${id}"` : ""} aria-hidden="true"><svg viewBox="0 0 36 36">
 <circle class="track" cx="18" cy="18" r="15.9"/><circle class="arc" cx="18" cy="18" r="15.9" pathLength="100"/>
-<path class="face" d="M13 11.5v2.2M23 11.5v2.2M18 12v5.4h-1.4M13.6 21.6c2.6 2.4 6.2 2.4 8.8 0"/>
+<g class="face"><circle cx="16.8" cy="16.8" r="4.4"/><path d="m20 20 3.6 3.6"/></g>
 <path class="tick" pathLength="20" d="m11.5 18.5 4.4 4.3 8.6-9"/>
 <path class="cross" d="m13.5 13.5 9 9m0-9-9 9"/>
 </svg></span>`;
@@ -243,7 +258,7 @@ function footer() {
 
 function siteRow(s) {
   const q = [s.name.replace(/-/g, " "), s.cat.label].join(" ").toLowerCase();
-  return `<li data-cat="${s.cat.id}" data-name="${s.name}" data-q="${esc(q)}"><a class="site" href="https://${s.host}/">${tile(s.cat.color, s.glyph)}<span class="t"><b>${esc(s.title)}</b><small>${esc(s.desc)}</small><small class="host">${s.host}</small></span>${chev}</a></li>`;
+  return `<li data-cat="${s.cat.id}" data-name="${s.name}" data-q="${esc(q + " " + s.host)}"><a class="site" href="https://${s.host}/"${s.external ? ' rel="noopener"' : ""}>${tile(s.cat.color, s.glyph)}<span class="t"><b>${esc(s.title)}</b><small>${esc(s.desc)}</small><small class="host">${s.host}</small></span>${chev}</a></li>`;
 }
 
 // The course finder's choices: the categories each one points to and the sites it ranks first.
@@ -365,7 +380,7 @@ ${sites.filter((s) => s.cat === c).map(siteRow).join("\n")}
 const page = (h1, lede, inner) => `<div class="page"><article class="card glass"><p class="eyebrow">Industrial Certified Training</p><h1>${h1}</h1><p class="lede">${lede}</p>${inner}</article></div>`;
 
 const pages = {
-  "index.html": shell({ path: "/", home: true, title: "Industrial Certified Training: Course Sites",
+  "index.html": shell({ path: "/", home: true, title: "Industrial Certified Training Directory",
     description: `Find the right OSHA, DOT, EPA or data center course across ${N} Industrial Certified Training sites. Self-paced, 100% online, certificate on completion.`, body: homeBody }),
   "about.html": shell({ path: "/about", title: "About Industrial Certified Training",
     description: "Industrial Certified Training, LLC, parent company of HAZWOPER OSHA Training, LLC: online safety and compliance training since 2008.",
@@ -389,7 +404,7 @@ const pages = {
 </div>
 <h2>Buying for a crew?</h2>
 <p>Call us for team pricing and a single invoice. Every course site also sells seats in any quantity at checkout.</p>`) }),
-  "privacy.html": shell({ path: "/privacy", title: "Privacy at the ICT Training Hub",
+  "privacy.html": shell({ path: "/privacy", title: "Privacy at the ICT Training Directory",
     description: "What the Industrial Certified Training hub does with your data: no analytics, no cookies, and Course Finder answers that stay in your browser.",
     body: page("Privacy", "This hub is built to know as little about you as possible.", `
 <h2>On this hub</h2>
@@ -398,7 +413,7 @@ const pages = {
 <p>Each course site has its own privacy page. They use Google Analytics and Microsoft Clarity to measure visits, and send checkout to hazwoper-osha.com, where payment is handled by Stripe.</p>
 <h2>Questions</h2>
 <p>Email <a href="mailto:${EMAIL}">${EMAIL}</a> or call <a href="${PHONE_HREF}">${PHONE_SHOW}</a>.</p>`) }),
-  "404.html": shell({ path: "/404", title: "Page Not Found · ICT Training",
+  "404.html": shell({ path: "/404", title: "Page Not Found · ICT Training Directory",
     description: "That page isn't here. Search every Industrial Certified Training site from the notch, or browse the directory.",
     body: page("Not found.", "That page isn't here. Search from the notch, or go back to the directory.", `<div class="go" style="display:flex;gap:10px;margin-top:26px"><a class="btn primary" href="/#directory">Browse Directory</a><button type="button" class="btn plain" data-act="search">Search Sites</button></div>`) }),
 };

@@ -61,9 +61,12 @@ svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-widt
 .menubar .clock { color: var(--label); padding: 0 8px; font-variant-numeric: tabular-nums; }
 .menubar .status { display: flex; align-items: center; padding: 3px 7px; }
 .menubar .status svg { width: 17px; height: 17px; }
-.menubar .left .m { display: none; }
-@media (min-width: 860px) { .menubar .left .m { display: inline-block; } }
-@media (max-width: 520px) { .menubar .clock, .menubar .brand span { display: none; } }
+/* The notch owns the middle 200px, so the full name and the links only show where they clear it. */
+.menubar .left .m, .menubar .brand .full { display: none; }
+@media (min-width: 820px) { .menubar .brand .full { display: inline; } .menubar .brand .short { display: none; } }
+@media (min-width: 1280px) { .menubar .left .m { display: inline-block; } }
+@media (max-width: 560px) { .menubar .clock { display: none; } }
+@media (max-width: 400px) { .menubar .brand .short { display: none; } }
 
 .menu {
   position: fixed; top: calc(var(--bar) + 4px); right: 8px; z-index: 60; width: 248px; padding: 5px;
@@ -73,7 +76,7 @@ svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-widt
 }
 .menu[hidden] { display: block; opacity: 0; transform: scale(.94) translateY(-4px); pointer-events: none; visibility: hidden; }
 .menu .state { display: flex; gap: 9px; align-items: center; padding: 8px 9px 9px; }
-.menu .state b { display: block; font-weight: 600; }
+.menu .state b { display: block; font-weight: 600; line-height: 1.3; }
 .menu .state small { color: var(--label-2); font-size: 12px; }
 .menu .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); box-shadow: 0 0 8px rgba(48, 209, 88, .7); flex: none; }
 .menu hr { border: 0; border-top: 1px solid var(--hair); margin: 4px 6px; }
@@ -119,7 +122,7 @@ svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-widt
 .scan svg { width: 100%; height: 100%; overflow: visible; }
 .scan .track { fill: none; stroke: rgba(255, 255, 255, .14); stroke-width: 2.5; }
 .scan .arc { fill: none; stroke: var(--c); stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 26 100; transform-origin: 18px 18px; transform: rotate(-90deg); transition: stroke .3s var(--ease), stroke-dasharray .45s var(--spring-soft); filter: drop-shadow(0 0 3px var(--c)); }
-.scan .face { fill: none; stroke: rgba(255, 255, 255, .75); stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; transition: opacity .2s var(--ease); }
+.scan .face { fill: none; stroke: rgba(255, 255, 255, .85); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; transition: opacity .2s var(--ease); }
 .scan .tick { fill: none; stroke: var(--green); stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 20; stroke-dashoffset: 20; transition: stroke-dashoffset .35s var(--ease) .15s; }
 .scan .cross { fill: none; stroke: var(--red); stroke-width: 2.4; stroke-linecap: round; opacity: 0; transition: opacity .2s var(--ease); }
 .scan.scanning .arc { animation: spin 1.1s linear infinite; }

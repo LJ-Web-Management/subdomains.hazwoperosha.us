@@ -88,3 +88,6 @@ h1, h2, h3 { text-transform: uppercase; font-weight: 700; letter-spacing: .01em;
 
 /* Hero without the course stack: copy only. */
 .hero .hero-in { grid-template-columns: minmax(0, 820px); }
+
+/* Phones: the longest word in a page title fits a 375px screen. */
+@media (max-width: 480px) { .hero h1 { font-size: 52px; } }
