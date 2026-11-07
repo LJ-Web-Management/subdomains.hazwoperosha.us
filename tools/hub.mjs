@@ -12,6 +12,7 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync, copyFi
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { createHash } from "node:crypto";
+import { asyncStylesheet } from "./lib.mjs";
 
 const DOMAIN = "hazwoperosha.us";
 const BASE = `https://hub.${DOMAIN}`;
@@ -180,7 +181,7 @@ function shell({ path, title, description, body, home = false }) {
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" media="print" onload="this.media='all'">
+${asyncStylesheet("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap")}
 <link rel="stylesheet" href="${CSS}">
 <script src="${JS}" defer></script>
 </head>
@@ -312,7 +313,7 @@ ${CHOICES.map((c, i) => `<button type="button" class="choice" aria-pressed="fals
 <div class="step" data-step="2" hidden>
 <h3>Anything specific?</h3>
 <p class="sub">A course length, a state, a standard or a piece of equipment. Optional.</p>
-<form class="field" id="kwForm" autocomplete="off">${svg("lock")}<label class="sr" for="kw">Keywords</label><input id="kw" type="text" placeholder="e.g. 40-hour, Texas, forklift" maxlength="80"></form>
+<form class="field" id="kwForm" method="post" autocomplete="off">${svg("lock")}<label class="sr" for="kw">Keywords</label><input id="kw" type="text" placeholder="e.g. 40-hour, Texas, forklift" maxlength="80"></form>
 <p class="note">${svg("lock")}Stays in this browser. Never sent or stored.</p>
 <div class="go"><button type="button" class="btn plain" data-back>Back</button><button type="button" class="btn primary" data-next>Find Matches</button></div>
 </div>

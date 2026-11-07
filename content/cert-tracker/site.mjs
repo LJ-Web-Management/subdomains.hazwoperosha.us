@@ -25,7 +25,7 @@ export default {
   ],
 
   feature: (h) => `<section class="sec tr-sec" id="tracker"><div class="wrap">
-<form class="tr-add" id="trForm">
+<form class="tr-add" id="trForm" method="post">
 <input id="trName" placeholder="Worker name" required aria-label="Worker name">
 <select id="trType" aria-label="Certificate">${h.courses.slice(0, 4).map((c) => `<option value="${c.id}">${h.esc(c.short)}</option>`).join("")}</select>
 <input id="trDate" type="date" required aria-label="Date of last certificate">

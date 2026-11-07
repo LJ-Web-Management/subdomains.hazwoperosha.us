@@ -42,7 +42,7 @@ function fixSite(name) {
 
   const index = edit(join(dir, "index.html"), (s) => headHints(footer(enrichLd(noGa(rewrite(s)), base)), "/index.md"));
   edit(join(dir, "404.html"), (s) => footer(noGa(rewrite(s))));
-  edit(join(dir, "checkout.html"), (s) => footer(noGa(rewrite(s))));
+  edit(join(dir, "checkout.html"), (s) => postForms(footer(noGa(rewrite(s)))));
 
   // Facts for the new pages, read from the home page.
   const topic = decode((index.match(/<title>([^<]*)<\/title>/) || [])[1] || name);
@@ -71,6 +71,13 @@ function fixSite(name) {
   }
   writeFileSync(join(dir, "sitemap.xml"), sitemapXml(sitemap));
   edit(join(dir, "llms.txt"), (s) => llms(s, base, topic, courses));
+}
+
+// A form without a method submits by GET, which puts what the buyer typed (name, email, address) in
+// the URL. The checkout script always submits it itself, so this only matters with JavaScript off,
+// and the Worker answers that POST by sending the visitor back to the page.
+function postForms(s) {
+  return s.replace(/<form\b(?![^>]*\smethod=)/gi, '<form method="post"');
 }
 
 function edit(file, fn) {

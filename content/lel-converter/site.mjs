@@ -26,7 +26,7 @@ export default {
   ],
 
   feature: (h) => `<section class="sec lc-sec" id="calc"><div class="wrap lc-in">
-<form class="lc-form" onsubmit="return false">
+<form class="lc-form" method="post">
 <label>Gas<select id="lcG">${GASES.map((g, i) => `<option value="${g[1]}"${i === 0 ? " selected" : ""}>${h.esc(g[0])} (LEL ${g[1]}%)</option>`).join("")}</select></label>
 <label>Meter reading (% LEL)<input id="lcR" type="number" min="0" max="100" step="any" value="10"></label>
 </form>
@@ -37,6 +37,7 @@ export default {
 <p class="wrap lc-note">Assumes the meter is calibrated for the gas selected. LEL values are typical published figures; check the SDS for your material. Under OSHA confined space rules, flammable gas above 10% of its LEL is a hazardous atmosphere.</p></section>
 <script>
 (function () {
+  document.querySelector(".lc-form").addEventListener("submit", function (e) { e.preventDefault(); });
   function calc() {
     var lel = parseFloat(document.getElementById("lcG").value) || 0, r = parseFloat(document.getElementById("lcR").value) || 0, vol = r / 100 * lel;
     document.getElementById("lcP").textContent = r;

@@ -27,7 +27,7 @@ export default {
   ],
 
   feature: (h) => `<section class="sec rem-sec" id="reminder"><div class="wrap rem-in">
-<form class="rem" id="remForm">
+<form class="rem" id="remForm" method="post">
 <label>Your name (optional)<input id="rName" type="text" autocomplete="name"></label>
 <label>Date on your last HAZWOPER certificate<input id="rDate" type="date" required></label>
 <label>Which refresher?<select id="rCourse">${h.courses.map((c) => `<option value="${c.id}">${h.esc(c.short)}</option>`).join("")}</select></label>

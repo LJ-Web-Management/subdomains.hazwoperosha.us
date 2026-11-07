@@ -24,7 +24,7 @@ export default {
   ],
 
   feature: () => `<section class="sec qr-sec" id="builder"><div class="wrap qr-in">
-<form class="qr-form" onsubmit="return false"><h2>Fill in your site</h2>
+<form class="qr-form" method="post"><h2>Fill in your site</h2>
 <label>Facility name and address<input data-o="qrF" value="Acme Coatings, 100 Industrial Way, Springfield"></label>
 <label>Emergency coordinator (primary), 24-hour phone<input data-o="qrE1" value="J. Rivera · (555) 010-0101"></label>
 <label>Emergency coordinator (alternate), 24-hour phone<input data-o="qrE2" value="K. Chen · (555) 010-0102"></label>
@@ -34,7 +34,7 @@ export default {
 <label>Where waste is accumulated (with map reference)<input data-o="qrL" value="Building B dock (map 1), paint line SAAs (map 2)"></label>
 <label>Water supply and hydrants<input data-o="qrH" value="Hydrants at north gate and Building B corner"></label>
 <label>On-site alarms and notification<input data-o="qrN" value="Pull stations, PA system, air horn: three long blasts = evacuate"></label>
-<button type="button" class="btn" onclick="window.print()">Print the guide</button>
+<button type="button" class="btn" data-print>Print the guide</button>
 </form>
 <article class="qr-card" id="qrCard"><header><p>Contingency plan</p><h3>Quick reference guide</h3><p id="qrF"></p></header>
 <dl><dt>Emergency coordinator</dt><dd id="qrE1"></dd><dt>Alternate</dt><dd id="qrE2"></dd><dt>Wastes and hazards</dt><dd id="qrW"></dd><dt>Maximum amounts</dt><dd id="qrA"></dd><dt>Special treatment</dt><dd id="qrS"></dd><dt>Accumulation areas</dt><dd id="qrL"></dd><dt>Water supply</dt><dd id="qrH"></dd><dt>Alarms</dt><dd id="qrN"></dd></dl>
@@ -42,6 +42,8 @@ export default {
 </div></section>
 <script>
 (function () {
+  document.querySelector(".qr-form").addEventListener("submit", function (e) { e.preventDefault(); });
+  document.querySelector("[data-print]").addEventListener("click", function () { window.print(); });
   function u() { document.querySelectorAll(".qr-form [data-o]").forEach(function (i) { document.getElementById(i.getAttribute("data-o")).textContent = i.value || "—"; }); }
   document.querySelectorAll(".qr-form [data-o]").forEach(function (i) { i.addEventListener("input", u); });
   u();

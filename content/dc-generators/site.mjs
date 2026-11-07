@@ -25,7 +25,7 @@ export default {
   ],
 
   feature: () => `<section class="sec gy-sec" id="fuel"><div class="wrap gy-in">
-<form class="gy-form" onsubmit="return false"><h2>Fuel runtime estimator</h2>
+<form class="gy-form" method="post"><h2>Fuel runtime estimator</h2>
 <label>Generator rating (kW)<input id="gyK" type="number" min="1" value="2000"></label>
 <label>Load (% of rating)<input id="gyP" type="range" min="10" max="100" step="5" value="60"><output id="gyPo">60%</output></label>
 <label>Fuel in the tank (gallons)<input id="gyG" type="number" min="0" value="6000"></label>
@@ -36,6 +36,7 @@ export default {
 </div></section>
 <script>
 (function () {
+  document.querySelector(".gy-form").addEventListener("submit", function (e) { e.preventDefault(); });
   function n(id) { return parseFloat(document.getElementById(id).value) || 0; }
   function calc() {
     var L = n("gyP") / 100, gph = n("gyK") * (0.010 + 0.064 * L);

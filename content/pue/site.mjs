@@ -24,7 +24,7 @@ export default {
   ],
 
   feature: () => `<section class="sec pu-sec" id="calc"><div class="wrap pu-in">
-<form class="pu-form" onsubmit="return false">
+<form class="pu-form" method="post">
 <label>Total facility power (kW)<input id="puT" type="number" min="0" value="1500"></label>
 <label>IT equipment power (kW)<input id="puI" type="number" min="0.1" value="1000"></label>
 <label>Electricity cost ($ per kWh)<input id="puC" type="number" min="0" step="0.01" value="0.10"></label>
@@ -37,6 +37,7 @@ export default {
 </div></div></section>
 <script>
 (function () {
+  document.querySelector(".pu-form").addEventListener("submit", function (e) { e.preventDefault(); });
   function n(id) { return parseFloat(document.getElementById(id).value) || 0; }
   function calc() {
     var t = n("puT"), it = n("puI"), ok = it > 0 && t >= it, p = ok ? t / it : 0, o = t - it;

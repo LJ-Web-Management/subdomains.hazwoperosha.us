@@ -177,3 +177,57 @@ test("never serves Markdown on the hub", async () => {
   const res = await get("https://hub.hazwoperosha.us/", env, { Accept: "text/markdown" });
   assert.match(res.headers.get("Content-Type"), /^text\/html/);
 });
+
+// The CSP's script-src nonce, and the nonce on each <script> tag of the page.
+const nonceOf = (res) => res.headers.get("Content-Security-Policy")?.match(/'nonce-([^']+)'/)?.[1];
+const scriptNonces = (html) => [...html.matchAll(/<!--[\s\S]*?-->|<style\b[\s\S]*?<\/style>|(<script\b[^>]*>)[\s\S]*?<\/script>/g)]
+  .filter((m) => m[1]).map((m) => m[1].match(/\snonce="([^"]*)"/)?.[1]);
+
+test("refuses to be framed by other websites, on every response", async () => {
+  const env = site();
+  for (const path of ["/", "/style.css", "/nope"]) {
+    assert.equal((await get(`https://tim.hazwoperosha.us${path}`, env)).headers.get("X-Frame-Options"), "DENY", path);
+  }
+  assert.match((await get("https://tim.hazwoperosha.us/", env)).headers.get("Content-Security-Policy"), /frame-ancestors 'none'/);
+});
+
+test("gives every HTML page a CSP and a fresh nonce on each of its scripts", async () => {
+  const html = `<html><head><script type="application/ld+json">{"a":"<script>"}</script><script src="/x.js" defer></script></head>
+<body><!-- <script>old()</script> --><style>a::after{content:"<script"}</style><script>var s = "<script src=x>";</script></body></html>`;
+  const env = { ASSETS: assets({ "/tim/index.html": html, "/hub/index.html": html, "/tim/style.css": "body{}" }) };
+  for (const host of ["tim", "hub"]) {
+    const res = await get(`https://${host}.hazwoperosha.us/`, env);
+    const csp = res.headers.get("Content-Security-Policy");
+    const page = await res.text();
+    const nonce = nonceOf(res);
+    assert.ok(nonce && nonce.length >= 22, host);
+    assert.match(csp, /script-src 'self' 'nonce-[^']+' https:\/\/js\.stripe\.com/, host);
+    assert.doesNotMatch(csp.match(/script-src[^;]*/)[0], /unsafe-inline|unsafe-eval|unsafe-hashes|\*(?!\.)/, host);
+    for (const d of ["default-src 'self'", "form-action 'self'", "base-uri 'self'", "object-src 'none'"]) assert.ok(csp.includes(d), `${host}: ${d}`);
+    const nonces = scriptNonces(page);
+    assert.equal(nonces.length, host === "tim" ? 4 : 3, host); // tim also gets the analytics tag
+    assert.ok(nonces.every((n) => n === nonce), `${host}: ${nonces}`);
+    assert.ok(page.includes(`<!-- <script>old()</script> -->`), "comments are left alone");
+    assert.ok(page.includes(`content:"<script"`), "styles are left alone");
+    assert.ok(page.includes(`var s = "<script src=x>";`), "script contents are left alone");
+  }
+  const again = await get("https://tim.hazwoperosha.us/", env);
+  assert.notEqual(nonceOf(again), nonceOf(await get("https://tim.hazwoperosha.us/", env)));
+  const css = await get("https://tim.hazwoperosha.us/style.css", env);
+  assert.equal(css.headers.get("Content-Security-Policy"), null);
+  assert.equal(await css.text(), "body{}");
+});
+
+test("sends no new CSP with a 304, so the cached page keeps the nonce it was served with", async () => {
+  const env = { ASSETS: { async fetch() { return new Response(null, { status: 304, headers: { "Content-Type": "text/html", ETag: '"a"' } }); } } };
+  const res = await get("https://tim.hazwoperosha.us/", env, { "If-None-Match": '"a"' });
+  assert.equal(res.status, 304);
+  assert.equal(res.headers.get("Content-Security-Policy"), null);
+  assert.equal(res.headers.get("X-Frame-Options"), "DENY");
+});
+
+test("sends a form posted without JavaScript back to its page", async () => {
+  const res = await worker.fetch(new Request("https://tim.hazwoperosha.us/checkout?course=422", { method: "POST", body: "email=a%40b.c" }), site());
+  assert.equal(res.status, 303);
+  assert.equal(res.headers.get("Location"), "/checkout?course=422");
+});

@@ -25,7 +25,7 @@ export default {
   ],
 
   feature: () => `<section class="sec cs-sec" id="runtime"><div class="wrap cs-in">
-<form class="cs-form" onsubmit="return false">
+<form class="cs-form" method="post">
 <h2>UPS runtime estimator</h2>
 <label>Battery energy (kWh)<input id="csE" type="number" min="0" step="0.1" value="40"></label>
 <label>IT load on the UPS (kW)<input id="csL" type="number" min="0.1" step="0.1" value="120"></label>
@@ -37,6 +37,7 @@ export default {
 </div></section>
 <script>
 (function () {
+  document.querySelector(".cs-form").addEventListener("submit", function (e) { e.preventDefault(); });
   function n(id) { return parseFloat(document.getElementById(id).value) || 0; }
   function calc() {
     var load = n("csL"), m = load > 0 ? n("csE") * (n("csF") / 100) * (n("csH") / 100) / load * 60 : 0;

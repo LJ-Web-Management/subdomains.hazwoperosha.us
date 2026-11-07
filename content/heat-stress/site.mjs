@@ -24,7 +24,7 @@ export default {
   ],
 
   feature: () => `<section class="sec sh-sec" id="calc"><div class="wrap sh-in">
-<form class="sh-form" onsubmit="return false">
+<form class="sh-form" method="post">
 <label>Air temperature (°F)<input id="shT" type="number" value="88"></label>
 <label>Relative humidity (%)<input id="shR" type="number" min="0" max="100" value="55"></label>
 <label class="ck"><input id="shP" type="checkbox" checked> Crew is wearing chemical protective clothing</label>
@@ -37,6 +37,7 @@ export default {
 </div></div></section>
 <script>
 (function () {
+  document.querySelector(".sh-form").addEventListener("submit", function (e) { e.preventDefault(); });
   function hi(T, R) {
     var s = 0.5 * (T + 61 + (T - 68) * 1.2 + R * 0.094);
     if ((s + T) / 2 < 80) return s;

@@ -78,7 +78,7 @@
     dialog.className = 'co-dialog';
     dialog.setAttribute('aria-labelledby', 'co-title');
     dialog.innerHTML =
-      '<form class="co-form" novalidate>' +
+      '<form class="co-form" method="post" novalidate>' +
         '<div class="co-head"><h2 id="co-title">' + T.title + '</h2><button type="button" class="co-x" aria-label="' + T.close + '">×</button></div>' +
         '<div class="co-course"><strong class="co-name"></strong><span class="co-meta"></span></div>' +
         '<div class="co-qty"><label><span>' + T.seats + '</span><input name="qty" type="number" min="1" max="10000" step="1" value="1" inputmode="numeric"></label>' +

@@ -24,7 +24,7 @@ export default {
   ],
 
   feature: () => `<section class="sec sz-sec" id="sizer"><div class="wrap sz-in">
-<form class="sz" id="szForm">
+<form class="sz" id="szForm" method="post">
 <label>Largest single container in the area (gallons)<input id="szGal" type="number" min="1" value="55"></label>
 <label>What's stored there?<select id="szLiq"><option value="oil">Oil, fuel, hydraulic fluid</option><option value="univ" selected>Mixed: oils, coolants, water-based fluids</option><option value="chem">Acids, bases or aggressive chemicals</option></select></label>
 <label>Where could it flow?<select id="szLoc"><option value="in">Indoors, no floor drains</option><option value="drain">Near floor drains or storm drains</option><option value="water">Outdoors near ditches, streams or water</option></select></label>
@@ -54,6 +54,7 @@ export default {
     outEl.querySelector("h3").textContent = kit; outEl.querySelector(".t").textContent = type;
     var ul = outEl.querySelector("ul"); extras.forEach(function (e) { var li = document.createElement("li"); li.textContent = e; ul.appendChild(li); });
   }
+  document.getElementById("szForm").addEventListener("submit", function (e) { e.preventDefault(); });
   document.getElementById("szForm").addEventListener("input", calc);
   document.getElementById("szForm").addEventListener("change", calc);
   calc();

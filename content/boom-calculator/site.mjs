@@ -25,7 +25,7 @@ export default {
   ],
 
   feature: () => `<section class="sec bl-sec" id="calc"><div class="wrap bl-in">
-<form class="bl-form" onsubmit="return false">
+<form class="bl-form" method="post">
 <div class="bl-tabs"><button type="button" class="on" data-m="enc">Encircle a slick</button><button type="button" data-m="def">Deflect across a current</button></div>
 <div data-p="enc"><label>Slick diameter (ft)<input id="blD" type="number" min="1" value="100"></label></div>
 <div data-p="def" hidden><label>Width to cover (ft)<input id="blW" type="number" min="1" value="200"></label><label>Current speed (knots)<input id="blC" type="number" min="0.1" step="0.1" value="1.5"></label></div>
@@ -36,6 +36,7 @@ export default {
 </div></section>
 <script>
 (function () {
+  document.querySelector(".bl-form").addEventListener("submit", function (e) { e.preventDefault(); });
   var m = "enc";
   function n(id) { return parseFloat(document.getElementById(id).value) || 0; }
   function calc() {
