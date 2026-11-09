@@ -17,7 +17,7 @@
 import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, copyFileSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
-import { md, esc, money, courseRow, guideCard, defaultShell, header, defaultHome } from "./lib.mjs";
+import { md, esc, money, courseRow, guideCard, defaultShell, header, defaultHome, asyncStylesheet } from "./lib.mjs";
 import {
   DOMAIN, INDEXNOW_KEY, ORG, ORG_ID, PHONE, EMAIL, fitTitle, fitDescription, isoDuration, lastmods, sitemapXml,
   robotsTxt, shortHash, minifyCss, mdPath, text, withLegalNav, infoTitle,
@@ -163,7 +163,7 @@ ${noindex ? `<meta name="robots" content="noindex, follow">` : `<link rel="canon
 <link rel="alternate" type="text/markdown" href="${mdPath(path)}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">${touchIcon ? `\n<link rel="apple-touch-icon" href="/apple-touch-icon.png">` : ""}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="${fonts}" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="${fonts}"></noscript>
+${asyncStylesheet(fonts, { preload: true })}
 <style>${css}</style>
 ${ld}
 <script src="/_shared/catalog.js?v=${JS_VERSION.catalog}" defer></script>

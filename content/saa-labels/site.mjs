@@ -24,19 +24,21 @@ export default {
   ],
 
   feature: () => `<section class="sec sl-sec" id="label"><div class="wrap sl-in">
-<form class="sl-form" onsubmit="return false"><h2>Label maker</h2>
+<form class="sl-form" method="post"><h2>Label maker</h2>
 <label>Contents (waste name)<input id="slC" value="Spent acetone and rags"></label>
 <fieldset><legend>Hazards</legend>
 <label class="ck"><input type="checkbox" value="Ignitable" checked> Ignitable</label><label class="ck"><input type="checkbox" value="Corrosive"> Corrosive</label><label class="ck"><input type="checkbox" value="Reactive"> Reactive</label><label class="ck"><input type="checkbox" value="Toxic"> Toxic</label></fieldset>
 <label>Location / area<input id="slA" value="Paint shop, booth 2"></label>
 <label>Accumulation start date (only when moved to central storage or the SAA limit is exceeded)<input id="slD" type="date"></label>
-<button type="button" class="btn" onclick="window.print()">Print label</button>
+<button type="button" class="btn" data-print>Print label</button>
 </form>
 <div class="sl-label" id="slLabel"><p class="sl-hw">HAZARDOUS WASTE</p><p class="sl-fed">Federal law prohibits improper disposal.</p>
 <dl><dt>Contents</dt><dd id="slOC"></dd><dt>Hazards</dt><dd id="slOH"></dd><dt>Location</dt><dd id="slOA"></dd><dt>Start date</dt><dd id="slOD"></dd></dl></div>
 </div><p class="wrap sl-note">The federal rules require the words "Hazardous Waste" and an indication of the hazards. Some states require more, such as generator name, address and EPA ID. Check your state's rules.</p></section>
 <script>
 (function () {
+  document.querySelector(".sl-form").addEventListener("submit", function (e) { e.preventDefault(); });
+  document.querySelector("[data-print]").addEventListener("click", function () { window.print(); });
   function u() {
     document.getElementById("slOC").textContent = document.getElementById("slC").value || "–";
     var h = [].slice.call(document.querySelectorAll(".sl-form fieldset input:checked")).map(function (i) { return i.value; });

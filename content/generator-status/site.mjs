@@ -25,7 +25,7 @@ export default {
   ],
 
   feature: () => `<section class="sec gs-sec" id="calc"><div class="wrap gs-in">
-<form class="gs-form" onsubmit="return false"><h2>Monthly amounts</h2>
+<form class="gs-form" method="post"><h2>Monthly amounts</h2>
 <label>Non-acute hazardous waste generated this month (kg)<input id="gsH" type="number" min="0" value="250"></label>
 <label>Acute hazardous waste (P-listed and some F-codes) this month (kg)<input id="gsA" type="number" min="0" step="0.1" value="0"></label>
 <label>Residue from cleanup of acute hazardous waste spills this month (kg)<input id="gsR" type="number" min="0" value="0"></label>
@@ -38,6 +38,7 @@ export default {
 </div></div></section>
 <script>
 (function () {
+  document.querySelector(".gs-form").addEventListener("submit", function (e) { e.preventDefault(); });
   var R = {
     VSQG: ["Very small quantity generator", ["No federal time limit, but keep no more than 1,000 kg on site", "Make sure waste goes to a facility allowed to take it", "Identify (characterize) every waste"]],
     SQG: ["Small quantity generator", ["Up to 180 days on site (270 if the facility is over 200 miles away)", "No more than 6,000 kg on site at any time", "Manifest every shipment", "Emergency preparedness and a designated emergency contact", "Employees familiar with proper handling and emergency procedures"]],

@@ -42,11 +42,12 @@ export default {
 <div class="tt-list">${TALKS.map((t, i) => `<button type="button" data-i="${i}"${i === 0 ? ' class="on"' : ""}><b>${String(i + 1).padStart(2, "0")}</b>${h.esc(t[0])}</button>`).join("")}</div>
 <article class="tt-sheet" id="ttSheet"><p class="tt-k">Toolbox talk · 5 minutes</p><h2 id="ttT"></h2><ul id="ttL"></ul><p class="tt-q"><b>Ask the crew:</b> <span id="ttQ"></span></p>
 <div class="tt-sign"><p>Date ____________ Site ______________________ Leader ______________________</p><p>Attendees</p><div class="tt-lines">${"<span></span>".repeat(10)}</div></div>
-<button type="button" class="btn tt-print" onclick="window.print()">Print this talk</button></article>
+<button type="button" class="btn tt-print" data-print>Print this talk</button></article>
 </div></section>
 <script>
 window.TT = ${JSON.stringify(TALKS).replace(/</g, "\\u003c")};
 (function () {
+  document.querySelector("[data-print]").addEventListener("click", function () { window.print(); });
   var bs = document.querySelectorAll(".tt-list button");
   function show(i) { var t = window.TT[i]; document.getElementById("ttT").textContent = t[0]; var ul = document.getElementById("ttL"); ul.innerHTML = ""; t[1].forEach(function (x) { var li = document.createElement("li"); li.textContent = x; ul.appendChild(li); }); document.getElementById("ttQ").textContent = t[2]; bs.forEach(function (b) { b.classList.toggle("on", +b.getAttribute("data-i") === i); }); }
   bs.forEach(function (b) { b.addEventListener("click", function () { show(+b.getAttribute("data-i")); }); });

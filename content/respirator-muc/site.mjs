@@ -34,7 +34,7 @@ export default {
   ],
 
   feature: (h) => `<section class="sec mu-sec" id="calc"><div class="wrap mu-in">
-<form class="mu-form" onsubmit="return false">
+<form class="mu-form" method="post">
 <label>Respirator type<select id="muR">${APF.map((a, i) => `<option value="${a[1]}"${i === 1 ? " selected" : ""}>${h.esc(a[0])} (APF ${a[1].toLocaleString("en-US")})</option>`).join("")}</select></label>
 <label>Exposure limit (ppm or mg/m³)<input id="muL" type="number" min="0" step="any" value="50"></label>
 <label>IDLH, if known (same units)<input id="muI" type="number" min="0" step="any" value="500"></label>
@@ -45,6 +45,7 @@ export default {
 </div></section>
 <script>
 (function () {
+  document.querySelector(".mu-form").addEventListener("submit", function (e) { e.preventDefault(); });
   function n(id) { return parseFloat(document.getElementById(id).value) || 0; }
   function calc() {
     var apf = n("muR"), lim = n("muL"), idlh = n("muI"), c = n("muC"), muc = apf * lim, sel = document.getElementById("muR"), apr = sel.selectedIndex < 4, cap = apr && idlh > 0 && muc >= idlh;

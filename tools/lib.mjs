@@ -4,6 +4,15 @@ export function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 }
 
+// A stylesheet (Google Fonts) that never holds up the first render, without an onload="" attribute:
+// the Worker's Content-Security-Policy refuses inline event handlers. It loads as media="print", which
+// doesn't block rendering, and the script after it (the Worker gives it the page's nonce) switches it to
+// "all" once it has loaded. preload fetches it at high priority; the stylesheet reuses that download.
+export function asyncStylesheet(href, { preload = false } = {}) {
+  const on = `(function(l){if(l.sheet)l.media="all";else l.onload=function(){l.media="all"}})(document.currentScript.previousElementSibling)`;
+  return `${preload ? `<link rel="preload" as="style" href="${href}">` : ""}<link rel="stylesheet" href="${href}" media="print"><script>${on}</script><noscript><link rel="stylesheet" href="${href}"></noscript>`;
+}
+
 export function money(n) {
   return "$" + Number(n).toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
