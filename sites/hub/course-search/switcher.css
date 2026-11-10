@@ -1,5 +1,5 @@
 /* The bar at the top of /course-search/catalog/ and /course-search/landing-pages/ that switches
-   between the two tools. Added to each tool's index.html by tools/course-search.mjs. */
+   between the two tools. Each tool's index.html links it and has the <nav class="cs-switch"> markup. */
 .cs-switch {
   position: sticky;
   top: 0;

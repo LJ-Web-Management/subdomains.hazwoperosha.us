@@ -8,6 +8,7 @@
     "deploy": "npx wrangler deploy",
     "test": "node --test",
     "audit": "node tools/audit.mjs",
-    "og": "node tools/og.mjs"
+    "og": "node tools/og.mjs",
+    "course-search": "python3 tools/course-search/build_landing_pages.py"
   }
 }

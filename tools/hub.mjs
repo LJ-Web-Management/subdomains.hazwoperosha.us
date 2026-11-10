@@ -2,8 +2,8 @@
 // to Google Search Console under the hazwoperosha.us domain property. Wrangler runs this before each deploy
 // (the "build" block in wrangler.jsonc), so a new site's sitemap is listed on its own.
 //
-// hub.hazwoperosha.us itself is only the internal course search (sites/hub/course-search/, copied in by
-// tools/course-search.mjs); the Worker sends every other hub path there.
+// hub.hazwoperosha.us itself is only the internal course search (sites/hub/course-search/, edited in place;
+// data scripts and docs in tools/course-search/). The Worker sends every other hub path there.
 import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";

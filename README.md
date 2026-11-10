@@ -66,14 +66,22 @@ redirects there (302, in `src/index.js`), apart from `/sitemap.xml`.
 https://hub.hazwoperosha.us/course-search/ opens the HAZWOPER course catalog. A bar at the top of each tool switches
 between the two:
 
-- `/course-search/catalog/`: the HAZWOPER course catalog ([hazwoperosha-course-search](https://github.com/LJ-Web-Management/hazwoperosha-course-search)).
-- `/course-search/landing-pages/`: which landing sites sell which courses ([landingpages-course-search](https://github.com/LJ-Web-Management/landingpages-course-search)).
+- `/course-search/catalog/`: the HAZWOPER course catalog.
+- `/course-search/landing-pages/`: which landing sites sell which courses.
 
-Both are copies of each tool's `main` branch, made by `node tools/course-search.mjs` (it clones both repos, copies
-`index.html` and `assets/`, and adds the switcher bar, styled by `sites/hub/course-search/switcher.css`). Run it after
-either tool changes and commit the result; don't edit the copies by hand. The hub is hidden from search engines and
-untracked: the Worker sends `X-Robots-Tag: noindex, nofollow` and adds no analytics for it, and `npm run audit` skips it.
-The CSP still applies, so neither tool may use inline `onclick=""` handlers.
+Both tools live in this repo: the pages in `sites/hub/course-search/catalog/` and `.../landing-pages/` (edit them
+there directly), the switcher bar in `sites/hub/course-search/switcher.css`, and their data scripts and docs in
+`tools/course-search/`:
+
+- `npm run course-search` rebuilds the landing page data (`tools/course-search/build_landing_pages.py`: reads this
+  repo's sites, the hazwoperosha.com/.us/.org and datacentertraining.us repos, and scrapes the four live-only sites).
+  Run it when any site's courses change, then commit. See `tools/course-search/landing-pages.md`.
+- The catalog data comes from spreadsheets: `tools/course-search/build_catalog.py` and `merge_b2b_catalog.py` (need
+  `pip install openpyxl`). See `tools/course-search/catalog.md`.
+
+The hub is hidden from search engines and untracked: the Worker sends `X-Robots-Tag: noindex, nofollow` and adds no
+analytics for it, and `npm run audit` skips it. The CSP still applies, so neither tool may use inline `onclick=""`
+handlers.
 
 `tools/hub.mjs` writes `sites/hub/sitemap.xml`, a sitemap index of every site's own `sitemap.xml` (except `www` and the
 hub). Wrangler runs it before every deploy (the `build` block in `wrangler.jsonc`), so new sites are listed on their own.

@@ -1,0 +1,373 @@
+# HAZWOPER Course Catalog Search
+
+Internal customer-service tool for HAZWOPER OSHA Training LLC. Static site, no build step,
+no backend, no dependencies. Served at https://hub.hazwoperosha.us/course-search/catalog/ from
+`sites/hub/course-search/catalog/` in this repo (moved here from the former
+`LJ-Web-Management/hazwoperosha-course-search` repo). Paths below are relative to that folder
+unless they start with `tools/`.
+
+## What this is
+
+A searchable/filterable tool over the course catalog, built from `ICTrainingUS_reviewed.xlsx`
+and then merged with `HAZWOPER-OSHA_Master_Course_Catalog_and_B2B_Bundles_v3.xlsx` via
+`tools/course-search/merge_b2b_catalog.py` (both sources live outside this repo, typically in the user's
+Downloads). It has **two search
+modes** - Courses and Bundles, toggled at the top of the page - rather than treating bundles
+as a filter on courses. There is **no add/edit/delete UI** - the catalog is read-only in the
+browser. To change course data, edit the spreadsheet and regenerate `assets/data.js` (see
+"Regenerating `assets/data.js`" at the end of this file).
+
+## File map
+
+```
+index.html          shell: header, sidebar, search/mode panel, results table+grid, modal, footer
+assets/style.css     all styling, brand tokens as CSS custom properties
+assets/app.js        all behavior (vanilla JS, one IIFE, no framework)
+assets/data.js       generated data - COURSES, BUNDLES, BUNDLE_CONTENTS, INDUSTRIES, CATEGORIES
+assets/hazwoper-logo.png   full brand lockup (header), copied from the sibling "Automatic
+                            Course Creation Program" Next.js project's public/brand/
+assets/favicon.png    square tab icon cropped from the biohazard mark in hazwoper-logo.png -
+                       the full lockup is too wide to read at favicon size
+tools/course-search/build_catalog.py       spreadsheet → data.js (full regeneration)
+tools/course-search/merge_b2b_catalog.py   merges the v3 B2B workbook into data.js
+sites/hub/course-search/switcher.css        the bar at the top that switches to Landing Page Courses
+```
+
+No `package.json`, no build tool. Editing `assets/app.js` or `assets/style.css` directly is
+correct - there is no compiled/transpiled source elsewhere.
+
+**No em dashes (U+2014) anywhere in user-visible text or docs in this repo** - explicit user
+preference. Use a hyphen (`-`), a colon, a middle dot (`·`, already used for the footer's
+"Internal Use Only · Course Catalog Search" separator, matching the sibling Next.js project's
+own footer style), or just restructure the sentence.
+
+## Data model (`assets/data.js`)
+
+Four globals, loaded before `app.js` via `<script src="assets/data.js">`:
+
+- **`COURSES`**: array of ~1109 objects (1033 from the original sheet + 76 from the v3 B2B
+  workbook), one per Master Catalog row:
+  `{ id, category, family, name, type, regBody, citation, industries, duration, msrp,
+  bundleClass, industryTags, altTags }`. `industryTags` is an array (split on `;` from the
+  source "Industry Bundle Tags" column) - each entry is the *name* of a "By Industry" bundle
+  this course belongs to (e.g. `"Construction (General & Commercial) Bundle"`). A course can
+  have zero, one, or several tags. `altTags` is a separate array (split on `;` from "Tags /
+  Alternate Names"), holding external standard/code references (e.g. `"OSHA #7215 (Silica in
+  Construction, Maritime & General Industry)"`, `"NFPA 58"`, `"ANSI Z390.1"`) - only ~20% of
+  rows have any; most are `[]`. Don't conflate the two: `industryTags` drives the Industry
+  filter and is always one of the 20 known "By Industry" bundle names; `altTags` is free text
+  from the source data with no controlled vocabulary, included in free-text search
+  (`filterCatalog`'s `hay` string) and shown as plain (non-accent) pills in `detailGridHtml`
+  under "Tags / Alternate Names" so they're visually distinct from the yellow industry pills.
+  Course search (`filterCatalog`) also matches against `regBody` and `citation` (e.g. searching
+  `"1910.120"` or `"NFPA 70E"` finds courses citing that regulation/standard, even though
+  neither field is shown as a filter control - text search is the only way to reach them).
+
+- **`BUNDLES`**: array of 83 objects - 80 from Bundles Overview plus 3 `type: "Compliance Pack"`
+  Data Center packs from the v3 workbook (one-time per-seat price, not per year - `bundlePriceLabel()`
+  in `app.js` switches the price label on that type; their `priceTier` is the workbook's "Bundle
+  Model" text, which isn't on the tier ladder and so sorts last on "Price Tier"):
+  `{ id, type, name, scope, totalCourses, inclFlat, alaCarteAddons, costSeparate, priceTier,
+  bundlePrice, savings, alaCarteTerms }`. `type` is `"By Industry"` or `"By Category"`.
+  **`id` is `${type}||${name}`, not just `name`** - two bundle names collide across types
+  ("Aviation & Aerospace Manufacturing Bundle" and "Manufacturing & Industrial Operations
+  Bundle" each exist as both a By Industry and a By Category bundle with the same name and
+  different contents). Never key bundles by name alone.
+
+- **`BUNDLE_CONTENTS`**: object keyed by the same `${type}||${name}` id, each value an array of
+  `{ name, category, type, duration, msrp, status }` - the courses inside that bundle, from
+  Bundle Contents Detail. `status` is free text like `"Included in Flat Bundle Price"` or an
+  à-la-carte note; the UI treats anything matching `/Flat/i` as "included" styling.
+
+- **`INDUSTRIES`**: sorted array of the ~20 distinct "By Industry" bundle names - used to
+  populate the Industry filter dropdown. This is derived from `BUNDLES`, not a separate source.
+
+- **`CATEGORIES`**: sorted array of the ~61 distinct `category` values from `COURSES`.
+
+Regenerating this file: `tools/course-search/build_catalog.py` (see the end of this file).
+
+**Manual price overrides live only in `assets/data.js`, not the spreadsheet.** `OSHA 10 Bundle`
+(`bundlePrice: 49.99`) and `OSHA 30 Bundle` (`bundlePrice: 149.99`) were hand-edited directly in
+this file at the user's request, with `savings` recalculated to match
+(`(costSeparate - bundlePrice) / costSeparate`) so the displayed percentage stays consistent
+with the new price. **The next full regeneration from a spreadsheet will silently overwrite
+both back to the spreadsheet's values** unless the spreadsheet itself is updated first or these
+two overrides are reapplied after regenerating. If you regenerate `data.js`, check whether these
+two bundles still need the override, and re-run `tools/course-search/merge_b2b_catalog.py` afterwards - a full
+regeneration also drops the 76 v3 courses, the 3 Compliance Packs, and the v3 repricing of the
+14 courses in those packs (e.g. Data Center Arc Flash 49.99 → 99.99).
+
+## App behavior (`assets/app.js`)
+
+Single IIFE, `DOMContentLoaded` → `init()`. No modules, no bundler - this is deliberate, keep
+it that way unless the hosting story changes.
+
+**Search mode - `state.mode`, `"courses"` or `"bundles"`**, persisted in `localStorage` under
+`hzw_search_mode_v1`, toggled by `#mode-courses-btn` / `#mode-bundles-btn` (`setMode()`).
+Bundles are a first-class searchable/browsable result set, not a filter layered on top of
+courses - do not reintroduce a "select a bundle to filter courses" control without checking
+with the user first; that was the previous design and was explicitly replaced. Switching mode
+also swaps the search placeholder text and re-renders; it does **not** reset the Category or
+Industry filters, which apply to both modes.
+
+**Filters are three and apply to whichever mode is active. All three are always visible in both
+modes - there is no per-mode hide/disable logic left:**
+- **Search box** (`#search-input`) - free text, the *only* search input; there used to be a
+  second dedicated `#tag-search-input` bar next to it for tag-only search, but the user asked
+  to merge them - since `filterCatalog`'s `hay` string already included `altTags`, that second
+  box was pure duplication, so it was deleted along with its wrapper div (`#tag-field`), the
+  `f.tag` filter key, and the `tagQ` matching logic. One box now searches everything: Courses
+  mode matches name + category + family + industries + regBody + citation + altTags; Bundles
+  mode matches name + scope + type. Don't reintroduce a separate tag input without checking with
+  the user first.
+- **Category** (`#category-select`) - a `<select>` in the sidebar (top of `.sidebar-panel-body`).
+  Used to be a custom list of `.category-item` buttons tracked in `state.category`; the user
+  asked for it to match the Industry dropdown's look and behavior, so it's now a plain `<select>`
+  read directly via `els.category.value`, same pattern as Industry - there is no `state.category`
+  anymore. In Courses mode it does an exact match on `course.category`; in Bundles mode it does a
+  case-insensitive substring match against `bundle.scope` (the Bundles Overview "Scope / Included
+  Categories" field, a comma-separated list of category names - substring match is deliberate so
+  it works whether scope holds one category or several).
+- **Industry** (`#industry-select`) - a `<select>` in the sidebar, directly below Category
+  (`.sidebar-title-spaced` marks the divider between the two sections; both live inside the same
+  `.sidebar-panel-body`, not the search-row). In Courses mode it checks `course.industryTags`
+  membership. In Bundles mode it's a **strict match on the bundle itself**:
+  `b.type === "By Industry" && b.name === f.industry` - only that one industry's own bundle shows
+  up, nothing else. By Category bundles never match an Industry filter at all, by design.
+
+  This used to be looser: a bundle matched if *any* course inside it carried that industry tag
+  (union across all contained courses, via a `bundleIndustryTags` index built at init). That
+  surfaced confusing results - e.g. "Agriculture Bundle" showed up under the "Construction
+  (General & Commercial)" industry filter because 6 of its 30 courses (shared equipment/safety
+  content like forklifts, skid steers, heat-illness prevention) happen to carry both industry
+  tags in the source data. The user explicitly chose strict-only-its-own-bundle over that
+  looser behavior - don't reintroduce the union approach without checking first.
+
+**Category and Industry are mutually exclusive**, enforced in `init()`'s change listeners:
+picking a Category clears Industry (`els.industry.value = ""`) and vice versa, before calling
+`render()`. This is a deliberate UX choice the user asked for, not a data constraint - nothing
+stops both filters from being technically compatible; the sidebar just only lets one be active
+at a time.
+
+**Bundle drill-down**: expanding a bundle (list row click, or grid card → modal) shows bundle
+stats (`bundleStatsHtml()`) plus the full list of contained courses
+(`buildBundleCourseListEl()`, built with real DOM nodes + click listeners, not an HTML string,
+since each course item needs its own click handler). Clicking a course inside that list opens
+*that course's own* detail popup via `openCourseDetailModal()` - the same modal used from
+Courses mode, just re-purposed with new title/body (`e.stopPropagation()` on the course item
+keeps the click from also toggling the parent bundle row's inline expand). There is no "back to
+bundle" affordance - reopen the bundle from the results list if needed. Keep this course-list
+behavior shared between list and grid bundle views (via `buildBundleCourseListEl`) rather than
+duplicating it, the same way `detailGridHtml` is shared for course detail.
+
+**Two view modes**, `list` and `grid`, persisted in `localStorage` under `hzw_view_mode_v1`,
+apply within whichever search mode is active:
+- List view renders an HTML `<table>`; each row has a paired hidden `<tr class="detail-row">`
+  that toggles open on row click (accordion-style, not a modal). Built in `buildCatalogRow` /
+  `buildBundleListRow`.
+- Grid view renders `.course-card` divs in `#results-grid`; clicking a card opens the shared
+  `#modal-overlay`. Built in `buildCatalogCard` / `buildBundleGridCard`.
+- Course detail markup is shared via `detailGridHtml(course, extraStatus)`; bundle detail markup
+  is shared via `bundleStatsHtml(bundle)` + `buildBundleCourseListEl(bundle)`. Extend those
+  functions, not each renderer, when adding a field to a detail view so list and grid can't
+  drift out of sync.
+- Bundle-context course lookups match by `name` back to the full record in `COURSES`
+  (`findCourseByName`). If a bundle-content course name doesn't exist in `COURSES` (shouldn't
+  happen with current data, but not structurally guaranteed), the click handler for that item is
+  simply not attached rather than throwing.
+
+**Search highlighting**: `highlight()` wraps the first case-insensitive substring match of the
+query in `<mark>`. It's a single-match highlight, not global - fine for course/bundle names,
+would need updating if free text ever gets longer/multi-match requirements.
+
+**Sorting** - `#sort-select`, applied after filtering in `render()` via `sortRows(rows, state.mode)`.
+Courses and Bundles have separate, mode-specific option lists (`SORT_OPTIONS.courses` /
+`SORT_OPTIONS.bundles`), each remembered independently in `state.sort.courses` /
+`state.sort.bundles` (not persisted to `localStorage` - resets on page reload, unlike view/mode).
+Switching mode calls `populateSortSelect()` to rebuild the `<select>` and restore that mode's
+last choice. "Clear filters" resets sort back to `name:asc` for the current mode.
+- Each option's value is `"<key>:<dir>"` (e.g. `"price:desc"`), split in `sortRows()`.
+- `courseComparator(key, dir)` handles `name` / `price` (msrp) / `duration`.
+  `bundleComparator(key, dir)` handles `name` / `price` (bundlePrice) / `savings` / `courses`
+  (totalCourses) / `tier` (priceTier).
+- `compareNullable(a, b, dir)` puts `null` values **last regardless of direction** - so a course
+  with no MSRP doesn't jump to the top when you flip to "High to Low". Anything that can be
+  genuinely missing or non-numeric must be normalized to `null` before reaching it, not left as
+  `undefined`/`NaN`/a string.
+- **`bundlePrice` and `savings` are sometimes descriptive text, not a number** - two bundles
+  ("Crane & Heavy Equipment Operator Certification Bundle", "Train-the-Trainer Certification
+  Bundle") have `bundlePrice: "Contact for À La Carte Pricing"` and `savings: "N/A"` straight
+  from the spreadsheet. `numOrNull(v)` guards both comparator paths (`typeof v === "number" &&
+  !isNaN(v)`, else `null`) - comparing a string to a number with `<`/`>` coerces unpredictably
+  in JS, so never compare those two fields raw. Same root cause required fixing `fmtMoney` /
+  `fmtNumber` (add an `isNaN(Number(n))` check) and replacing three copies of an inline
+  `savings ? Math.round(...) : null` with the shared `fmtSavingsPct()`, which had the identical
+  bug: `NaN !== null` is `true`, so the old code let `"NaN%"` through to the page instead of
+  falling back to `"-"`. If you add another numeric field, check the live data for stray text
+  before assuming `Number(x)` is safe.
+- `tierRank()` maps `priceTier` to a fixed ladder (`Starter` 0 → `Standard` 1 → `Advanced` 2 →
+  `Comprehensive` 3 → `Enterprise` 4); anything not in that map (currently `"Certification
+  Bundle"`, `"N/A - À La Carte Only"`) returns `null` and sorts last via the same
+  `compareNullable` nulls-last rule, in both directions - deliberate, since those aren't rungs
+  on the tier ladder. If a new price tier value shows up in a future data refresh, decide where
+  it belongs in `TIER_RANK` rather than leaving it to fall through to "last".
+- `parseDurationToMinutes()` normalizes course duration text to minutes for comparison
+  (`"1 Hour"` → 60, `"10 Min"` → 10, `"1 Day"` → 1440). It regex-matches the first number in the
+  string and infers the unit from "min"/"day" substrings, defaulting to hours. Ranges like
+  `"2-3 Days"` use the first number (lower bound). Purely descriptive durations with no digit
+  (`"Theory-Based (no min. hours)"`, `"Varies (Theory + Behind-Wheel)"`) return `null` and sort
+  last in both directions, same as above.
+
+**No client-side data mutation.** Earlier iterations of this tool had an "Add Course" feature
+persisting extra rows to `localStorage`. That was deliberately removed - do not re-add
+client-only data entry without discussing it with the user first; it silently diverges from
+the spreadsheet and was confusing as a "team" tool since `localStorage` is per-browser.
+
+## Styling (`assets/style.css`)
+
+Brand tokens as CSS custom properties in `:root`, sourced from the sibling Next.js project at
+`../Automatic Course Creation Program/app/globals.css` - keep these in sync if the brand
+changes there:
+
+```css
+--background: #ffffff;
+--foreground: #171717;
+--accent: #ffcd08;
+```
+
+Font is `Arial, Helvetica, sans-serif` (matches the Next.js project's `body` rule). Zinc gray
+scale (`--zinc-50` … `--zinc-700`) is used for borders/secondary text, matching Tailwind's
+zinc palette since the Next.js project uses Tailwind zinc utility classes.
+
+**Known CSS trap, already hit twice - watch for it when adding new toggled elements:**
+Any element whose "shown" state sets `display: flex` or `display: grid` (not the default
+`display: block`) will **stay visible even with the `hidden` attribute set**, because an
+author-stylesheet `display` rule outranks the UA stylesheet's `[hidden] { display: none }`.
+Fix pattern used throughout this file:
+
+```css
+.thing { display: none; /* ...flex/grid properties... */ }
+.thing:not([hidden]) { display: flex; /* or grid */ }
+```
+
+Already applied to `.modal-overlay` and `.results-grid`. The mobile media query
+(`@media (max-width: 640px)`) also needed a specific override,
+`table.results-table tr[hidden] { display: none; }`, because the responsive block forces
+`display: block` on `tr` for the stacked-card mobile layout, which otherwise un-hides collapsed
+detail rows on small screens. If you add another element that's conditionally `flex`/`grid`
+*and* toggled via the `hidden` attribute, apply the same pattern or it will silently render
+open by default.
+
+**Related trap: shorthand `overflow` silently wins over a longhand set on the same element by
+another same-specificity class, based on source order, not which one "looks more specific" to
+a reader.** `.panel { overflow: hidden; ... }` is shared by every card-style container
+(`.panel-accent` top bar + box-shadow look). `.sidebar-panel` needs `overflow-y: auto` (it's a
+scrollable list) while still getting the `.panel` look - but `.panel`'s `overflow: hidden`
+shorthand sets *both* axes, and because `.panel` is declared later in the file with equal
+(single-class) specificity, it silently re-hides the y-axis even though `.sidebar-panel`'s own
+rule "looks like" it should apply. Fixed by bumping specificity instead of fighting source
+order: `.sidebar-panel.panel { overflow-x: hidden; overflow-y: auto; }` (two classes = higher
+specificity than `.panel` alone, wins regardless of order). If you add another element that
+needs the `.panel` card look *plus* a scrolling/overflow behavior `.panel` doesn't have, use
+the same two-class-selector override rather than assuming declaration order will save you.
+
+**Third trap: a pixel `flex-basis` means something different depending on `flex-direction`,
+and the `@media (max-width: 640px)` block flips `.search-row` from `row` to `column`.**
+`.search-input-wrap` (originally also `.tag-field` and `.industry-field`, before Tag was merged
+into the main search box and Industry moved to the sidebar - see above) uses `flex: 1 1 <px>` so
+multiple fields in `.search-row` size sensibly *side by side* on desktop. But `flex-basis` sizes
+the **main axis** - width in `row` mode, height in `column` mode. Below 640px, `.search-row`
+becomes `flex-direction: column`, so an unguarded `flex-basis: 240px` on `.search-input-wrap`
+turned into a 240px-tall search box (confirmed via `getBoundingClientRect()` - the wrapper's
+flex-basis was literally being read as its height). Fixed by resetting `flex-basis: auto` for
+that class inside the same media query. `.search-row` currently holds only the one search box,
+but if you add another flex item to it with a pixel basis, add it to that same mobile override
+or it will silently blow up at narrow widths - this is easy to miss because it looks fine at any
+viewport width above 640px.
+
+## Testing changes
+
+No test suite. Verify manually:
+
+`npx wrangler dev` from the repo root, then open
+`http://hub.localhost:8787/course-search/catalog/` (any static server on the repo's `sites/hub/`
+folder works too) and check:
+1. Free-text search filters and highlights correctly in both Courses and Bundles mode; in
+   Courses mode a tag value (e.g. `"NFPA"`) matches through the same box as a course name.
+2. Category and Industry both filter correctly in Courses mode, and selecting one clears the
+   other (check both directions). In Bundles mode, Category still filters via `bundle.scope`
+   substring, Industry does a strict match (selecting an industry shows only that industry's own
+   By Industry bundle, nothing else), and the mutual-clear behavior still applies.
+3. Switching Courses ↔ Bundles updates the search placeholder, the table header, and the result
+   count noun ("courses found" vs "bundles found"), and preserves the current Category/Industry
+   selection.
+4. In Bundles mode: expanding a bundle (list row, or grid card → modal) shows its stats and full
+   course list; clicking a course in that list opens *that course's* own detail popup, not the
+   bundle's.
+5. List/Grid toggle both render the same result set for whichever mode is active.
+6. Sort: each option in `#sort-select` produces the expected order in both modes; switching
+   Courses ↔ Bundles swaps the option list and restores that mode's last choice; "Clear filters"
+   resets it to "Name (A-Z)"; items with missing/non-numeric values for the active sort key
+   (no MSRP, `savings: "N/A"`, non-numeric `bundlePrice`, non-numeric duration text) sort to the
+   end in both directions rather than jumping to the top on "desc".
+7. Resize to mobile width (375px) and to ~800px (sidebar breakpoint at 900px) - the table should
+   stack into label/value pairs, the sidebar should move above the results, and any
+   previously-toggled-open detail rows should stay hidden after a fresh load (this is the CSS
+   trap below; regressions here are easy to introduce and easy to miss visually at desktop
+   width).
+
+## Deployment
+
+Part of the hazwoperosha.us Worker: push to `main` of this repo and Cloudflare deploys it. The hub
+is noindex and untracked, and the Worker's CSP applies, so never use inline `onclick=""` handlers
+(`npm test` checks every page).
+
+## Regenerating `sites/hub/course-search/catalog/assets/data.js`
+
+`assets/data.js` is generated from the source spreadsheet (`ICTrainingUS_reviewed.xlsx`) and
+must be regenerated any time that spreadsheet changes. It is not meant to be hand-edited.
+
+1. Make sure the spreadsheet has these three sheets, each with the columns listed:
+   - **Master Catalog**: `Category, Course Family, Course Name, Course Type, Regulatory Body,
+     Governing Regulation / Citation, Primary Industries, Suggested Duration, Est. MSRP (USD),
+     Bundle Class, Industry Bundle Tags, Tags / Alternate Names` (both `Industry Bundle Tags`
+     and `Tags / Alternate Names` are semicolon-separated lists; `Tags / Alternate Names` is
+     optional per row and often blank)
+   - **Bundles Overview**: `Bundle Type, Suggested Bundle Name, Scope / Included Categories,
+     Total Courses, Included in Flat Bundle Price, À La Carte Add-Ons, Cost to Buy Included
+     Courses Separately, Price Tier, Bundle Price, Savings vs. Buying Separately, À La Carte
+     Terms for Excluded Courses`
+   - **Bundle Contents Detail**: `Bundle Type, Bundle Name, Course Name, Category, Course Type,
+     Suggested Duration, Est. MSRP (USD), Inclusion Status`
+2. From the repo root (needs `pip install openpyxl`):
+
+   ```bash
+   python3 tools/course-search/build_catalog.py /path/to/ICTrainingUS_reviewed.xlsx
+   ```
+
+3. Reload the page (locally via `npx wrangler dev`, or on hub.hazwoperosha.us after deploying) and confirm the result count and a few searches look right before committing.
+4. Re-run the B2B catalog merge below - a full regeneration drops everything it added.
+
+## Merging the B2B catalog workbook
+
+`HAZWOPER-OSHA_Master_Course_Catalog_and_B2B_Bundles_v3.xlsx` uses a different layout
+(sheets **Master Course List**, **B2B Bundles & Seat Tiers**, **Bundle Contents**) and is merged
+*on top of* the existing `assets/data.js` rather than replacing it:
+
+```bash
+pip install openpyxl
+python3 tools/course-search/merge_b2b_catalog.py /path/to/HAZWOPER-OSHA_..._v3.xlsx 43 74
+```
+
+What it does:
+- **New courses**: every Master Course List row whose name (or "Original Title") isn't already
+  in `COURSES` is added. "Citation" is split on ` – ` into `regBody` / `citation`; hours become
+  `"N Hours"` / `"15 Min"`; "Industry Library(ies)" map to the matching `... Bundle` industry tags.
+- **Renamed courses**: when the workbook retitles an existing course, the old name is kept and the
+  new title is appended to `altTags`, so either name finds it in search.
+- **Packs**: Bundle Contents rows `43 74` (the default) become bundles of type `Compliance Pack`
+  (Data Center Facilities Safety, Data Center Infrastructure Professional, Data Center Technician
+  Skills), priced from B2B Bundles & Seat Tiers. Each course in those rows takes the workbook's
+  "À La Carte Price per Seat" as its `msrp`, everywhere it appears.
+
+It is safe to re-run; existing courses and packs are matched by name, not duplicated.
