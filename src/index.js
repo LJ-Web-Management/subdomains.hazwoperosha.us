@@ -2,7 +2,8 @@
 // johnny.hazwoperosha.us/about -> sites/johnny/about.html (or sites/johnny/about/index.html).
 // /_shared/ is the exception: every site gets sites/_shared/ there (checkout, course catalog).
 // "_shared" can't be a subdomain, so it is never served as a site of its own.
-// hub.<domain> is the ICT hub website that leads to every site (tools/hub.mjs); it is kept out of search engines.
+// hub.<domain> is only the internal course search (/course-search/) plus the sitemap index (tools/hub.mjs);
+// every other hub path redirects to /course-search/. It is kept out of search engines.
 // Every HTML page gets the Google Analytics and Microsoft Clarity tags added before </head>, so sites
 // never include them. The hub is internal, so it isn't tracked.
 //
@@ -21,6 +22,8 @@
 const NAME = /^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/;
 const SHARED = "/_shared/";
 const NOINDEX = new Set(["hub"]);
+const HUB = "hub";
+const HUB_PATHS = /^\/(course-search(\/|$)|sitemap\.xml$)/;
 const GA_ID = "G-CSJ7GHDZXW";
 const CLARITY_ID = "z3cea3et53";
 // Both tags queue their calls straight away (so the pageview is kept) but fetch their scripts only on
@@ -109,6 +112,8 @@ export default {
 
 async function route(request, env, site, url) {
   if (!site) return notFound();
+  // The hub is only the internal course search: anything else there (/, old directory pages) goes to it.
+  if (site === HUB && !HUB_PATHS.test(url.pathname)) return new Response(null, { status: 302, headers: { Location: "/course-search/" } });
   // Every form posts to its own page, and its script always submits it, so a POST only arrives with
   // JavaScript off. Send the visitor back to the page (303: the browser GETs it) instead of the asset
   // server's 405. What they typed never lands in the URL, as it would with a GET form.

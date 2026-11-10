@@ -1,9 +1,9 @@
-// Copies the two internal course search tools into the hub, so they run at
+// Copies the two internal course search tools into the hub (which is nothing else), so they run at
 // https://hub.hazwoperosha.us/course-search/ behind a bar that switches between them:
 //
 //   /course-search/catalog/        HAZWOPER course catalog   (repo LJ-Web-Management/hazwoperosha-course-search)
 //   /course-search/landing-pages/  Landing page courses      (repo LJ-Web-Management/landingpages-course-search)
-//   /course-search/                redirects to the catalog
+//   /course-search/                redirects to the catalog (and the Worker sends every other hub path here)
 //
 // Both tools are static (index.html + assets/), so this copies their main branch as is and adds the
 // switcher bar (course-search/switcher.css) to each index.html. The copies are committed like the rest of
@@ -33,7 +33,6 @@ export function switcher(active) {
   const links = TOOLS.map((t) =>
     `<a href="/course-search/${t.dir}/"${t.dir === active ? ' class="on" aria-current="page"' : ""}><b>${t.label}</b><small>${t.hint}</small></a>`).join("");
   return `<nav class="cs-switch" aria-label="Course search tools">
-<a class="cs-home" href="/" title="Back to the ICT Directory">&larr; ICT Directory</a>
 <div class="cs-tabs">${links}</div>
 </nav>`;
 }

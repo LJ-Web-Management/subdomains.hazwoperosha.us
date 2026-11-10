@@ -55,8 +55,8 @@ test("serves sites/_shared/ to every site", async () => {
 });
 
 test("keeps the hub out of search engines", async () => {
-  const env = { ASSETS: assets({ "/hub/index.html": "hub", "/tim/index.html": "tim home" }) };
-  assert.equal((await get("https://hub.hazwoperosha.us/", env)).headers.get("X-Robots-Tag"), "noindex, nofollow");
+  const env = { ASSETS: assets({ "/hub/course-search/index.html": "hub", "/tim/index.html": "tim home" }) };
+  assert.equal((await get("https://hub.hazwoperosha.us/course-search/", env)).headers.get("X-Robots-Tag"), "noindex, nofollow");
   assert.equal((await get("https://tim.hazwoperosha.us/", env)).headers.get("X-Robots-Tag"), null);
 });
 
@@ -81,7 +81,7 @@ test("adds the Google Analytics and Clarity tags to HTML pages only, loaded afte
 
 test("leaves the hub untracked", async () => {
   const env = { ASSETS: { async fetch() { return new Response("<html><head></head><body>hub</body></html>", { headers: { "Content-Type": "text/html" } }); } } };
-  const res = await get("https://hub.hazwoperosha.us/", env);
+  const res = await get("https://hub.hazwoperosha.us/course-search/", env);
   const hub = await res.text();
   assert.doesNotMatch(hub, /G-CSJ7GHDZXW/);
   assert.doesNotMatch(hub, /clarity/);
@@ -173,9 +173,21 @@ test("caches versioned assets and fonts for a year, pages not at all", async () 
 });
 
 test("never serves Markdown on the hub", async () => {
-  const env = { ASSETS: assets({ "/hub/index.html": "<html><head></head><body>hub</body></html>", "/hub/index.md": "# hub" }) };
-  const res = await get("https://hub.hazwoperosha.us/", env, { Accept: "text/markdown" });
+  const env = { ASSETS: assets({ "/hub/course-search/index.html": "<html><head></head><body>hub</body></html>", "/hub/course-search/index.md": "# hub" }) };
+  const res = await get("https://hub.hazwoperosha.us/course-search/", env, { Accept: "text/markdown" });
   assert.match(res.headers.get("Content-Type"), /^text\/html/);
+});
+
+test("the hub is only the course search: every other hub path redirects to it", async () => {
+  const env = { ASSETS: assets({ "/hub/course-search/index.html": "search", "/hub/sitemap.xml": "<sitemapindex/>", "/tim/index.html": "tim home" }) };
+  for (const path of ["/", "/about", "/contact", "/index.html", "/course-searchx"]) {
+    const res = await get(`https://hub.hazwoperosha.us${path}`, env);
+    assert.equal(res.status, 302, path);
+    assert.equal(res.headers.get("Location"), "/course-search/", path);
+  }
+  assert.equal((await get("https://hub.hazwoperosha.us/course-search/", env)).status, 200);
+  assert.equal((await get("https://hub.hazwoperosha.us/sitemap.xml", env)).status, 200);
+  assert.equal((await get("https://tim.hazwoperosha.us/", env)).status, 200);
 });
 
 // The CSP's script-src nonce, and the nonce on each <script> tag of the page.
@@ -194,9 +206,9 @@ test("refuses to be framed by other websites, on every response", async () => {
 test("gives every HTML page a CSP and a fresh nonce on each of its scripts", async () => {
   const html = `<html><head><script type="application/ld+json">{"a":"<script>"}</script><script src="/x.js" defer></script></head>
 <body><!-- <script>old()</script> --><style>a::after{content:"<script"}</style><script>var s = "<script src=x>";</script></body></html>`;
-  const env = { ASSETS: assets({ "/tim/index.html": html, "/hub/index.html": html, "/tim/style.css": "body{}" }) };
+  const env = { ASSETS: assets({ "/tim/index.html": html, "/hub/course-search/index.html": html, "/tim/style.css": "body{}" }) };
   for (const host of ["tim", "hub"]) {
-    const res = await get(`https://${host}.hazwoperosha.us/`, env);
+    const res = await get(`https://${host}.hazwoperosha.us${host === "hub" ? "/course-search/" : "/"}`, env);
     const csp = res.headers.get("Content-Security-Policy");
     const page = await res.text();
     const nonce = nonceOf(res);

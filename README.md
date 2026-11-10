@@ -60,42 +60,23 @@ What every site has:
 
 ## Hub
 
-https://hub.hazwoperosha.us is the Industrial Certified Training (ICT) hub: a small website, styled like a built-in macOS
-feature, that leads to every site in `sites/`.
+https://hub.hazwoperosha.us is only the internal course search. Every hub path outside `/course-search/` (including `/`)
+redirects there (302, in `src/index.js`), apart from `/sitemap.xml`.
 
-- **Notch search.** A black capsule at the top center grows into a panel (click it, press `⌘K` or `/`). It searches every
-  site's name and description; its Face ID–style ring pulses while searching, turns green with a check on a match, and turns
-  red with a small shake when nothing matches.
-- **Course Finder.** Five onboarding-style cards (welcome, your work, optional keywords, matching ring, results) that rank the
-  sites for the visitor's answers. Nothing is sent anywhere.
-- **Directory.** A System Settings–style window: category sidebar with counts, search, a sort pop-up, a details switch, and
-  grouped inset lists of every site.
-- **Menu bar.** ICT logo and links, a status menu (search, finder, directory, call, email, ictraining.us) and a clock.
-- `/about`, `/contact`, `/privacy` and a 404 page.
-
-`tools/hub.mjs` writes it from the folders in `sites/` (each site's `<title>` and meta description), and Wrangler runs that
-script before every deploy (the `build` block in `wrangler.jsonc`), so new sites appear on their own. The company's sites on
-other domains (hazwoper-osha.com, confined-space.com, eldttraining.us and the rest) come from the `EXTERNAL` list in
-`tools/hub.mjs`: names and descriptions copied from each site's own title and meta description, filed under their topic's
-category (the main store and oshascorm.org, which cover every topic, under "ICT Websites"). Update them there when a site changes. A site's category comes
-from the `CATEGORIES` lists in `tools/hub.mjs`; an unlisted site falls back to HAZWOPER, so add new sites to the right list.
-The design and script are `tools/hub/hub.css` and `tools/hub/hub.js` (copied with a `?v=<hash>`), and the ICT logo is
-`tools/hub/ict-logo.webp`. The hub is still hidden from search engines and untracked: its pages have a `noindex, nofollow` meta
-tag, the Worker sends `X-Robots-Tag: noindex, nofollow` and adds no analytics for it, and `npm run audit` skips it.
-
-### Course search (`/course-search/`)
-
-https://hub.hazwoperosha.us/course-search/ runs the two internal course search tools, with a bar at the top to switch
-between them:
+https://hub.hazwoperosha.us/course-search/ opens the HAZWOPER course catalog. A bar at the top of each tool switches
+between the two:
 
 - `/course-search/catalog/`: the HAZWOPER course catalog ([hazwoperosha-course-search](https://github.com/LJ-Web-Management/hazwoperosha-course-search)).
 - `/course-search/landing-pages/`: which landing sites sell which courses ([landingpages-course-search](https://github.com/LJ-Web-Management/landingpages-course-search)).
 
-Both are linked from the hub's menu bar and status menu. They are copies of each tool's `main` branch, made by
-`node tools/course-search.mjs` (it clones both repos, copies `index.html` and `assets/`, and adds the switcher bar,
-styled by `sites/hub/course-search/switcher.css`). Run it after either tool changes and commit the result; don't edit
-the copies by hand. Like the rest of the hub they are noindex and untracked, and the CSP still applies, so neither tool
-may use inline `onclick=""` handlers.
+Both are copies of each tool's `main` branch, made by `node tools/course-search.mjs` (it clones both repos, copies
+`index.html` and `assets/`, and adds the switcher bar, styled by `sites/hub/course-search/switcher.css`). Run it after
+either tool changes and commit the result; don't edit the copies by hand. The hub is hidden from search engines and
+untracked: the Worker sends `X-Robots-Tag: noindex, nofollow` and adds no analytics for it, and `npm run audit` skips it.
+The CSP still applies, so neither tool may use inline `onclick=""` handlers.
+
+`tools/hub.mjs` writes `sites/hub/sitemap.xml`, a sitemap index of every site's own `sitemap.xml` (except `www` and the
+hub). Wrangler runs it before every deploy (the `build` block in `wrangler.jsonc`), so new sites are listed on their own.
 
 ## Shared files
 
@@ -232,7 +213,7 @@ content/lastmod.json        a hash and date per URL, for sitemap <lastmod>
 tools/build.mjs             writes sites/<site>/ and sites/_shared/catalog.js
 tools/imported.mjs          fixes the imported training sites (below)
 tools/agents.mjs            writes the Markdown twin of every page
-tools/hub.mjs               writes the hub and the sitemap index
+tools/hub.mjs               writes the sitemap index (sites/hub/sitemap.xml)
 ```
 
 ```sh
