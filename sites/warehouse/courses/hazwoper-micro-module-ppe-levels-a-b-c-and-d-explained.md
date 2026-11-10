@@ -4,7 +4,7 @@ description: "A 15-minute module on PPE levels. A 15-minute online course, $12.9
 url: https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained
 ---
 
-[Courses](https://warehouse.hazwoperosha.us/courses/) / Course #585
+[Courses](https://warehouse.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained
 
@@ -50,7 +50,6 @@ $12.99 per seat
 
 - **Length**: 15 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #585
 
 [Enroll now](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585)
 
@@ -58,25 +57,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=1099)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=479)
 
-[OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=416)
+$29.99 [Enroll](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=416)
 
-[RCRA Universal Waste Handler Training](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=602)
 
-[RCRA Hazardous Waste Generator Training](https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=601)
+$134.99 [Enroll](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=601)
 
 ---
 

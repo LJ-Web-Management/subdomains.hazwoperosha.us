@@ -4,7 +4,7 @@ description: "Choosing and using spill kits for fuel. A 1-hour online course, $2
 url: https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use
 ---
 
-[Courses](https://dc-generators.hazwoperosha.us/courses/) / Course #479
+[Courses](https://dc-generators.hazwoperosha.us/courses/)
 
 # Spill Response Equipment - Spill Kit Selection & Use
 
@@ -53,7 +53,6 @@ $24.99 per seat
 
 - **Length**: 1 Hour
 - **Standard**: 40 CFR 112 / 29 CFR 1910.120
-- **Course**: #479
 
 [Enroll now](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479)
 
@@ -73,9 +72,9 @@ $99.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/spill-response-equ
 
 $99.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=853)
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=416)
+$29.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=416)
 
 ---
 

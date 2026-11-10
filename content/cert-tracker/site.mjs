@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Who's due <span>for a refresher?</span>",
     lede: "Add your crew, the date of each person's last HAZWOPER certificate and see at a glance who's current, due soon or overdue.",
-    cta: [595, "Renew a worker · $89.99"],
+    cta: [595, "Renew a worker · $59.99"],
     alt: ["#tracker", "Open the tracker"],
   },
   coursesTagline: "Refreshers and initial courses for keeping a crew current.",

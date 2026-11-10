@@ -4,7 +4,7 @@ description: "The 40-hour HAZWOPER for fire and hazmat teams who also do post-in
 url: https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams
 ---
 
-[Courses](https://rail.hazwoperosha.us/courses/) / Course #589
+[Courses](https://rail.hazwoperosha.us/courses/)
 
 # OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams
 
@@ -59,7 +59,6 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #589
 
 [Enroll now](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=589)
 
@@ -67,25 +66,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://rail.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://rail.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://rail.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://rail.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=593)
+$199.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=593)
 
-[OSHA Spill Prevention and Response Safety Training](https://rail.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://rail.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=416)
+$29.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=416)
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://rail.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Absorbent & Containment Booms](https://rail.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=478)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://rail.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://rail.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=574)
+$249.99 [Enroll](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=574)
 
 ---
 

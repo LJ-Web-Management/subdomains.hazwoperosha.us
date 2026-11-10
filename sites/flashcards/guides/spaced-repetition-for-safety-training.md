@@ -29,7 +29,7 @@ Flashcards help with facts. The course gives you the context: why the numbers ar
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://flashcards.hazwoperosha.us/guides/spaced-repetition-for-safety-training?buy=587)
 

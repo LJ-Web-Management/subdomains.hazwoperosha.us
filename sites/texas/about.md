@@ -22,9 +22,9 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 - [OSHA 40 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
 - [OSHA 24 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): 24 Hours, $169.99 per seat
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
 - [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): 40 Hours, $249.99 per seat
-- [RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $89.99 per seat
+- [RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
 
 The [full catalog of 83 trainings](https://texas.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://texas.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 

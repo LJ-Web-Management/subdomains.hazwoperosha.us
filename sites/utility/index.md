@@ -14,7 +14,7 @@ Call 911 Evacuate No ignition Monitor Isolate
 
 ## Crew courses
 
-40 Hours · #592
+40 Hours
 
 ### OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response
 
@@ -22,7 +22,7 @@ The 40-hour HAZWOPER for utility and pipeline crews who respond to releases on t
 
 **$249.99** [Enroll](https://utility.hazwoperosha.us/?buy=592)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### OSHA Air Monitoring and Gas Detection Training
 
@@ -30,15 +30,15 @@ Combustible gas indicators, multi-gas meters and PIDs for utility work.
 
 **$49.99** [Enroll](https://utility.hazwoperosha.us/?buy=1056)
 
-8 Hours · #593
+8 Hours · #259
 
 ### OSHA 8 Hour HAZWOPER (q) Incident Command Training
 
 Incident command for utility supervisors who'll work in unified command.
 
-**$179.99** [Enroll](https://utility.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://utility.hazwoperosha.us/?buy=593)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
@@ -46,21 +46,21 @@ Awareness-level training for meter readers, locators and office field staff.
 
 **$61.99** [Enroll](https://utility.hazwoperosha.us/?buy=1099)
 
-8 Hours · #595
+8 Hours · #112
 
 ### OSHA 8 Hour HAZWOPER Refresher Training
 
 The annual 8-hour HAZWOPER refresher for site workers.
 
-**$89.99** [Enroll](https://utility.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://utility.hazwoperosha.us/?buy=595)
 
-8 Hours · #574
+8 Hours · #382
 
 ### 8 Hour HAZWOPER and Incident Command Refresher Training
 
 Annual refresher for responders and incident commanders.
 
-**$159.99** [Enroll](https://utility.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://utility.hazwoperosha.us/?buy=574)
 
 ## Field guides
 

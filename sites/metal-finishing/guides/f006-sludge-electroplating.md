@@ -33,15 +33,15 @@ The listed waste every plating shop makes, and what to do with it.
 
 F006 volumes add up fast. Track monthly totals to know your generator category.
 
-**RCRA Hazardous Waste Generator Training** 8 Hours · $89.99 per seat
+**RCRA Hazardous Waste Generator Training** 8 Hours · $134.99 per seat
 
 [Enroll](https://metal-finishing.hazwoperosha.us/guides/f006-sludge-electroplating?buy=601)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://metal-finishing.hazwoperosha.us/guides/f006-sludge-electroplating?buy=601)
+$134.99 [Enroll](https://metal-finishing.hazwoperosha.us/guides/f006-sludge-electroplating?buy=601)
 
 ---
 

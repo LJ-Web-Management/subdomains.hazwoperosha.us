@@ -1,10 +1,10 @@
 ---
 title: "RCRA Hazardous Waste Generator Training | SAA Label Maker"
-description: "The full generator course. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "The full generator course. An 8-hour online course, $134.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training
 ---
 
-[Courses](https://saa-labels.hazwoperosha.us/courses/) / Course #601
+[Courses](https://saa-labels.hazwoperosha.us/courses/) / Course #114
 
 # RCRA Hazardous Waste Generator Training
 
@@ -31,7 +31,7 @@ Manufacturing, industrial, healthcare, LQG/SQG waste generators
 
 ### How much does RCRA Hazardous Waste Generator Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$134.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [How to indicate the hazards on a label](https://saa-labels.hazwoperosha.us/guides/hazard-indication-options)
 
-$89.99 per seat
+$134.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 40 CFR 262.17 (RCRA)
-- **Course**: #601
+- **Course**: #114
 
 [Enroll now](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601)
 
@@ -65,17 +65,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Hazardous Waste Satellite Accumulation Area Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=415)
 
-[RCRA Universal Waste Handler Training](https://saa-labels.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://saa-labels.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=602)
 
-[Hazardous Waste Manifest Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=580)
+$58.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=580)
 
 ---
 

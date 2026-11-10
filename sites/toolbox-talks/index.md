@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Short, printable toolbox talks for the morning tailgate on HAZWOPER sites. Pick one, print it, talk it through, and get signatures.
 
-[8-Hour Refresher · $89.99](https://toolbox-talks.hazwoperosha.us/?buy=595) [Pick a talk](https://toolbox-talks.hazwoperosha.us/#talks)
+[8-Hour Refresher · $59.99](https://toolbox-talks.hazwoperosha.us/?buy=595) [Pick a talk](https://toolbox-talks.hazwoperosha.us/#talks)
 
 **01**Buddy system
 
@@ -48,31 +48,31 @@ Print this talk
 
 ## Courses
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual refresher.
 
-**$89.99** [Enroll](https://toolbox-talks.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://toolbox-talks.hazwoperosha.us/?buy=595)
 
-8 Hours · #597
+8 Hours · #133
 
 ### HAZWOPER Supervisor
 
 Leading crews and briefings.
 
-**$179.99** [Enroll](https://toolbox-talks.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://toolbox-talks.hazwoperosha.us/?buy=597)
 
-8 Hours · #596
+8 Hours · #134
 
 ### Supervisor Refresher
 
 The annual supervisor refresher.
 
-**$149.99** [Enroll](https://toolbox-talks.hazwoperosha.us/?buy=596)
+**$69.99** [Enroll](https://toolbox-talks.hazwoperosha.us/?buy=596)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 

@@ -4,7 +4,7 @@ description: "Master the monitoring cards. A 20-minute online course, $14.99 per
 url: https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments
 ---
 
-[Courses](https://flashcards.hazwoperosha.us/courses/) / Course #583
+[Courses](https://flashcards.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments
 
@@ -55,7 +55,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #583
 
 [Enroll now](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583)
 
@@ -63,19 +62,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=581)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=595)
+$59.99 [Enroll](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=595)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=585)
 

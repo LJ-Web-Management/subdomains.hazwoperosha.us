@@ -26,7 +26,7 @@ OSHA espera que la capacitación se dé en un idioma y vocabulario que el trabaj
 
 ## Courses
 
-40 Hours · #1100
+40 Hours · #123
 
 ### 40-Hour · Español
 
@@ -34,7 +34,7 @@ The full 40-hour HAZWOPER in Spanish. El curso completo de 40 horas, en español
 
 **$249.99** [Enroll](https://bilingual.hazwoperosha.us/?buy=1100)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour · English
 
@@ -42,23 +42,23 @@ The full 40-hour HAZWOPER in English.
 
 **$249.99** [Enroll](https://bilingual.hazwoperosha.us/?buy=587)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 The 8-hour supervisor course, for leads running bilingual crews.
 
-**$179.99** [Enroll](https://bilingual.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://bilingual.hazwoperosha.us/?buy=597)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual 8-hour refresher (in English).
 
-**$89.99** [Enroll](https://bilingual.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://bilingual.hazwoperosha.us/?buy=595)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 

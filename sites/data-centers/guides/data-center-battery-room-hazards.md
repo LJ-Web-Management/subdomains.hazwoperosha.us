@@ -37,15 +37,15 @@ Smoke, a sweet chemical smell, swelling or heat from a battery cabinet: get out,
 
 ## Courses
 
-[OSHA Air Monitoring and Gas Detection Training](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards?buy=1056)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards?buy=479)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards?buy=1099)
 

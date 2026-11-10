@@ -43,11 +43,11 @@ Keep the program in one place, version it and review it at least annually or whe
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/hazwoper-program-checklist?buy=597)
+$69.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/hazwoper-program-checklist?buy=597)
 
-[HAZWOPER Train-the-Trainer Certification](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1016 · 29 CFR 1910.120(e)
+[HAZWOPER Train-the-Trainer Certification](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1147 · 29 CFR 1910.120(e)
 
 $399.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/hazwoper-program-checklist?buy=1016)
 

@@ -32,15 +32,15 @@ Your generator category depends on how much hazardous waste you generate per mon
 
 Many states add requirements. Check with your state environmental agency.
 
-**RCRA Hazardous Waste Generator Training** 8 Hours · $89.99 per seat
+**RCRA Hazardous Waste Generator Training** 8 Hours · $134.99 per seat
 
 [Enroll](https://auto-shops.hazwoperosha.us/guides/small-quantity-generator-shops?buy=601)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/small-quantity-generator-shops?buy=601)
+$134.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/small-quantity-generator-shops?buy=601)
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER (q) Incident Command Training"
-description: "Incident command for shift supervisors and ERT leaders. An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion."
+description: "Incident command for shift supervisors and ERT leaders. An 8-hour online course, $199.99 per seat. Self-paced, with a certificate of completion."
 url: https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training
 ---
 
-[Courses](https://manufacturing.hazwoperosha.us/courses/) / Course #593
+[Courses](https://manufacturing.hazwoperosha.us/courses/) / Course #259
 
 # OSHA 8 Hour HAZWOPER (q) Incident Command Training
 
@@ -32,7 +32,7 @@ Shift supervisors, ERT captains and emergency coordinators.
 
 ### How much does OSHA 8 Hour HAZWOPER (q) Incident Command Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$199.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -55,11 +55,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [Building an in-plant emergency response team](https://manufacturing.hazwoperosha.us/guides/building-an-in-plant-ert)
 - [Running a chemical spill drill at your plant](https://manufacturing.hazwoperosha.us/guides/running-a-chemical-spill-drill)
 
-$179.99 per seat
+$199.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(q)
-- **Course**: #593
+- **Course**: #259
 
 [Enroll now](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593)
 
@@ -67,23 +67,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=702)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=1099)
 
-[RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=601)
+$134.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=601)
 
-[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=416)
+$29.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=416)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=412)
 

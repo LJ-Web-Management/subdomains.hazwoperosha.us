@@ -47,13 +47,13 @@ Federal-based training covers the core. A refresher that references your state's
 
 ## Courses
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://state-plans.hazwoperosha.us/guides/states-with-their-own-hazwoper-rules?buy=900)
 
-[Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://state-plans.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training) 40 Hours · Course #577 · 8 CCR 5192(e)
+[Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://state-plans.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training) 40 Hours · Course #351 · 8 CCR 5192(e)
 
-$219.99 [Enroll](https://state-plans.hazwoperosha.us/guides/states-with-their-own-hazwoper-rules?buy=577)
+$229.99 [Enroll](https://state-plans.hazwoperosha.us/guides/states-with-their-own-hazwoper-rules?buy=577)
 
 ---
 

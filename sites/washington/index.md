@@ -14,7 +14,7 @@ Washington writes its own HAZWOPER rule and its own dangerous waste rules. Train
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,7 +22,7 @@ The 40-hour initial HAZWOPER, with the same hours Washington requires.
 
 **$249.99** [Enroll](https://washington.hazwoperosha.us/?buy=587)
 
-40 Hours · #590
+40 Hours
 
 ### 40 Hr Remediation
 
@@ -30,7 +30,7 @@ The 40-hour HAZWOPER for remediation crews.
 
 **$249.99** [Enroll](https://washington.hazwoperosha.us/?buy=590)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -38,7 +38,7 @@ The 24-hour HAZWOPER for occasional and low-exposure workers.
 
 **$169.99** [Enroll](https://washington.hazwoperosha.us/?buy=581)
 
-8 Hours · #900
+8 Hours
 
 ### State-Plan Refresher
 
@@ -46,15 +46,15 @@ The annual refresher with state-plan versions available.
 
 **$84.99** [Enroll](https://washington.hazwoperosha.us/?buy=900)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The standard annual 8-hour refresher.
 
-**$89.99** [Enroll](https://washington.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://washington.hazwoperosha.us/?buy=595)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 

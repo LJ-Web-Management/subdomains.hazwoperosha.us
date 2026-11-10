@@ -38,7 +38,7 @@ Exact lines vary with the site, contaminant and PPE level. Follow your site's de
 
 ## Courses
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://decon-drill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://decon-drill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://decon-drill.hazwoperosha.us/guides/why-decon-order-matters?buy=584)
 

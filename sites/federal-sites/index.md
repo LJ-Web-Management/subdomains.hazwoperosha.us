@@ -14,7 +14,7 @@ Former bases, ranges and weapons-complex sites are some of the largest cleanups 
 
 ## Courses
 
-40 Hours · #590
+40 Hours
 
 ### 40 Hr Remediation
 
@@ -22,7 +22,7 @@ The 40-hour HAZWOPER for remediation crews on federal cleanup sites.
 
 **$249.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=590)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -30,23 +30,23 @@ The standard 40-hour initial HAZWOPER.
 
 **$249.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=587)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 The 8-hour supervisor course for site leads.
 
-**$179.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=597)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 Incident command for site emergencies.
 
-**$179.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=593)
 
-24 Hours · #1016
+24 Hours · #1147
 
 ### Train-the-Trainer
 
@@ -54,13 +54,13 @@ Qualify in-house trainers for large federal programs.
 
 **$399.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=1016)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual 8-hour refresher.
 
-**$89.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=595)
 
 [All trainings (83) →](https://federal-sites.hazwoperosha.us/courses/#all)
 

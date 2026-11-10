@@ -47,11 +47,11 @@ Every 40-hour track on this site meets the same 40 hours of instruction. The dif
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/40-hour-or-24-hour-hazwoper?buy=587)
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/40-hour-or-24-hour-hazwoper?buy=588)
 

@@ -2,7 +2,7 @@
 export default {
   brand: "Refresh.8",
   title: "8-Hour HAZWOPER Refresher Online | Annual OSHA Renewal | Refresh.8",
-  description: "Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, state-plan, supervisor, incident command and ammonia versions. From $84.99.",
+  description: "Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, state-plan, supervisor, incident command and ammonia versions. From $59.99.",
   theme: "#e30613",
   fonts: "family=Inter:wght@400;500;600;700;800",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#fff"/><text x="16" y="27" font-size="30" font-family="Arial" font-weight="900" text-anchor="middle" fill="#e30613">8</text></svg>`,
@@ -100,11 +100,11 @@ The refresher has no hands-on field component the way the initial 40-hour does. 
 
 | Refresher | Best for | Price |
 |---|---|---|
-| [[595]] | Any 40- or 24-hour worker | $89.99 |
+| [[595]] | Any 40- or 24-hour worker | $59.99 |
 | [[900]] | Workers in state-plan states | $84.99 |
-| [[596]] | Supervisors and site leads | $149.99 |
-| [[574]] | Responders and incident commanders | $159.99 |
-| [[598]] | Ammonia refrigeration technicians | $109.99 |
+| [[596]] | Supervisors and site leads | $69.99 |
+| [[574]] | Responders and incident commanders | $249.99 |
+| [[598]] | Ammonia refrigeration technicians | $89.99 |
 
 ## Three quick rules
 
@@ -163,7 +163,7 @@ Federal OSHA doesn't cover state and local government workers, but state plans d
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Hours. Once a year.<br>Stay certified.</h1>
 <p class="hero-lede">OSHA requires an 8-hour HAZWOPER refresher every 12 months. Pick your version, finish at your own pace and download your certificate.</p>
-${h.buy(595, "Renew now · $89.99")}
+${h.buy(595, "Renew now · $59.99")}
 </div></div></section>
 
 <section class="grid-sec" id="courses"><div class="wrap">

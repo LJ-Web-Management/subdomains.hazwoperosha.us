@@ -42,21 +42,21 @@ Training gets you in the door. Employers still require their own site orientatio
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=587)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=595)
+$59.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=595)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=403)
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=599)
+$349.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=599)
 
 ---
 

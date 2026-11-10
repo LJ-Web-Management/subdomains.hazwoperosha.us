@@ -4,7 +4,7 @@ description: "The 40-hour HAZWOPER for oilfield spill response crews. A 40-hour 
 url: https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response
 ---
 
-[Courses](https://texas.hazwoperosha.us/courses/) / Course #591
+[Courses](https://texas.hazwoperosha.us/courses/)
 
 # OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response
 
@@ -57,7 +57,6 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #591
 
 [Enroll now](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591)
 
@@ -65,21 +64,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=581)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=595)
+$59.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=595)
 
-[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=601)
+$134.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=601)
 
 ---
 

@@ -32,15 +32,15 @@ Pre-entry briefings are required, and they're where the plan becomes real. Ask t
 
 Update the plan when conditions, tasks or contaminants change, and record the change.
 
-**OSHA 8 Hour HAZWOPER Supervisor Training** 8 Hours · $179.99 per seat
+**OSHA 8 Hour HAZWOPER Supervisor Training** 8 Hours · $69.99 per seat
 
 [Enroll](https://safety-plan-checklist.hazwoperosha.us/guides/writing-a-hasp-crews-will-use?buy=597)
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://safety-plan-checklist.hazwoperosha.us/guides/writing-a-hasp-crews-will-use?buy=597)
+$69.99 [Enroll](https://safety-plan-checklist.hazwoperosha.us/guides/writing-a-hasp-crews-will-use?buy=597)
 
 ---
 

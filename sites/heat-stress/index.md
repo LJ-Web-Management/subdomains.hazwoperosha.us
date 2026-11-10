@@ -22,7 +22,7 @@ Heat index uses the National Weather Service formula and shade conditions. Full 
 
 ## Courses
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -30,7 +30,7 @@ The four levels of protection and their trade-offs.
 
 **$12.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=585)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -38,21 +38,21 @@ Heat stress, PPE and site safety in depth.
 
 **$249.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=587)
 
-8 Hours · #597
+8 Hours · #133
 
 ### HAZWOPER Supervisor
 
 Planning work/rest and monitoring crews.
 
-**$179.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=597)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual refresher.
 
-**$89.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=595)
 
 [All trainings (83) →](https://heat-stress.hazwoperosha.us/courses/#all)
 

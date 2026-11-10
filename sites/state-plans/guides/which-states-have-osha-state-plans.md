@@ -40,7 +40,7 @@ Several states and territories, including Connecticut, Illinois, Maine, New Jers
 
 ## Courses
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://state-plans.hazwoperosha.us/guides/which-states-have-osha-state-plans?buy=900)
 

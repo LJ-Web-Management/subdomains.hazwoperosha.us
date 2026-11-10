@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER (q) Incident Command Training"
-description: "Incident command for plant shift supervisors and ERT leaders. An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion."
+description: "Incident command for plant shift supervisors and ERT leaders. An 8-hour online course, $199.99 per seat. Self-paced, with a certificate of completion."
 url: https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training
 ---
 
-[Courses](https://gulf-coast.hazwoperosha.us/courses/) / Course #593
+[Courses](https://gulf-coast.hazwoperosha.us/courses/) / Course #259
 
 # OSHA 8 Hour HAZWOPER (q) Incident Command Training
 
@@ -32,7 +32,7 @@ Shift supervisors, operations leads and ERT captains.
 
 ### How much does OSHA 8 Hour HAZWOPER (q) Incident Command Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$199.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -54,11 +54,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Plant emergency response: ERTs, mutual aid and HAZWOPER (q)](https://gulf-coast.hazwoperosha.us/guides/plant-emergency-response-gulf-coast)
 
-$179.99 per seat
+$199.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(q)
-- **Course**: #593
+- **Course**: #259
 
 [Enroll now](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593)
 
@@ -66,25 +66,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=587)
 
-[OSHA Air Monitoring and Gas Detection Training](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=1056)
 
-[Manufacturing Emergency Response Team (ERT) Training](https://gulf-coast.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://gulf-coast.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=702)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=591)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=595)
+$59.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=595)
 
 ---
 

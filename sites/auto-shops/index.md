@@ -10,19 +10,19 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Used oil, solvents, brake cleaner, batteries and antifreeze. Hazardous waste training for techs and shop managers, so inspections go smoothly.
 
-[Generator training · $89.99](https://auto-shops.hazwoperosha.us/?buy=601) [Used oil rules](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops)
+[Generator training · $134.99](https://auto-shops.hazwoperosha.us/?buy=601) [Used oil rules](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops)
 
 ## Courses
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training for shop owners and managers.
 
-**$89.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=601)
 
-2 Hours · #415
+2 Hours · #901
 
 ### Satellite Accumulation
 
@@ -30,7 +30,7 @@ Waste containers at the bay: labels, limits and lids.
 
 **$59.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=415)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste
 
@@ -38,15 +38,15 @@ Batteries, lamps, aerosol cans and mercury switches.
 
 **$34.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=602)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention
 
 Preventing and responding to fluid spills in the shop.
 
-**$49.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=416)
 
-1 Hour · #479
+1 Hour
 
 ### Spill Kit Use
 
@@ -54,7 +54,7 @@ Using the shop spill kit.
 
 **$24.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=479)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 

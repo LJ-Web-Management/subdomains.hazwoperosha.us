@@ -10,19 +10,19 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 UPS batteries, diesel generators and cooling chemicals bring real hazmat risks into the data center. Training for critical facilities teams.
 
-[Spill prevention · $49.99](https://data-centers.hazwoperosha.us/?buy=416) [Battery room hazards](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards)
+[Spill prevention · $29.99](https://data-centers.hazwoperosha.us/?buy=416) [Battery room hazards](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards)
 
 ## Courses
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention
 
 Preventing and responding to fuel and electrolyte spills.
 
-**$49.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=416)
 
-1 Hour · #479
+1 Hour
 
 ### Spill Kit Use
 
@@ -30,7 +30,7 @@ Choosing and using spill kits, including acid kits for battery rooms.
 
 **$24.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=479)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste
 
@@ -38,7 +38,7 @@ Managing spent UPS batteries and lamps as universal waste.
 
 **$34.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=602)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -46,7 +46,7 @@ Recognize a hazardous release and get clear.
 
 **$61.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=1099)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -54,13 +54,13 @@ Hydrogen, refrigerant and oxygen monitoring.
 
 **$49.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=1056)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training for campus facilities.
 
-**$89.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=601)
 
 [All trainings (83) →](https://data-centers.hazwoperosha.us/courses/#all)
 

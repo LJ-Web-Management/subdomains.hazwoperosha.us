@@ -3,8 +3,10 @@
 //   <script src="/_shared/catalog.js"></script>
 //   <script src="/_shared/checkout.js" data-site="forty-hour" data-lang="en" defer></script>
 //
-// Any element with data-buy="<LMS course id>" opens a checkout dialog for that course, and
-// ?buy=<id> in the URL opens it on load. Payment works like the hazwoperosha.us checkout so
+// Any element with data-buy="<catalog id>" opens a checkout dialog for that course, and
+// ?buy=<id> in the URL opens it on load. The catalog id is only a key: add_order gets the course's
+// lmsId (the hazwoper-osha.com LMS course id). A course whose lmsId is null has no LMS match, so the
+// dialog offers enrollment by phone or email instead of taking a card. Payment works like the hazwoperosha.us checkout so
 // orders land in the hazwoper-osha.com LMS the same way:
 //   1. Stripe.js creates a card PaymentMethod
 //   2. POST {API_BASE_URL}/add_new_user  -> customer id
@@ -35,7 +37,9 @@
       orEmail: ' or email ',
       doneTitle: 'You’re enrolled', done1: 'Order ', done2: ' is confirmed. Login details are on their way to ',
       doneBtn: 'Done', failed: 'Payment failed. Please check your card details and try again.',
-      noStripe: 'The card form didn’t load. Refresh the page, or call us to enroll by phone.'
+      noStripe: 'The card form didn’t load. Refresh the page, or call us to enroll by phone.',
+      reqText: 'We enroll this course by request. Call or email us with the number of seats and we’ll set up your order.',
+      reqEmail: 'Email an enrollment request', reqSubject: 'Enrollment request: ', reqBody: 'Course: ', reqSeats: 'Seats: ', reqFrom: 'Site: '
     },
     es: {
       title: 'Inscripción', seats: 'Asientos', seat: 'asiento', seatsWord: 'asientos', perSeat: 'por asiento', total: 'Total',
@@ -47,7 +51,9 @@
       orEmail: ' o escriba a ',
       doneTitle: '¡Ya está inscrito!', done1: 'El pedido ', done2: ' está confirmado. Los datos de acceso van en camino a ',
       doneBtn: 'Listo', failed: 'El pago no se pudo procesar. Revise los datos de su tarjeta e intente de nuevo.',
-      noStripe: 'El formulario de pago no cargó. Actualice la página o llámenos para inscribirse por teléfono.'
+      noStripe: 'El formulario de pago no cargó. Actualice la página o llámenos para inscribirse por teléfono.',
+      reqText: 'Este curso se inscribe por solicitud. Llámenos o escríbanos con el número de asientos y prepararemos su pedido.',
+      reqEmail: 'Enviar solicitud de inscripción', reqSubject: 'Solicitud de inscripción: ', reqBody: 'Curso: ', reqSeats: 'Asientos: ', reqFrom: 'Sitio: '
     }
   }[LANG];
 
@@ -100,11 +106,18 @@
         '<p class="co-note">' + T.secure + '<br>' + T.po + '<a href="tel:' + PHONE_HREF + '">' + PHONE + '</a>' + T.orEmail +
           '<a href="mailto:' + ENROLL_EMAIL + '">' + ENROLL_EMAIL + '</a>.</p>' +
       '</form>' +
+      '<div class="co-request" hidden><div class="co-head"><h2>' + T.title + '</h2><button type="button" class="co-x co-req-x" aria-label="' + T.close + '">×</button></div>' +
+        '<div class="co-course"><strong class="co-req-name"></strong><span class="co-req-meta"></span></div>' +
+        '<p>' + T.reqText + '</p>' +
+        '<p><a class="co-pay co-req-mail" href="#">' + T.reqEmail + '</a></p>' +
+        '<p class="co-note"><a href="tel:' + PHONE_HREF + '">' + PHONE + '</a>' + T.orEmail + '<a href="mailto:' + ENROLL_EMAIL + '">' + ENROLL_EMAIL + '</a></p>' +
+      '</div>' +
       '<div class="co-done" hidden><h2>' + T.doneTitle + '</h2><p class="co-done-text"></p><button type="button" class="co-pay co-done-btn">' + T.doneBtn + '</button></div>';
     document.body.appendChild(dialog);
     form = dialog.querySelector('form');
 
     dialog.querySelector('.co-x').addEventListener('click', function () { dialog.close(); });
+    dialog.querySelector('.co-req-x').addEventListener('click', function () { dialog.close(); });
     dialog.querySelector('.co-done-btn').addEventListener('click', function () { dialog.close(); });
     dialog.addEventListener('click', function (e) { if (e.target === dialog) dialog.close(); });
     form.qty.addEventListener('input', render);
@@ -120,7 +133,7 @@
   function render() {
     var n = seats();
     dialog.querySelector('.co-name').textContent = current.name;
-    dialog.querySelector('.co-meta').textContent = current.duration + ' · ' + money(current.price) + ' ' + T.perSeat + ' · #' + current.id;
+    dialog.querySelector('.co-meta').textContent = current.duration + ' · ' + money(current.price) + ' ' + T.perSeat + (current.lmsId ? ' · #' + current.lmsId : '');
     dialog.querySelector('.co-sum').textContent = money(total());
     dialog.querySelector('.co-pay').textContent = T.pay + ' ' + money(total()) + (n > 1 ? ' · ' + n + ' ' + T.seatsWord : '');
   }
@@ -162,6 +175,19 @@
     if (!c) return;
     if (!dialog) build();
     current = c;
+    var req = dialog.querySelector('.co-request');
+    if (!c.lmsId) {
+      form.hidden = true;
+      dialog.querySelector('.co-done').hidden = true;
+      req.hidden = false;
+      req.querySelector('.co-req-name').textContent = c.name;
+      req.querySelector('.co-req-meta').textContent = c.duration + ' · ' + money(c.price) + ' ' + T.perSeat;
+      req.querySelector('.co-req-mail').href = 'mailto:' + ENROLL_EMAIL + '?subject=' + encodeURIComponent(T.reqSubject + c.name) +
+        '&body=' + encodeURIComponent(T.reqBody + c.name + '\n' + T.reqSeats + '\n' + T.reqFrom + ORDER_FROM + '\n');
+      dialog.showModal();
+      return;
+    }
+    req.hidden = true;
     form.hidden = false;
     form.qty.value = '1';
     dialog.querySelector('.co-done').hidden = true;
@@ -173,6 +199,7 @@
 
   async function submit(e) {
     e.preventDefault();
+    if (!current || !current.lmsId) return;
     if (!form.reportValidity()) return;
     if (!stripe || !card) return showError(T.noStripe);
     busy(true);
@@ -223,7 +250,7 @@
           billing_state: addr.state, billing_postcode: addr.postal_code, billing_country: addr.country,
           shipping_address_1: addr.line1, shipping_address_2: '', shipping_city: addr.city,
           shipping_state: addr.state, shipping_postcode: addr.postal_code, shipping_country: addr.country,
-          courses: [{ course_id: current.id, quantity: seats(), users: [{ first_name: first, last_name: last, email: email, user_name: '' }] }]
+          courses: [{ course_id: current.lmsId, quantity: seats(), users: [{ first_name: first, last_name: last, email: email, user_name: '' }] }]
         })
       });
       var data = await orderRes.json();
@@ -240,7 +267,7 @@
     if (typeof window.gtag === 'function') {
       window.gtag('event', 'purchase', {
         transaction_id: orderId, currency: 'USD', value: total(),
-        items: [{ item_id: String(current.id), item_name: current.name, price: current.price, quantity: seats() }]
+        items: [{ item_id: String(current.lmsId), item_name: current.name, price: current.price, quantity: seats() }]
       });
     }
     busy(false);

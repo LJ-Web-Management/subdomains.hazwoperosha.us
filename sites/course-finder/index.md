@@ -16,7 +16,7 @@ Question 1
 
 ## Most-recommended courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -24,7 +24,7 @@ For general site workers who may be exposed at or above exposure limits.
 
 **$249.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -32,15 +32,15 @@ For occasional site workers and workers in monitored low-exposure areas.
 
 **$169.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=581)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual refresher for everyone already certified.
 
-**$89.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=595)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -48,7 +48,7 @@ For people who may discover a release but won't respond.
 
 **$61.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=1099)
 
-24 Hours · #582
+24 Hours · #135
 
 ### 24-Hr TSD Operations
 
@@ -56,13 +56,13 @@ For workers at permitted treatment, storage and disposal facilities.
 
 **$229.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=582)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 For businesses that generate and ship hazardous waste.
 
-**$89.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=601)
 
 [All trainings (83) →](https://course-finder.hazwoperosha.us/courses/#all)
 

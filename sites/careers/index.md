@@ -14,7 +14,7 @@ Remediation, waste services and emergency response companies hire people with HA
 
 ## Certifications employers ask for
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,7 +22,7 @@ The certification most environmental field jobs list first.
 
 **$249.99** [Enroll](https://careers.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -30,7 +30,7 @@ For roles with limited site exposure.
 
 **$169.99** [Enroll](https://careers.hazwoperosha.us/?buy=581)
 
-8 Hours · #403
+8 Hours
 
 ### RCRA/DOT Combined
 
@@ -38,23 +38,23 @@ Waste and hazmat shipping knowledge that sets applicants apart.
 
 **$149.99** [Enroll](https://careers.hazwoperosha.us/?buy=403)
 
-24 Hours · #599
+24 Hours · #346
 
 ### Waste Technician
 
 Technician skills for environmental services companies.
 
-**$199.99** [Enroll](https://careers.hazwoperosha.us/?buy=599)
+**$349.99** [Enroll](https://careers.hazwoperosha.us/?buy=599)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 Keep your certification current between jobs.
 
-**$89.99** [Enroll](https://careers.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://careers.hazwoperosha.us/?buy=595)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 

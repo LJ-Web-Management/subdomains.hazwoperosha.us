@@ -28,7 +28,7 @@ For workers who visit hazardous waste sites now and then, or work where exposure
 
 ## Courses
 
-24 Hours · #581
+24 Hours · #137
 
 ### OSHA 24 Hour HAZWOPER Training
 
@@ -36,23 +36,23 @@ The OSHA 24-hour initial HAZWOPER for occasional site workers and workers in mon
 
 **$169.99** [Enroll](https://24-hour.hazwoperosha.us/?buy=581)
 
-24 Hours · #576
+24 Hours · #496
 
 ### Cal/OSHA 24-Hour HAZWOPER Training
 
 The 24-hour initial HAZWOPER written to Cal/OSHA Title 8 section 5192 for California workers.
 
-**$169.99** [Enroll](https://24-hour.hazwoperosha.us/?buy=576)
+**$189.99** [Enroll](https://24-hour.hazwoperosha.us/?buy=576)
 
-8 Hours · #595
+8 Hours · #112
 
 ### OSHA 8 Hour HAZWOPER Refresher Training
 
 The annual 8-hour refresher that keeps a 24-hour (or 40-hour) certificate current.
 
-**$89.99** [Enroll](https://24-hour.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://24-hour.hazwoperosha.us/?buy=595)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 

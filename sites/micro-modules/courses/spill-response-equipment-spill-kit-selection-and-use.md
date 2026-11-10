@@ -4,7 +4,7 @@ description: "One-hour equipment course on choosing and using spill kits. A 1-ho
 url: https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use
 ---
 
-[Courses](https://micro-modules.hazwoperosha.us/courses/) / Course #479
+[Courses](https://micro-modules.hazwoperosha.us/courses/)
 
 # Spill Response Equipment - Spill Kit Selection & Use
 
@@ -54,7 +54,6 @@ $24.99 per seat
 
 - **Length**: 1 Hour
 - **Standard**: 40 CFR 112 / 29 CFR 1910.120
-- **Course**: #479
 
 [Enroll now](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479)
 
@@ -62,23 +61,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=585)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=584)
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=583)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=586)
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Absorbent & Containment Booms](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=478)
 

@@ -27,7 +27,7 @@ export default {
   hero: {
     title: "Every box, <span>explained.</span>",
     lede: "The manifest follows hazardous waste from your dock to its final destination. Most mistakes come from a handful of boxes. Click through the form, then train the people who sign it.",
-    cta: [580, "Manifest Training · $34.99"],
+    cta: [580, "Manifest Training · $58.99"],
     alt: ["#form", "Explore the form"],
   },
   coursesTagline: "Manifest, DOT and generator training.",

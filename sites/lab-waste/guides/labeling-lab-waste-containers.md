@@ -48,7 +48,7 @@ Most institutions print a standard tag with fill-in fields for contents, hazards
 
 ## Courses
 
-[Hazardous Waste Satellite Accumulation Area Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/labeling-lab-waste-containers?buy=415)
 

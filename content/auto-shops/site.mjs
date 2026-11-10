@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Clean shop. <span>Clean record.</span>",
     lede: "Used oil, solvents, brake cleaner, batteries and antifreeze. Hazardous waste training for techs and shop managers, so inspections go smoothly.",
-    cta: [601, "Generator training · $89.99"],
+    cta: [601, "Generator training · $134.99"],
     alt: ["/guides/used-oil-at-auto-shops", "Used oil rules"],
   },
   heroArt: `<div class="checker" aria-hidden="true"></div>`,

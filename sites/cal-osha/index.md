@@ -32,31 +32,31 @@ Cal/OSHA HAZWOPER courses written for California's rules, not just the federal o
 
 ## California courses
 
-40 Hours · #577
+40 Hours · #351
 
 ### Cal/OSHA 40-Hour HAZWOPER Training (2026)
 
 The 40-hour initial HAZWOPER for California workers, written to Title 8 section 5192 (2026 edition).
 
-**$219.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=577)
+**$229.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=577)
 
-24 Hours · #576
+24 Hours · #496
 
 ### Cal/OSHA 24-Hour HAZWOPER Training
 
 The 24-hour initial HAZWOPER for California workers with limited or occasional site exposure.
 
-**$169.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=576)
+**$189.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=576)
 
-8 Hours · #578
+8 Hours · #490
 
 ### Cal/OSHA 8-Hour HAZWOPER Refresher Training
 
 The annual 8-hour HAZWOPER refresher, written to Cal/OSHA Title 8.
 
-**$89.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=578)
+**$149.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=578)
 
-24 Hours · #575
+24 Hours
 
 ### Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training
 
@@ -64,7 +64,7 @@ The 24-hour initial training for California treatment, storage and disposal faci
 
 **$249.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=575)
 
-8 Hours · #579
+8 Hours
 
 ### Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training
 
@@ -72,7 +72,7 @@ The annual 8-hour refresher for California TSDF workers.
 
 **$109.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=579)
 
-4 Hours · #1051
+4 Hours
 
 ### Cal/OSHA RCRA Hazardous Waste Training
 

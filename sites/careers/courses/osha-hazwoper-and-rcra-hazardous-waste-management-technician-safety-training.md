@@ -1,10 +1,10 @@
 ---
 title: "HAZWOPER & RCRA Hazardous Waste Technician Training"
-description: "Technician skills for environmental services companies. A 24-hour online course, $199.99 per seat. Self-paced, with a certificate of completion."
+description: "Technician skills for environmental services companies. A 24-hour online course, $349.99 per seat. Self-paced, with a certificate of completion."
 url: https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training
 ---
 
-[Courses](https://careers.hazwoperosha.us/courses/) / Course #599
+[Courses](https://careers.hazwoperosha.us/courses/) / Course #346
 
 # OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training
 
@@ -31,7 +31,7 @@ Aspiring field waste technicians.
 
 ### How much does OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training cost?
 
-$199.99 per seat. To train a crew, choose the number of seats at checkout.
+$349.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -54,11 +54,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [What does a HAZWOPER technician do all day?](https://careers.hazwoperosha.us/guides/what-hazwoper-technicians-do)
 - [Certifications that get you hired in environmental services](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired)
 
-$199.99 per seat
+$349.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120 / RCRA
-- **Course**: #599
+- **Course**: #346
 
 [Enroll now](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=599)
 
@@ -66,23 +66,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=581)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=403)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=595)
+$59.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=595)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://careers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://careers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=1099)
 

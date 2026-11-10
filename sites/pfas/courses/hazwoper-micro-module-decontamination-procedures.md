@@ -4,7 +4,7 @@ description: "Decon at PFAS sites. A 20-minute online course, $14.99 per seat. S
 url: https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures
 ---
 
-[Courses](https://pfas.hazwoperosha.us/courses/) / Course #584
+[Courses](https://pfas.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Decontamination Procedures
 
@@ -55,7 +55,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #584
 
 [Enroll now](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584)
 
@@ -63,21 +62,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=590)
 
-[OSHA 40 Hour HAZWOPER Training](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=587)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=586)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://pfas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://pfas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=595)
+$59.99 [Enroll](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=595)
 
 ---
 

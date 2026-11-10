@@ -22,9 +22,9 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 - [Facility Environmental Compliance](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance): 4 Hours, $99.99 per seat
 - [Data Center Cooling System and Refrigerant Safety Training](https://dc-compliance.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety): 2 Hours, $99.99 per seat
-- [OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 - [RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training): 2 Hours, $34.99 per seat
-- [RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $89.99 per seat
+- [RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
 
 The [full catalog of 83 trainings](https://dc-compliance.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-compliance.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 

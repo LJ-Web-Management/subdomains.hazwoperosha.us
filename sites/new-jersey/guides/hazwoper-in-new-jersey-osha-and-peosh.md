@@ -41,11 +41,11 @@ NJDEP runs the state's site remediation and hazardous waste programs. Remediatio
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://new-jersey.hazwoperosha.us/guides/hazwoper-in-new-jersey-osha-and-peosh?buy=587)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://new-jersey.hazwoperosha.us/guides/hazwoper-in-new-jersey-osha-and-peosh?buy=900)
 

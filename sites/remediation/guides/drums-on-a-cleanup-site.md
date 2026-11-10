@@ -46,11 +46,11 @@ Remote drum handling (grapplers, drum openers) and non-sparking tools are standa
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://remediation.hazwoperosha.us/guides/drums-on-a-cleanup-site?buy=590)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://remediation.hazwoperosha.us/guides/drums-on-a-cleanup-site?buy=586)
 

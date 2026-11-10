@@ -4,7 +4,7 @@ description: "Monitoring for the chemicals in this table. A 2-hour online course
 url: https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training
 ---
 
-[Courses](https://exposure-limits.hazwoperosha.us/courses/) / Course #1056
+[Courses](https://exposure-limits.hazwoperosha.us/courses/) / Course #664
 
 # OSHA Air Monitoring and Gas Detection Training
 
@@ -57,7 +57,7 @@ $49.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 1910.146 / 1910.1000
-- **Course**: #1056
+- **Course**: #664
 
 [Enroll now](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056)
 
@@ -65,15 +65,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=583)
 
-[OSHA 40 Hour HAZWOPER Training](https://exposure-limits.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://exposure-limits.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=587)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=585)
 

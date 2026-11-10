@@ -4,7 +4,7 @@ description: "The four EPA/OSHA levels of protection explained in 15 minutes. A 
 url: https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained
 ---
 
-[Courses](https://micro-modules.hazwoperosha.us/courses/) / Course #585
+[Courses](https://micro-modules.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained
 
@@ -59,7 +59,6 @@ $12.99 per seat
 
 - **Length**: 15 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #585
 
 [Enroll now](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585)
 
@@ -67,23 +66,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=584)
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=583)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=586)
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Absorbent & Containment Booms](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=478)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://micro-modules.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=479)
 

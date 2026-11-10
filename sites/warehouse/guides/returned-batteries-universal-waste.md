@@ -42,7 +42,7 @@ Most waste batteries can be managed as **universal waste** under 40 CFR Part 273
 
 ## Courses
 
-[RCRA Universal Waste Handler Training](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://warehouse.hazwoperosha.us/guides/returned-batteries-universal-waste?buy=602)
 

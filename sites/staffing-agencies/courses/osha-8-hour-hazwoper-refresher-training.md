@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Refresher Training | Ready to Place"
-description: "Keep your bench current. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "Keep your bench current. An 8-hour online course, $59.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training
 ---
 
-[Courses](https://staffing-agencies.hazwoperosha.us/courses/) / Course #595
+[Courses](https://staffing-agencies.hazwoperosha.us/courses/) / Course #112
 
 # OSHA 8 Hour HAZWOPER Refresher Training
 
@@ -29,7 +29,7 @@ All previously HAZWOPER-certified workers (annual)
 
 ### How much does OSHA 8 Hour HAZWOPER Refresher Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$59.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -51,11 +51,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Getting HAZWOPER placements started fast](https://staffing-agencies.hazwoperosha.us/guides/getting-placements-started-fast)
 
-$89.99 per seat
+$59.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(8)
-- **Course**: #595
+- **Course**: #112
 
 [Enroll now](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595)
 
@@ -63,19 +63,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=581)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://staffing-agencies.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://staffing-agencies.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=1099)
 
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=582)
 

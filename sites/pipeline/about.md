@@ -21,8 +21,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://pipeline.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response): 40 Hours, $249.99 per seat
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://pipeline.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $179.99 per seat
-- [8 Hour HAZWOPER and Incident Command Refresher Training](https://pipeline.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $159.99 per seat
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://pipeline.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://pipeline.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $249.99 per seat
 - [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://pipeline.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): 40 Hours, $249.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://pipeline.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
 

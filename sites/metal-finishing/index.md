@@ -10,27 +10,27 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Plating lines create acids, cyanides, metals and F006 sludge. Hazardous waste and response training for finishing shops.
 
-[Generator training · $89.99](https://metal-finishing.hazwoperosha.us/?buy=601) [About F006](https://metal-finishing.hazwoperosha.us/guides/f006-sludge-electroplating)
+[Generator training · $134.99](https://metal-finishing.hazwoperosha.us/?buy=601) [About F006](https://metal-finishing.hazwoperosha.us/guides/f006-sludge-electroplating)
 
 ## Courses
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training for finishing shops.
 
-**$89.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=601)
 
-4 Hours · #600
+4 Hours · #181
 
 ### Generator Refresher
 
 The annual RCRA refresher.
 
-**$59.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=600)
+**$124.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=600)
 
-2 Hours · #415
+2 Hours · #901
 
 ### Satellite Accumulation
 
@@ -38,7 +38,7 @@ Waste containers at the plating line.
 
 **$59.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=415)
 
-8 Hours · #702
+8 Hours · #970
 
 ### Plant ERT
 
@@ -46,7 +46,7 @@ Training for in-plant emergency response teams.
 
 **$149.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=702)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -54,7 +54,7 @@ Recognize a release, get clear and call it in.
 
 **$61.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=1099)
 
-4 Hours · #412
+4 Hours · #899
 
 ### Contingency Plan
 

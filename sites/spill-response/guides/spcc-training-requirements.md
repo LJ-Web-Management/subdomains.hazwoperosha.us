@@ -50,17 +50,17 @@ Anyone who fills, transfers, drains or maintains oil containers and equipment. T
 
 > The SPCC plan should name where spill kits are and what they're for. Training people on the kit they'll actually use is the fastest way to make the plan real.
 
-**OSHA Spill Prevention and Response Safety Training** 2 Hours · $49.99 per seat
+**OSHA Spill Prevention and Response Safety Training** 2 Hours · $29.99 per seat
 
 [Enroll](https://spill-response.hazwoperosha.us/guides/spcc-training-requirements?buy=416)
 
 ## Courses
 
-[OSHA Spill Prevention and Response Safety Training](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://spill-response.hazwoperosha.us/guides/spcc-training-requirements?buy=416)
+$29.99 [Enroll](https://spill-response.hazwoperosha.us/guides/spcc-training-requirements?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://spill-response.hazwoperosha.us/guides/spcc-training-requirements?buy=479)
 

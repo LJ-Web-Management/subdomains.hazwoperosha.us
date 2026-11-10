@@ -20,9 +20,9 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $89.99 per seat
-- [RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): 4 Hours, $59.99 per seat
-- [Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $34.99 per seat
+- [RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
+- [RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): 4 Hours, $124.99 per seat
+- [Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 - [Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): 2 Hours, $59.99 per seat
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): 4 Hours, $99.99 per seat
 - [RCRA Universal Waste Handler Training](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training): 2 Hours, $34.99 per seat

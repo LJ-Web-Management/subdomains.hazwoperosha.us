@@ -4,7 +4,7 @@ description: "Recognize a chemical release at the plant, get clear and call it i
 url: https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training
 ---
 
-[Courses](https://water-utilities.hazwoperosha.us/courses/) / Course #1099
+[Courses](https://water-utilities.hazwoperosha.us/courses/) / Course #654
 
 # OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
@@ -58,7 +58,7 @@ $61.99 per seat
 
 - **Length**: 4 Hours
 - **Standard**: 29 CFR 1910.120(q)(6)(i)
-- **Course**: #1099
+- **Course**: #654
 
 [Enroll now](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099)
 
@@ -66,25 +66,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA Air Monitoring and Gas Detection Training](https://water-utilities.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://water-utilities.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1056)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://water-utilities.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://water-utilities.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=593)
+$199.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=593)
 
-[Manufacturing Emergency Response Team (ERT) Training](https://water-utilities.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://water-utilities.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=702)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://water-utilities.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://water-utilities.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=574)
+$249.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=574)
 
-[OSHA Spill Prevention and Response Safety Training](https://water-utilities.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://water-utilities.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=416)
+$29.99 [Enroll](https://water-utilities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=416)
 
 ---
 

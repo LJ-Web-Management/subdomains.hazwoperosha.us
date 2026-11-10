@@ -4,7 +4,7 @@ description: "The annual 8-hour HAZWOPER refresher with state-plan versions avai
 url: https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available
 ---
 
-[Courses](https://state-plans.hazwoperosha.us/courses/) / Course #900
+[Courses](https://state-plans.hazwoperosha.us/courses/)
 
 # 8 Hour HAZWOPER Refresher - State-Plan Versions Available
 
@@ -60,7 +60,6 @@ $84.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: State-plan equivalents of federal OSHA standard (see parent course)
-- **Course**: #900
 
 [Enroll now](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900)
 
@@ -68,21 +67,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=595)
+$59.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=595)
 
-[Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://state-plans.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training) 40 Hours · Course #577 · 8 CCR 5192(e)
+[Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://state-plans.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training) 40 Hours · Course #351 · 8 CCR 5192(e)
 
-$219.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=577)
+$229.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=577)
 
-[Cal/OSHA 24-Hour HAZWOPER Training](https://state-plans.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #576 · 8 CCR 5192(e)
+[Cal/OSHA 24-Hour HAZWOPER Training](https://state-plans.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #496 · 8 CCR 5192(e)
 
-$169.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=576)
+$189.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=576)
 
-[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #578 · 8 CCR 5192(e)(8)
+[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #490 · 8 CCR 5192(e)(8)
 
-$89.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=578)
+$149.99 [Enroll](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=578)
 
 ---
 

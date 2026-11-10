@@ -33,7 +33,7 @@ A **satellite accumulation area (SAA)** lets generators collect hazardous waste 
 
 ## Courses
 
-[Hazardous Waste Satellite Accumulation Area Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://saa-labels.hazwoperosha.us/guides/saa-rules-plain-language?buy=415)
 

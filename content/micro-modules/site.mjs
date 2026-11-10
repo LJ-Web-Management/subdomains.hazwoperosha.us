@@ -209,7 +209,7 @@ If someone is injured or exposed, life comes first. Remove gross contamination f
 
 <section class="sec sec-pink"><div class="wrap">
 <h2 class="title">All <span class="hl">modules</span></h2>
-<div class="mgrid">${courses.map((c) => `<article class="mod"><div class="mod-top"><span class="time">${esc(minutes(c))}</span><span>#${c.id}</span></div><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="mod-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Start", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="mgrid">${courses.map((c) => `<article class="mod"><div class="mod-top"><span class="time">${esc(minutes(c))}</span><span>${c.lmsId ? `#${c.lmsId}` : ""}</span></div><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="mod-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Start", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

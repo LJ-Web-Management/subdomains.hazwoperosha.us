@@ -20,7 +20,7 @@ CLEANUPS & WASTE **NJDEP** Site remediation and hazardous waste
 
 ## Courses
 
-40 Hours · #590
+40 Hours
 
 ### 40 Hr Remediation
 
@@ -28,7 +28,7 @@ The 40-hour HAZWOPER for environmental remediation crews.
 
 **$249.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=590)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -36,15 +36,15 @@ The standard OSHA 40-hour initial HAZWOPER.
 
 **$249.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=587)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual 8-hour HAZWOPER refresher.
 
-**$89.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=595)
 
-8 Hours · #900
+8 Hours
 
 ### State-Plan Refresher
 
@@ -52,15 +52,15 @@ Refresher with state-plan versions, for public employees covered by PEOSH.
 
 **$84.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=900)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training.
 
-**$89.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=601)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 

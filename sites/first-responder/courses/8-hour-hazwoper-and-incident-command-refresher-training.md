@@ -1,10 +1,10 @@
 ---
 title: "8 Hour HAZWOPER and Incident Command Refresher Training"
-description: "The annual refresher for responders and incident commanders. An 8-hour online course, $159.99 per seat. Self-paced, with a certificate of completion."
+description: "The annual refresher for responders and incident commanders. An 8-hour online course, $249.99 per seat. Self-paced, with a certificate of completion."
 url: https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training
 ---
 
-[Courses](https://first-responder.hazwoperosha.us/courses/) / Course #574
+[Courses](https://first-responder.hazwoperosha.us/courses/) / Course #382
 
 # 8 Hour HAZWOPER and Incident Command Refresher Training
 
@@ -32,7 +32,7 @@ Responders at any level and incident commanders who need their yearly refresher.
 
 ### How much does 8 Hour HAZWOPER and Incident Command Refresher Training cost?
 
-$159.99 per seat. To train a crew, choose the number of seats at checkout.
+$249.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -54,11 +54,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [The five levels of HAZWOPER emergency responders](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders)
 
-$159.99 per seat
+$249.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(q)(8)
-- **Course**: #574
+- **Course**: #382
 
 [Enroll now](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574)
 
@@ -66,19 +66,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=593)
+$199.99 [Enroll](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=593)
 
-[Manufacturing Emergency Response Team (ERT) Training](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=702)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · Course #589 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=589)
 

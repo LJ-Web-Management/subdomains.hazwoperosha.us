@@ -14,7 +14,7 @@ Warehouses store, move and ship chemicals every day. Train the people on the flo
 
 ## Courses
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -22,7 +22,7 @@ Recognize a hazardous release, get clear and report it.
 
 **$61.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=1099)
 
-1 Hour · #479
+1 Hour
 
 ### Spill Kit Use
 
@@ -30,15 +30,15 @@ Using spill kits on small, incidental spills.
 
 **$24.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=479)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention
 
 Preventing spills in storage, handling and loading.
 
-**$49.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=416)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste
 
@@ -46,15 +46,15 @@ Batteries, lamps and aerosol cans from operations and returns.
 
 **$34.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=602)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training for damaged and returned chemical products.
 
-**$89.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=601)
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 

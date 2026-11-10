@@ -10,19 +10,19 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 You run a small business, not a waste program. Short courses and plain checklists to handle your hazardous waste right the first time.
 
-[Generator training · $89.99](https://small-business.hazwoperosha.us/?buy=601) [Am I a generator?](https://small-business.hazwoperosha.us/guides/is-my-business-a-hazardous-waste-generator)
+[Generator training · $134.99](https://small-business.hazwoperosha.us/?buy=601) [Am I a generator?](https://small-business.hazwoperosha.us/guides/is-my-business-a-hazardous-waste-generator)
 
 ## Courses
 
-8 Hours · #601
+8 Hours · #114
 
 ### Generator Training
 
 Everything a small business owner needs to know about hazardous waste rules.
 
-**$89.99** [Enroll](https://small-business.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://small-business.hazwoperosha.us/?buy=601)
 
-2 Hours · #415
+2 Hours · #901
 
 ### Satellite Areas
 
@@ -30,7 +30,7 @@ The waste container by the workbench, done right.
 
 **$59.99** [Enroll](https://small-business.hazwoperosha.us/?buy=415)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste
 
@@ -38,23 +38,23 @@ Batteries, bulbs, aerosol cans and mercury devices.
 
 **$34.99** [Enroll](https://small-business.hazwoperosha.us/?buy=602)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Manifest
 
 What you're signing when the waste truck comes.
 
-**$34.99** [Enroll](https://small-business.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://small-business.hazwoperosha.us/?buy=580)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention
 
 Preventing and handling small spills.
 
-**$49.99** [Enroll](https://small-business.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://small-business.hazwoperosha.us/?buy=416)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 

@@ -18,7 +18,7 @@ Shuffle and restart
 
 ## Courses
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 
@@ -26,7 +26,7 @@ Decon stations and doffing in 20 minutes.
 
 **$14.99** [Enroll](https://decon-drill.hazwoperosha.us/?buy=584)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -34,7 +34,7 @@ Decon and site control in depth.
 
 **$249.99** [Enroll](https://decon-drill.hazwoperosha.us/?buy=587)
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -42,7 +42,7 @@ What you're taking off, level by level.
 
 **$12.99** [Enroll](https://decon-drill.hazwoperosha.us/?buy=585)
 
-40 Hours · #589
+40 Hours
 
 ### 40 Hr Fire / Hazmat
 

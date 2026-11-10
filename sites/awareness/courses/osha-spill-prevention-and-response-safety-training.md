@@ -1,10 +1,10 @@
 ---
 title: "OSHA Spill Prevention and Response Safety Training"
-description: "Two hours on preventing spills in the first place. A 2-hour online course, $49.99 per seat. Self-paced, with a certificate of completion."
+description: "Two hours on preventing spills in the first place. A 2-hour online course, $29.99 per seat. Self-paced, with a certificate of completion."
 url: https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training
 ---
 
-[Courses](https://awareness.hazwoperosha.us/courses/) / Course #416
+[Courses](https://awareness.hazwoperosha.us/courses/) / Course #542
 
 # OSHA Spill Prevention and Response Safety Training
 
@@ -31,7 +31,7 @@ Warehouse, fleet and facility staff.
 
 ### How much does OSHA Spill Prevention and Response Safety Training cost?
 
-$49.99 per seat. To train a crew, choose the number of seats at checkout.
+$29.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -49,11 +49,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$49.99 per seat
+$29.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 40 CFR 112
-- **Course**: #416
+- **Course**: #542
 
 [Enroll now](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416)
 
@@ -61,15 +61,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://awareness.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://awareness.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1099)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://awareness.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://awareness.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=479)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://awareness.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://awareness.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=585)
 

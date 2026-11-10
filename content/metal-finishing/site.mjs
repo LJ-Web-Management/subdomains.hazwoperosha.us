@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Finish clean. <span>Ship compliant.</span>",
     lede: "Plating lines create acids, cyanides, metals and F006 sludge. Hazardous waste and response training for finishing shops.",
-    cta: [601, "Generator training · $89.99"],
+    cta: [601, "Generator training · $134.99"],
     alt: ["/guides/f006-sludge-electroplating", "About F006"],
   },
   coursesTagline: "Waste and response training for finishing shops.",

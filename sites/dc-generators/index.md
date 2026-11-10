@@ -52,15 +52,15 @@ Safe activation and reset procedures for data center Emergency Power Off systems
 
 **$99.99** [Enroll](https://dc-generators.hazwoperosha.us/?buy=853)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention & Response
 
 Fuel deliveries, day tanks and spill response.
 
-**$49.99** [Enroll](https://dc-generators.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://dc-generators.hazwoperosha.us/?buy=416)
 
-1 Hour · #479
+1 Hour
 
 ### Spill Kit Selection & Use
 

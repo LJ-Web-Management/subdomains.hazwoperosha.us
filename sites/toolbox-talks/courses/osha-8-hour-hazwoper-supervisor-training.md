@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Supervisor Training | Tailgate Talks"
-description: "Leading crews and briefings. An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "Leading crews and briefings. An 8-hour online course, $69.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training
 ---
 
-[Courses](https://toolbox-talks.hazwoperosha.us/courses/) / Course #597
+[Courses](https://toolbox-talks.hazwoperosha.us/courses/) / Course #133
 
 # OSHA 8 Hour HAZWOPER Supervisor Training
 
@@ -30,7 +30,7 @@ On-scene incident commanders/supervisors, remediation site leads
 
 ### How much does OSHA 8 Hour HAZWOPER Supervisor Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$69.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [Tailgate meetings people actually listen to](https://toolbox-talks.hazwoperosha.us/guides/tailgate-meetings-people-listen-to)
 - [Turning near misses into toolbox talks](https://toolbox-talks.hazwoperosha.us/guides/turning-near-misses-into-talks)
 
-$179.99 per seat
+$69.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(4)
-- **Course**: #597
+- **Course**: #133
 
 [Enroll now](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597)
 
@@ -65,15 +65,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=595)
+$59.99 [Enroll](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=595)
 
-[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #596 · 29 CFR 1910.120(e)(4)/(e)(8)
+[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #134 · 29 CFR 1910.120(e)(4)/(e)(8)
 
-$149.99 [Enroll](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=596)
+$69.99 [Enroll](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=596)
 
-[OSHA 40 Hour HAZWOPER Training](https://toolbox-talks.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://toolbox-talks.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=587)
 

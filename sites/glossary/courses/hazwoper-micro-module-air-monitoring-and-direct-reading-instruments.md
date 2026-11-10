@@ -4,7 +4,7 @@ description: "PIDs, LEL and action levels in 20 minutes. A 20-minute online cour
 url: https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments
 ---
 
-[Courses](https://glossary.hazwoperosha.us/courses/) / Course #583
+[Courses](https://glossary.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments
 
@@ -55,7 +55,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #583
 
 [Enroll now](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583)
 
@@ -63,19 +62,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=587)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=585)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=584)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://glossary.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://glossary.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=1099)
 

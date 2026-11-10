@@ -4,7 +4,7 @@ description: "Gas detection for excavations and below-grade work. A 2-hour onlin
 url: https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training
 ---
 
-[Courses](https://brownfields.hazwoperosha.us/courses/) / Course #1056
+[Courses](https://brownfields.hazwoperosha.us/courses/) / Course #664
 
 # OSHA Air Monitoring and Gas Detection Training
 
@@ -57,7 +57,7 @@ $49.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 1910.146 / 1910.1000
-- **Course**: #1056
+- **Course**: #664
 
 [Enroll now](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056)
 
@@ -65,23 +65,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=588)
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=590)
 
-[OSHA 24 Hour HAZWOPER Training](https://brownfields.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://brownfields.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=581)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=597)
+$69.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=597)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=586)
 

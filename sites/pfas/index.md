@@ -14,7 +14,7 @@ PFAS from firefighting foam and industrial sources are now a major cleanup focus
 
 ## Courses
 
-40 Hours · #590
+40 Hours
 
 ### 40-Hour Environmental Remediation
 
@@ -22,7 +22,7 @@ Full HAZWOPER for remediation crews.
 
 **$249.99** [Enroll](https://pfas.hazwoperosha.us/?buy=590)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -30,7 +30,7 @@ The general 40-hour course.
 
 **$249.99** [Enroll](https://pfas.hazwoperosha.us/?buy=587)
 
-20 Min · #586
+20 Min
 
 ### Site Characterization
 
@@ -38,7 +38,7 @@ Before you sample.
 
 **$14.99** [Enroll](https://pfas.hazwoperosha.us/?buy=586)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 
@@ -46,13 +46,13 @@ Decon at PFAS sites.
 
 **$14.99** [Enroll](https://pfas.hazwoperosha.us/?buy=584)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 Stay current each year.
 
-**$89.99** [Enroll](https://pfas.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://pfas.hazwoperosha.us/?buy=595)
 
 [All trainings (83) →](https://pfas.hazwoperosha.us/courses/#all)
 

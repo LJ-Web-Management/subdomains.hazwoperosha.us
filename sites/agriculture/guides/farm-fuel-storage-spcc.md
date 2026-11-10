@@ -33,15 +33,15 @@ Under the current rule, farms with more than **2,500 gallons** of total abovegro
 - Keep a spill kit at the fuel station
 - Inspect tanks and hoses regularly
 
-**OSHA Spill Prevention and Response Safety Training** 2 Hours · $49.99 per seat
+**OSHA Spill Prevention and Response Safety Training** 2 Hours · $29.99 per seat
 
 [Enroll](https://agriculture.hazwoperosha.us/guides/farm-fuel-storage-spcc?buy=416)
 
 ## Courses
 
-[OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://agriculture.hazwoperosha.us/guides/farm-fuel-storage-spcc?buy=416)
+$29.99 [Enroll](https://agriculture.hazwoperosha.us/guides/farm-fuel-storage-spcc?buy=416)
 
 ---
 

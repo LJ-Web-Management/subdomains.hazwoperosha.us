@@ -35,17 +35,17 @@ Yes. Taking it early just moves your next due date earlier.
 
 The refresher has no hands-on field component the way the initial 40-hour does. An online course that covers the required topics and lets you ask a qualified instructor questions is widely used for the annual refresher.
 
-**OSHA 8 Hour HAZWOPER Refresher Training** 8 Hours · $89.99 per seat
+**OSHA 8 Hour HAZWOPER Refresher Training** 8 Hours · $59.99 per seat
 
 [Enroll](https://refresher.hazwoperosha.us/guides/when-is-my-hazwoper-refresher-due?buy=595)
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://refresher.hazwoperosha.us/guides/when-is-my-hazwoper-refresher-due?buy=595)
+$59.99 [Enroll](https://refresher.hazwoperosha.us/guides/when-is-my-hazwoper-refresher-due?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://refresher.hazwoperosha.us/guides/when-is-my-hazwoper-refresher-due?buy=900)
 

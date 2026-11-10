@@ -28,13 +28,13 @@ The operators who run the wastewater treatment system also handle the sludge, fi
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://metal-finishing.hazwoperosha.us/guides/pretreatment-and-hazardous-waste?buy=601)
+$134.99 [Enroll](https://metal-finishing.hazwoperosha.us/guides/pretreatment-and-hazardous-waste?buy=601)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://metal-finishing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://metal-finishing.hazwoperosha.us/guides/pretreatment-and-hazardous-waste?buy=600)
+$124.99 [Enroll](https://metal-finishing.hazwoperosha.us/guides/pretreatment-and-hazardous-waste?buy=600)
 
 ---
 

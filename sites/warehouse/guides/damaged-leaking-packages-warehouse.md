@@ -42,11 +42,11 @@ Leaked and damaged chemical products that can't be sold may be hazardous waste. 
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://warehouse.hazwoperosha.us/guides/damaged-leaking-packages-warehouse?buy=1099)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://warehouse.hazwoperosha.us/guides/damaged-leaking-packages-warehouse?buy=479)
 

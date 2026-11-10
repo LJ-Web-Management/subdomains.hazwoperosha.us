@@ -4,7 +4,7 @@ description: "The 40-hour HAZWOPER for environmental remediation crews. A 40-hou
 url: https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation
 ---
 
-[Courses](https://new-jersey.hazwoperosha.us/courses/) / Course #590
+[Courses](https://new-jersey.hazwoperosha.us/courses/)
 
 # OSHA 40 Hour HAZWOPER for Environmental Remediation
 
@@ -59,7 +59,6 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #590
 
 [Enroll now](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=590)
 
@@ -67,23 +66,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=587)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=595)
+$59.99 [Enroll](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=900)
 
-[RCRA Hazardous Waste Generator Training](https://new-jersey.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://new-jersey.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=601)
+$134.99 [Enroll](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=601)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://new-jersey.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://new-jersey.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=1099)
 

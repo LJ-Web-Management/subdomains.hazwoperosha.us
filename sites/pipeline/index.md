@@ -14,7 +14,7 @@ When a pipeline or utility line fails, company responders are often there before
 
 ## Courses
 
-40 Hours · #592
+40 Hours
 
 ### 40-Hour Utility/Pipeline Emergency Response
 
@@ -22,23 +22,23 @@ Full HAZWOPER for pipeline and utility responders.
 
 **$249.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=592)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command (q)
 
 Command for HAZWOPER emergency response.
 
-**$179.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=593)
 
-8 Hours · #574
+8 Hours · #382
 
 ### Refresher with Incident Command
 
 The annual refresher with ICS.
 
-**$159.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=574)
 
-40 Hours · #591
+40 Hours
 
 ### 40-Hour Oil & Gas Spill Response
 
@@ -46,7 +46,7 @@ For liquids pipeline spill response.
 
 **$249.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=591)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 

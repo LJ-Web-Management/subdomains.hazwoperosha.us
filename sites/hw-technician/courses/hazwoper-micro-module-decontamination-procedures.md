@@ -4,7 +4,7 @@ description: "Decon in 20 minutes. A 20-minute online course, $14.99 per seat. S
 url: https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures
 ---
 
-[Courses](https://hw-technician.hazwoperosha.us/courses/) / Course #584
+[Courses](https://hw-technician.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Decontamination Procedures
 
@@ -55,7 +55,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #584
 
 [Enroll now](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584)
 
@@ -63,21 +62,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=599)
+$349.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=403)
 
-[Hazardous Waste Manifest Training](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=580)
+$58.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=580)
 
-[RCRA Hazardous Waste Generator Training](https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=601)
+$134.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=601)
 
 ---
 

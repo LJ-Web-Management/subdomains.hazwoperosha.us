@@ -37,9 +37,9 @@ Assign an owner for each program, keep a compliance calendar, and train the peop
 
 $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/guides/environmental-rules-that-apply?buy=833)
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-compliance.hazwoperosha.us/guides/environmental-rules-that-apply?buy=416)
+$29.99 [Enroll](https://dc-compliance.hazwoperosha.us/guides/environmental-rules-that-apply?buy=416)
 
 ---
 

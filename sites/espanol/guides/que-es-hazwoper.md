@@ -45,11 +45,11 @@ Un certificado con su nombre, el curso, las horas y la fecha. Guárdelo bien. Su
 
 ## Cursos
 
-[Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 horas · Curso #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+[Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 horas · Curso #123 · 29 CFR 1910.120(e)(3)(i) - Spanish language
 
 $249.99 [Inscribirse](https://espanol.hazwoperosha.us/guides/que-es-hazwoper?buy=1100)
 
-[Primer Respondedor, Nivel de Conciencia · 4 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 horas · Curso #1099 · 29 CFR 1910.120(q)(6)(i)
+[Primer Respondedor, Nivel de Conciencia · 4 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 horas · Curso #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Inscribirse](https://espanol.hazwoperosha.us/guides/que-es-hazwoper?buy=1099)
 

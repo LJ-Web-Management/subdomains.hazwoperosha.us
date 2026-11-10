@@ -32,7 +32,7 @@ Wind direction
 
 ## Courses
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 
@@ -40,7 +40,7 @@ The warm zone and decon line in 20 minutes.
 
 **$14.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=584)
 
-20 Min · #586
+20 Min
 
 ### Site Characterization
 
@@ -48,7 +48,7 @@ How sites are evaluated before zones are set.
 
 **$14.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=586)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -56,13 +56,13 @@ Site control in depth.
 
 **$249.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=587)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 Setting and enforcing zones.
 
-**$179.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=597)
 
 [All trainings (83) →](https://site-zones.hazwoperosha.us/courses/#all)
 

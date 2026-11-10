@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Supervisors on a hazardous waste site need eight more hours on top of their 40. That's where you learn to run the site safety plan, the decon line and the people. It's the difference between knowing the work and being responsible for it.
 
-[Enroll in the supervisor course · $179.99](https://supervisor.hazwoperosha.us/?buy=597) [Read the cover story →](https://supervisor.hazwoperosha.us/guides/hazwoper-supervisor-eight-hours)
+[Enroll in the supervisor course · $69.99](https://supervisor.hazwoperosha.us/?buy=597) [Read the cover story →](https://supervisor.hazwoperosha.us/guides/hazwoper-supervisor-eight-hours)
 
 ## In this issue
 
@@ -28,9 +28,9 @@ I
 
 The 8 additional hours of specialized training that HAZWOPER supervisors need under 1910.120(e)(4).
 
-8 Hours · Course #597
+8 Hours · Course #133
 
-**$179.99** [Enroll](https://supervisor.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://supervisor.hazwoperosha.us/?buy=597)
 
 II
 
@@ -38,9 +38,9 @@ II
 
 Incident command training for HAZWOPER emergency response under 29 CFR 1910.120(q).
 
-8 Hours · Course #593
+8 Hours · Course #259
 
-**$179.99** [Enroll](https://supervisor.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://supervisor.hazwoperosha.us/?buy=593)
 
 III
 
@@ -48,9 +48,9 @@ III
 
 The annual 8-hour refresher for HAZWOPER supervisors.
 
-8 Hours · Course #596
+8 Hours · Course #134
 
-**$149.99** [Enroll](https://supervisor.hazwoperosha.us/?buy=596)
+**$69.99** [Enroll](https://supervisor.hazwoperosha.us/?buy=596)
 
 IV
 
@@ -58,7 +58,7 @@ IV
 
 Become a qualified in-house HAZWOPER trainer for your organization.
 
-24 Hours · Course #1016
+24 Hours · Course #1147
 
 **$399.99** [Enroll](https://supervisor.hazwoperosha.us/?buy=1016)
 

@@ -33,17 +33,17 @@ Track each worker's due date and set reminders. Many employers line the whole cr
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/guides/employer-questions-about-hazwoper?buy=587)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/guides/employer-questions-about-hazwoper?buy=597)
+$69.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/guides/employer-questions-about-hazwoper?buy=597)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/guides/employer-questions-about-hazwoper?buy=595)
+$59.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/guides/employer-questions-about-hazwoper?buy=595)
 
 ---
 

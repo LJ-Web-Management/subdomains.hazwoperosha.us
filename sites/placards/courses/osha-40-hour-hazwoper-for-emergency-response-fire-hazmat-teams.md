@@ -4,7 +4,7 @@ description: "Full HAZWOPER for hazmat response teams. A 40-hour online course, 
 url: https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams
 ---
 
-[Courses](https://placards.hazwoperosha.us/courses/) / Course #589
+[Courses](https://placards.hazwoperosha.us/courses/)
 
 # OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams
 
@@ -52,7 +52,6 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #589
 
 [Enroll now](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=589)
 
@@ -60,15 +59,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=403)
 
-[Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=580)
+$58.99 [Enroll](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=580)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=1099)
 

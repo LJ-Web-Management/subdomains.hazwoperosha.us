@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Every hazardous waste site needs a site-specific safety and health plan. Check yours against what the standard requires, then print the checklist for your file.
 
-[Supervisor course · $179.99](https://safety-plan-checklist.hazwoperosha.us/?buy=597) [Open the checklist](https://safety-plan-checklist.hazwoperosha.us/#checklist)
+[Supervisor course · $69.99](https://safety-plan-checklist.hazwoperosha.us/?buy=597) [Open the checklist](https://safety-plan-checklist.hazwoperosha.us/#checklist)
 
 ## Site Safety & Health Plan Checklist
 
@@ -39,23 +39,23 @@ Your ticks are saved in this browser only.
 
 ## Courses
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 Running the site safety and health plan.
 
-**$179.99** [Enroll](https://safety-plan-checklist.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://safety-plan-checklist.hazwoperosha.us/?buy=597)
 
-8 Hours · #596
+8 Hours · #134
 
 ### Supervisor Refresher
 
 Annual refresher for plan owners.
 
-**$149.99** [Enroll](https://safety-plan-checklist.hazwoperosha.us/?buy=596)
+**$69.99** [Enroll](https://safety-plan-checklist.hazwoperosha.us/?buy=596)
 
-24 Hours · #1016
+24 Hours · #1147
 
 ### Train-the-Trainer
 
@@ -63,7 +63,7 @@ Teach the plan to your crews.
 
 **$399.99** [Enroll](https://safety-plan-checklist.hazwoperosha.us/?buy=1016)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 

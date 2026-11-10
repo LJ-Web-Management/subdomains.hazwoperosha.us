@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Supervisor Training | EHS Stack"
-description: "The 8-hour HAZWOPER supervisor course under 1910.120(e)(4). An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion."
+description: "The 8-hour HAZWOPER supervisor course under 1910.120(e)(4). An 8-hour online course, $69.99 per seat. Self-paced, with a certificate of completion."
 url: https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training
 ---
 
-[Courses](https://ehs-managers.hazwoperosha.us/courses/) / Course #597
+[Courses](https://ehs-managers.hazwoperosha.us/courses/) / Course #133
 
 # OSHA 8 Hour HAZWOPER Supervisor Training
 
@@ -32,7 +32,7 @@ Supervisors, site leads and EHS managers who direct site work.
 
 ### How much does OSHA 8 Hour HAZWOPER Supervisor Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$69.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -55,11 +55,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [The HAZWOPER program checklist for EHS managers](https://ehs-managers.hazwoperosha.us/guides/hazwoper-program-checklist)
 - [HAZWOPER medical surveillance: who, when and what](https://ehs-managers.hazwoperosha.us/guides/hazwoper-medical-surveillance)
 
-$179.99 per seat
+$69.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(4)
-- **Course**: #597
+- **Course**: #133
 
 [Enroll now](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597)
 
@@ -67,23 +67,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Train-the-Trainer Certification](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1016 · 29 CFR 1910.120(e)
+[HAZWOPER Train-the-Trainer Certification](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1147 · 29 CFR 1910.120(e)
 
 $399.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=1016)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=593)
+$199.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=593)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://ehs-managers.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://ehs-managers.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=412)
 
-[RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=601)
+$134.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=601)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=900)
 

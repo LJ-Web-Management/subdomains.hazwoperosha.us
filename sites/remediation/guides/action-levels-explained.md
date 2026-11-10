@@ -43,11 +43,11 @@ In excavations and enclosed areas, check oxygen and LEL before trusting a PID re
 
 ## Courses
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://remediation.hazwoperosha.us/guides/action-levels-explained?buy=583)
 
-[OSHA Air Monitoring and Gas Detection Training](https://remediation.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://remediation.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://remediation.hazwoperosha.us/guides/action-levels-explained?buy=1056)
 

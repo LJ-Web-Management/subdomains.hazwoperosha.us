@@ -31,13 +31,13 @@ See [RCRA Hazardous Waste Generator Training](https://manifest.hazwoperosha.us/c
 
 ## Courses
 
-[Hazardous Waste Manifest Training](https://manifest.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://manifest.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://manifest.hazwoperosha.us/guides/e-manifest-basics?buy=580)
+$58.99 [Enroll](https://manifest.hazwoperosha.us/guides/e-manifest-basics?buy=580)
 
-[RCRA Hazardous Waste Generator Training](https://manifest.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://manifest.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://manifest.hazwoperosha.us/guides/e-manifest-basics?buy=601)
+$134.99 [Enroll](https://manifest.hazwoperosha.us/guides/e-manifest-basics?buy=601)
 
 ---
 

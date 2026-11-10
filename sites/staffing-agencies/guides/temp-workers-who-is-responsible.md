@@ -35,11 +35,11 @@ Spell out who provides which training, PPE and medical surveillance in the contr
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://staffing-agencies.hazwoperosha.us/guides/temp-workers-who-is-responsible?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://staffing-agencies.hazwoperosha.us/guides/temp-workers-who-is-responsible?buy=581)
 

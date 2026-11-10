@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Add your crew, the date of each person's last HAZWOPER certificate and see at a glance who's current, due soon or overdue.
 
-[Renew a worker · $89.99](https://cert-tracker.hazwoperosha.us/?buy=595) [Open the tracker](https://cert-tracker.hazwoperosha.us/#tracker)
+[Renew a worker · $59.99](https://cert-tracker.hazwoperosha.us/?buy=595) [Open the tracker](https://cert-tracker.hazwoperosha.us/#tracker)
 
 Add
 
@@ -29,39 +29,39 @@ Saved in this browser only. Nothing is uploaded.
 
 ## Courses
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual refresher for site workers.
 
-**$89.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=595)
 
-8 Hours · #596
+8 Hours · #134
 
 ### Supervisor Refresher
 
 The annual refresher for supervisors.
 
-**$149.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=596)
+**$69.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=596)
 
-8 Hours · #574
+8 Hours · #382
 
 ### Responder Refresher
 
 The annual refresher for responders.
 
-**$159.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=574)
 
-8 Hours · #594
+8 Hours · #138
 
 ### TSD Refresher
 
 The annual refresher for TSD workers.
 
-**$99.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=594)
+**$89.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=594)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 

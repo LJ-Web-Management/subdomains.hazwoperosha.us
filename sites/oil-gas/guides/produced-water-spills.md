@@ -35,21 +35,21 @@ Saltwater-impacted soil usually needs excavation or treatment. Sample to define 
 
 Booms help with any oil sheen on top, but they won't contain the brine itself. For water, the answer is earthen containment and fast recovery.
 
-**OSHA Spill Prevention and Response Safety Training** 2 Hours · $49.99 per seat
+**OSHA Spill Prevention and Response Safety Training** 2 Hours · $29.99 per seat
 
 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=416)
 
 ## Courses
 
-[OSHA Spill Prevention and Response Safety Training](https://oil-gas.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://oil-gas.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=416)
+$29.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=416)
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://oil-gas.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Absorbent & Containment Booms](https://oil-gas.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=478)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=591)
 

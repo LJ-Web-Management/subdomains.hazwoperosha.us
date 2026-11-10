@@ -38,7 +38,7 @@ Used absorbents take on the hazards of what they absorbed. Bag, label and manage
 
 ## Courses
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/guides/spill-kit-inspection-checklist?buy=479)
 

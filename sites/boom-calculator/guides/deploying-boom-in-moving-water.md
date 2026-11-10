@@ -35,11 +35,11 @@ The faster the current, the sharper the angle. A common rule of thumb keeps the 
 
 ## Courses
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Absorbent & Containment Booms](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://boom-calculator.hazwoperosha.us/guides/deploying-boom-in-moving-water?buy=478)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://boom-calculator.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://boom-calculator.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://boom-calculator.hazwoperosha.us/guides/deploying-boom-in-moving-water?buy=591)
 

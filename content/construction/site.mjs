@@ -183,7 +183,7 @@ Your company still owns its own workers' safety under OSHA's multi-employer cita
 <p class="tag">SCHEDULE OF COURSES</p>
 <div class="schedule">
 <div class="srow shead"><span>ID</span><span>COURSE</span><span>LENGTH</span><span>PRICE</span><span></span></div>
-${courses.map((c) => `<div class="srow"><span>#${c.id}</span><a href="${c.url}">${esc(c.name)}</a><span>${esc(c.duration)}</span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div>`).join("")}
+${courses.map((c) => `<div class="srow"><span>${c.lmsId ? `#${c.lmsId}` : ""}</span><a href="${c.url}">${esc(c.name)}</a><span>${esc(c.duration)}</span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div>`).join("")}
 </div></div></section>
 
 <section class="sec"><div class="wrap">

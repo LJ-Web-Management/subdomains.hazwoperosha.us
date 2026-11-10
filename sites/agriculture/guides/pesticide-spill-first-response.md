@@ -36,17 +36,17 @@ Many states require reporting pesticide spills above certain amounts to the stat
 
 Keep a spill kit where pesticides are stored and mixed, with absorbent, a shovel, bags, PPE and the emergency numbers. See [Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use).
 
-**OSHA Spill Prevention and Response Safety Training** 2 Hours · $49.99 per seat
+**OSHA Spill Prevention and Response Safety Training** 2 Hours · $29.99 per seat
 
 [Enroll](https://agriculture.hazwoperosha.us/guides/pesticide-spill-first-response?buy=416)
 
 ## Courses
 
-[OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://agriculture.hazwoperosha.us/guides/pesticide-spill-first-response?buy=416)
+$29.99 [Enroll](https://agriculture.hazwoperosha.us/guides/pesticide-spill-first-response?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://agriculture.hazwoperosha.us/guides/pesticide-spill-first-response?buy=479)
 

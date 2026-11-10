@@ -36,11 +36,11 @@ ESAs sample a small fraction of a site. Unknown tanks, drums and buried debris t
 
 ## Courses
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://brownfields.hazwoperosha.us/guides/phase-i-and-phase-ii-esas?buy=586)
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://brownfields.hazwoperosha.us/guides/phase-i-and-phase-ii-esas?buy=590)
 

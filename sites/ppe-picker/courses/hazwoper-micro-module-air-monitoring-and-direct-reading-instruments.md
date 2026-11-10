@@ -4,7 +4,7 @@ description: "The readings that drive PPE decisions. A 20-minute online course, 
 url: https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments
 ---
 
-[Courses](https://ppe-picker.hazwoperosha.us/courses/) / Course #583
+[Courses](https://ppe-picker.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments
 
@@ -56,7 +56,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #583
 
 [Enroll now](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583)
 
@@ -64,17 +63,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=585)
 
-[OSHA 40 Hour HAZWOPER Training](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=587)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=597)
+$69.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=597)
 
 ---
 

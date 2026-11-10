@@ -51,7 +51,7 @@ If someone is injured or exposed, life comes first. Remove gross contamination f
 
 ## Courses
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/guides/decon-line-station-by-station?buy=584)
 

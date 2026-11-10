@@ -37,17 +37,17 @@ Responders need annual refresher training, or a documented demonstration of comp
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://fire-departments.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://fire-departments.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments?buy=1099)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://fire-departments.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · Course #589 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://fire-departments.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments?buy=589)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments?buy=593)
+$199.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments?buy=593)
 
 ---
 

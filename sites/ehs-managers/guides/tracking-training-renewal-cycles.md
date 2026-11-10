@@ -39,13 +39,13 @@ If you operate in state-plan states, check whether the state has its own HAZWOPE
 
 ## Courses
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/tracking-training-renewal-cycles?buy=900)
 
-[RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/tracking-training-renewal-cycles?buy=601)
+$134.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/tracking-training-renewal-cycles?buy=601)
 
 ---
 

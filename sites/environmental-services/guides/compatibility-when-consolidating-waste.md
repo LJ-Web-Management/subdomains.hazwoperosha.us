@@ -40,15 +40,15 @@ Consolidating, or bulking, combines compatible wastes into larger containers to 
 
 Label the receiving container with the combined contents, update the profile if needed, and record what was consolidated, when and by whom.
 
-**OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training** 24 Hours · $199.99 per seat
+**OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training** 24 Hours · $349.99 per seat
 
 [Enroll](https://environmental-services.hazwoperosha.us/guides/compatibility-when-consolidating-waste?buy=599)
 
 ## Courses
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/compatibility-when-consolidating-waste?buy=599)
+$349.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/compatibility-when-consolidating-waste?buy=599)
 
 ---
 

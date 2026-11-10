@@ -36,7 +36,7 @@ Micro-modules supplement the required 40/24-hour HAZWOPER and annual 8-hour refr
 
 ## All modules
 
-15 min #585
+15 min
 
 ### PPE Levels A–D
 
@@ -44,7 +44,7 @@ The four EPA/OSHA levels of protection explained in 15 minutes.
 
 **$12.99** [Start](https://micro-modules.hazwoperosha.us/?buy=585)
 
-20 min #584
+20 min
 
 ### Decontamination
 
@@ -52,7 +52,7 @@ How the decon line works, station by station, in 20 minutes.
 
 **$14.99** [Start](https://micro-modules.hazwoperosha.us/?buy=584)
 
-20 min #583
+20 min
 
 ### Air Monitoring
 
@@ -60,7 +60,7 @@ Direct-reading instruments and what their readings mean, in 20 minutes.
 
 **$14.99** [Start](https://micro-modules.hazwoperosha.us/?buy=583)
 
-20 min #586
+20 min
 
 ### Site Characterization
 
@@ -68,7 +68,7 @@ How a hazardous waste site is evaluated before and during work, in 20 minutes.
 
 **$14.99** [Start](https://micro-modules.hazwoperosha.us/?buy=586)
 
-1 hr #478
+1 hr
 
 ### Booms (1 hr)
 
@@ -76,7 +76,7 @@ One-hour equipment course on absorbent and containment booms.
 
 **$24.99** [Start](https://micro-modules.hazwoperosha.us/?buy=478)
 
-1 hr #479
+1 hr
 
 ### Spill Kits (1 hr)
 

@@ -23,7 +23,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [HAZWOPER Micro-Module: Decontamination Procedures](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
 - [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment): 20 Min, $14.99 per seat
 - [OSHA 40 Hour HAZWOPER Training](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $179.99 per seat
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $69.99 per seat
 
 The [full catalog of 83 trainings](https://site-zones.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://site-zones.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 

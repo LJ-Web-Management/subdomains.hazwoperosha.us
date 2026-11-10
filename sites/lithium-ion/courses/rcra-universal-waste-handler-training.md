@@ -4,7 +4,7 @@ description: "Managing spent and damaged batteries. A 2-hour online course, $34.
 url: https://lithium-ion.hazwoperosha.us/courses/rcra-universal-waste-handler-training
 ---
 
-[Courses](https://lithium-ion.hazwoperosha.us/courses/) / Course #602
+[Courses](https://lithium-ion.hazwoperosha.us/courses/) / Course #921
 
 # RCRA Universal Waste Handler Training
 
@@ -53,7 +53,7 @@ $34.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 273 (RCRA)
-- **Course**: #602
+- **Course**: #921
 
 [Enroll now](https://lithium-ion.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602)
 

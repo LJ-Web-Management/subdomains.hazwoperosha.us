@@ -4,7 +4,7 @@ description: "The 40-hour HAZWOPER for utility and pipeline crews who respond to
 url: https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response
 ---
 
-[Courses](https://utility.hazwoperosha.us/courses/) / Course #592
+[Courses](https://utility.hazwoperosha.us/courses/)
 
 # OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response
 
@@ -60,7 +60,6 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #592
 
 [Enroll now](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=592)
 
@@ -68,25 +67,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA Air Monitoring and Gas Detection Training](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=1056)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=593)
+$199.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=593)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=1099)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=595)
+$59.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=595)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://utility.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://utility.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=574)
+$249.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=574)
 
 ---
 

@@ -34,9 +34,9 @@ See [OSHA Spill Prevention and Response Safety Training](https://dc-compliance.h
 
 ## Courses
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-compliance.hazwoperosha.us/guides/spcc-for-data-centers?buy=416)
+$29.99 [Enroll](https://dc-compliance.hazwoperosha.us/guides/spcc-for-data-centers?buy=416)
 
 [Facility Environmental Compliance](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance) 4 Hours · Course #833 ·
 

@@ -55,7 +55,7 @@ EN
 
 El repaso anual obligatorio de 8 horas para mantener vigente su certificado HAZWOPER. El curso se imparte en inglés.
 
-**$89.99** [Inscribirse](https://espanol.hazwoperosha.us/?buy=595)
+**$59.99** [Inscribirse](https://espanol.hazwoperosha.us/?buy=595)
 
 ## Guías útiles
 

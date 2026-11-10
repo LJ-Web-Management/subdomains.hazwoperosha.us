@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Supervisor Training | Brownfield Build"
-description: "The 8-hour supervisor course for site leads. An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion."
+description: "The 8-hour supervisor course for site leads. An 8-hour online course, $69.99 per seat. Self-paced, with a certificate of completion."
 url: https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training
 ---
 
-[Courses](https://brownfields.hazwoperosha.us/courses/) / Course #597
+[Courses](https://brownfields.hazwoperosha.us/courses/) / Course #133
 
 # OSHA 8 Hour HAZWOPER Supervisor Training
 
@@ -31,7 +31,7 @@ Foremen and superintendents.
 
 ### How much does OSHA 8 Hour HAZWOPER Supervisor Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$69.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Vapor intrusion and new buildings on brownfields](https://brownfields.hazwoperosha.us/guides/vapor-intrusion-and-new-buildings)
 
-$179.99 per seat
+$69.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(4)
-- **Course**: #597
+- **Course**: #133
 
 [Enroll now](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597)
 
@@ -65,23 +65,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=588)
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=590)
 
-[OSHA 24 Hour HAZWOPER Training](https://brownfields.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://brownfields.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=581)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=586)
 
-[OSHA Air Monitoring and Gas Detection Training](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=1056)
 

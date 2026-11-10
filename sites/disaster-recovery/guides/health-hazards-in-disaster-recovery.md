@@ -38,13 +38,13 @@ Ash from burned buildings can contain metals, asbestos and other hazards. Wet me
 
 ## Courses
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://disaster-recovery.hazwoperosha.us/guides/health-hazards-in-disaster-recovery?buy=584)
 
-[OSHA Spill Prevention and Response Safety Training](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://disaster-recovery.hazwoperosha.us/guides/health-hazards-in-disaster-recovery?buy=416)
+$29.99 [Enroll](https://disaster-recovery.hazwoperosha.us/guides/health-hazards-in-disaster-recovery?buy=416)
 
 ---
 

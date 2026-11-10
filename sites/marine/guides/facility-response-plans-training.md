@@ -34,13 +34,13 @@ Marine transportation-related facilities are regulated by the Coast Guard. Certa
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://marine.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://marine.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://marine.hazwoperosha.us/guides/facility-response-plans-training?buy=591)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://marine.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://marine.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://marine.hazwoperosha.us/guides/facility-response-plans-training?buy=593)
+$199.99 [Enroll](https://marine.hazwoperosha.us/guides/facility-response-plans-training?buy=593)
 
 ---
 

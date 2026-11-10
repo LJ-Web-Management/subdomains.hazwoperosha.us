@@ -23,8 +23,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training): 24 Hours, $249.99 per seat
 - [Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training): 8 Hours, $109.99 per seat
 - [Cal/OSHA RCRA Hazardous Waste Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training): 4 Hours, $49.99 per seat
-- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training): 40 Hours, $219.99 per seat
-- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
+- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training): 40 Hours, $229.99 per seat
+- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training): 8 Hours, $149.99 per seat
 
 The [full catalog of 83 trainings](https://cal-tsdf.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://cal-tsdf.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 

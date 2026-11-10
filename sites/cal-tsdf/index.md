@@ -14,7 +14,7 @@ California runs its own HAZWOPER rule (Title 8, §5192) and its own hazardous wa
 
 ## Courses
 
-24 Hours · #575
+24 Hours
 
 ### Cal/OSHA 24-Hr TSDF RCRA
 
@@ -22,7 +22,7 @@ Initial training for California TSDF workers.
 
 **$249.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=575)
 
-8 Hours · #579
+8 Hours
 
 ### Cal/OSHA 8-Hr TSDF Refresher
 
@@ -30,7 +30,7 @@ The annual refresher for California TSDF workers.
 
 **$109.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=579)
 
-4 Hours · #1051
+4 Hours
 
 ### Cal/OSHA RCRA Hazardous Waste
 
@@ -38,21 +38,21 @@ Hazardous waste rules for California workers.
 
 **$49.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=1051)
 
-40 Hours · #577
+40 Hours · #351
 
 ### Cal/OSHA 40-Hour HAZWOPER
 
 The 40-hour course for California sites.
 
-**$219.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=577)
+**$229.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=577)
 
-8 Hours · #578
+8 Hours · #490
 
 ### Cal/OSHA 8-Hour Refresher
 
 The annual Cal/OSHA HAZWOPER refresher.
 
-**$89.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=578)
+**$149.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=578)
 
 [All trainings (83) →](https://cal-tsdf.hazwoperosha.us/courses/#all)
 

@@ -22,7 +22,7 @@ I know this ✓
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -30,7 +30,7 @@ Everything in this deck, in depth.
 
 **$249.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -38,15 +38,15 @@ For occasional and low-exposure workers.
 
 **$169.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=581)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 Keep it all fresh every year.
 
-**$89.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=595)
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -54,7 +54,7 @@ Master the PPE cards.
 
 **$12.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=585)
 
-20 Min · #583
+20 Min
 
 ### Air Monitoring
 

@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Your generator category sets how long you can store waste, how much paperwork you need and how much training your people need. Enter your monthly amounts to find yours.
 
-[RCRA Generator · $89.99](https://generator-status.hazwoperosha.us/?buy=601) [Find my category](https://generator-status.hazwoperosha.us/#calc)
+[RCRA Generator · $134.99](https://generator-status.hazwoperosha.us/?buy=601) [Find my category](https://generator-status.hazwoperosha.us/#calc)
 
 ## Monthly amounts
 
@@ -24,23 +24,23 @@ Federal rules. Many states are stricter or count differently. Your category can 
 
 ## Courses
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator Training
 
 The full generator course: determinations, accumulation, manifests and training.
 
-**$89.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=601)
 
-4 Hours · #600
+4 Hours · #181
 
 ### RCRA Generator Refresher
 
 The annual refresher for LQG personnel and anyone who needs an update.
 
-**$59.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=600)
+**$124.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=600)
 
-2 Hours · #415
+2 Hours · #901
 
 ### Satellite Accumulation Areas
 
@@ -48,7 +48,7 @@ Rules for waste collected at the point of generation.
 
 **$59.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=415)
 
-4 Hours · #412
+4 Hours · #899
 
 ### Contingency Plan & Emergency Coordinator
 
@@ -56,13 +56,13 @@ Contingency plans and the emergency coordinator role for LQGs.
 
 **$99.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=412)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Hazardous Waste Manifest
 
 Filling out and tracking the manifest for every shipment.
 
-**$34.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=580)
 
 [All trainings (83) →](https://generator-status.hazwoperosha.us/courses/#all)
 

@@ -190,7 +190,7 @@ Remote drum handling (grapplers, drum openers) and non-sparking tools are standa
 
 <section class="sec sec-paper"><div class="wrap">
 <h2 class="title">Courses</h2>
-<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

@@ -50,7 +50,7 @@ Large quantity generators need documented, job-specific training for everyone wh
 
 ## Courses
 
-[Cal/OSHA RCRA Hazardous Waste Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training) 4 Hours · Course #1051 · 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192
+[Cal/OSHA RCRA Hazardous Waste Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training) 4 Hours · 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192
 
 $49.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/california-hazardous-waste-dtsc-cupa?buy=1051)
 

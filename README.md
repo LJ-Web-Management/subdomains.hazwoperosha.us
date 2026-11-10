@@ -94,7 +94,7 @@ and the base styles the course sites use. `_shared` can't be a subdomain, so it 
 A hundred and ten sites sell hazwoper-osha.com courses, each with its own niche, design, guides and course pages. Every site's
 `/courses/` page lists its own featured courses first, then all trainings in the catalog, grouped by category, each with an Enroll button:
 
-| Site | Niche | LMS course ids |
+| Site | Niche | Course keys (`id` in the catalog, not LMS ids) |
 |---|---|---|
 | [forty-hour](https://forty-hour.hazwoperosha.us) | OSHA 40-hour and industry tracks | 587, 588, 590, 591, 592, 589 |
 | [refresher](https://refresher.hazwoperosha.us) | Annual 8-hour refreshers | 595, 900, 596, 574, 598 |
@@ -210,7 +210,7 @@ A hundred and ten sites sell hazwoper-osha.com courses, each with its own niche,
 They're generated. Edit the sources, then rebuild and commit the output:
 
 ```
-content/catalog.json        every HAZWOPER course: LMS course id, name, list price, length, citation, category
+content/catalog.json        every HAZWOPER course: catalog key (id), LMS course id (lmsId), name, LMS price, length, citation, category
 content/dc-catalog.json     data center courses from the datacentertraining.us repo (js/config.js), same fields plus `dc`
 content/<site>/site.mjs     the site's copy, course list, guides, header/footer and home page
 content/<site>/style.css    the site's design (inlined into every page)
@@ -230,11 +230,32 @@ To add a course site, copy a folder in `content/`, change it and run the build. 
 `shell()` and `home()`, or leave them out and set `hero` to use the default header, footer and home
 page in `tools/lib.mjs` (most sites from `texas` onward do this). Its `style.css` gives it its look. Course prices and
 names come from `content/catalog.json`, which was taken from the hazwoperosha.us repo
-(`data/source.json` and `data/lms-ids.json`). Update both places when a price changes.
+(`data/source.json` and `data/lms-ids.json`).
 
-Two data center courses are left out of `dc-catalog.json` because their LMS ids are already used by
-HAZWOPER courses: Facility Management Fundamentals (1099) and Generator Fundamentals (1100). Add them
-back once their real ids are confirmed.
+### Course keys and LMS ids
+
+Each course has two numbers:
+
+- `id` is the catalog key. Pages, `site.mjs` course lists, `[[id]]` links, `h.buy(id)` and `?buy=<id>` use it.
+  For HAZWOPER courses it is the row number in the ICTrainingUS master spreadsheet. **It is not an LMS id.**
+- `lmsId` is the hazwoper-osha.com LMS course id: the `course_id` of the course's page on hazwoper-osha.com
+  (`var cat = {... "course_id": ...}`) and the `data-id` of its add-to-cart button. Checkout sends this to
+  `add_order`, and pages show it as "Course #". For data center courses it equals `id`.
+
+The HAZWOPER catalog originally used the spreadsheet row numbers as LMS ids, so orders enrolled buyers in
+whatever LMS course had that number (for example, row 595, the 8-Hour Refresher, is LMS course 595, Digger
+Derrick Operator Certification). On 2026-11-10 every course was checked against hazwoper-osha.com and given
+its real `lmsId`, and `price` was set to the LMS price, since the LMS sets the amount charged.
+
+Courses with `"lmsId": null` had no match on hazwoper-osha.com (no page under their slug or name, and not in
+the /online-courses catalog). Their Enroll buttons open an enrollment request (phone or email) instead of the
+card form, so no order can reach the wrong course. To sell one by card, find its course page on
+hazwoper-osha.com, set `lmsId` and `price` from it, and run `npm run build`.
+
+Two data center courses are still missing from `dc-catalog.json`: Facility Management Fundamentals (LMS 1099)
+and Generator Fundamentals (LMS 1100). They were left out because the HAZWOPER keys 1099 and 1100 were taken
+for LMS ids, but those keys are spreadsheet rows, so the LMS ids are probably right. To add them, give each
+an unused key as `id` and the real number as `lmsId`.
 
 ### Imported training sites
 
@@ -247,10 +268,11 @@ to run again after a fresh copy. It doesn't touch `js/config.js` or `js/checkout
 
 ### Checkout
 
-Any element with `data-buy="<LMS course id>"` opens the checkout dialog
+Any element with `data-buy="<course key>"` opens the checkout dialog
 (`sites/_shared/checkout.js`), and `?buy=<id>` opens it on page load. It works like the
 hazwoperosha.us checkout: Stripe.js turns the card into a PaymentMethod, then the dialog calls the
-hazwoper-osha.com `add_new_user` and `add_order` APIs with the course id and seat count. Orders are
+hazwoper-osha.com `add_new_user` and `add_order` APIs with the course's `lmsId` and seat count (a course
+with no `lmsId` shows an enrollment request instead). Orders are
 tagged with the hostname of the site the sale came from, `order_from: <site>.hazwoperosha.us`, for
 example `rcra.hazwoperosha.us`.
 

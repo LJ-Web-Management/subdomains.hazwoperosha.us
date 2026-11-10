@@ -16,15 +16,15 @@ SCHEDULE OF COURSES
 
 ID COURSE LENGTH PRICE
 
-#588 [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours **$249.99** [Enroll](https://construction.hazwoperosha.us/?buy=588)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours **$249.99** [Enroll](https://construction.hazwoperosha.us/?buy=588)
 
-#581 [OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours **$169.99** [Enroll](https://construction.hazwoperosha.us/?buy=581)
+#137 [OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours **$169.99** [Enroll](https://construction.hazwoperosha.us/?buy=581)
 
-#597 [OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours **$179.99** [Enroll](https://construction.hazwoperosha.us/?buy=597)
+#133 [OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours **$69.99** [Enroll](https://construction.hazwoperosha.us/?buy=597)
 
-#595 [OSHA 8 Hour HAZWOPER Refresher Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours **$89.99** [Enroll](https://construction.hazwoperosha.us/?buy=595)
+#112 [OSHA 8 Hour HAZWOPER Refresher Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours **$59.99** [Enroll](https://construction.hazwoperosha.us/?buy=595)
 
-#585 [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min **$12.99** [Enroll](https://construction.hazwoperosha.us/?buy=585)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min **$12.99** [Enroll](https://construction.hazwoperosha.us/?buy=585)
 
 GENERAL NOTES
 

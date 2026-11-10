@@ -23,7 +23,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://awareness.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 - [Spill Response Equipment - Spill Kit Selection & Use](https://awareness.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
 - [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://awareness.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): 15 Min, $12.99 per seat
-- [OSHA Spill Prevention and Response Safety Training](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 
 The [full catalog of 83 trainings](https://awareness.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://awareness.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 

@@ -39,17 +39,17 @@ A lab pack is many small containers of chemical waste packed into a larger outer
 - Pack an unknown without identifying it
 - Open a container to check what's in it unless that's your trained task and procedure
 
-**OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training** 24 Hours · $199.99 per seat
+**OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training** 24 Hours · $349.99 per seat
 
 [Enroll](https://environmental-services.hazwoperosha.us/guides/lab-packing-safely?buy=599)
 
 ## Courses
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/lab-packing-safely?buy=599)
+$349.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/lab-packing-safely?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/lab-packing-safely?buy=403)
 

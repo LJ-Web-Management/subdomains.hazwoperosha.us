@@ -4,7 +4,7 @@ description: "A 20-minute module on direct-reading instruments and action levels
 url: https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments
 ---
 
-[Courses](https://remediation.hazwoperosha.us/courses/) / Course #583
+[Courses](https://remediation.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments
 
@@ -57,7 +57,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #583
 
 [Enroll now](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583)
 
@@ -65,25 +64,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=590)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=586)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=584)
 
-[OSHA Air Monitoring and Gas Detection Training](https://remediation.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://remediation.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=1056)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=595)
+$59.99 [Enroll](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=595)
 
 ---
 

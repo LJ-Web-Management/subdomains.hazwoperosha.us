@@ -68,7 +68,7 @@ $99.99 [Enroll](https://lithium-ion.hazwoperosha.us/courses/data-center-ups-batt
 
 $99.99 [Enroll](https://lithium-ion.hazwoperosha.us/courses/data-center-ups-battery-safety?buy=1084)
 
-[RCRA Universal Waste Handler Training](https://lithium-ion.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://lithium-ion.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://lithium-ion.hazwoperosha.us/courses/data-center-ups-battery-safety?buy=602)
 

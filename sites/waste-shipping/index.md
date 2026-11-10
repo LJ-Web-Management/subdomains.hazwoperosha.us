@@ -16,7 +16,7 @@ Manifests, DOT hazmat shipping and RCRA, for the people who package, mark and si
 
 ## Courses
 
-PKG 1 OF 5 #403
+PKG 1 OF 5
 
 ### RCRA/DOT Combined
 
@@ -26,7 +26,7 @@ One course covering RCRA generator rules and DOT hazmat employee training for wa
 
 **$149.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=403)
 
-PKG 2 OF 5 #580
+PKG 2 OF 5 #374
 
 ### Manifest
 
@@ -34,9 +34,9 @@ The Uniform Hazardous Waste Manifest and e-Manifest, box by box.
 
 2 Hours
 
-**$34.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=580)
 
-PKG 3 OF 5 #601
+PKG 3 OF 5 #114
 
 ### Generator Training
 
@@ -44,9 +44,9 @@ RCRA generator training: from waste determination to shipment.
 
 8 Hours
 
-**$89.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=601)
 
-PKG 4 OF 5 #600
+PKG 4 OF 5 #181
 
 ### Generator Refresher
 
@@ -54,9 +54,9 @@ Annual RCRA refresher.
 
 4 Hours
 
-**$59.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=600)
+**$124.99** [Enroll](https://waste-shipping.hazwoperosha.us/?buy=600)
 
-PKG 5 OF 5 #602
+PKG 5 OF 5 #921
 
 ### Universal Waste
 

@@ -23,11 +23,11 @@ Supervisors ([OSHA 8 Hour HAZWOPER Supervisor Training](https://heat-stress.hazw
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://heat-stress.hazwoperosha.us/guides/site-heat-plan?buy=597)
+$69.99 [Enroll](https://heat-stress.hazwoperosha.us/guides/site-heat-plan?buy=597)
 
-[OSHA 40 Hour HAZWOPER Training](https://heat-stress.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://heat-stress.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://heat-stress.hazwoperosha.us/guides/site-heat-plan?buy=587)
 

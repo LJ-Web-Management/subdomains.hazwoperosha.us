@@ -34,11 +34,11 @@ The 24-hour TSDF course is not the same as the 24-hour HAZWOPER for occasional s
 
 ## Courses
 
-[Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training) 24 Hours · Course #575 · 8 CCR 5192(p) / RCRA
+[Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training) 24 Hours · 8 CCR 5192(p) / RCRA
 
 $249.99 [Enroll](https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements?buy=575)
 
-[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · Course #579 · 8 CCR 5192(p)(8) / RCRA
+[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · 8 CCR 5192(p)(8) / RCRA
 
 $109.99 [Enroll](https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements?buy=579)
 

@@ -185,7 +185,7 @@ Hold a short debrief right after, while it's fresh, and a written critique withi
 
 <section class="sec"><div class="wrap">
 <h2 class="title">Courses</h2>
-<div class="signs">${courses.map((c) => `<article class="sign"><div class="hd" style="background:${c.sign[1]};color:${c.sign[2]}">${c.sign[0]}</div><div class="body"><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><p class="meta">${esc(c.duration)} · Course #${c.id}</p><div class="sfoot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></div></article>`).join("")}</div>
+<div class="signs">${courses.map((c) => `<article class="sign"><div class="hd" style="background:${c.sign[1]};color:${c.sign[2]}">${c.sign[0]}</div><div class="body"><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><p class="meta">${esc(c.duration)}${c.lmsId ? ` · Course #${c.lmsId}` : ""}</p><div class="sfoot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec sec-dark"><div class="wrap">

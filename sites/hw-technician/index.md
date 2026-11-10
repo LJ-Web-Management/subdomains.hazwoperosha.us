@@ -10,19 +10,19 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Hazardous waste technicians identify, package, label and ship the waste that everyone else wants gone. Training that covers both the safety and the compliance sides of the job.
 
-[HAZWOPER & RCRA Technician · $199.99](https://hw-technician.hazwoperosha.us/?buy=599) [Lab pack basics](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics)
+[HAZWOPER & RCRA Technician · $349.99](https://hw-technician.hazwoperosha.us/?buy=599) [Lab pack basics](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics)
 
 ## Courses
 
-24 Hours · #599
+24 Hours · #346
 
 ### HAZWOPER & RCRA Technician
 
 Safety and compliance for hazardous waste technicians.
 
-**$199.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=599)
+**$349.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=599)
 
-8 Hours · #403
+8 Hours
 
 ### RCRA/DOT Combined
 
@@ -30,23 +30,23 @@ Shipping hazardous waste legally.
 
 **$149.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=403)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Hazardous Waste Manifest
 
 Getting the manifest right.
 
-**$34.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=580)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator Training
 
 The generator rules your customers follow.
 
-**$89.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=601)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 

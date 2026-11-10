@@ -22,7 +22,7 @@ MUC = APF × exposure limit. Air-purifying respirators may not be used at or abo
 
 ## Courses
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -30,7 +30,7 @@ Respiratory protection across the four PPE levels.
 
 **$12.99** [Enroll](https://respirator-muc.hazwoperosha.us/?buy=585)
 
-20 Min · #583
+20 Min
 
 ### Air Monitoring
 
@@ -38,7 +38,7 @@ Measuring what's in the air.
 
 **$14.99** [Enroll](https://respirator-muc.hazwoperosha.us/?buy=583)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Air Monitoring & Gas Detection
 
@@ -46,7 +46,7 @@ Two hours on gas detection.
 
 **$49.99** [Enroll](https://respirator-muc.hazwoperosha.us/?buy=1056)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 

@@ -52,7 +52,7 @@ Check kits monthly, or after any use. Seals broken, items missing or gloves crac
 
 ## Courses
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://spill-response.hazwoperosha.us/guides/choosing-a-spill-kit?buy=479)
 

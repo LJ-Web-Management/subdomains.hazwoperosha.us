@@ -4,7 +4,7 @@ description: "Batteries, lamps and pesticides as universal waste. A 2-hour onlin
 url: https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training
 ---
 
-[Courses](https://agriculture.hazwoperosha.us/courses/) / Course #602
+[Courses](https://agriculture.hazwoperosha.us/courses/) / Course #921
 
 # RCRA Universal Waste Handler Training
 
@@ -52,7 +52,7 @@ $34.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 273 (RCRA)
-- **Course**: #602
+- **Course**: #921
 
 [Enroll now](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602)
 
@@ -60,23 +60,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=1099)
 
-[OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
+$29.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
 
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$109.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=598)
+$89.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=598)
 
-[OSHA Air Monitoring and Gas Detection Training](https://agriculture.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://agriculture.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=1056)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=479)
 

@@ -25,7 +25,7 @@ export default {
   hero: {
     title: "Is your site safety plan <span>complete?</span>",
     lede: "Every hazardous waste site needs a site-specific safety and health plan. Check yours against what the standard requires, then print the checklist for your file.",
-    cta: [597, "Supervisor course · $179.99"],
+    cta: [597, "Supervisor course · $69.99"],
     alt: ["#checklist", "Open the checklist"],
   },
   coursesTagline: "Courses for the people who write and run site safety plans.",

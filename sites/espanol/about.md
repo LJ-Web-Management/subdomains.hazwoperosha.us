@@ -22,7 +22,7 @@ Los cursos son 100% en línea y a su propio ritmo, y cada uno incluye un certifi
 
 - [Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish): 40 horas, $249.99 por asiento
 - [Primer Respondedor, Nivel de Conciencia · 4 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 horas, $61.99 por asiento
-- [Repaso Anual OSHA HAZWOPER de 8 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 horas, $89.99 por asiento
+- [Repaso Anual OSHA HAZWOPER de 8 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 horas, $59.99 por asiento
 
 También puede pedir aquí cualquiera de las [83 capacitaciones del catálogo](https://espanol.hazwoperosha.us/courses/#all), y las [guías](https://espanol.hazwoperosha.us/guides/) explican las normas en palabras sencillas.
 

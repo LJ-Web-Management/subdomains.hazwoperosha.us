@@ -44,13 +44,13 @@ Smaller systems are generally outside PSM and RMP, but the EPA Clean Air Act gen
 
 ## Courses
 
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$109.99 [Enroll](https://ammonia.hazwoperosha.us/guides/psm-rmp-hazwoper-ammonia?buy=598)
+$89.99 [Enroll](https://ammonia.hazwoperosha.us/guides/psm-rmp-hazwoper-ammonia?buy=598)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://ammonia.hazwoperosha.us/guides/psm-rmp-hazwoper-ammonia?buy=593)
+$199.99 [Enroll](https://ammonia.hazwoperosha.us/guides/psm-rmp-hazwoper-ammonia?buy=593)
 
 ---
 

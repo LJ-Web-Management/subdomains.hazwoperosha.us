@@ -35,17 +35,17 @@ Warehouses store everything from pool chemicals to paint to cleaning products, o
 
 Fire codes set limits on how much of each hazard class can be stored in an area. Your fire marshal and insurer will check.
 
-**OSHA Spill Prevention and Response Safety Training** 2 Hours · $49.99 per seat
+**OSHA Spill Prevention and Response Safety Training** 2 Hours · $29.99 per seat
 
 [Enroll](https://warehouse.hazwoperosha.us/guides/chemical-storage-segregation-warehouse?buy=416)
 
 ## Courses
 
-[OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://warehouse.hazwoperosha.us/guides/chemical-storage-segregation-warehouse?buy=416)
+$29.99 [Enroll](https://warehouse.hazwoperosha.us/guides/chemical-storage-segregation-warehouse?buy=416)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://warehouse.hazwoperosha.us/guides/chemical-storage-segregation-warehouse?buy=1099)
 

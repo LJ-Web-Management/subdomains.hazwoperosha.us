@@ -1,10 +1,10 @@
 ---
 title: "Hazardous Waste Manifest Training | Haul Safe"
-description: "The hazardous waste manifest from the transporter's side. A 2-hour online course, $34.99 per seat. Self-paced, with a certificate of completion."
+description: "The hazardous waste manifest from the transporter's side. A 2-hour online course, $58.99 per seat. Self-paced, with a certificate of completion."
 url: https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training
 ---
 
-[Courses](https://trucking.hazwoperosha.us/courses/) / Course #580
+[Courses](https://trucking.hazwoperosha.us/courses/) / Course #374
 
 # Hazardous Waste Manifest Training
 
@@ -31,7 +31,7 @@ Hazardous waste haulers.
 
 ### How much does Hazardous Waste Manifest Training cost?
 
-$34.99 per seat. To train a crew, choose the number of seats at checkout.
+$58.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Hauling hazardous waste: the transporter's rules](https://trucking.hazwoperosha.us/guides/hauling-hazardous-waste-transporter-rules)
 
-$34.99 per seat
+$58.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262 Subpart B (RCRA)
-- **Course**: #580
+- **Course**: #374
 
 [Enroll now](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580)
 
@@ -65,19 +65,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=403)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=1099)
 
-[OSHA Spill Prevention and Response Safety Training](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=416)
+$29.99 [Enroll](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=479)
 

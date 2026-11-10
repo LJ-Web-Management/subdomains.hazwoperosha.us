@@ -51,7 +51,7 @@ Descargue su certificado y guarde una copia en su teléfono y otra impresa. Recu
 
 ## Cursos
 
-[Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 horas · Curso #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+[Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 horas · Curso #123 · 29 CFR 1910.120(e)(3)(i) - Spanish language
 
 $249.99 [Inscribirse](https://espanol.hazwoperosha.us/guides/como-terminar-el-curso-de-40-horas?buy=1100)
 

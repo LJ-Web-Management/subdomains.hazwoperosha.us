@@ -4,7 +4,7 @@ description: "The 40-hour HAZWOPER for terminal and dock spill response. A 40-ho
 url: https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response
 ---
 
-[Courses](https://gulf-coast.hazwoperosha.us/courses/) / Course #591
+[Courses](https://gulf-coast.hazwoperosha.us/courses/)
 
 # OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response
 
@@ -53,7 +53,6 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #591
 
 [Enroll now](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591)
 
@@ -61,25 +60,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=587)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=593)
+$199.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=593)
 
-[OSHA Air Monitoring and Gas Detection Training](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=1056)
 
-[Manufacturing Emergency Response Team (ERT) Training](https://gulf-coast.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://gulf-coast.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=702)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=595)
+$59.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=595)
 
 ---
 

@@ -20,8 +20,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $179.99 per seat
-- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): 8 Hours, $149.99 per seat
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $69.99 per seat
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): 8 Hours, $69.99 per seat
 - [HAZWOPER Train-the-Trainer Certification](https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): 24 Hours, $399.99 per seat
 - [OSHA 40 Hour HAZWOPER Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
 

@@ -18,7 +18,7 @@ AFTER **Housing, parks and jobs.**
 
 ## Courses
 
-40 Hours · #588
+40 Hours
 
 ### 40 Hr Construction
 
@@ -26,7 +26,7 @@ The 40-hour HAZWOPER for construction on contaminated sites.
 
 **$249.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=588)
 
-40 Hours · #590
+40 Hours
 
 ### 40 Hr Remediation
 
@@ -34,7 +34,7 @@ The 40-hour HAZWOPER for remediation contractors.
 
 **$249.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=590)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -42,15 +42,15 @@ The 24-hour HAZWOPER for limited-exposure staff.
 
 **$169.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=581)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 The 8-hour supervisor course for site leads.
 
-**$179.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=597)
 
-20 Min · #586
+20 Min
 
 ### Site Characterization
 
@@ -58,7 +58,7 @@ A 20-minute module on how sites are characterized.
 
 **$14.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=586)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 

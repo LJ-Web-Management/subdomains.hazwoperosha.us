@@ -41,7 +41,7 @@ The 24-hour also requires **one day** of actual field experience under a trained
 
 ## Courses
 
-[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://24-hour.hazwoperosha.us/guides/do-you-qualify-for-24-hour-hazwoper?buy=581)
 

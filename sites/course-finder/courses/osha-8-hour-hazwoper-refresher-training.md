@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Refresher Training | Course Finder"
-description: "The annual refresher for everyone already certified. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "The annual refresher for everyone already certified. An 8-hour online course, $59.99 per seat. Self-paced, with a certificate of completion."
 url: https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training
 ---
 
-[Courses](https://course-finder.hazwoperosha.us/courses/) / Course #595
+[Courses](https://course-finder.hazwoperosha.us/courses/) / Course #112
 
 # OSHA 8 Hour HAZWOPER Refresher Training
 
@@ -30,7 +30,7 @@ Certified workers.
 
 ### How much does OSHA 8 Hour HAZWOPER Refresher Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$59.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -48,11 +48,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$89.99 per seat
+$59.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(8)
-- **Course**: #595
+- **Course**: #112
 
 [Enroll now](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595)
 
@@ -60,25 +60,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://course-finder.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://course-finder.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=581)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://course-finder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://course-finder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=1099)
 
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=582)
 
-[RCRA Hazardous Waste Generator Training](https://course-finder.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://course-finder.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=601)
+$134.99 [Enroll](https://course-finder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=601)
 
 ---
 

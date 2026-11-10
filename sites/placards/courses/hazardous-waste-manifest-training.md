@@ -1,10 +1,10 @@
 ---
 title: "Hazardous Waste Manifest Training | Placard ID"
-description: "The shipping paper for hazardous waste. A 2-hour online course, $34.99 per seat. Self-paced, with a certificate of completion."
+description: "The shipping paper for hazardous waste. A 2-hour online course, $58.99 per seat. Self-paced, with a certificate of completion."
 url: https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training
 ---
 
-[Courses](https://placards.hazwoperosha.us/courses/) / Course #580
+[Courses](https://placards.hazwoperosha.us/courses/) / Course #374
 
 # Hazardous Waste Manifest Training
 
@@ -30,7 +30,7 @@ Waste generators, transporters, TSD facility staff
 
 ### How much does Hazardous Waste Manifest Training cost?
 
-$34.99 per seat. To train a crew, choose the number of seats at checkout.
+$58.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -52,11 +52,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [When is a placard required?](https://placards.hazwoperosha.us/guides/when-is-a-placard-required)
 
-$34.99 per seat
+$58.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262 Subpart B (RCRA)
-- **Course**: #580
+- **Course**: #374
 
 [Enroll now](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580)
 
@@ -64,15 +64,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=403)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=1099)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · Course #589 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=589)
 

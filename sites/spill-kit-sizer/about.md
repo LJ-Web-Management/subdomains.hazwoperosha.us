@@ -21,7 +21,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
-- [OSHA Spill Prevention and Response Safety Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 - [Spill Response Equipment - Absorbent & Containment Booms](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): 1 Hour, $24.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 

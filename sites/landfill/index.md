@@ -14,7 +14,7 @@ Landfill staff are the last line of defense against hazardous waste in the trash
 
 ## Courses
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -22,7 +22,7 @@ Recognize hazardous materials in incoming loads and know what to do.
 
 **$61.99** [Enroll](https://landfill.hazwoperosha.us/?buy=1099)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -30,7 +30,7 @@ Detecting methane, H2S and low oxygen around landfill gas systems.
 
 **$49.99** [Enroll](https://landfill.hazwoperosha.us/?buy=1056)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -38,7 +38,7 @@ The 24-hour HAZWOPER for staff who handle hazardous waste found in loads occasio
 
 **$169.99** [Enroll](https://landfill.hazwoperosha.us/?buy=581)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -46,15 +46,15 @@ The 40-hour HAZWOPER for cleanup work at closed or Superfund landfills.
 
 **$249.99** [Enroll](https://landfill.hazwoperosha.us/?buy=587)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Response
 
 Fuel and leachate spill prevention and response.
 
-**$49.99** [Enroll](https://landfill.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://landfill.hazwoperosha.us/?buy=416)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 

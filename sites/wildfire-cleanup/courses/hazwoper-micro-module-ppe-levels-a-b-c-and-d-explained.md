@@ -4,7 +4,7 @@ description: "Choosing PPE for ash and debris. A 15-minute online course, $12.99
 url: https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained
 ---
 
-[Courses](https://wildfire-cleanup.hazwoperosha.us/courses/) / Course #585
+[Courses](https://wildfire-cleanup.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained
 
@@ -55,7 +55,6 @@ $12.99 per seat
 
 - **Length**: 15 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #585
 
 [Enroll now](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585)
 
@@ -63,19 +62,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=581)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=1099)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=584)
 

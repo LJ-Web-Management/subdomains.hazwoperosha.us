@@ -4,7 +4,7 @@ description: "For occasional and limited-exposure placements. A 24-hour online c
 url: https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training
 ---
 
-[Courses](https://staffing-agencies.hazwoperosha.us/courses/) / Course #581
+[Courses](https://staffing-agencies.hazwoperosha.us/courses/) / Course #137
 
 # OSHA 24 Hour HAZWOPER Training
 
@@ -56,7 +56,7 @@ $169.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120(e)
-- **Course**: #581
+- **Course**: #137
 
 [Enroll now](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581)
 
@@ -64,19 +64,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=587)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=595)
+$59.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=595)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://staffing-agencies.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://staffing-agencies.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=1099)
 
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=582)
 

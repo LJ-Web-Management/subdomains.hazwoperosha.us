@@ -1,10 +1,10 @@
 ---
 title: "Hazardous Waste Manifest Training | Small Biz Waste"
-description: "What you're signing when the waste truck comes. A 2-hour online course, $34.99 per seat. Self-paced, with a certificate of completion."
+description: "What you're signing when the waste truck comes. A 2-hour online course, $58.99 per seat. Self-paced, with a certificate of completion."
 url: https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training
 ---
 
-[Courses](https://small-business.hazwoperosha.us/courses/) / Course #580
+[Courses](https://small-business.hazwoperosha.us/courses/) / Course #374
 
 # Hazardous Waste Manifest Training
 
@@ -30,7 +30,7 @@ Whoever signs for waste pickups.
 
 ### How much does Hazardous Waste Manifest Training cost?
 
-$34.99 per seat. To train a crew, choose the number of seats at checkout.
+$58.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -52,11 +52,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Choosing a hazardous waste vendor](https://small-business.hazwoperosha.us/guides/choosing-a-hazardous-waste-vendor)
 
-$34.99 per seat
+$58.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262 Subpart B (RCRA)
-- **Course**: #580
+- **Course**: #374
 
 [Enroll now](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580)
 
@@ -64,23 +64,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://small-business.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://small-business.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)
+$134.99 [Enroll](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=415)
 
-[RCRA Universal Waste Handler Training](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=602)
 
-[OSHA Spill Prevention and Response Safety Training](https://small-business.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://small-business.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=416)
+$29.99 [Enroll](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=416)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://small-business.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://small-business.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=1099)
 

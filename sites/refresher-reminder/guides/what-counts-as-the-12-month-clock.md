@@ -28,17 +28,17 @@ Enter your last certificate date above and get your due date plus a calendar rem
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/what-counts-as-the-12-month-clock?buy=595)
+$59.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/what-counts-as-the-12-month-clock?buy=595)
 
-[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #596 · 29 CFR 1910.120(e)(4)/(e)(8)
+[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #134 · 29 CFR 1910.120(e)(4)/(e)(8)
 
-$149.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/what-counts-as-the-12-month-clock?buy=596)
+$69.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/what-counts-as-the-12-month-clock?buy=596)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/what-counts-as-the-12-month-clock?buy=574)
+$249.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/what-counts-as-the-12-month-clock?buy=574)
 
 ---
 

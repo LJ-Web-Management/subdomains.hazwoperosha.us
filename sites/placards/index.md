@@ -42,7 +42,7 @@ Liquids with a flash point of 60 °C (140 °F) or below. Examples: gasoline, ace
 
 ## Courses
 
-8 Hours · #403
+8 Hours
 
 ### RCRA/DOT Combined Compliance
 
@@ -50,15 +50,15 @@ Hazmat shipping and hazardous waste rules together.
 
 **$149.99** [Enroll](https://placards.hazwoperosha.us/?buy=403)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Hazardous Waste Manifest
 
 The shipping paper for hazardous waste.
 
-**$34.99** [Enroll](https://placards.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://placards.hazwoperosha.us/?buy=580)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### First Responder Awareness
 
@@ -66,7 +66,7 @@ Recognize, isolate, notify: using placards and the ERG.
 
 **$61.99** [Enroll](https://placards.hazwoperosha.us/?buy=1099)
 
-40 Hours · #589
+40 Hours
 
 ### 40-Hour Fire/Hazmat Teams
 

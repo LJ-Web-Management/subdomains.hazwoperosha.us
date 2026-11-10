@@ -4,7 +4,7 @@ description: "Hydrogen, refrigerant and oxygen monitoring. A 2-hour online cours
 url: https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training
 ---
 
-[Courses](https://data-centers.hazwoperosha.us/courses/) / Course #1056
+[Courses](https://data-centers.hazwoperosha.us/courses/) / Course #664
 
 # OSHA Air Monitoring and Gas Detection Training
 
@@ -58,7 +58,7 @@ $49.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 1910.146 / 1910.1000
-- **Course**: #1056
+- **Course**: #664
 
 [Enroll now](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056)
 
@@ -66,25 +66,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA Spill Prevention and Response Safety Training](https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=416)
+$29.99 [Enroll](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=479)
 
-[RCRA Universal Waste Handler Training](https://data-centers.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://data-centers.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=602)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1099)
 
-[RCRA Hazardous Waste Generator Training](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=601)
+$134.99 [Enroll](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=601)
 
 ---
 

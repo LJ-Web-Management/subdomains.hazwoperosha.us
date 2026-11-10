@@ -41,7 +41,7 @@ Never enter to rescue a collapsed coworker without SCBA. Would-be rescuers are a
 
 ## Courses
 
-[OSHA Air Monitoring and Gas Detection Training](https://water-utilities.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://water-utilities.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://water-utilities.hazwoperosha.us/guides/h2s-in-wastewater-collection?buy=1056)
 

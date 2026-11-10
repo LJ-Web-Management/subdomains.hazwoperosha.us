@@ -32,13 +32,13 @@ Spent coolant, filters and some cleaning chemicals can be hazardous waste. See [
 
 ## Courses
 
-[OSHA Air Monitoring and Gas Detection Training](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://data-centers.hazwoperosha.us/guides/other-chemicals-in-the-data-center?buy=1056)
 
-[RCRA Hazardous Waste Generator Training](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://data-centers.hazwoperosha.us/guides/other-chemicals-in-the-data-center?buy=601)
+$134.99 [Enroll](https://data-centers.hazwoperosha.us/guides/other-chemicals-in-the-data-center?buy=601)
 
 ---
 

@@ -4,7 +4,7 @@ description: "Hazmat shipping and hazardous waste rules together. An 8-hour onli
 url: https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training
 ---
 
-[Courses](https://placards.hazwoperosha.us/courses/) / Course #403
+[Courses](https://placards.hazwoperosha.us/courses/)
 
 # EPA RCRA/DOT Combined Hazardous Materials Compliance Training
 
@@ -58,7 +58,6 @@ $149.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: RCRA + 49 CFR 172
-- **Course**: #403
 
 [Enroll now](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=403)
 
@@ -66,15 +65,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=580)
+$58.99 [Enroll](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=580)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=1099)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · Course #589 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=589)
 

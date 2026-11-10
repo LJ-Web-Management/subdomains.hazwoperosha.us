@@ -25,7 +25,7 @@ export default {
   hero: {
     title: "Five minutes <span>before the gate.</span>",
     lede: "Short, printable toolbox talks for the morning tailgate on HAZWOPER sites. Pick one, print it, talk it through, and get signatures.",
-    cta: [595, "8-Hour Refresher · $89.99"],
+    cta: [595, "8-Hour Refresher · $59.99"],
     alt: ["#talks", "Pick a talk"],
   },
   coursesTagline: "Refresher and supervisor training.",

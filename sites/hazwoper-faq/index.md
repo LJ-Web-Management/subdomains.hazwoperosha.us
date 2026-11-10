@@ -122,7 +122,7 @@ No. Incidental releases that people in the area can safely control aren't emerge
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -130,7 +130,7 @@ The most-asked-about course.
 
 **$249.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -138,15 +138,15 @@ For occasional and low-exposure workers.
 
 **$169.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=581)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual refresher.
 
-**$89.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=595)
 
-40 Hours · #1100
+40 Hours · #123
 
 ### 40-Hour (Spanish)
 
@@ -154,13 +154,13 @@ The 40-hour in Spanish.
 
 **$249.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=1100)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 The 8-hour supervisor course.
 
-**$179.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=597)
 
 [All trainings (83) →](https://hazwoper-faq.hazwoperosha.us/courses/#all)
 

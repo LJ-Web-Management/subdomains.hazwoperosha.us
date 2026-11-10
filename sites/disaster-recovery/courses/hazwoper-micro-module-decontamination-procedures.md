@@ -4,7 +4,7 @@ description: "A 20-minute module on decon procedures. A 20-minute online course,
 url: https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures
 ---
 
-[Courses](https://disaster-recovery.hazwoperosha.us/courses/) / Course #584
+[Courses](https://disaster-recovery.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Decontamination Procedures
 
@@ -56,7 +56,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #584
 
 [Enroll now](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584)
 
@@ -64,23 +63,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=581)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://disaster-recovery.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://disaster-recovery.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=1099)
 
-[OSHA Spill Prevention and Response Safety Training](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=416)
+$29.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=416)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=585)
 

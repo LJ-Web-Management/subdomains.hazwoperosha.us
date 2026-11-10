@@ -41,7 +41,7 @@ If you go over the limit, mark the container with the date the excess began. You
 
 ## Courses
 
-[Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://rcra.hazwoperosha.us/guides/satellite-accumulation-area-rules?buy=415)
 

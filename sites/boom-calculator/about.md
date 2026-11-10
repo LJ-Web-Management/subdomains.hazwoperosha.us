@@ -22,7 +22,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 - [Spill Response Equipment - Absorbent & Containment Booms](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): 1 Hour, $24.99 per seat
 - [Spill Response Equipment - Spill Kit Selection & Use](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
-- [OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 - [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://boom-calculator.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): 40 Hours, $249.99 per seat
 
 The [full catalog of 83 trainings](https://boom-calculator.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://boom-calculator.hazwoperosha.us/guides/) explain the rules behind them in plain language.

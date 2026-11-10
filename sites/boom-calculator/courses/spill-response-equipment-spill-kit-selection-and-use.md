@@ -4,7 +4,7 @@ description: "The right kit for the spill. A 1-hour online course, $24.99 per se
 url: https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use
 ---
 
-[Courses](https://boom-calculator.hazwoperosha.us/courses/) / Course #479
+[Courses](https://boom-calculator.hazwoperosha.us/courses/)
 
 # Spill Response Equipment - Spill Kit Selection & Use
 
@@ -52,7 +52,6 @@ $24.99 per seat
 
 - **Length**: 1 Hour
 - **Standard**: 40 CFR 112 / 29 CFR 1910.120
-- **Course**: #479
 
 [Enroll now](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479)
 
@@ -60,15 +59,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Absorbent & Containment Booms](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=478)
 
-[OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=416)
+$29.99 [Enroll](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=416)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://boom-calculator.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://boom-calculator.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=591)
 

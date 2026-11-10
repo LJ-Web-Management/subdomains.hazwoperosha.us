@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Refresher Training"
-description: "Keep it all fresh every year. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "Keep it all fresh every year. An 8-hour online course, $59.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training
 ---
 
-[Courses](https://flashcards.hazwoperosha.us/courses/) / Course #595
+[Courses](https://flashcards.hazwoperosha.us/courses/) / Course #112
 
 # OSHA 8 Hour HAZWOPER Refresher Training
 
@@ -28,7 +28,7 @@ Certified workers.
 
 ### How much does OSHA 8 Hour HAZWOPER Refresher Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$59.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -50,11 +50,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [After the course: staying sharp between refreshers](https://flashcards.hazwoperosha.us/guides/after-the-course-staying-sharp)
 
-$89.99 per seat
+$59.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(8)
-- **Course**: #595
+- **Course**: #112
 
 [Enroll now](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595)
 
@@ -62,19 +62,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=581)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=585)
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=583)
 

@@ -14,7 +14,7 @@ Old plants and contaminated buildings hide chemicals, residues and impacted soil
 
 ## Courses
 
-40 Hours · #588
+40 Hours
 
 ### 40 Hr Construction
 
@@ -22,7 +22,7 @@ The 40-hour HAZWOPER for construction and demolition on contaminated sites.
 
 **$249.99** [Enroll](https://demolition.hazwoperosha.us/?buy=588)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -30,15 +30,15 @@ The 24-hour HAZWOPER for limited-exposure crew members.
 
 **$169.99** [Enroll](https://demolition.hazwoperosha.us/?buy=581)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 The 8-hour supervisor course for demo foremen and superintendents.
 
-**$179.99** [Enroll](https://demolition.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://demolition.hazwoperosha.us/?buy=597)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -46,7 +46,7 @@ Monitoring pits, sumps, tanks and basements before and during demolition.
 
 **$49.99** [Enroll](https://demolition.hazwoperosha.us/?buy=1056)
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -54,7 +54,7 @@ A 15-minute module on PPE levels.
 
 **$12.99** [Enroll](https://demolition.hazwoperosha.us/?buy=585)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 

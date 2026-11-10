@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Uptime starts with <span>safe facilities.</span>",
     lede: "UPS batteries, diesel generators and cooling chemicals bring real hazmat risks into the data center. Training for critical facilities teams.",
-    cta: [416, "Spill prevention · $49.99"],
+    cta: [416, "Spill prevention · $29.99"],
     alt: ["/guides/data-center-battery-room-hazards", "Battery room hazards"],
   },
   heroArt: `<div class="rack" aria-hidden="true"></div>`,

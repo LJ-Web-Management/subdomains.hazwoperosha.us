@@ -20,7 +20,7 @@ A starting point only. Size kits to your largest likely spill, check product com
 
 ## Courses
 
-1 Hour · #479
+1 Hour
 
 ### Spill Kit Selection & Use
 
@@ -28,15 +28,15 @@ Choosing, placing and using spill kits.
 
 **$24.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=479)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention & Response
 
 Preventing spills and responding safely.
 
-**$49.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=416)
 
-1 Hour · #478
+1 Hour
 
 ### Booms
 
@@ -44,7 +44,7 @@ Using booms near drains and water.
 
 **$24.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=478)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 

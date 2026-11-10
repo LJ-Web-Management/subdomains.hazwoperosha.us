@@ -28,7 +28,7 @@ The annual 8-hour HAZWOPER refresher with state-plan versions available.
 
 The standard federal OSHA 8-hour refresher.
 
-**$89.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=595)
 
 40 Hours · No. 577
 
@@ -36,7 +36,7 @@ The standard federal OSHA 8-hour refresher.
 
 The 40-hour initial HAZWOPER written to California's 8 CCR 5192.
 
-**$219.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=577)
+**$229.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=577)
 
 24 Hours · No. 576
 
@@ -44,7 +44,7 @@ The 40-hour initial HAZWOPER written to California's 8 CCR 5192.
 
 The 24-hour HAZWOPER for California workers with limited exposure.
 
-**$169.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=576)
+**$189.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=576)
 
 8 Hours · No. 578
 
@@ -52,7 +52,7 @@ The 24-hour HAZWOPER for California workers with limited exposure.
 
 The annual refresher written to Cal/OSHA Title 8.
 
-**$89.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=578)
+**$149.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=578)
 
 ## States with their own HAZWOPER rule
 

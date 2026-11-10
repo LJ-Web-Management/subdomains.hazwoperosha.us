@@ -188,7 +188,7 @@ Many waste vendors prepare LDR notices for you, but **the generator is responsib
 
 <section class="sec"><div class="wrap">
 <h2 class="title">Courses</h2>
-<div class="cgrid">${courses.map((c, i) => `<article class="cc"><div class="cc-top"><span>PKG ${i + 1} OF ${courses.length}</span><span>#${c.id}</span></div><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><p class="meta">${esc(c.duration)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c, i) => `<article class="cc"><div class="cc-top"><span>PKG ${i + 1} OF ${courses.length}</span><span>${c.lmsId ? `#${c.lmsId}` : ""}</span></div><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><p class="meta">${esc(c.duration)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec sec-dark"><div class="wrap">

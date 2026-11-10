@@ -40,7 +40,7 @@ Stop and ask. Every good site wants you to.
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/guides/first-day-on-a-hazwoper-site?buy=587)
 

@@ -4,7 +4,7 @@ description: "A 20-minute decon module. A 20-minute online course, $14.99 per se
 url: https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures
 ---
 
-[Courses](https://demolition.hazwoperosha.us/courses/) / Course #584
+[Courses](https://demolition.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Decontamination Procedures
 
@@ -56,7 +56,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #584
 
 [Enroll now](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584)
 
@@ -64,23 +63,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://demolition.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://demolition.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=588)
 
-[OSHA 24 Hour HAZWOPER Training](https://demolition.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://demolition.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=581)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://demolition.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://demolition.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=597)
+$69.99 [Enroll](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=597)
 
-[OSHA Air Monitoring and Gas Detection Training](https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=1056)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=585)
 

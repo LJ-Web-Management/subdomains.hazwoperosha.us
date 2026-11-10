@@ -34,13 +34,13 @@ Federal OSHA doesn't cover state and local government workers, but state plans d
 
 ## Courses
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher?buy=900)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher?buy=595)
+$59.99 [Enroll](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher?buy=595)
 
 ---
 

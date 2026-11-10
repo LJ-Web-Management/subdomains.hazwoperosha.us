@@ -1,10 +1,10 @@
 ---
 title: "Hazardous Waste Manifest Training | HAZWOPER History"
-description: "Cradle to grave, on paper and now electronic. A 2-hour online course, $34.99 per seat. Self-paced, with a certificate of completion."
+description: "Cradle to grave, on paper and now electronic. A 2-hour online course, $58.99 per seat. Self-paced, with a certificate of completion."
 url: https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training
 ---
 
-[Courses](https://hazwoper-history.hazwoperosha.us/courses/) / Course #580
+[Courses](https://hazwoper-history.hazwoperosha.us/courses/) / Course #374
 
 # Hazardous Waste Manifest Training
 
@@ -29,7 +29,7 @@ Shippers.
 
 ### How much does Hazardous Waste Manifest Training cost?
 
-$34.99 per seat. To train a crew, choose the number of seats at checkout.
+$58.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -47,11 +47,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$34.99 per seat
+$58.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262 Subpart B (RCRA)
-- **Course**: #580
+- **Course**: #374
 
 [Enroll now](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580)
 
@@ -59,17 +59,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=587)
 
-[RCRA Hazardous Waste Generator Training](https://hazwoper-history.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://hazwoper-history.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)
+$134.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=593)
+$199.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=593)
 
 ---
 

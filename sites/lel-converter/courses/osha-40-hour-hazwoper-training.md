@@ -4,7 +4,7 @@ description: "Monitoring in the context of site safety. A 40-hour online course,
 url: https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training
 ---
 
-[Courses](https://lel-converter.hazwoperosha.us/courses/) / Course #587
+[Courses](https://lel-converter.hazwoperosha.us/courses/) / Course #123
 
 # OSHA 40 Hour HAZWOPER Training
 
@@ -52,7 +52,7 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #587
+- **Course**: #123
 
 [Enroll now](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587)
 
@@ -60,15 +60,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA Air Monitoring and Gas Detection Training](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=1056)
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=583)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=586)
 

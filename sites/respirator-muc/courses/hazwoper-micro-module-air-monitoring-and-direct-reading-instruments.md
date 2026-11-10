@@ -4,7 +4,7 @@ description: "Measuring what's in the air. A 20-minute online course, $14.99 per
 url: https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments
 ---
 
-[Courses](https://respirator-muc.hazwoperosha.us/courses/) / Course #583
+[Courses](https://respirator-muc.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments
 
@@ -56,7 +56,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #583
 
 [Enroll now](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583)
 
@@ -64,15 +63,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=585)
 
-[OSHA Air Monitoring and Gas Detection Training](https://respirator-muc.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://respirator-muc.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=1056)
 
-[OSHA 40 Hour HAZWOPER Training](https://respirator-muc.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://respirator-muc.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=587)
 

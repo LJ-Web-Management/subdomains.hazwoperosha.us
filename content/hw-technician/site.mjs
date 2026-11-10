@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "The people who <span>make waste go away.</span>",
     lede: "Hazardous waste technicians identify, package, label and ship the waste that everyone else wants gone. Training that covers both the safety and the compliance sides of the job.",
-    cta: [599, "HAZWOPER & RCRA Technician · $199.99"],
+    cta: [599, "HAZWOPER & RCRA Technician · $349.99"],
     alt: ["/guides/lab-pack-basics", "Lab pack basics"],
   },
   coursesTagline: "HAZWOPER, RCRA and DOT training for waste technicians.",

@@ -4,7 +4,7 @@ description: "Site control in depth. A 40-hour online course, $249.99 per seat. 
 url: https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training
 ---
 
-[Courses](https://site-zones.hazwoperosha.us/courses/) / Course #587
+[Courses](https://site-zones.hazwoperosha.us/courses/) / Course #123
 
 # OSHA 40 Hour HAZWOPER Training
 
@@ -57,7 +57,7 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #587
+- **Course**: #123
 
 [Enroll now](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587)
 
@@ -65,17 +65,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=584)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=586)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=597)
+$69.99 [Enroll](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=597)
 
 ---
 

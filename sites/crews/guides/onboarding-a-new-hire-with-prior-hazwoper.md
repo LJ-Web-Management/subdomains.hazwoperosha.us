@@ -39,11 +39,11 @@ Even a fully certified worker needs your site's briefing: your site safety plan,
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://crews.hazwoperosha.us/guides/onboarding-a-new-hire-with-prior-hazwoper?buy=595)
+$59.99 [Enroll](https://crews.hazwoperosha.us/guides/onboarding-a-new-hire-with-prior-hazwoper?buy=595)
 
-[OSHA 40 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://crews.hazwoperosha.us/guides/onboarding-a-new-hire-with-prior-hazwoper?buy=587)
 

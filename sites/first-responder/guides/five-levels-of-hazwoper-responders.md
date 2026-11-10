@@ -40,17 +40,17 @@ Under (q)(8), responders need annual refresher training of enough content and le
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders?buy=593)
+$199.99 [Enroll](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders?buy=593)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders?buy=574)
+$249.99 [Enroll](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders?buy=574)
 
 ---
 

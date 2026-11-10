@@ -41,7 +41,7 @@ Refineries, chemical plants and utilities often require 40-hour HAZWOPER for all
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/guides/when-is-industrial-cleaning-hazwoper?buy=587)
 

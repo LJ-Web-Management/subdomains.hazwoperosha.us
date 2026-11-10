@@ -46,11 +46,11 @@ Serious incidents must be reported under 49 CFR 171.15 and 171.16. Your carrier'
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://trucking.hazwoperosha.us/guides/roadside-hazmat-spill-driver?buy=1099)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://trucking.hazwoperosha.us/guides/roadside-hazmat-spill-driver?buy=479)
 

@@ -31,13 +31,13 @@ Meet local departments, share maps and emergency contacts, and run joint exercis
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://pipeline.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://pipeline.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://pipeline.hazwoperosha.us/guides/working-with-the-fire-department?buy=593)
+$199.99 [Enroll](https://pipeline.hazwoperosha.us/guides/working-with-the-fire-department?buy=593)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://pipeline.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://pipeline.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://pipeline.hazwoperosha.us/guides/working-with-the-fire-department?buy=574)
+$249.99 [Enroll](https://pipeline.hazwoperosha.us/guides/working-with-the-fire-department?buy=574)
 
 ---
 

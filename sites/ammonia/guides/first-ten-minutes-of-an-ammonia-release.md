@@ -41,23 +41,23 @@ Only trained, properly equipped responders make entry. For large releases that t
 - Spray water into a pool of liquid ammonia, which increases vaporization (water fog to knock down vapor is a separate tactic, used deliberately)
 - Re-enter after the alarm clears without confirming readings
 
-**OSHA 8 Hour HAZWOPER (q) Incident Command Training** 8 Hours · $179.99 per seat
+**OSHA 8 Hour HAZWOPER (q) Incident Command Training** 8 Hours · $199.99 per seat
 
 [Enroll](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release?buy=593)
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://ammonia.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://ammonia.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release?buy=593)
+$199.99 [Enroll](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release?buy=593)
 
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$109.99 [Enroll](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release?buy=598)
+$89.99 [Enroll](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release?buy=598)
 
 ---
 

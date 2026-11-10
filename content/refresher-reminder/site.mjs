@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Put your refresher <span>on the calendar.</span>",
     lede: "HAZWOPER certificates need renewing every 12 months. Work out your due date and drop a reminder into your calendar in one click.",
-    cta: [595, "Renew now · $89.99"],
+    cta: [595, "Renew now · $59.99"],
     alt: ["#reminder", "Set a reminder"],
   },
   coursesTitle: "Refresher courses",

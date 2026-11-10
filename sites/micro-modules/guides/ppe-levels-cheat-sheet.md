@@ -42,7 +42,7 @@ Level A is hot, heavy, limits your vision and wears you out fast. Heat stress is
 
 ## Courses
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://micro-modules.hazwoperosha.us/guides/ppe-levels-cheat-sheet?buy=585)
 

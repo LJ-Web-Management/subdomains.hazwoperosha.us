@@ -39,7 +39,7 @@ Petroleum from underground tanks, chlorinated solvents at old industrial sites, 
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://new-jersey.hazwoperosha.us/guides/working-on-lsrp-led-cleanups?buy=590)
 

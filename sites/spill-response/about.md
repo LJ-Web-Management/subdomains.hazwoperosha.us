@@ -20,7 +20,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA Spill Prevention and Response Safety Training](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 - [Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
 - [Spill Response Equipment - Absorbent & Containment Booms](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): 1 Hour, $24.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://spill-response.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat

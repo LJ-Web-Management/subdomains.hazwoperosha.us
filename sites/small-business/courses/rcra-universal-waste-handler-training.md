@@ -4,7 +4,7 @@ description: "Batteries, bulbs, aerosol cans and mercury devices. A 2-hour onlin
 url: https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training
 ---
 
-[Courses](https://small-business.hazwoperosha.us/courses/) / Course #602
+[Courses](https://small-business.hazwoperosha.us/courses/) / Course #921
 
 # RCRA Universal Waste Handler Training
 
@@ -57,7 +57,7 @@ $34.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 273 (RCRA)
-- **Course**: #602
+- **Course**: #921
 
 [Enroll now](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602)
 
@@ -65,23 +65,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://small-business.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://small-business.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
+$134.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=415)
 
-[Hazardous Waste Manifest Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=580)
+$58.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=580)
 
-[OSHA Spill Prevention and Response Safety Training](https://small-business.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://small-business.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
+$29.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://small-business.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://small-business.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=1099)
 

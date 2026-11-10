@@ -54,7 +54,7 @@ Take charge of the scene
 
 ## Equip your team
 
-4 Hours · #1099
+4 Hours · #654
 
 ### OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
@@ -62,15 +62,15 @@ First responder awareness level: recognize the release, secure the area, call it
 
 **$61.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=1099)
 
-8 Hours · #593
+8 Hours · #259
 
 ### OSHA 8 Hour HAZWOPER (q) Incident Command Training
 
 Training for the person who takes charge under 1910.120(q)(3).
 
-**$179.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=593)
 
-8 Hours · #702
+8 Hours · #970
 
 ### Manufacturing Emergency Response Team (ERT) Training
 
@@ -78,7 +78,7 @@ Training for in-plant emergency response teams at manufacturing facilities.
 
 **$149.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=702)
 
-40 Hours · #589
+40 Hours
 
 ### OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams
 
@@ -86,13 +86,13 @@ The full 40-hour HAZWOPER for fire departments and hazmat teams who also do clea
 
 **$249.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=589)
 
-8 Hours · #574
+8 Hours · #382
 
 ### 8 Hour HAZWOPER and Incident Command Refresher Training
 
 The annual refresher for responders and incident commanders.
 
-**$159.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=574)
 
 // Briefings
 

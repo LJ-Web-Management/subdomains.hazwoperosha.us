@@ -10,19 +10,19 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 The training stack for technicians at environmental services companies: HAZWOPER, RCRA, DOT and TSDF.
 
-[Waste Technician · $199.99](https://environmental-services.hazwoperosha.us/?buy=599) [Training path](https://environmental-services.hazwoperosha.us/guides/waste-technician-training-path)
+[Waste Technician · $349.99](https://environmental-services.hazwoperosha.us/?buy=599) [Training path](https://environmental-services.hazwoperosha.us/guides/waste-technician-training-path)
 
 ## The stack
 
-24 Hours · #599
+24 Hours · #346
 
 ### Waste Technician
 
 Combined HAZWOPER and RCRA training for hazardous waste management technicians.
 
-**$199.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=599)
+**$349.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=599)
 
-8 Hours · #403
+8 Hours
 
 ### RCRA/DOT Combined
 
@@ -30,7 +30,7 @@ RCRA generator rules plus DOT hazmat employee training.
 
 **$149.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=403)
 
-24 Hours · #582
+24 Hours · #135
 
 ### 24-Hr TSD Operations
 
@@ -38,23 +38,23 @@ The 24-hour HAZWOPER for work at your company's permitted TSD facility.
 
 **$229.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=582)
 
-8 Hours · #594
+8 Hours · #138
 
 ### 8-Hr TSD Refresher
 
 The annual 8-hour refresher for TSD workers.
 
-**$99.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=594)
+**$89.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=594)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Manifest
 
 Manifests and e-Manifest, box by box.
 
-**$34.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=580)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 

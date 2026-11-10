@@ -199,7 +199,7 @@ Since 2018, manifests are tracked in EPA's e-Manifest system. Receiving faciliti
       ship: { label: "Shipping & manifests", note: "Manifest signers prepare hazmat shipping papers and need DOT training under 49 CFR 172.704 every 3 years.", ids: [403, 580] },
       uw: { label: "Universal waste handler", note: "40 CFR 273: inform or train employees on proper handling and emergency procedures.", ids: [602] },
     };
-    const planRows = (ids) => ids.map((id) => { const c = course(id); return `<li><span><a href="${c.url}">${esc(c.name)}</a><small>${esc(c.duration)} · Course #${c.id}</small></span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</li>`; }).join("");
+    const planRows = (ids) => ids.map((id) => { const c = course(id); return `<li><span><a href="${c.url}">${esc(c.name)}</a><small>${esc(c.duration)}${c.lmsId ? ` · Course #${c.lmsId}` : ""}</small></span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</li>`; }).join("");
     return `<section class="hero"><div class="wrap hero-in">
 <div>
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>

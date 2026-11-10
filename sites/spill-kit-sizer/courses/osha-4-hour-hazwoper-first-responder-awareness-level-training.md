@@ -4,7 +4,7 @@ description: "Knowing when a spill is too big for the kit. A 4-hour online cours
 url: https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training
 ---
 
-[Courses](https://spill-kit-sizer.hazwoperosha.us/courses/) / Course #1099
+[Courses](https://spill-kit-sizer.hazwoperosha.us/courses/) / Course #654
 
 # OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
@@ -52,7 +52,7 @@ $61.99 per seat
 
 - **Length**: 4 Hours
 - **Standard**: 29 CFR 1910.120(q)(6)(i)
-- **Course**: #1099
+- **Course**: #654
 
 [Enroll now](https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099)
 
@@ -60,15 +60,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=479)
 
-[OSHA Spill Prevention and Response Safety Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=416)
+$29.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=416)
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Absorbent & Containment Booms](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=478)
 

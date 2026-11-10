@@ -25,19 +25,19 @@ Training hours, oxygen limits and more, on one page.
 
 Take the quiz above to see if they've stuck.
 
-**OSHA 8 Hour HAZWOPER Refresher Training** 8 Hours · $89.99 per seat
+**OSHA 8 Hour HAZWOPER Refresher Training** 8 Hours · $59.99 per seat
 
 [Enroll](https://practice-quiz.hazwoperosha.us/guides/numbers-every-hazwoper-worker-should-know?buy=595)
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://practice-quiz.hazwoperosha.us/guides/numbers-every-hazwoper-worker-should-know?buy=587)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://practice-quiz.hazwoperosha.us/guides/numbers-every-hazwoper-worker-should-know?buy=595)
+$59.99 [Enroll](https://practice-quiz.hazwoperosha.us/guides/numbers-every-hazwoper-worker-should-know?buy=595)
 
 ---
 

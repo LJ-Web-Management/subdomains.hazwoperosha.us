@@ -203,7 +203,7 @@ Bring your initial certificate, every refresher, any supervisor certificate, you
 
 <section class="sec sec-warm"><div class="wrap">
 <h2 class="title">California <span>courses</span></h2>
-<div class="cgrid">${courses.map((c) => `<article class="ccard"><p class="ccard-tag">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="ccard-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="ccard"><p class="ccard-tag">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="ccard-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

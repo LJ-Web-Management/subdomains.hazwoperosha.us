@@ -23,17 +23,17 @@ By signing box 15, the generator certifies that the waste is properly classified
 9. The truck is placarded if required
 10. You've kept your copy, or the e-Manifest record is complete
 
-**Hazardous Waste Manifest Training** 2 Hours · $34.99 per seat
+**Hazardous Waste Manifest Training** 2 Hours · $58.99 per seat
 
 [Enroll](https://manifest.hazwoperosha.us/guides/before-you-sign-the-manifest?buy=580)
 
 ## Courses
 
-[Hazardous Waste Manifest Training](https://manifest.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://manifest.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://manifest.hazwoperosha.us/guides/before-you-sign-the-manifest?buy=580)
+$58.99 [Enroll](https://manifest.hazwoperosha.us/guides/before-you-sign-the-manifest?buy=580)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://manifest.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://manifest.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://manifest.hazwoperosha.us/guides/before-you-sign-the-manifest?buy=403)
 

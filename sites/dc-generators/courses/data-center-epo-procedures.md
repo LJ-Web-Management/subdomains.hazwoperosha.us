@@ -64,11 +64,11 @@ $99.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/data-center-epo-pr
 
 $99.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/data-center-epo-procedures?buy=1098)
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/data-center-epo-procedures?buy=416)
+$29.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/data-center-epo-procedures?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/data-center-epo-procedures?buy=479)
 

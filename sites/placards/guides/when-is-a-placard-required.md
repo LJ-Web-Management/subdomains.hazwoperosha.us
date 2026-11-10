@@ -30,13 +30,13 @@ Shippers must offer the right placards to the carrier unless the vehicle already
 
 ## Courses
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://placards.hazwoperosha.us/guides/when-is-a-placard-required?buy=403)
 
-[Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://placards.hazwoperosha.us/guides/when-is-a-placard-required?buy=580)
+$58.99 [Enroll](https://placards.hazwoperosha.us/guides/when-is-a-placard-required?buy=580)
 
 ---
 

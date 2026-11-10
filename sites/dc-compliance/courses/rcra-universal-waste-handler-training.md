@@ -4,7 +4,7 @@ description: "Managing spent UPS batteries and lamps. A 2-hour online course, $3
 url: https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training
 ---
 
-[Courses](https://dc-compliance.hazwoperosha.us/courses/) / Course #602
+[Courses](https://dc-compliance.hazwoperosha.us/courses/) / Course #921
 
 # RCRA Universal Waste Handler Training
 
@@ -53,7 +53,7 @@ $34.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 273 (RCRA)
-- **Course**: #602
+- **Course**: #921
 
 [Enroll now](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602)
 
@@ -69,13 +69,13 @@ $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-was
 
 $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=851)
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
+$29.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
 
-[RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
+$134.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
 
 ---
 

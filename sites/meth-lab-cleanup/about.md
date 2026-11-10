@@ -24,7 +24,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): 15 Min, $12.99 per seat
 - [HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments): 20 Min, $14.99 per seat
 - [HAZWOPER Micro-Module: Decontamination Procedures](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
 
 The [full catalog of 83 trainings](https://meth-lab-cleanup.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://meth-lab-cleanup.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 

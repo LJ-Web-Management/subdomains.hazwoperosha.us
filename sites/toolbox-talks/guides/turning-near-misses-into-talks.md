@@ -22,13 +22,13 @@ Near misses from your own site stick far better than generic topics. The annual 
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://toolbox-talks.hazwoperosha.us/guides/turning-near-misses-into-talks?buy=595)
+$59.99 [Enroll](https://toolbox-talks.hazwoperosha.us/guides/turning-near-misses-into-talks?buy=595)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://toolbox-talks.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://toolbox-talks.hazwoperosha.us/guides/turning-near-misses-into-talks?buy=597)
+$69.99 [Enroll](https://toolbox-talks.hazwoperosha.us/guides/turning-near-misses-into-talks?buy=597)
 
 ---
 

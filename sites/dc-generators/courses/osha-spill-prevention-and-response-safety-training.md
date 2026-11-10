@@ -1,10 +1,10 @@
 ---
 title: "OSHA Spill Prevention and Response Safety Training"
-description: "Fuel deliveries, day tanks and spill response. A 2-hour online course, $49.99 per seat. Self-paced, with a certificate of completion."
+description: "Fuel deliveries, day tanks and spill response. A 2-hour online course, $29.99 per seat. Self-paced, with a certificate of completion."
 url: https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training
 ---
 
-[Courses](https://dc-generators.hazwoperosha.us/courses/) / Course #416
+[Courses](https://dc-generators.hazwoperosha.us/courses/) / Course #542
 
 # OSHA Spill Prevention and Response Safety Training
 
@@ -31,7 +31,7 @@ Generator and facility technicians.
 
 ### How much does OSHA Spill Prevention and Response Safety Training cost?
 
-$49.99 per seat. To train a crew, choose the number of seats at checkout.
+$29.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Keeping stored diesel fuel healthy](https://dc-generators.hazwoperosha.us/guides/diesel-fuel-quality)
 
-$49.99 per seat
+$29.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 40 CFR 112
-- **Course**: #416
+- **Course**: #542
 
 [Enroll now](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416)
 
@@ -77,7 +77,7 @@ $99.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevent
 
 $99.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=853)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=479)
 

@@ -4,7 +4,7 @@ description: "The most-asked-about course. A 40-hour online course, $249.99 per 
 url: https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training
 ---
 
-[Courses](https://hazwoper-faq.hazwoperosha.us/courses/) / Course #587
+[Courses](https://hazwoper-faq.hazwoperosha.us/courses/) / Course #123
 
 # OSHA 40 Hour HAZWOPER Training
 
@@ -57,7 +57,7 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #587
+- **Course**: #123
 
 [Enroll now](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587)
 
@@ -65,21 +65,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 24 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=581)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=595)
+$59.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=595)
 
-[OSHA 40-Hour HAZWOPER Training (Spanish)](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+[OSHA 40-Hour HAZWOPER Training (Spanish)](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #123 · 29 CFR 1910.120(e)(3)(i) - Spanish language
 
 $249.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=1100)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=597)
+$69.99 [Enroll](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=597)
 
 ---
 

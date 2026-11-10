@@ -1,10 +1,10 @@
 ---
 title: "RCRA Hazardous Waste Generator Training | RackRoom Safety"
-description: "Hazardous waste generator training for campus facilities. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "Hazardous waste generator training for campus facilities. An 8-hour online course, $134.99 per seat. Self-paced, with a certificate of completion."
 url: https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training
 ---
 
-[Courses](https://data-centers.hazwoperosha.us/courses/) / Course #601
+[Courses](https://data-centers.hazwoperosha.us/courses/) / Course #114
 
 # RCRA Hazardous Waste Generator Training
 
@@ -31,7 +31,7 @@ EHS and facilities managers.
 
 ### How much does RCRA Hazardous Waste Generator Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$134.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Refrigerants, glycol and clean agents: other chemicals in the data center](https://data-centers.hazwoperosha.us/guides/other-chemicals-in-the-data-center)
 
-$89.99 per seat
+$134.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 40 CFR 262.17 (RCRA)
-- **Course**: #601
+- **Course**: #114
 
 [Enroll now](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601)
 
@@ -65,23 +65,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA Spill Prevention and Response Safety Training](https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
+$29.99 [Enroll](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=479)
 
-[RCRA Universal Waste Handler Training](https://data-centers.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://data-centers.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=602)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=1099)
 
-[OSHA Air Monitoring and Gas Detection Training](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=1056)
 

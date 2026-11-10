@@ -21,8 +21,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
-- [OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
-- [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training): 8 Hours, $109.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
+- [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training): 8 Hours, $89.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://agriculture.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
 - [Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
 - [RCRA Universal Waste Handler Training](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training): 2 Hours, $34.99 per seat

@@ -4,7 +4,7 @@ description: "A 20-minute decon module. A 20-minute online course, $14.99 per se
 url: https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures
 ---
 
-[Courses](https://industrial-cleaning.hazwoperosha.us/courses/) / Course #584
+[Courses](https://industrial-cleaning.hazwoperosha.us/courses/)
 
 # HAZWOPER Micro-Module: Decontamination Procedures
 
@@ -52,7 +52,6 @@ $14.99 per seat
 
 - **Length**: 20 Min
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #584
 
 [Enroll now](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584)
 
@@ -60,25 +59,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=587)
 
-[OSHA Air Monitoring and Gas Detection Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=1056)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=585)
 
-[OSHA Spill Prevention and Response Safety Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=416)
+$29.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=416)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=595)
+$59.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=595)
 
 ---
 

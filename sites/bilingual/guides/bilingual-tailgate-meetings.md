@@ -40,9 +40,9 @@ Supervisors on bilingual crews carry extra responsibility for communication. The
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://bilingual.hazwoperosha.us/guides/bilingual-tailgate-meetings?buy=597)
+$69.99 [Enroll](https://bilingual.hazwoperosha.us/guides/bilingual-tailgate-meetings?buy=597)
 
 ---
 

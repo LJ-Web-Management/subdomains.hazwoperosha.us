@@ -14,7 +14,7 @@ DOT hazmat, spill response and hazardous waste transport training for drivers, d
 
 ## Courses
 
-8 Hours · #403
+8 Hours
 
 ### RCRA/DOT Combined
 
@@ -22,7 +22,7 @@ DOT hazmat employee training combined with RCRA hazardous waste rules.
 
 **$149.99** [Enroll](https://trucking.hazwoperosha.us/?buy=403)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -30,15 +30,15 @@ What a driver does in the first minutes of a release.
 
 **$61.99** [Enroll](https://trucking.hazwoperosha.us/?buy=1099)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention
 
 Preventing and responding to spills during loading, unloading and on the road.
 
-**$49.99** [Enroll](https://trucking.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://trucking.hazwoperosha.us/?buy=416)
 
-1 Hour · #479
+1 Hour
 
 ### Spill Kit Use
 
@@ -46,13 +46,13 @@ Using the spill kit on your truck.
 
 **$24.99** [Enroll](https://trucking.hazwoperosha.us/?buy=479)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Manifest
 
 The hazardous waste manifest from the transporter's side.
 
-**$34.99** [Enroll](https://trucking.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://trucking.hazwoperosha.us/?buy=580)
 
 [All trainings (83) →](https://trucking.hazwoperosha.us/courses/#all)
 

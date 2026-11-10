@@ -4,7 +4,7 @@ description: "The 24-hour TSDF course written to California's Title 8 section 51
 url: https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training
 ---
 
-[Courses](https://tsdf.hazwoperosha.us/courses/) / Course #575
+[Courses](https://tsdf.hazwoperosha.us/courses/)
 
 # Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training
 
@@ -55,7 +55,6 @@ $249.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 8 CCR 5192(p) / RCRA
-- **Course**: #575
 
 [Enroll now](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=575)
 
@@ -63,19 +62,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=582)
 
-[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #594 · 29 CFR 1910.120(p)(8) / RCRA
+[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #138 · 29 CFR 1910.120(p)(8) / RCRA
 
-$99.99 [Enroll](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=594)
+$89.99 [Enroll](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=594)
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=599)
+$349.99 [Enroll](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=599)
 
-[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · Course #579 · 8 CCR 5192(p)(8) / RCRA
+[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · 8 CCR 5192(p)(8) / RCRA
 
 $109.99 [Enroll](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training?buy=579)
 

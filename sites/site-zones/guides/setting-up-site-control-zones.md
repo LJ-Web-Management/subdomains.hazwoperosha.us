@@ -27,19 +27,19 @@ How a site safety officer lays out the hot, warm and cold zones on a new site.
 
 Zones may move as work progresses, contamination is removed or the wind changes.
 
-**OSHA 8 Hour HAZWOPER Supervisor Training** 8 Hours · $179.99 per seat
+**OSHA 8 Hour HAZWOPER Supervisor Training** 8 Hours · $69.99 per seat
 
 [Enroll](https://site-zones.hazwoperosha.us/guides/setting-up-site-control-zones?buy=597)
 
 ## Courses
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://site-zones.hazwoperosha.us/guides/setting-up-site-control-zones?buy=586)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://site-zones.hazwoperosha.us/guides/setting-up-site-control-zones?buy=597)
+$69.99 [Enroll](https://site-zones.hazwoperosha.us/guides/setting-up-site-control-zones?buy=597)
 
 ---
 

@@ -33,11 +33,11 @@ Crews generally need HAZWOPER training appropriate to their tasks, plus site-spe
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/guides/household-hazardous-waste-removal?buy=587)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/guides/household-hazardous-waste-removal?buy=1099)
 

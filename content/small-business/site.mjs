@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Hazardous waste, <span>made simple.</span>",
     lede: "You run a small business, not a waste program. Short courses and plain checklists to handle your hazardous waste right the first time.",
-    cta: [601, "Generator training · $89.99"],
+    cta: [601, "Generator training · $134.99"],
     alt: ["/guides/is-my-business-a-hazardous-waste-generator", "Am I a generator?"],
   },
   coursesTagline: "Short, practical courses for small business owners and staff.",

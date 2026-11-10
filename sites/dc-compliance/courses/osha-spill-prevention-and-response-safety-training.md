@@ -1,10 +1,10 @@
 ---
 title: "OSHA Spill Prevention and Response Safety Training"
-description: "Diesel fuel deliveries, day tanks and spill response. A 2-hour online course, $49.99 per seat. Self-paced, with a certificate of completion."
+description: "Diesel fuel deliveries, day tanks and spill response. A 2-hour online course, $29.99 per seat. Self-paced, with a certificate of completion."
 url: https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training
 ---
 
-[Courses](https://dc-compliance.hazwoperosha.us/courses/) / Course #416
+[Courses](https://dc-compliance.hazwoperosha.us/courses/) / Course #542
 
 # OSHA Spill Prevention and Response Safety Training
 
@@ -31,7 +31,7 @@ Facility staff who handle fuel.
 
 ### How much does OSHA Spill Prevention and Response Safety Training cost?
 
-$49.99 per seat. To train a crew, choose the number of seats at checkout.
+$29.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -54,11 +54,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [Environmental rules that apply to data centers](https://dc-compliance.hazwoperosha.us/guides/environmental-rules-that-apply)
 - [SPCC plans for data center diesel](https://dc-compliance.hazwoperosha.us/guides/spcc-for-data-centers)
 
-$49.99 per seat
+$29.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 40 CFR 112
-- **Course**: #416
+- **Course**: #542
 
 [Enroll now](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416)
 
@@ -74,13 +74,13 @@ $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevent
 
 $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=851)
 
-[RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=602)
 
-[RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=601)
+$134.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=601)
 
 ---
 

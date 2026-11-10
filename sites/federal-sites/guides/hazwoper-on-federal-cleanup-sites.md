@@ -34,11 +34,11 @@ The core is the same everywhere: [OSHA 40 Hour HAZWOPER Training](https://federa
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://federal-sites.hazwoperosha.us/guides/hazwoper-on-federal-cleanup-sites?buy=590)
 
-[OSHA 40 Hour HAZWOPER Training](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://federal-sites.hazwoperosha.us/guides/hazwoper-on-federal-cleanup-sites?buy=587)
 

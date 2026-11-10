@@ -14,7 +14,7 @@ Burned homes and businesses leave behind ash with heavy metals, asbestos, damage
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,7 +22,7 @@ For crews removing hazardous materials.
 
 **$249.99** [Enroll](https://wildfire-cleanup.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -30,7 +30,7 @@ For limited-exposure cleanup roles.
 
 **$169.99** [Enroll](https://wildfire-cleanup.hazwoperosha.us/?buy=581)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### First Responder Awareness
 
@@ -38,7 +38,7 @@ Recognize hazardous materials in debris.
 
 **$61.99** [Enroll](https://wildfire-cleanup.hazwoperosha.us/?buy=1099)
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -46,7 +46,7 @@ Choosing PPE for ash and debris.
 
 **$12.99** [Enroll](https://wildfire-cleanup.hazwoperosha.us/?buy=585)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 

@@ -16,7 +16,7 @@ Educational tool only. On a real site, PPE is set by the site safety and health 
 
 ## Courses
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -24,7 +24,7 @@ The four levels of protection in 15 minutes.
 
 **$12.99** [Enroll](https://ppe-picker.hazwoperosha.us/?buy=585)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -32,7 +32,7 @@ PPE in depth, with the rest of HAZWOPER.
 
 **$249.99** [Enroll](https://ppe-picker.hazwoperosha.us/?buy=587)
 
-20 Min · #583
+20 Min
 
 ### Air Monitoring
 
@@ -40,13 +40,13 @@ The readings that drive PPE decisions.
 
 **$14.99** [Enroll](https://ppe-picker.hazwoperosha.us/?buy=583)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 Making PPE decisions as a supervisor.
 
-**$179.99** [Enroll](https://ppe-picker.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://ppe-picker.hazwoperosha.us/?buy=597)
 
 [All trainings (83) →](https://ppe-picker.hazwoperosha.us/courses/#all)
 

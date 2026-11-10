@@ -4,7 +4,7 @@ description: "Para quien podría presenciar un derrame y debe reconocerlo, aleja
 url: https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training
 ---
 
-[Cursos](https://espanol.hazwoperosha.us/courses/) / Curso #1099
+[Cursos](https://espanol.hazwoperosha.us/courses/) / Curso #654
 
 # Primer Respondedor, Nivel de Conciencia · 4 Horas (curso en inglés)
 
@@ -61,7 +61,7 @@ $61.99 por asiento
 
 - **Duración**: 4 horas
 - **Norma**: 29 CFR 1910.120(q)(6)(i)
-- **Curso**: #1099
+- **Curso**: #654
 
 [Inscríbase ahora](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099)
 
@@ -69,13 +69,13 @@ Incluye certificado al terminar. 100% en línea, a su ritmo.
 
 ## Más cursos
 
-[Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 horas · Curso #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+[Capacitación OSHA HAZWOPER de 40 Horas (en Español)](https://espanol.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 horas · Curso #123 · 29 CFR 1910.120(e)(3)(i) - Spanish language
 
 $249.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1100)
 
-[Repaso Anual OSHA HAZWOPER de 8 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 horas · Curso #595 · 29 CFR 1910.120(e)(8)
+[Repaso Anual OSHA HAZWOPER de 8 Horas (curso en inglés)](https://espanol.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 horas · Curso #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=595)
+$59.99 [Inscribirse](https://espanol.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=595)
 
 ---
 

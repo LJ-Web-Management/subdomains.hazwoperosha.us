@@ -43,13 +43,13 @@ HAZMAT team members need medical surveillance under 1910.120(f). Plan for it fro
 
 ## Courses
 
-[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/building-an-in-plant-ert?buy=702)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/building-an-in-plant-ert?buy=593)
+$199.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/building-an-in-plant-ert?buy=593)
 
 ---
 

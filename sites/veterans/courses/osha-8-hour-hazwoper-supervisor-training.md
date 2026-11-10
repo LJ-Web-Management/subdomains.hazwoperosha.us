@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Supervisor Training | Next Mission"
-description: "For NCOs and officers. An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "For NCOs and officers. An 8-hour online course, $69.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training
 ---
 
-[Courses](https://veterans.hazwoperosha.us/courses/) / Course #597
+[Courses](https://veterans.hazwoperosha.us/courses/) / Course #133
 
 # OSHA 8 Hour HAZWOPER Supervisor Training
 
@@ -30,7 +30,7 @@ On-scene incident commanders/supervisors, remediation site leads
 
 ### How much does OSHA 8 Hour HAZWOPER Supervisor Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$69.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -48,11 +48,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$179.99 per seat
+$69.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(4)
-- **Course**: #597
+- **Course**: #133
 
 [Enroll now](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597)
 
@@ -60,19 +60,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://veterans.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://veterans.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=587)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=593)
+$199.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=593)
 
-[HAZWOPER Train-the-Trainer Certification](https://veterans.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1016 · 29 CFR 1910.120(e)
+[HAZWOPER Train-the-Trainer Certification](https://veterans.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1147 · 29 CFR 1910.120(e)
 
 $399.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=1016)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://veterans.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · Course #589 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://veterans.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=589)
 

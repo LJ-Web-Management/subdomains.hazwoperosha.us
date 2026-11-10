@@ -14,7 +14,7 @@ Disaster cleanup mixes floodwater, fuel, chemicals and debris. Get recovery crew
 
 ## Deploy-ready courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,7 +22,7 @@ The 40-hour HAZWOPER for crews handling hazardous materials in disaster zones.
 
 **$249.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -30,7 +30,7 @@ The 24-hour HAZWOPER for limited-exposure recovery workers.
 
 **$169.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=581)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -38,15 +38,15 @@ Recognize, isolate and report hazardous materials found during recovery.
 
 **$61.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=1099)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention & Response
 
 Responding safely to fuel and oil spills during recovery.
 
-**$49.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=416)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 
@@ -54,7 +54,7 @@ A 20-minute module on decon procedures.
 
 **$14.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=584)
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 

@@ -14,7 +14,7 @@ Ten quick questions on training hours, PPE, decon and response levels, with an e
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,15 +22,15 @@ Covers every topic on this quiz.
 
 **$249.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=587)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 Brush up every year.
 
-**$89.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=595)
 
-15 Min · #585
+15 Min
 
 ### PPE Levels A–D
 
@@ -38,7 +38,7 @@ Ace the PPE questions.
 
 **$12.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=585)
 
-20 Min · #584
+20 Min
 
 ### Decontamination
 
@@ -46,7 +46,7 @@ Ace the decon questions.
 
 **$14.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=584)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 

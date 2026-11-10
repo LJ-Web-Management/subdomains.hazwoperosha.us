@@ -4,7 +4,7 @@ description: "Become a qualified in-house HAZWOPER trainer under 1910.120(e)(5).
 url: https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification
 ---
 
-[Courses](https://ehs-managers.hazwoperosha.us/courses/) / Course #1016
+[Courses](https://ehs-managers.hazwoperosha.us/courses/) / Course #1147
 
 # HAZWOPER Train-the-Trainer Certification
 
@@ -58,7 +58,7 @@ $399.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120(e)
-- **Course**: #1016
+- **Course**: #1147
 
 [Enroll now](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016)
 
@@ -66,23 +66,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=597)
+$69.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=597)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=593)
+$199.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=593)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://ehs-managers.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://ehs-managers.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=412)
 
-[RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=601)
+$134.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=601)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
 
 $84.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=900)
 

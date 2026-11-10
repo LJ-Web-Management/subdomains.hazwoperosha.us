@@ -43,11 +43,11 @@ When redevelopment includes digging up, moving or managing contaminated soil, or
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://brownfields.hazwoperosha.us/guides/what-makes-a-site-a-brownfield?buy=588)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://brownfields.hazwoperosha.us/guides/what-makes-a-site-a-brownfield?buy=586)
 

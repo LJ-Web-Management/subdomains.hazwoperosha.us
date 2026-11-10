@@ -4,7 +4,7 @@ description: "Training for in-plant emergency response teams at manufacturing fa
 url: https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training
 ---
 
-[Courses](https://first-responder.hazwoperosha.us/courses/) / Course #702
+[Courses](https://first-responder.hazwoperosha.us/courses/) / Course #970
 
 # Manufacturing Emergency Response Team (ERT) Training
 
@@ -60,7 +60,7 @@ $149.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(q)
-- **Course**: #702
+- **Course**: #970
 
 [Enroll now](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702)
 
@@ -68,21 +68,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=593)
+$199.99 [Enroll](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=593)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · Course #589 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=589)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=574)
+$249.99 [Enroll](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=574)
 
 ---
 

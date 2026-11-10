@@ -41,15 +41,15 @@ Students in labs and studios generate waste too. Most campuses cover the basics 
 
 ## Courses
 
-[Hazardous Waste Satellite Accumulation Area Training](https://universities.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://universities.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://universities.hazwoperosha.us/guides/who-needs-hazardous-waste-training-on-campus?buy=415)
 
-[RCRA Hazardous Waste Generator Training](https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://universities.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://universities.hazwoperosha.us/guides/who-needs-hazardous-waste-training-on-campus?buy=601)
+$134.99 [Enroll](https://universities.hazwoperosha.us/guides/who-needs-hazardous-waste-training-on-campus?buy=601)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://universities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://universities.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://universities.hazwoperosha.us/guides/who-needs-hazardous-waste-training-on-campus?buy=1099)
 

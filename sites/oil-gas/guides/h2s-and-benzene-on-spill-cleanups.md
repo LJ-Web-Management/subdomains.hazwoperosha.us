@@ -45,11 +45,11 @@ Fresh spills can create flammable atmospheres. Keep ignition sources out until t
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/h2s-and-benzene-on-spill-cleanups?buy=591)
 
-[OSHA Air Monitoring and Gas Detection Training](https://oil-gas.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://oil-gas.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/h2s-and-benzene-on-spill-cleanups?buy=1056)
 

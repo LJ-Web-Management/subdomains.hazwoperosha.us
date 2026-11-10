@@ -198,13 +198,13 @@ Collect saturated absorbent booms into lined drums or bags and treat them as was
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Contain it <b>before it spreads.</b></h1>
 <p class="hero-lede">Spill prevention, response and equipment training for fuel, oil and chemical handlers. Short courses for your whole facility, and the full 40-hour for response crews.</p>
-<div class="hero-cta">${h.buy(416, "Get spill-ready · $49.99")}<a class="btn btn-alt" href="/courses/">See all courses</a></div>
+<div class="hero-cta">${h.buy(416, "Get spill-ready · $29.99")}<a class="btn btn-alt" href="/courses/">See all courses</a></div>
 </div>
 </div></section>
 
 <section class="sec" id="courses"><div class="wrap">
 <h2 class="title">Training for the <b>first five minutes.</b></h2>
-<div class="cgrid">${courses.map((c) => `<article class="gcard"><p class="tag">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="gcard-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="gcard"><p class="tag">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="gcard-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec" id="kits"><div class="wrap kits-in">

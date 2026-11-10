@@ -45,19 +45,19 @@ Each module gives a completion certificate. Save them in the worker's training f
 
 ## Courses
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://micro-modules.hazwoperosha.us/guides/micro-modules-for-toolbox-talks?buy=585)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Decontamination Procedures](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/guides/micro-modules-for-toolbox-talks?buy=584)
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/guides/micro-modules-for-toolbox-talks?buy=583)
 
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://micro-modules.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://micro-modules.hazwoperosha.us/guides/micro-modules-for-toolbox-talks?buy=586)
 

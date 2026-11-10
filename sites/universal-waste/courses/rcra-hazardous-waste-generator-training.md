@@ -1,10 +1,10 @@
 ---
 title: "RCRA Hazardous Waste Generator Training | Which Bin?"
-description: "For the wastes that aren't universal waste. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "For the wastes that aren't universal waste. An 8-hour online course, $134.99 per seat. Self-paced, with a certificate of completion."
 url: https://universal-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training
 ---
 
-[Courses](https://universal-waste.hazwoperosha.us/courses/) / Course #601
+[Courses](https://universal-waste.hazwoperosha.us/courses/) / Course #114
 
 # RCRA Hazardous Waste Generator Training
 
@@ -30,7 +30,7 @@ Manufacturing, industrial, healthcare, LQG/SQG waste generators
 
 ### How much does RCRA Hazardous Waste Generator Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$134.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -48,11 +48,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$89.99 per seat
+$134.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 40 CFR 262.17 (RCRA)
-- **Course**: #601
+- **Course**: #114
 
 [Enroll now](https://universal-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601)
 
@@ -60,11 +60,11 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Universal Waste Handler Training](https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://universal-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=602)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://universal-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://universal-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://universal-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=415)
 

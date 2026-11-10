@@ -48,7 +48,7 @@ Carriers keep a training record for each hazmat employee for as long as they're 
 
 ## Courses
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://trucking.hazwoperosha.us/guides/hazmat-driver-training-requirements?buy=403)
 

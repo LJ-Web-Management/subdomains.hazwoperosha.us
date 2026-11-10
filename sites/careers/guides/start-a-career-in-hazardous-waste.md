@@ -39,11 +39,11 @@ Take the 8-hour refresher every year to stay employable between jobs.
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://careers.hazwoperosha.us/guides/start-a-career-in-hazardous-waste?buy=587)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://careers.hazwoperosha.us/guides/start-a-career-in-hazardous-waste?buy=403)
 

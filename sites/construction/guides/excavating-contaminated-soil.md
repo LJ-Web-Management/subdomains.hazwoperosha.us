@@ -46,11 +46,11 @@ Pumped water from an impacted excavation usually can't go to a storm drain. Foll
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://construction.hazwoperosha.us/guides/excavating-contaminated-soil?buy=588)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://construction.hazwoperosha.us/guides/excavating-contaminated-soil?buy=585)
 

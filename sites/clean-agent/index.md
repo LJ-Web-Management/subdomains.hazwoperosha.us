@@ -38,7 +38,7 @@ Systematic troubleshooting and root-cause analysis to cut MTTR.
 
 **$99.99** [Enroll](https://clean-agent.hazwoperosha.us/?buy=837)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### First Responder Awareness
 

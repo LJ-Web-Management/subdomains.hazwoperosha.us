@@ -4,7 +4,7 @@ description: "DOT hazmat employee training combined with RCRA hazardous waste ru
 url: https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training
 ---
 
-[Courses](https://trucking.hazwoperosha.us/courses/) / Course #403
+[Courses](https://trucking.hazwoperosha.us/courses/)
 
 # EPA RCRA/DOT Combined Hazardous Materials Compliance Training
 
@@ -59,7 +59,6 @@ $149.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: RCRA + 49 CFR 172
-- **Course**: #403
 
 [Enroll now](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=403)
 
@@ -67,21 +66,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=1099)
 
-[OSHA Spill Prevention and Response Safety Training](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=416)
+$29.99 [Enroll](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=479)
 
-[Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=580)
+$58.99 [Enroll](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=580)
 
 ---
 

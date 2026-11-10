@@ -182,7 +182,7 @@ Only trained, properly equipped responders make entry. For large releases that t
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Ammonia releases <b>don't wait.</b></h1>
 <p class="hero-lede">HAZWOPER training for ammonia refrigeration technicians and the teams around them. Online, self-paced, ammonia-focused.</p>
-<div class="hero-cta">${h.buy(598, "Enroll · $109.99")}<a class="btn btn-alt" href="/guides/first-ten-minutes-of-an-ammonia-release">The first ten minutes</a></div>
+<div class="hero-cta">${h.buy(598, "Enroll · $89.99")}<a class="btn btn-alt" href="/guides/first-ten-minutes-of-an-ammonia-release">The first ten minutes</a></div>
 </div>
 </div></section>
 
@@ -196,7 +196,7 @@ Only trained, properly equipped responders make entry. For large releases that t
 
 <section class="sec"><div class="wrap">
 <h2 class="title">Courses</h2>
-<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

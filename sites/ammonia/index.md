@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 HAZWOPER training for ammonia refrigeration technicians and the teams around them. Online, self-paced, ammonia-focused.
 
-[Enroll · $109.99](https://ammonia.hazwoperosha.us/?buy=598) [The first ten minutes](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release)
+[Enroll · $89.99](https://ammonia.hazwoperosha.us/?buy=598) [The first ten minutes](https://ammonia.hazwoperosha.us/guides/first-ten-minutes-of-an-ammonia-release)
 
 **5** ppm: about where most people smell it
 
@@ -22,15 +22,15 @@ HAZWOPER training for ammonia refrigeration technicians and the teams around the
 
 ## Courses
 
-8 Hours · #598
+8 Hours · #357
 
 ### HAZWOPER + Ammonia Refresher
 
 The annual 8-hour HAZWOPER refresher built around anhydrous ammonia.
 
-**$109.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=598)
+**$89.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=598)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -38,15 +38,15 @@ Fixed and portable ammonia detection, plus multi-gas monitoring.
 
 **$49.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=1056)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 Incident command for the person who takes charge of an ammonia release.
 
-**$179.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=593)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -54,13 +54,13 @@ Awareness training for everyone else in the building.
 
 **$61.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=1099)
 
-8 Hours · #574
+8 Hours · #382
 
 ### Responder Refresher
 
 Annual refresher for responders and incident commanders.
 
-**$159.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://ammonia.hazwoperosha.us/?buy=574)
 
 ## Guides
 

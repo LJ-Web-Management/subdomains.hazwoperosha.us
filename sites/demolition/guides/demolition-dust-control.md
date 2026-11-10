@@ -34,11 +34,11 @@ Many contaminated demo projects run **perimeter air monitoring** with dust monit
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://demolition.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://demolition.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://demolition.hazwoperosha.us/guides/demolition-dust-control?buy=588)
 
-[OSHA Air Monitoring and Gas Detection Training](https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://demolition.hazwoperosha.us/guides/demolition-dust-control?buy=1056)
 

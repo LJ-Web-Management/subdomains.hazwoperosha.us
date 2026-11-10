@@ -32,11 +32,11 @@ Ash from burned buildings isn't just wood ash. It can contain:
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/guides/hazards-in-wildfire-ash?buy=587)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $12.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/guides/hazards-in-wildfire-ash?buy=585)
 

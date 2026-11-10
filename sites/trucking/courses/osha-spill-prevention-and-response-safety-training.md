@@ -1,10 +1,10 @@
 ---
 title: "OSHA Spill Prevention and Response Safety Training"
-description: "Preventing and responding to spills during loading, unloading and on the road. A 2-hour online course, $49.99 per seat. Enroll a whole crew in one checkout."
+description: "Preventing and responding to spills during loading, unloading and on the road. A 2-hour online course, $29.99 per seat. Enroll a whole crew in one checkout."
 url: https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training
 ---
 
-[Courses](https://trucking.hazwoperosha.us/courses/) / Course #416
+[Courses](https://trucking.hazwoperosha.us/courses/) / Course #542
 
 # OSHA Spill Prevention and Response Safety Training
 
@@ -31,7 +31,7 @@ Drivers and dock staff.
 
 ### How much does OSHA Spill Prevention and Response Safety Training cost?
 
-$49.99 per seat. To train a crew, choose the number of seats at checkout.
+$29.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -49,11 +49,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$49.99 per seat
+$29.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 40 CFR 112
-- **Course**: #416
+- **Course**: #542
 
 [Enroll now](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416)
 
@@ -61,21 +61,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=403)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1099)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=479)
 
-[Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=580)
+$58.99 [Enroll](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=580)
 
 ---
 

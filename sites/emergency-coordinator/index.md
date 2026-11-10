@@ -35,7 +35,7 @@ Attach site maps showing waste areas, evacuation routes and surroundings.
 
 ## Courses
 
-4 Hours · #412
+4 Hours · #899
 
 ### Contingency Plan & Emergency Coordinator
 
@@ -43,23 +43,23 @@ The emergency coordinator's duties and the contingency plan.
 
 **$99.99** [Enroll](https://emergency-coordinator.hazwoperosha.us/?buy=412)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator Training
 
 The full generator course.
 
-**$89.99** [Enroll](https://emergency-coordinator.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://emergency-coordinator.hazwoperosha.us/?buy=601)
 
-4 Hours · #600
+4 Hours · #181
 
 ### RCRA Generator Refresher
 
 The annual refresher for LQG staff.
 
-**$59.99** [Enroll](https://emergency-coordinator.hazwoperosha.us/?buy=600)
+**$124.99** [Enroll](https://emergency-coordinator.hazwoperosha.us/?buy=600)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### First Responder Awareness
 

@@ -22,10 +22,10 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 - [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response): 40 Hours, $249.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $179.99 per seat
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
-- [8 Hour HAZWOPER and Incident Command Refresher Training](https://utility.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $159.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://utility.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $249.99 per seat
 
 The [full catalog of 83 trainings](https://utility.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://utility.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 

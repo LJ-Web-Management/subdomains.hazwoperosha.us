@@ -37,7 +37,7 @@ The federal rules require the words "Hazardous Waste" and an indication of the h
 
 ## Courses
 
-2 Hours · #415
+2 Hours · #901
 
 ### Satellite Accumulation Areas
 
@@ -45,15 +45,15 @@ Two hours on SAA rules: location, limits, labels and closed containers.
 
 **$59.99** [Enroll](https://saa-labels.hazwoperosha.us/?buy=415)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator Training
 
 The full generator course.
 
-**$89.99** [Enroll](https://saa-labels.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://saa-labels.hazwoperosha.us/?buy=601)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste Handler
 
@@ -61,13 +61,13 @@ Batteries, lamps, aerosol cans and other universal wastes.
 
 **$34.99** [Enroll](https://saa-labels.hazwoperosha.us/?buy=602)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Hazardous Waste Manifest
 
 The paperwork that follows the waste.
 
-**$34.99** [Enroll](https://saa-labels.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://saa-labels.hazwoperosha.us/?buy=580)
 
 [All trainings (83) →](https://saa-labels.hazwoperosha.us/courses/#all)
 

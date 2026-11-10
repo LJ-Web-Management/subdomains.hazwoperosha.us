@@ -50,13 +50,13 @@ VSQGs have no federal RCRA training requirement. Your state may add one, and you
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=601)
+$134.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=601)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=600)
+$124.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=600)
 
 ---
 

@@ -14,7 +14,7 @@ Fuel docks, transfer hoses and vessel traffic make spills a constant risk on the
 
 ## Courses
 
-1 Hour · #478
+1 Hour
 
 ### Booms
 
@@ -22,15 +22,15 @@ Deploying absorbent and containment boom from docks and boats.
 
 **$24.99** [Enroll](https://marine.hazwoperosha.us/?buy=478)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention
 
 Preventing spills at fuel docks and transfers.
 
-**$49.99** [Enroll](https://marine.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://marine.hazwoperosha.us/?buy=416)
 
-40 Hours · #591
+40 Hours
 
 ### 40 Hr Oil Spill
 
@@ -38,7 +38,7 @@ The 40-hour HAZWOPER for oil spill response crews.
 
 **$249.99** [Enroll](https://marine.hazwoperosha.us/?buy=591)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -46,15 +46,15 @@ Recognize a release, get clear and report it.
 
 **$61.99** [Enroll](https://marine.hazwoperosha.us/?buy=1099)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 Incident command for spill and hazmat incidents.
 
-**$179.99** [Enroll](https://marine.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://marine.hazwoperosha.us/?buy=593)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 

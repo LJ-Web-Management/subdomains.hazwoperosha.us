@@ -34,11 +34,11 @@ Drivers hauling waste need DOT hazmat training and should understand the manifes
 
 ## Courses
 
-[Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://trucking.hazwoperosha.us/guides/hauling-hazardous-waste-transporter-rules?buy=580)
+$58.99 [Enroll](https://trucking.hazwoperosha.us/guides/hauling-hazardous-waste-transporter-rules?buy=580)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
 
 $149.99 [Enroll](https://trucking.hazwoperosha.us/guides/hauling-hazardous-waste-transporter-rules?buy=403)
 

@@ -4,7 +4,7 @@ description: "Batteries, lamps, mercury devices and aerosol cans under 40 CFR 27
 url: https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training
 ---
 
-[Courses](https://healthcare.hazwoperosha.us/courses/) / Course #602
+[Courses](https://healthcare.hazwoperosha.us/courses/) / Course #921
 
 # RCRA Universal Waste Handler Training
 
@@ -58,7 +58,7 @@ $34.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 273 (RCRA)
-- **Course**: #602
+- **Course**: #921
 
 [Enroll now](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602)
 
@@ -66,23 +66,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
+$134.99 [Enroll](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=415)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=600)
+$124.99 [Enroll](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=600)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://healthcare.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://healthcare.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=1099)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=412)
 

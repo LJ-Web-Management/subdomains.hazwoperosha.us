@@ -34,9 +34,9 @@ Fuel deliveries, overfills and tank leaks are the main spill risks at most data 
 
 $99.99 [Enroll](https://dc-generators.hazwoperosha.us/guides/diesel-fuel-quality?buy=835)
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-generators.hazwoperosha.us/guides/diesel-fuel-quality?buy=416)
+$29.99 [Enroll](https://dc-generators.hazwoperosha.us/guides/diesel-fuel-quality?buy=416)
 
 ---
 

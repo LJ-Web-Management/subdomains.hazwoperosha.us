@@ -31,13 +31,13 @@ Your 24-hour qualification is the course certificate plus the field day record. 
 
 ## Courses
 
-[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://24-hour.hazwoperosha.us/guides/the-24-hour-field-day?buy=581)
 
-[Cal/OSHA 24-Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #576 · 8 CCR 5192(e)
+[Cal/OSHA 24-Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #496 · 8 CCR 5192(e)
 
-$169.99 [Enroll](https://24-hour.hazwoperosha.us/guides/the-24-hour-field-day?buy=576)
+$189.99 [Enroll](https://24-hour.hazwoperosha.us/guides/the-24-hour-field-day?buy=576)
 
 ---
 

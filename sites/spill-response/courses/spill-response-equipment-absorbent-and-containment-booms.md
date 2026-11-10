@@ -4,7 +4,7 @@ description: "Using absorbent and containment booms to stop spills on land and w
 url: https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms
 ---
 
-[Courses](https://spill-response.hazwoperosha.us/courses/) / Course #478
+[Courses](https://spill-response.hazwoperosha.us/courses/)
 
 # Spill Response Equipment - Absorbent & Containment Booms
 
@@ -59,7 +59,6 @@ $24.99 per seat
 
 - **Length**: 1 Hour
 - **Standard**: 40 CFR 112 / 29 CFR 1910.120
-- **Course**: #478
 
 [Enroll now](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=478)
 
@@ -67,19 +66,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA Spill Prevention and Response Safety Training](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=416)
+$29.99 [Enroll](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
 
 $24.99 [Enroll](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=479)
 
-[OSHA Air Monitoring and Gas Detection Training](https://spill-response.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://spill-response.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=1056)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://spill-response.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://spill-response.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=591)
 

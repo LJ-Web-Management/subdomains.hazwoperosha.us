@@ -186,7 +186,7 @@ The simplest approach is to give the OSHA 24-hour at hire, which also covers muc
 <pre class="req">&gt; 29 CFR 1910.120(p) + RCRA 40 CFR 264.16
 &gt; for treatment, storage &amp; disposal facility crews
 &gt; initial: 24 hours · refresher: 8 hours / year</pre>
-<div class="hero-cta">${h.buy(582, "$ enroll --course 582")}<a class="btn btn-alt" href="/guides/tsdf-training-1910-120-p">$ man tsdf</a></div>
+<div class="hero-cta">${h.buy(582, "$ enroll --course 135")}<a class="btn btn-alt" href="/guides/tsdf-training-1910-120-p">$ man tsdf</a></div>
 </div>
 </div></section>
 

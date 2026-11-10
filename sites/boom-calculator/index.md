@@ -28,7 +28,7 @@ A planning estimate. Boom generally starts losing oil underneath when the curren
 
 ## Courses
 
-1 Hour · #478
+1 Hour
 
 ### Absorbent & Containment Booms
 
@@ -36,7 +36,7 @@ Choosing, deploying and recovering boom.
 
 **$24.99** [Enroll](https://boom-calculator.hazwoperosha.us/?buy=478)
 
-1 Hour · #479
+1 Hour
 
 ### Spill Kit Selection & Use
 
@@ -44,15 +44,15 @@ The right kit for the spill.
 
 **$24.99** [Enroll](https://boom-calculator.hazwoperosha.us/?buy=479)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention & Response
 
 Preventing spills and the first response.
 
-**$49.99** [Enroll](https://boom-calculator.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://boom-calculator.hazwoperosha.us/?buy=416)
 
-40 Hours · #591
+40 Hours
 
 ### 40-Hour Oil & Gas Spill Response
 

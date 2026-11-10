@@ -37,11 +37,11 @@ IDLH conditions require the most protective respirators: SCBA or supplied air wi
 
 ## Courses
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://glossary.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
 
 $14.99 [Enroll](https://glossary.hazwoperosha.us/guides/pel-rel-tlv-idlh-explained?buy=583)
 
-[OSHA 40 Hour HAZWOPER Training](https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://glossary.hazwoperosha.us/guides/pel-rel-tlv-idlh-explained?buy=587)
 

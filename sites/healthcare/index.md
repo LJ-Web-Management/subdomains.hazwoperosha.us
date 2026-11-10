@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Pharmacy waste, lab chemicals, lamps and batteries. Short online courses for every team that touches hazardous waste.
 
-[Start generator training · $89.99](https://healthcare.hazwoperosha.us/?buy=601) [Who needs training?](https://healthcare.hazwoperosha.us/guides/who-needs-hazardous-waste-training-in-healthcare)
+[Start generator training · $134.99](https://healthcare.hazwoperosha.us/?buy=601) [Who needs training?](https://healthcare.hazwoperosha.us/guides/who-needs-hazardous-waste-training-in-healthcare)
 
 ## Hazardous waste is in every department
 
@@ -26,9 +26,9 @@ Pharmacy Pathology Clinical lab Radiology Facilities Biomed Environmental servic
 
 Hazardous waste generator training for hospital EHS, pharmacy, lab and environmental services staff.
 
-8 Hours · Course #601
+8 Hours · Course #114
 
-**$89.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=601)
 
 +
 
@@ -36,7 +36,7 @@ Hazardous waste generator training for hospital EHS, pharmacy, lab and environme
 
 Running satellite accumulation areas in pharmacies, labs and clinical units.
 
-2 Hours · Course #415
+2 Hours · Course #901
 
 **$59.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=415)
 
@@ -46,7 +46,7 @@ Running satellite accumulation areas in pharmacies, labs and clinical units.
 
 Batteries, lamps, mercury devices and aerosol cans under 40 CFR 273.
 
-2 Hours · Course #602
+2 Hours · Course #921
 
 **$34.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=602)
 
@@ -56,9 +56,9 @@ Batteries, lamps, mercury devices and aerosol cans under 40 CFR 273.
 
 The annual RCRA refresher for healthcare staff.
 
-4 Hours · Course #600
+4 Hours · Course #181
 
-**$59.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=600)
+**$124.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=600)
 
 +
 
@@ -66,7 +66,7 @@ The annual RCRA refresher for healthcare staff.
 
 Awareness-level training for staff who may discover a chemical release.
 
-4 Hours · Course #1099
+4 Hours · Course #654
 
 **$61.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=1099)
 
@@ -76,7 +76,7 @@ Awareness-level training for staff who may discover a chemical release.
 
 Contingency plans and emergency coordinator duties for large quantity generator facilities.
 
-4 Hours · Course #412
+4 Hours · Course #899
 
 **$99.99** [Enroll](https://healthcare.hazwoperosha.us/?buy=412)
 
