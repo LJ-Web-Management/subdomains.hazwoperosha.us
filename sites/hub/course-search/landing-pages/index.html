@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Landing Page Course Search - Hazwoper Osha Training</title>
+  <link rel="icon" type="image/png" href="assets/favicon.png" />
+  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="stylesheet" href="/course-search/switcher.css" />
+</head>
+<body>
+<nav class="cs-switch" aria-label="Course search tools">
+<a class="cs-home" href="/" title="Back to the ICT Directory">&larr; ICT Directory</a>
+<div class="cs-tabs"><a href="/course-search/catalog/"><b>HAZWOPER Course Catalog</b><small>Every course and bundle in the catalog</small></a><a href="/course-search/landing-pages/" class="on" aria-current="page"><b>Landing Page Courses</b><small>Which sites sell which courses</small></a></div>
+</nav>
+  <div class="accent-bar"></div>
+  <header class="site-header">
+    <div class="brand">
+      <img src="assets/hazwoper-logo.png" alt="Hazwoper Osha Training LLC" />
+      <div class="brand-title">Landing Page Course Search</div>
+    </div>
+    <div class="header-stats" id="header-stats"></div>
+  </header>
+
+  <main>
+    <div class="layout">
+      <aside class="sidebar">
+        <div class="sidebar-panel panel">
+          <div class="panel-accent"></div>
+          <div class="sidebar-panel-body">
+            <label class="sidebar-title" for="site-select">Site</label>
+            <select id="site-select" class="sidebar-select"></select>
+            <label class="sidebar-title sidebar-title-spaced" for="course-select">Course</label>
+            <select id="course-select" class="sidebar-select"></select>
+            <label class="sidebar-title sidebar-title-spaced" for="group-select">Site group</label>
+            <select id="group-select" class="sidebar-select"></select>
+            <label class="sidebar-title sidebar-title-spaced" for="topic-select">Site topic</label>
+            <select id="topic-select" class="sidebar-select"></select>
+            <label class="sidebar-title sidebar-title-spaced" for="category-select">Course category</label>
+            <select id="category-select" class="sidebar-select"></select>
+            <p class="sidebar-note" id="data-note"></p>
+          </div>
+        </div>
+      </aside>
+
+      <div class="main-content">
+        <section class="panel">
+          <div class="panel-accent"></div>
+          <div class="search-panel-body">
+            <div class="mode-toggle" role="group" aria-label="Search mode">
+              <button type="button" id="mode-courses-btn" class="mode-btn" aria-pressed="true">Courses</button>
+              <button type="button" id="mode-sites-btn" class="mode-btn" aria-pressed="false">Sites</button>
+            </div>
+            <div class="search-row">
+              <div class="search-input-wrap">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="11" cy="11" r="8"></circle>
+                  <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <input type="search" id="search-input" placeholder="Search courses…" autocomplete="off" />
+              </div>
+            </div>
+            <div class="active-filters" id="active-filters" hidden></div>
+          </div>
+          <div class="toolbar">
+            <span class="result-count" id="result-count"></span>
+            <div class="toolbar-actions">
+              <div class="field sort-field">
+                <select id="sort-select" aria-label="Sort by"></select>
+              </div>
+              <div class="view-toggle" role="group" aria-label="View mode">
+                <button type="button" id="view-list-btn" class="view-btn" aria-pressed="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                  List
+                </button>
+                <button type="button" id="view-grid-btn" class="view-btn" aria-pressed="false">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect></svg>
+                  Grid
+                </button>
+              </div>
+              <button class="clear-btn" id="csv-btn" type="button">Export CSV</button>
+              <button class="clear-btn" id="clear-btn" type="button">Clear filters</button>
+            </div>
+          </div>
+        </section>
+
+        <div class="results-wrap" id="results-wrap">
+          <table class="results-table">
+            <thead id="table-head"></thead>
+            <tbody id="results-body"></tbody>
+          </table>
+          <div class="results-grid" id="results-grid" hidden></div>
+        </div>
+
+        <div class="empty-state" id="empty-state" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <div>No results match your search. Try adjusting the filters.</div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <div class="modal-overlay" id="modal-overlay" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header">
+        <h3 id="modal-title"></h3>
+        <button class="modal-close" id="modal-close" type="button" aria-label="Close">&times;</button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>© Hazwoper Osha Training LLC, 2026</span>
+      <span>Internal Use Only · Landing Page Course Search</span>
+    </div>
+    <div class="accent-bar"></div>
+  </footer>
+
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -83,6 +83,20 @@ The design and script are `tools/hub/hub.css` and `tools/hub/hub.js` (copied wit
 `tools/hub/ict-logo.webp`. The hub is still hidden from search engines and untracked: its pages have a `noindex, nofollow` meta
 tag, the Worker sends `X-Robots-Tag: noindex, nofollow` and adds no analytics for it, and `npm run audit` skips it.
 
+### Course search (`/course-search/`)
+
+https://hub.hazwoperosha.us/course-search/ runs the two internal course search tools, with a bar at the top to switch
+between them:
+
+- `/course-search/catalog/`: the HAZWOPER course catalog ([hazwoperosha-course-search](https://github.com/LJ-Web-Management/hazwoperosha-course-search)).
+- `/course-search/landing-pages/`: which landing sites sell which courses ([landingpages-course-search](https://github.com/LJ-Web-Management/landingpages-course-search)).
+
+Both are linked from the hub's menu bar and status menu. They are copies of each tool's `main` branch, made by
+`node tools/course-search.mjs` (it clones both repos, copies `index.html` and `assets/`, and adds the switcher bar,
+styled by `sites/hub/course-search/switcher.css`). Run it after either tool changes and commit the result; don't edit
+the copies by hand. Like the rest of the hub they are noindex and untracked, and the CSP still applies, so neither tool
+may use inline `onclick=""` handlers.
+
 ## Shared files
 
 `sites/_shared/` is served to every site at `/_shared/` (for example

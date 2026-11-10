@@ -205,6 +205,7 @@ function menubar() {
 <nav class="left" aria-label="Main">
 <a class="brand" href="/"><img src="${LOGO}" alt="" width="18" height="17"><span class="full">Industrial Certified Training Directory</span><span class="short">ICT Directory</span></a>
 <a class="m" href="/#finder">Course Finder</a>
+<a class="m" href="/course-search/">Course Search</a>
 <a class="m" href="/about">About</a>
 <a class="m" href="/contact">Contact</a>
 </nav>
@@ -219,6 +220,8 @@ function menubar() {
 <button type="button" role="menuitem" data-act="search">Search Sites… <kbd>⌘K</kbd></button>
 <a role="menuitem" href="/#finder">Find My Course</a>
 <a role="menuitem" href="/#directory">Browse Directory</a>
+<a role="menuitem" href="/course-search/catalog/">HAZWOPER Course Catalog</a>
+<a role="menuitem" href="/course-search/landing-pages/">Landing Page Courses</a>
 <hr>
 <a role="menuitem" href="${PHONE_HREF}">Call ${PHONE_SHOW}</a>
 <a role="menuitem" href="mailto:${EMAIL}">Email Support</a>

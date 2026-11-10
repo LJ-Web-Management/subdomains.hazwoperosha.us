@@ -1,0 +1,108 @@
+/* The bar at the top of /course-search/catalog/ and /course-search/landing-pages/ that switches
+   between the two tools. Added to each tool's index.html by tools/course-search.mjs. */
+.cs-switch {
+  position: sticky;
+  top: 0;
+  z-index: 90;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 16px;
+  background: #171717;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+}
+
+.cs-switch a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.cs-home {
+  flex-shrink: 0;
+  font-size: 12.5px;
+  color: #a1a1aa !important;
+  padding: 6px 4px;
+}
+
+.cs-home:hover {
+  color: #fff !important;
+}
+
+.cs-tabs {
+  display: flex;
+  gap: 6px;
+  flex: 1;
+  justify-content: center;
+  min-width: 0;
+}
+
+.cs-tabs a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 18px;
+  border-radius: 8px;
+  border: 1px solid #3f3f46;
+  line-height: 1.25;
+  min-width: 0;
+}
+
+.cs-tabs a:hover {
+  border-color: #71717a;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.cs-tabs a.on {
+  background: #ffcd08;
+  border-color: #ffcd08;
+  color: #171717;
+}
+
+.cs-tabs b {
+  font-size: 13.5px;
+  white-space: nowrap;
+}
+
+.cs-tabs small {
+  font-size: 11px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+/* The tools' own sticky sidebars and table headers sit below the bar. */
+.cs-switch ~ main .sidebar-panel {
+  top: 72px;
+}
+
+.cs-switch ~ main table.results-table thead th {
+  top: 56px;
+}
+
+@media (max-width: 640px) {
+  .cs-switch {
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 8px 10px;
+  }
+  .cs-home {
+    width: 100%;
+    padding: 0 2px;
+  }
+  .cs-tabs {
+    justify-content: stretch;
+  }
+  .cs-tabs a {
+    flex: 1;
+    padding: 6px 8px;
+  }
+  .cs-tabs b {
+    font-size: 12.5px;
+    white-space: normal;
+    text-align: center;
+  }
+  .cs-tabs small {
+    display: none;
+  }
+}
