@@ -74,7 +74,8 @@ there directly), the switcher bar in `sites/hub/course-search/switcher.css`, and
 `tools/course-search/`:
 
 - `npm run course-search` rebuilds the landing page data (`tools/course-search/build_landing_pages.py`: reads this
-  repo's sites, the hazwoperosha.com/.us/.org and datacentertraining.us repos, and scrapes the four live-only sites).
+  repo's sites, the hazwoperosha.com/.us/.org, datacentertraining.us and subdomains.hazwoperosha.com repos, and scrapes
+  the four live-only sites).
   Run it when any site's courses change, then commit. See `tools/course-search/landing-pages.md`.
 - The catalog data comes from spreadsheets: `tools/course-search/build_catalog.py` and `merge_b2b_catalog.py` (need
   `pip install openpyxl`). See `tools/course-search/catalog.md`.

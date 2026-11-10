@@ -18,11 +18,12 @@ Sources:
     this repo (subdomains.hazwoperosha.us)                 sites/<sub>/courses/<slug>.html for course sites,
                                                            sites/<sub>/js/config.js for imported sites
     datacentertraining.us                                  api/courses.json (+ js/config.js for LMS ids)
+    subdomains.hazwoperosha.com                            sites/<sub>/index.html Course JSON-LD (one course per site)
   Live sites (no repo in the org, scraped from sitemap.xml + Course JSON-LD):
     confined-space.com, moldtraining.us, excavationtrenchingshoring.com, stormwaterplanning.us
 
 The same course on different sites is matched by a normalized course name (see norm_name), or for
-the live sites by the hazwoper-osha.com store page they link to. See tools/course-search/landing-pages.md.
+the live sites and the hazwoperosha.com subdomains by the hazwoper-osha.com store page they link to. See tools/course-search/landing-pages.md.
 """
 import argparse
 import html
@@ -37,7 +38,8 @@ from datetime import date
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT = os.path.join(ROOT, "sites/hub/course-search/landing-pages/assets/data.js")
 ORG = "https://github.com/LJ-Web-Management/"
-REPOS = ["hazwoperosha.com", "hazwoperosha.us", "hazwoperosha.org", "datacentertraining.us"]
+REPOS = ["hazwoperosha.com", "hazwoperosha.us", "hazwoperosha.org", "datacentertraining.us",
+         "subdomains.hazwoperosha.com"]
 LIVE_SITES = {
     "confined-space.com": "Confined Space",
     "moldtraining.us": "Mold",
@@ -269,6 +271,53 @@ def collect_subdomains():
                 ))
 
 
+# Site topics for the hazwoperosha.com subdomains: the first pattern that matches the subdomain name;
+# anything unmatched is Workplace Safety.
+COM_SUBDOMAIN_TOPICS = [
+    ("States & Regions", r"^cal-"),
+    ("DOT & Transport", r"^(dot|cdl)-|lithium.*ship|ship.*lithium"),
+    ("Waste & Environment", r"rcra|waste|manifest|spcc|spill|swppp|stormwater"),
+    ("HAZWOPER", r"hazwoper|tsd"),
+    ("Industries", r"ammonia"),
+]
+
+
+def com_topic_for(name):
+    return next((label for label, pattern in COM_SUBDOMAIN_TOPICS if re.search(pattern, name)),
+                "Workplace Safety")
+
+
+def collect_com_subdomains(src):
+    """subdomains.hazwoperosha.com: one landing page per course at sites/<sub>/index.html, described
+    by the page's Course JSON-LD (name, offer price and hazwoper-osha.com store URL, workload)."""
+    repo = "subdomains.hazwoperosha.com"
+    sites_dir = os.path.join(src, repo, "sites")
+    for sub in sorted(os.listdir(sites_dir)):
+        page = os.path.join(sites_dir, sub, "index.html")
+        if not os.path.isfile(page):
+            continue
+        host = f"{sub}.hazwoperosha.com"
+        add_site(id=host, name=page_title(page) or host, url=f"https://{host}/",
+                 group="hazwoperosha.com subdomains", topic=com_topic_for(sub), source=f"repo {repo}")
+        course = next((x for x in ld_courses(read(page)) if "Course" in
+                       (x.get("@type") if isinstance(x.get("@type"), list) else [x.get("@type")])), None)
+        if not course:
+            log(f"  warn: {host} has no Course JSON-LD")
+            continue
+        offer = course.get("offers") or {}
+        offer = (offer[0] if offer else {}) if isinstance(offer, list) else offer
+        instance = course.get("hasCourseInstance") or {}
+        instance = (instance[0] if instance else {}) if isinstance(instance, list) else instance
+        store = re.search(r"hazwoper-osha\.com/online-courses/([a-z0-9-]+)",
+                          offer.get("url") or course.get("url") or "")
+        OFFERS.append(dict(
+            siteId=host, name=html.unescape(course.get("name") or host), slug=sub, url=f"https://{host}/",
+            price=money(offer.get("price")),
+            duration=hours_label(instance.get("courseWorkload") or course.get("timeRequired")),
+            citation=None, category=None, lmsId=None, storeSlug=store.group(1) if store else None,
+        ))
+
+
 def collect_datacenter(src):
     path = os.path.join(src, "datacentertraining.us")
     add_site(id="datacentertraining.us", name=page_title(os.path.join(path, "index.html")) or "datacentertraining.us",
@@ -325,8 +374,17 @@ def collect_live(src, refresh):
         data = load_json(cache)
         add_site(id=host, name=data["title"] or host, url=f"https://{host}/", group="Main domains",
                  topic=topic, source="live site (no repo)")
+        # A store page linked from differently named courses on one site is a bundle or category
+        # page, not either course's own store page, so it can't match them; they match by name.
+        names_by_store = {}
         for c in data["courses"]:
-            OFFERS.append(dict(siteId=host, **c))
+            if c.get("storeSlug"):
+                names_by_store.setdefault(c["storeSlug"], set()).add(norm_name(c["name"]))
+        for c in data["courses"]:
+            offer = dict(siteId=host, **c)
+            if len(names_by_store.get(c.get("storeSlug"), ())) > 1:
+                offer["storeSlug"] = None
+            OFFERS.append(offer)
 
 
 def scrape_live(host):
@@ -473,6 +531,7 @@ def main():
     collect_datacenter(args.src)
     collect_live(args.src, refresh=not args.no_fetch)
     collect_subdomains()
+    collect_com_subdomains(args.src)
 
     courses, offers = build()
     groups = sorted({s["group"] for s in SITES}, key=lambda g: (g != "Main domains", g))

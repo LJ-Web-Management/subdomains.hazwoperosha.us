@@ -24,9 +24,10 @@ tools/course-search/build_landing_pages.py
 ## Data model (`assets/data.js`)
 
 - `SITES`: `{ id, name, url, group, topic, source, courseCount }`. `id` is the host
-  (`hazwoperosha.com`, `rcra.hazwoperosha.us`, ...). `group` is `"Main domains"` or
-  `"hazwoperosha.us subdomains"`. `topic` for subdomains comes from `SUBDOMAIN_TOPICS` in
-  `tools/course-search/build_landing_pages.py` (add new sites there).
+  (`hazwoperosha.com`, `rcra.hazwoperosha.us`, ...). `group` is `"Main domains"`,
+  `"hazwoperosha.com subdomains"` or `"hazwoperosha.us subdomains"`. `topic` for .us subdomains
+  comes from `SUBDOMAIN_TOPICS` in `tools/course-search/build_landing_pages.py` (add new sites
+  there), and for .com subdomains from the name patterns in `COM_SUBDOMAIN_TOPICS`.
 - `COURSES`: `{ id, name, altNames, category, duration, citation, priceMin, priceMax, lmsIds,
   siteCount }` - one per unique course after cross-site matching.
 - `OFFERS`: `{ courseId, siteId, name, url, price, duration, lmsId }` - one per course listing on a
@@ -63,6 +64,7 @@ remove filters, list/grid, row expand + modal, Export CSV, and a 375px-wide view
 | hazwoperosha.org | repo `hazwoperosha.org` - `data/courses.json` |
 | datacentertraining.us | repo `datacentertraining.us` - `api/courses.json` |
 | `{subdomain}`.hazwoperosha.us (148 sites) | this repo - each `sites/<sub>/courses/<slug>.html` course page (looked up in `content/catalog.json` / `dc-catalog.json`), or `sites/<sub>/js/config.js` for the imported sites with no course pages |
+| `{subdomain}`.hazwoperosha.com (61 sites) | repo `subdomains.hazwoperosha.com` - each site is one course's landing page; `sites/<sub>/index.html` Course JSON-LD gives the name, price, hours and hazwoper-osha.com store page |
 | confined-space.com, moldtraining.us, excavationtrenchingshoring.com, stormwaterplanning.us | no repo in the org, so scraped from the live site: every top-level page in `sitemap.xml` whose Course JSON-LD points at itself (free lessons under `/free-training/` are skipped) |
 
 A "course" on a site means a paid course with its own landing page on that site. The subdomain
@@ -94,8 +96,8 @@ npm run course-search
 ```
 
 It needs only Python 3 and git (no pip packages). It reads the subdomain sites straight from this
-repo's `sites/`, clones hazwoperosha.com, hazwoperosha.us, hazwoperosha.org and
-datacentertraining.us into `.sources/` (git-ignored) on the first run and `git pull`s them after
+repo's `sites/`, clones hazwoperosha.com, hazwoperosha.us, hazwoperosha.org,
+datacentertraining.us and subdomains.hazwoperosha.com into `.sources/` (git-ignored) on the first run and `git pull`s them after
 that, and re-scrapes the four live sites. Run `python3 tools/course-search/build_landing_pages.py
 --help` for `--src DIR` (existing clones) and `--no-fetch` (skip pulling, reuse the last scrape in
 `.sources/_live/`). Check the page, then commit `assets/data.js`.
@@ -104,9 +106,11 @@ that, and re-scrapes the four live sites. Run `python3 tools/course-search/build
 
 Listings are grouped into one course by a normalized name (lowercased, punctuation and filler
 words like "OSHA", "Training", "Online" dropped, and a trailing "- 29 CFR ..." removed), or for
-the four live sites by the hazwoper-osha.com store page they link to. So "OSHA Confined Space
-Awareness Training" and "Confined Space Awareness Training" are one course; the name each site
-uses is shown in the course detail.
+the four live sites and the hazwoperosha.com subdomains by the hazwoper-osha.com store page they
+link to. So "OSHA Confined Space Awareness Training" and "Confined Space Awareness Training" are
+one course; the name each site uses is shown in the course detail. A store page that one live
+site links from two differently named courses is a bundle or category page, so it is not used to
+match those two (they match by name).
 
 LMS course ids are deliberately not used for matching: `hazwoperosha.com/data/lms-ids.json` holds
 catalog ids rather than LMS ids, and some imported subdomain sites reuse one LMS id for two
@@ -118,6 +122,9 @@ per listing in `OFFERS[].lmsId`.
 
 - A new `{subdomain}`.hazwoperosha.us site is picked up automatically on the next run; add it to
   `SUBDOMAIN_TOPICS` in the generator to give it a topic other than HAZWOPER.
+- A new `{subdomain}`.hazwoperosha.com site is picked up automatically too (once it is on that
+  repo's `main`). Its topic comes from `COM_SUBDOMAIN_TOPICS` (name patterns, Workplace Safety
+  if none match).
 - Another site with a repo: add a `collect_*` function in `tools/course-search/build_landing_pages.py` and call it from
   `main()`.
 - Another site without a repo: add it to `LIVE_SITES` in `tools/course-search/build_landing_pages.py` (domain and topic).
