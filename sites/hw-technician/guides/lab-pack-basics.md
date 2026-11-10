@@ -37,10 +37,6 @@ A **lab pack** is an outer container (usually a drum) holding many small contain
 
 $349.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics?buy=403)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

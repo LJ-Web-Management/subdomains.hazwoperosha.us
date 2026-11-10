@@ -8,7 +8,7 @@ SpillReady
 
 # About SpillReady
 
-Online spill prevention and response training: SPCC and OSHA spill response, spill kit selection, absorbent and containment booms, air monitoring and 40-hour oil spill HAZWOPER.
+Online spill prevention and response training: OSHA spill prevention and response and air monitoring, with guides to spill kits and booms.
 
 ## Who delivers the training
 
@@ -21,12 +21,9 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA Spill Prevention and Response Safety Training](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
-- [Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
-- [Spill Response Equipment - Absorbent & Containment Booms](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): 1 Hour, $24.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://spill-response.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
-- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://spill-response.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): 40 Hours, $249.99 per seat
 
-The [full catalog of 83 trainings](https://spill-response.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://spill-response.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://spill-response.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://spill-response.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

@@ -1,6 +1,6 @@
 ---
 title: "Hazardous Waste Manifest Explained, Box by Box"
-description: "A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest, RCRA/DOT and generator training."
+description: "A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest and generator training."
 url: https://manifest.hazwoperosha.us/
 ---
 
@@ -60,14 +60,6 @@ Two hours on completing, signing and tracking the manifest.
 
 **$58.99** [Enroll](https://manifest.hazwoperosha.us/?buy=580)
 
-8 Hours
-
-### RCRA/DOT Combined Compliance
-
-RCRA and DOT hazmat rules together for shippers.
-
-**$149.99** [Enroll](https://manifest.hazwoperosha.us/?buy=403)
-
 8 Hours · #114
 
 ### RCRA Generator Training
@@ -84,7 +76,7 @@ The annual refresher.
 
 **$124.99** [Enroll](https://manifest.hazwoperosha.us/?buy=600)
 
-[All trainings (83) →](https://manifest.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://manifest.hazwoperosha.us/courses/#all)
 
 ## Guides
 

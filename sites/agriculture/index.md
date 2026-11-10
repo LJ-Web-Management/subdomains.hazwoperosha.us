@@ -46,14 +46,6 @@ Gas detection for bins, pits and manure storage.
 
 **$49.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=1056)
 
-1 Hour
-
-### Spill Kit Use
-
-Choosing and using spill kits.
-
-**$24.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=479)
-
 2 Hours · #921
 
 ### Universal Waste
@@ -62,7 +54,7 @@ Batteries, lamps and pesticides as universal waste.
 
 **$34.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=602)
 
-[All trainings (83) →](https://agriculture.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://agriculture.hazwoperosha.us/courses/#all)
 
 ## Guides
 

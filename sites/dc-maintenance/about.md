@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Building Envelope Fundamentals](https://dc-maintenance.hazwoperosha.us/courses/building-envelope-fundamentals): 2 Hours, $99.99 per seat
 - [Roofing Systems Maintenance Fundamentals](https://dc-maintenance.hazwoperosha.us/courses/roofing-systems-maintenance-fundamentals): 2 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://dc-maintenance.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-maintenance.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dc-maintenance.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-maintenance.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

@@ -18,7 +18,6 @@ Landfill Safe (https://landfill.hazwoperosha.us/) sells online training from HAZ
 - [OSHA 24 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The 24-hour HAZWOPER for staff who handle hazardous waste found in loads occasionally. Enroll: https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
 - [OSHA 40 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for cleanup work at closed or Superfund landfills. Enroll: https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
 - [OSHA Spill Prevention and Response Safety Training](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Fuel and leachate spill prevention and response. Enroll: https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://landfill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute decon module. Enroll: https://landfill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
 
 ## Guides
 
@@ -28,7 +27,7 @@ Landfill Safe (https://landfill.hazwoperosha.us/) sells online training from HAZ
 
 ## All trainings
 
-- [All 83 trainings](https://landfill.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://landfill.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

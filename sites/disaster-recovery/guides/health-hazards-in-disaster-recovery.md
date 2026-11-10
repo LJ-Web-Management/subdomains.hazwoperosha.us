@@ -18,7 +18,7 @@ Many recoveries happen in hot weather. Work-rest cycles, shade, water and acclim
 
 ## Contaminated floodwater
 
-Floodwater can carry sewage, fuel, chemicals and debris. Wear waterproof boots and gloves, cover cuts, wash before eating and decontaminate gear. See [HAZWOPER Micro-Module: Decontamination Procedures](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures).
+Floodwater can carry sewage, fuel, chemicals and debris. Wear waterproof boots and gloves, cover cuts, wash before eating and decontaminate gear.
 
 ## Carbon monoxide
 
@@ -37,10 +37,6 @@ Long shifts for weeks on end lead to mistakes. Rotate tasks, schedule rest days 
 Ash from burned buildings can contain metals, asbestos and other hazards. Wet methods, respirators and protective clothing are standard for burned-structure cleanup.
 
 ## Courses
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://disaster-recovery.hazwoperosha.us/guides/health-hazards-in-disaster-recovery?buy=584)
 
 [OSHA Spill Prevention and Response Safety Training](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 

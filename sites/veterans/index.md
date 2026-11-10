@@ -38,14 +38,6 @@ For veterans who trained troops.
 
 **$399.99** [Enroll](https://veterans.hazwoperosha.us/?buy=1016)
 
-40 Hours
-
-### 40-Hour Fire/Hazmat Teams
-
-For military firefighters and CBRN specialists.
-
-**$249.99** [Enroll](https://veterans.hazwoperosha.us/?buy=589)
-
 8 Hours · #133
 
 ### HAZWOPER Supervisor
@@ -54,7 +46,7 @@ For NCOs and officers.
 
 **$69.99** [Enroll](https://veterans.hazwoperosha.us/?buy=597)
 
-[All trainings (83) →](https://veterans.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://veterans.hazwoperosha.us/courses/#all)
 
 ## Guides
 

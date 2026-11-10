@@ -71,7 +71,7 @@ The foundation every plan assumes.
 
 **$249.99** [Enroll](https://safety-plan-checklist.hazwoperosha.us/?buy=587)
 
-[All trainings (83) →](https://safety-plan-checklist.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://safety-plan-checklist.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Batteries and DC Circuits](https://lithium-ion.hazwoperosha.us/courses/batteries-dc-circuits): 2 Hours, $99.99 per seat
 - [RCRA Universal Waste Handler Training](https://lithium-ion.hazwoperosha.us/courses/rcra-universal-waste-handler-training): 2 Hours, $34.99 per seat
 
-The [full catalog of 83 trainings](https://lithium-ion.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://lithium-ion.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://lithium-ion.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://lithium-ion.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

@@ -69,7 +69,7 @@ For new hires, or lapsed workers who need to start over.
 
 **$249.99** [Enroll](https://cert-tracker.hazwoperosha.us/?buy=587)
 
-[All trainings (83) →](https://cert-tracker.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://cert-tracker.hazwoperosha.us/courses/#all)
 
 ## Guides
 

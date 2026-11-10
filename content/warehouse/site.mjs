@@ -22,11 +22,6 @@ export default {
       body: `A forklift tine through a drum or a leaking pallet of cleaner is a hazardous release. Four hours on recognizing, isolating and notifying.`,
       topics: ["Recognizing a release", "Labels, SDSs and placards", "Isolating the area", "Notifying"],
       who: "Forklift operators, pickers, receivers and shift leads." },
-    { id: 479, short: "Spill Kit Use",
-      summary: "Using spill kits on small, incidental spills.",
-      body: `One hour on choosing and using the right spill kit, and when a spill is too big to handle.`,
-      topics: ["Incidental vs emergency spills", "Kit types", "Using pads, socks and drain covers", "Disposal"],
-      who: "Warehouse staff assigned to spill cleanup." },
     { id: 416, short: "Spill Prevention",
       summary: "Preventing spills in storage, handling and loading.",
       body: `Two hours on why spills happen in warehouses and simple prevention.`,
@@ -42,11 +37,6 @@ export default {
       body: `Damaged chemical products that can't be sold often become hazardous waste. Eight hours on generator rules.`,
       topics: ["When products become waste", "Waste determination", "Containers and labels", "Manifests"],
       who: "Returns, EHS and waste handling staff." },
-    { id: 585, short: "PPE Levels A–D",
-      summary: "A 15-minute module on PPE levels.",
-      body: `What the levels of protection mean, in 15 minutes.`,
-      topics: ["Levels A, B, C and D"],
-      who: "Anyone who wants a quick PPE primer." },
   ],
 
   guides: [
@@ -88,7 +78,7 @@ Fire codes set limits on how much of each hazard class can be stored in an area.
       title: "Damaged and leaking packages: what warehouse staff should do",
       description: "A punctured case or a puddle under a pallet. A step-by-step plan for the floor.",
       date: "2026-10-25",
-      courses: [1099, 479],
+      courses: [1099],
       body: `## 1. Stop and look
 
 Don't drive through it or pick it up. Note what's leaking: label, product name, hazard pictograms.
@@ -109,7 +99,7 @@ Find the product's safety data sheet. Sections 2, 6 and 8 cover hazards, spill r
 
 ## 5. Clean up only if trained
 
-Use the right kit and absorbent, cover drains, bag the waste and label it. See [[479]].
+Use the right kit and absorbent, cover drains, bag the waste and label it. See [[416]].
 
 ## 6. Damaged product may be waste
 

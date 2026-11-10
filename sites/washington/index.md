@@ -22,14 +22,6 @@ The 40-hour initial HAZWOPER, with the same hours Washington requires.
 
 **$249.99** [Enroll](https://washington.hazwoperosha.us/?buy=587)
 
-40 Hours
-
-### 40 Hr Remediation
-
-The 40-hour HAZWOPER for remediation crews.
-
-**$249.99** [Enroll](https://washington.hazwoperosha.us/?buy=590)
-
 24 Hours · #137
 
 ### 24-Hour HAZWOPER
@@ -37,14 +29,6 @@ The 40-hour HAZWOPER for remediation crews.
 The 24-hour HAZWOPER for occasional and low-exposure workers.
 
 **$169.99** [Enroll](https://washington.hazwoperosha.us/?buy=581)
-
-8 Hours
-
-### State-Plan Refresher
-
-The annual refresher with state-plan versions available.
-
-**$84.99** [Enroll](https://washington.hazwoperosha.us/?buy=900)
 
 8 Hours · #112
 
@@ -62,7 +46,7 @@ Gas detection for excavations, vaults and confined spaces.
 
 **$49.99** [Enroll](https://washington.hazwoperosha.us/?buy=1056)
 
-[All trainings (83) →](https://washington.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://washington.hazwoperosha.us/courses/#all)
 
 ## Guides
 

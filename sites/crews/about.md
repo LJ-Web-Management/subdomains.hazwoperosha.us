@@ -27,7 +27,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [HAZWOPER Train-the-Trainer Certification](https://crews.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): 24 Hours, $399.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://crews.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 
-The [full catalog of 83 trainings](https://crews.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://crews.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://crews.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://crews.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

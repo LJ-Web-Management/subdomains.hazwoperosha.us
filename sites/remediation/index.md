@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 HAZWOPER and field-skills training for the people who investigate, excavate and treat contaminated sites.
 
-[Start the 40-hour · $249.99](https://remediation.hazwoperosha.us/?buy=590) [Your first week](https://remediation.hazwoperosha.us/guides/first-week-on-a-remediation-site)
+[Start with gas detection · $49.99](https://remediation.hazwoperosha.us/?buy=1056) [Your first week](https://remediation.hazwoperosha.us/guides/first-week-on-a-remediation-site)
 
 ## Every phase of the cleanup
 
@@ -20,38 +20,6 @@ HAZWOPER and field-skills training for the people who investigate, excavate and 
 4. **Confirm** Confirmation samples and closure
 
 ## Courses
-
-40 Hours
-
-### 40 Hr Remediation
-
-The 40-hour initial HAZWOPER for environmental remediation crews.
-
-**$249.99** [Enroll](https://remediation.hazwoperosha.us/?buy=590)
-
-20 Min
-
-### Site Characterization
-
-A 20-minute module on how sites are evaluated before and during work.
-
-**$14.99** [Enroll](https://remediation.hazwoperosha.us/?buy=586)
-
-20 Min
-
-### Air Monitoring
-
-A 20-minute module on direct-reading instruments and action levels.
-
-**$14.99** [Enroll](https://remediation.hazwoperosha.us/?buy=583)
-
-20 Min
-
-### Decontamination
-
-A 20-minute module on the decon line, station by station.
-
-**$14.99** [Enroll](https://remediation.hazwoperosha.us/?buy=584)
 
 2 Hours · #664
 

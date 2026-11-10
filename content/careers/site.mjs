@@ -3,7 +3,7 @@ export default {
   brand: "HAZWOPER Careers",
   logo: `<span class="spark">✦</span> HAZWOPER Careers`,
   title: "Start a Career in Hazardous Waste & Environmental Cleanup | HAZWOPER Careers",
-  description: "Get the training employers look for in hazardous waste, remediation and environmental services jobs: 40-hour and 24-hour HAZWOPER, RCRA/DOT, waste technician, refresher and awareness courses.",
+  description: "Get the training employers look for in hazardous waste, remediation and environmental services jobs: 40-hour and 24-hour HAZWOPER, waste technician, refresher and awareness courses.",
   theme: "#6d28d9",
   fonts: "family=Lexend:wght@400;500;600;700;800",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="9" fill="#6d28d9"/><path d="M16 5l2.5 8.5L27 16l-8.5 2.5L16 27l-2.5-8.5L5 16l8.5-2.5z" fill="#fde047"/></svg>`,
@@ -28,11 +28,6 @@ export default {
       body: `For roles like surveying, inspection and field support with limited exposure.`,
       topics: ["Who qualifies", "Hazard recognition", "PPE basics"],
       who: "Field support and inspection roles." },
-    { id: 403, short: "RCRA/DOT Combined",
-      summary: "Waste and hazmat shipping knowledge that sets applicants apart.",
-      body: `Waste technicians package, label and ship hazmat. This eight-hour course covers RCRA and DOT basics.`,
-      topics: ["Hazardous waste rules", "DOT hazmat basics", "Manifests", "Marking and labeling"],
-      who: "Aspiring waste technicians and drivers." },
     { id: 599, short: "Waste Technician",
       summary: "Technician skills for environmental services companies.",
       body: `24 hours of combined HAZWOPER and RCRA technician training.`,
@@ -56,7 +51,7 @@ export default {
       title: "How to start a career in hazardous waste and environmental cleanup",
       description: "The jobs, the training and the first steps for people new to the field.",
       date: "2026-10-25",
-      courses: [587, 403],
+      courses: [587],
       body: `Environmental services is a field where training matters more than a degree for many entry-level jobs.
 
 ## Where the jobs are
@@ -73,7 +68,7 @@ export default {
 
 1. **[[587]]**: the certificate most postings ask for
 2. **A driver's license**, and for some roles a CDL with hazmat endorsement
-3. **[[403]]** for waste technician and driver roles
+3. **DOT hazmat training** for waste technician and driver roles
 4. **Basic first aid/CPR**
 
 ## Your first months
@@ -125,7 +120,7 @@ Physical stamina, comfort working in PPE in heat and cold, attention to detail a
       title: "Certifications that get you hired in environmental services",
       description: "Which certificates matter, in what order, and how to keep them current.",
       date: "2026-10-25",
-      courses: [587, 595, 403, 599],
+      courses: [587, 595, 599],
       body: `## Start here
 
 | Certificate | Why |
@@ -137,7 +132,7 @@ Physical stamina, comfort working in PPE in heat and cold, attention to detail a
 
 | Certificate | Why |
 |---|---|
-| [[403]] | DOT hazmat and RCRA basics |
+| DOT hazmat training | Required to package and ship hazmat |
 | [[599]] | Technician skills employers look for |
 | CDL with hazmat endorsement | Required to drive placarded loads |
 

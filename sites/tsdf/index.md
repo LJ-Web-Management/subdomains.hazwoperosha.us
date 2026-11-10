@@ -52,22 +52,6 @@ Combined HAZWOPER and RCRA training for hazardous waste management technicians.
 
 **$349.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=599)
 
-[575] 24 Hours · 8 CCR 5192(p) / RCRA
-
-### Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training
-
-The 24-hour TSDF course written to California's Title 8 section 5192(p) and Title 22.
-
-**$249.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=575)
-
-[579] 8 Hours · 8 CCR 5192(p)(8) / RCRA
-
-### Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training
-
-The annual 8-hour refresher for California TSDF workers.
-
-**$109.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=579)
-
 $ ls./docs
 
 [2 min read **TSDF training under 1910.120(p): 24 hours, then 8 every year** Why TSD workers have their own paragraph in HAZWOPER, and what it requires. Read guide →](https://tsdf.hazwoperosha.us/guides/tsdf-training-1910-120-p) [2 min read **TSDF or cleanup site? Why the 40-hour isn't the default at a TSDF** Workers move between facilities and field jobs. Here's which HAZWOPER paragraph covers which work. Read guide →](https://tsdf.hazwoperosha.us/guides/tsdf-vs-cleanup-site-training) [2 min read **OSHA and EPA training records at a TSDF: one system for both** TSDFs answer to two agencies for training. Here's how to keep one set of records that satisfies both. Read guide →](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa)

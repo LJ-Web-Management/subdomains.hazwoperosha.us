@@ -31,7 +31,7 @@ You're walking the warehouse and there's a puddle under a pallet of drums. Or a 
 
 ## Small and known?
 
-Some spills are incidental: a known material, a small amount and no real hazard, like a little motor oil. If you've been trained and your site allows it, you can clean those up with a spill kit. See [Spill Response Equipment - Spill Kit Selection & Use](https://awareness.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use). If you're not sure, it's not incidental.
+Some spills are incidental: a known material, a small amount and no real hazard, like a little motor oil. If you've been trained and your site allows it, you can clean those up with a spill kit. See [OSHA Spill Prevention and Response Safety Training](https://awareness.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training). If you're not sure, it's not incidental.
 
 **OSHA 4-Hour HAZWOPER First Responder Awareness Level Training** 4 Hours · $61.99 per seat
 
@@ -42,10 +42,6 @@ Some spills are incidental: a known material, a small amount and no real hazard,
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://awareness.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://awareness.hazwoperosha.us/guides/see-a-spill-what-to-do?buy=1099)
-
-[Spill Response Equipment - Spill Kit Selection & Use](https://awareness.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://awareness.hazwoperosha.us/guides/see-a-spill-what-to-do?buy=479)
 
 ---
 

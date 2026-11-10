@@ -10,17 +10,9 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 When a pipeline or utility line fails, company responders are often there before anyone else. HAZWOPER training built for the people who make the scene safe and stop the release.
 
-[40-Hr Utility/Pipeline · $249.99](https://pipeline.hazwoperosha.us/?buy=592) [First actions](https://pipeline.hazwoperosha.us/guides/pipeline-release-first-actions)
+[Incident Command (q) · $199.99](https://pipeline.hazwoperosha.us/?buy=593) [First actions](https://pipeline.hazwoperosha.us/guides/pipeline-release-first-actions)
 
 ## Courses
-
-40 Hours
-
-### 40-Hour Utility/Pipeline Emergency Response
-
-Full HAZWOPER for pipeline and utility responders.
-
-**$249.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=592)
 
 8 Hours · #259
 
@@ -38,14 +30,6 @@ The annual refresher with ICS.
 
 **$249.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=574)
 
-40 Hours
-
-### 40-Hour Oil & Gas Spill Response
-
-For liquids pipeline spill response.
-
-**$249.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=591)
-
 2 Hours · #664
 
 ### Gas Detection
@@ -54,7 +38,7 @@ Monitoring at gas releases.
 
 **$49.99** [Enroll](https://pipeline.hazwoperosha.us/?buy=1056)
 
-[All trainings (83) →](https://pipeline.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://pipeline.hazwoperosha.us/courses/#all)
 
 ## Guides
 

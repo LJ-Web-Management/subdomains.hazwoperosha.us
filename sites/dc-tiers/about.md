@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Disaster Recovery & Business Continuity](https://dc-tiers.hazwoperosha.us/courses/disaster-recovery-business-continuity): 8 Hours, $307.99 per seat
 - [Power Systems & Electrical Fundamentals](https://dc-tiers.hazwoperosha.us/courses/power-systems-electrical-fundamentals): 8 Hours, $303.99 per seat
 
-The [full catalog of 83 trainings](https://dc-tiers.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-tiers.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dc-tiers.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-tiers.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

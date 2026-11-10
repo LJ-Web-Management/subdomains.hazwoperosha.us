@@ -30,13 +30,9 @@ Cleanups at active installations, Base Realignment and Closure (BRAC) sites and 
 
 ## Training
 
-The core is the same everywhere: [OSHA 40 Hour HAZWOPER Training](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) or [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation), supervisor training for leads and an annual refresher. Site-specific training, such as munitions awareness or rad worker training, is added on top.
+The core is the same everywhere: [OSHA 40 Hour HAZWOPER Training](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training), supervisor training for leads and an annual refresher. Site-specific training, such as munitions awareness or rad worker training, is added on top.
 
 ## Courses
-
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://federal-sites.hazwoperosha.us/guides/hazwoper-on-federal-cleanup-sites?buy=590)
 
 [OSHA 40 Hour HAZWOPER Training](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 

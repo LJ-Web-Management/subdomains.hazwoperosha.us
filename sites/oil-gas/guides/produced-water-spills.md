@@ -45,14 +45,6 @@ Booms help with any oil sheen on top, but they won't contain the brine itself. F
 
 $29.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=416)
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://oil-gas.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=478)
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/produced-water-spills?buy=591)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

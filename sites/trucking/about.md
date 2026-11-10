@@ -8,7 +8,7 @@ Haul Safe
 
 # About Haul Safe
 
-Training for hazmat carriers and drivers: RCRA/DOT combined, first responder awareness, spill prevention, spill kit use and hazardous waste manifests, with guides for drivers and waste transporters.
+Training for hazmat carriers and drivers: first responder awareness, spill prevention and hazardous waste manifests, with guides for drivers and waste transporters.
 
 ## Who delivers the training
 
@@ -20,13 +20,11 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): 8 Hours, $149.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 - [OSHA Spill Prevention and Response Safety Training](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
-- [Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
 - [Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 
-The [full catalog of 83 trainings](https://trucking.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://trucking.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://trucking.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://trucking.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

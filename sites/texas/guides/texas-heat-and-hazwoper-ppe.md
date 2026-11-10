@@ -37,19 +37,11 @@ Coveralls, chemical suits and respirators stop sweat from evaporating, which is 
 
 HAZWOPER site safety plans should address heat stress. Make the work-rest schedule, water and shade part of the written plan, not just good intentions.
 
-**OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response** 40 Hours · $249.99 per seat
-
-[Enroll](https://texas.hazwoperosha.us/guides/texas-heat-and-hazwoper-ppe?buy=591)
-
 ## Courses
 
 [OSHA 40 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://texas.hazwoperosha.us/guides/texas-heat-and-hazwoper-ppe?buy=587)
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://texas.hazwoperosha.us/guides/texas-heat-and-hazwoper-ppe?buy=591)
 
 ---
 

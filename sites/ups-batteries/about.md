@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Batteries and DC Circuits](https://ups-batteries.hazwoperosha.us/courses/batteries-dc-circuits): 2 Hours, $99.99 per seat
 - [Lithium-Ion Battery Thermal Runaway and Emergency Response Training](https://ups-batteries.hazwoperosha.us/courses/lithium-ion-thermal-runaway-emergency-response): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://ups-batteries.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://ups-batteries.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://ups-batteries.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://ups-batteries.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

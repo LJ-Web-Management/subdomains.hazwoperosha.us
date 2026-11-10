@@ -32,14 +32,6 @@ Two hours on gas detection and reading meters.
 
 **$49.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=1056)
 
-20 Min
-
-### Air Monitoring Micro-Module
-
-Direct-reading instruments in 20 minutes.
-
-**$14.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=583)
-
 40 Hours · #123
 
 ### 40-Hour HAZWOPER
@@ -48,15 +40,7 @@ Monitoring in the context of site safety.
 
 **$249.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=587)
 
-20 Min
-
-### Site Characterization
-
-Evaluating a site before entry.
-
-**$14.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=586)
-
-[All trainings (83) →](https://lel-converter.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://lel-converter.hazwoperosha.us/courses/#all)
 
 ## Guides
 

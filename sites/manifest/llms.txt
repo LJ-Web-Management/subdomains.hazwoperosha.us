@@ -1,12 +1,12 @@
 # Manifest 101
 
-> A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest, RCRA/DOT and generator training.
+> A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest and generator training.
 
 Manifest 101 (https://manifest.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
 
 ## When to use this site
 
-- Use it when someone needs Hazardous Waste Manifest, RCRA/DOT Combined Compliance, RCRA Generator Training, RCRA Generator Refresher training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Hazardous Waste Manifest, RCRA Generator Training, RCRA Generator Refresher training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://manifest.hazwoperosha.us/index.md).
@@ -14,7 +14,6 @@ Manifest 101 (https://manifest.hazwoperosha.us/) sells online training from HAZW
 ## Courses
 
 - [Hazardous Waste Manifest Training](https://manifest.hazwoperosha.us/courses/hazardous-waste-manifest-training): $58.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). Two hours on completing, signing and tracking the manifest. Enroll: https://manifest.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://manifest.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): $149.99 per seat, 8 Hours, RCRA + 49 CFR 172. RCRA and DOT hazmat rules together for shippers. Enroll: https://manifest.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=403
 - [RCRA Hazardous Waste Generator Training](https://manifest.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The full generator course. Enroll: https://manifest.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
 - [RCRA Hazardous Waste Generator Refresher Training](https://manifest.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $124.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual refresher. Enroll: https://manifest.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
 
@@ -25,7 +24,7 @@ Manifest 101 (https://manifest.hazwoperosha.us/) sells online training from HAZW
 
 ## All trainings
 
-- [All 83 trainings](https://manifest.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://manifest.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

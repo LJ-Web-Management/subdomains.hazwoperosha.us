@@ -19,9 +19,6 @@ export default {
 
   courses: [
     { id: 587, short: "40-Hour HAZWOPER", summary: "The baseline for remediation crews.", body: "The 40-hour initial HAZWOPER course for workers remediating contaminated properties.", topics: ["Hazard recognition", "PPE", "Decon", "Air monitoring"] },
-    { id: 585, short: "PPE Levels A–D", summary: "Choosing PPE for lab cleanups.", body: "Fifteen minutes on PPE levels A through D.", topics: ["Levels A–D", "Respirators"] },
-    { id: 583, short: "Air Monitoring", summary: "Checking the air before entry.", body: "Twenty minutes on direct-reading instruments.", topics: ["O₂ and LEL", "PIDs", "Action levels"] },
-    { id: 584, short: "Decontamination", summary: "Keeping residue off you.", body: "Twenty minutes on decontamination procedures.", topics: ["Decon stations", "Doffing"] },
     { id: 595, short: "8-Hour Refresher", summary: "Stay current each year.", body: "The annual 8-hour HAZWOPER refresher.", topics: ["Review", "Updates"] },
   ],
 
@@ -31,7 +28,7 @@ export default {
       title: "What meth labs leave behind",
       description: "The residues and hazards remediation crews find.",
       date: "2026-10-25",
-      courses: [587, 583],
+      courses: [587],
       body: `## Common hazards
 
 - **Methamphetamine residue** on walls, ceilings, floors, furniture and inside ductwork
@@ -46,7 +43,7 @@ export default {
 
 - Make sure law enforcement has released the site and bulk chemicals have been removed
 - Review any assessment or sampling reports
-- Monitor the air (see [[583]])
+- Monitor the air
 - Set up zones and a decon area
 
 ## State rules
@@ -60,7 +57,7 @@ Many states have their own cleanup standards, contractor certification and sampl
       title: "Drug lab remediation, step by step",
       description: "From the preliminary assessment to the final sampling.",
       date: "2026-10-25",
-      courses: [587, 584, 585],
+      courses: [587],
       body: `1. **Preliminary assessment**: history, visible contamination, sampling plan
 2. **Ventilate** with fresh air and negative air machines where appropriate
 3. **Remove contaminated materials**: carpets, furniture, drywall and ductwork that can't be cleaned
@@ -72,7 +69,7 @@ Many states have their own cleanup standards, contractor certification and sampl
 
 ## Protect the crew
 
-PPE based on the assessment and monitoring ([[585]]), and decon every time workers leave the work area ([[584]]).`,
+PPE based on the assessment and monitoring, and decon every time workers leave the work area.`,
     },
   ],
 };

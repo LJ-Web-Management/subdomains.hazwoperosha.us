@@ -76,10 +76,6 @@ $169.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-
 
 $249.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=587)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://landfill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=584)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

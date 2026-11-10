@@ -1,17 +1,5 @@
 [
  {
-  "id": 403,
-  "lmsId": null,
-  "slug": "epa-rcra-dot-combined-hazardous-materials-compliance-training",
-  "name": "EPA RCRA/DOT Combined Hazardous Materials Compliance Training",
-  "price": 149.99,
-  "duration": "8 Hours",
-  "citation": "RCRA + 49 CFR 172",
-  "audience": "Waste generators who also ship hazardous materials",
-  "category": "Environmental / EPA",
-  "seoTitle": "EPA RCRA & DOT Combined Hazmat Compliance Training"
- },
- {
   "id": 412,
   "lmsId": 899,
   "slug": "hazardous-waste-contingency-plan-and-emergency-coordinator-training",
@@ -46,28 +34,6 @@
   "category": "Environmental / EPA"
  },
  {
-  "id": 478,
-  "lmsId": null,
-  "slug": "spill-response-equipment-absorbent-and-containment-booms",
-  "name": "Spill Response Equipment - Absorbent & Containment Booms",
-  "price": 24.99,
-  "duration": "1 Hour",
-  "citation": "40 CFR 112 / 29 CFR 1910.120",
-  "audience": "Industrial facilities, fuel handling",
-  "category": "Equipment & Process-Specific Mini Courses"
- },
- {
-  "id": 479,
-  "lmsId": null,
-  "slug": "spill-response-equipment-spill-kit-selection-and-use",
-  "name": "Spill Response Equipment - Spill Kit Selection & Use",
-  "price": 24.99,
-  "duration": "1 Hour",
-  "citation": "40 CFR 112 / 29 CFR 1910.120",
-  "audience": "Manufacturing, warehousing, fuel terminals",
-  "category": "Equipment & Process-Specific Mini Courses"
- },
- {
   "id": 574,
   "lmsId": 382,
   "slug": "8-hour-hazwoper-and-incident-command-refresher-training",
@@ -76,17 +42,6 @@
   "duration": "8 Hours",
   "citation": "29 CFR 1910.120(q)(8)",
   "audience": "Emergency responders, incident commanders (annual)",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
-  "id": 575,
-  "lmsId": null,
-  "slug": "cal-osha-24-hour-hazwoper-tsdf-rcra-training",
-  "name": "Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training",
-  "price": 249.99,
-  "duration": "24 Hours",
-  "citation": "8 CCR 5192(p) / RCRA",
-  "audience": "California TSD facility operators",
   "category": "HAZWOPER & RCRA Hazardous Waste"
  },
  {
@@ -123,17 +78,6 @@
   "category": "HAZWOPER & RCRA Hazardous Waste"
  },
  {
-  "id": 579,
-  "lmsId": null,
-  "slug": "cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training",
-  "name": "Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training",
-  "price": 109.99,
-  "duration": "8 Hours",
-  "citation": "8 CCR 5192(p)(8) / RCRA",
-  "audience": "California TSD facility operators (annual)",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
   "id": 580,
   "lmsId": 374,
   "slug": "hazardous-waste-manifest-training",
@@ -167,52 +111,6 @@
   "category": "HAZWOPER & RCRA Hazardous Waste"
  },
  {
-  "id": 583,
-  "lmsId": null,
-  "slug": "hazwoper-micro-module-air-monitoring-and-direct-reading-instruments",
-  "name": "HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments",
-  "price": 14.99,
-  "duration": "20 Min",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Environmental remediation, emergency response, waste management, construction, refining",
-  "category": "HAZWOPER & RCRA Hazardous Waste",
-  "seoTitle": "HAZWOPER Air Monitoring & Direct-Reading Instruments Module"
- },
- {
-  "id": 584,
-  "lmsId": null,
-  "slug": "hazwoper-micro-module-decontamination-procedures",
-  "name": "HAZWOPER Micro-Module: Decontamination Procedures",
-  "price": 14.99,
-  "duration": "20 Min",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Environmental remediation, emergency response, waste management, construction, refining",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
-  "id": 585,
-  "lmsId": null,
-  "slug": "hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained",
-  "name": "HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained",
-  "price": 12.99,
-  "duration": "15 Min",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Environmental remediation, emergency response, waste management, construction, refining",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
-  "id": 586,
-  "lmsId": null,
-  "slug": "hazwoper-micro-module-site-characterization-and-hazard-assessment",
-  "name": "HAZWOPER Micro-Module: Site Characterization & Hazard Assessment",
-  "price": 14.99,
-  "duration": "20 Min",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Environmental remediation, emergency response, waste management, construction, refining",
-  "category": "HAZWOPER & RCRA Hazardous Waste",
-  "seoTitle": "HAZWOPER Site Characterization & Hazard Assessment Module"
- },
- {
   "id": 587,
   "lmsId": 123,
   "slug": "osha-40-hour-hazwoper-training",
@@ -222,63 +120,6 @@
   "citation": "29 CFR 1910.120(e) / 1926.65(e)",
   "audience": "Environmental remediation, emergency response, waste management, construction, refining",
   "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
-  "id": 588,
-  "lmsId": null,
-  "slug": "osha-40-hour-hazwoper-for-construction-contaminated-sites",
-  "name": "OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)",
-  "price": 249.99,
-  "duration": "40 Hours",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Construction (Contaminated Sites)",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
-  "id": 589,
-  "lmsId": null,
-  "slug": "osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams",
-  "name": "OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams",
-  "price": 249.99,
-  "duration": "40 Hours",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Emergency Response/Fire-Hazmat Teams",
-  "category": "HAZWOPER & RCRA Hazardous Waste",
-  "seoTitle": "OSHA 40-Hour HAZWOPER for Fire & Hazmat Response Teams"
- },
- {
-  "id": 590,
-  "lmsId": null,
-  "slug": "osha-40-hour-hazwoper-for-environmental-remediation",
-  "name": "OSHA 40 Hour HAZWOPER for Environmental Remediation",
-  "price": 249.99,
-  "duration": "40 Hours",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Environmental Remediation",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
-  "id": 591,
-  "lmsId": null,
-  "slug": "osha-40-hour-hazwoper-for-oil-and-gas-spill-response",
-  "name": "OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response",
-  "price": 249.99,
-  "duration": "40 Hours",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Oil & Gas Spill Response",
-  "category": "HAZWOPER & RCRA Hazardous Waste"
- },
- {
-  "id": 592,
-  "lmsId": null,
-  "slug": "osha-40-hour-hazwoper-for-utility-pipeline-emergency-response",
-  "name": "OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response",
-  "price": 249.99,
-  "duration": "40 Hours",
-  "citation": "29 CFR 1910.120(e) / 1926.65(e)",
-  "audience": "Utility/Pipeline Emergency Response",
-  "category": "HAZWOPER & RCRA Hazardous Waste",
-  "seoTitle": "OSHA 40-Hour HAZWOPER for Utility & Pipeline Response"
  },
  {
   "id": 593,
@@ -405,17 +246,6 @@
   "category": "Manufacturing & Industrial Operations"
  },
  {
-  "id": 900,
-  "lmsId": null,
-  "slug": "8-hour-hazwoper-refresher-state-plan-versions-available",
-  "name": "8 Hour HAZWOPER Refresher - State-Plan Versions Available",
-  "price": 84.99,
-  "duration": "8 Hours",
-  "citation": "State-plan equivalents of federal OSHA standard (see parent course)",
-  "audience": "HAZWOPER-certified workers (state-plan jurisdictions)",
-  "category": "State-Plan Specific Training"
- },
- {
   "id": 1016,
   "lmsId": 1147,
   "slug": "hazwoper-train-the-trainer-certification",
@@ -425,17 +255,6 @@
   "citation": "29 CFR 1910.120(e)",
   "audience": "In-house HAZWOPER trainers/EHS managers",
   "category": "Train-the-Trainer & Certification Programs"
- },
- {
-  "id": 1051,
-  "lmsId": null,
-  "slug": "cal-osha-rcra-hazardous-waste-training",
-  "name": "Cal/OSHA RCRA Hazardous Waste Training",
-  "price": 49.99,
-  "duration": "4 Hours",
-  "citation": "22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192",
-  "audience": "California hazardous waste generators",
-  "category": "Cal/OSHA Specific"
  },
  {
   "id": 1056,

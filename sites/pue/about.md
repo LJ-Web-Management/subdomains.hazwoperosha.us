@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Monitoring, Automation & BMS Systems](https://pue.hazwoperosha.us/courses/monitoring-automation-bms-systems): 8 Hours, $276.99 per seat
 - [DCIM Platform Fundamentals](https://pue.hazwoperosha.us/courses/dcim-platform-fundamentals): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://pue.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://pue.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://pue.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://pue.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

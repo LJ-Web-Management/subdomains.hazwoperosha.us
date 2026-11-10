@@ -26,13 +26,9 @@ Most other classes need placards when the total aggregate gross weight of all Ta
 - Bulk packages have their own rules, often with the UN number displayed
 - The "DANGEROUS" placard can be used in some mixed loads
 
-Shippers must offer the right placards to the carrier unless the vehicle already has them. See [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) for training.
+Shippers must offer the right placards to the carrier unless the vehicle already has them. Anyone who does this needs DOT hazmat training.
 
 ## Courses
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://placards.hazwoperosha.us/guides/when-is-a-placard-required?buy=403)
 
 [Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 

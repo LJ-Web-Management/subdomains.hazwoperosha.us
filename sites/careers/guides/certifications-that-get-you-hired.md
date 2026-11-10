@@ -21,7 +21,7 @@ Which certificates matter, in what order, and how to keep them current.
 
 | Certificate | Why |
 | --- | --- |
-| [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) | DOT hazmat and RCRA basics |
+| DOT hazmat training | Required to package and ship hazmat |
 | [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) | Technician skills employers look for |
 | CDL with hazmat endorsement | Required to drive placarded loads |
 
@@ -49,10 +49,6 @@ $249.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-
 [OSHA 8 Hour HAZWOPER Refresher Training](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
 $59.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=595)
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://careers.hazwoperosha.us/guides/certifications-that-get-you-hired?buy=403)
 
 [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 

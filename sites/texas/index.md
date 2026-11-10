@@ -44,14 +44,6 @@ The annual 8-hour HAZWOPER refresher.
 
 **$59.99** [Enroll](https://texas.hazwoperosha.us/?buy=595)
 
-40 Hours
-
-### 40 Hr Oil & Gas Spill
-
-The 40-hour HAZWOPER for oilfield spill response crews.
-
-**$249.99** [Enroll](https://texas.hazwoperosha.us/?buy=591)
-
 8 Hours · #114
 
 ### RCRA Generator
@@ -60,7 +52,7 @@ Hazardous waste generator training for Texas facilities.
 
 **$134.99** [Enroll](https://texas.hazwoperosha.us/?buy=601)
 
-[All trainings (83) →](https://texas.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://texas.hazwoperosha.us/courses/#all)
 
 ## Guides
 

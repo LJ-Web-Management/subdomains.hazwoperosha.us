@@ -39,7 +39,7 @@ Both courses lead to the same annual 8-hour refresher. The clock starts on the d
 
 ## Which 40-hour?
 
-Every 40-hour track on this site meets the same 40 hours of instruction. The difference is the examples. Pick the one that sounds like your workday: [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites), [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation), [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response), [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) or [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams). If none fits, [OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) covers everything.
+There's one: [OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) covers the 40 hours of instruction for every industry.
 
 **OSHA 40 Hour HAZWOPER Training** 40 Hours · $249.99 per seat
 
@@ -50,10 +50,6 @@ Every 40-hour track on this site meets the same 40 hours of instruction. The dif
 [OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/40-hour-or-24-hour-hazwoper?buy=587)
-
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/40-hour-or-24-hour-hazwoper?buy=588)
 
 ---
 

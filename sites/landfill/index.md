@@ -54,15 +54,7 @@ Fuel and leachate spill prevention and response.
 
 **$29.99** [Enroll](https://landfill.hazwoperosha.us/?buy=416)
 
-20 Min
-
-### Decontamination
-
-A 20-minute decon module.
-
-**$14.99** [Enroll](https://landfill.hazwoperosha.us/?buy=584)
-
-[All trainings (83) →](https://landfill.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://landfill.hazwoperosha.us/courses/#all)
 
 ## Guides
 

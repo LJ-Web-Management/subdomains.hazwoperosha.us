@@ -60,17 +60,9 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://marine.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=478)
-
 [OSHA Spill Prevention and Response Safety Training](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
 $29.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=416)
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://marine.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=591)
 
 [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://marine.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 

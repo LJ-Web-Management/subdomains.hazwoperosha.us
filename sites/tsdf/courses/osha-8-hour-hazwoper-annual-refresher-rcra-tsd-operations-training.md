@@ -75,14 +75,6 @@ $229.99 [Enroll](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annua
 
 $349.99 [Enroll](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training?buy=599)
 
-[Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training) 24 Hours · 8 CCR 5192(p) / RCRA
-
-$249.99 [Enroll](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training?buy=575)
-
-[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · 8 CCR 5192(p)(8) / RCRA
-
-$109.99 [Enroll](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training?buy=579)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

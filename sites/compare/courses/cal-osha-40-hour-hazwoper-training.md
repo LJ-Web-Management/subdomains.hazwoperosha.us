@@ -79,10 +79,6 @@ $229.99 [Enroll](https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwop
 
 $59.99 [Enroll](https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://compare.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=900)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

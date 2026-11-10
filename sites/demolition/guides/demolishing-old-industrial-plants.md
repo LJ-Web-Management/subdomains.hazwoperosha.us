@@ -41,10 +41,6 @@ Stop work in the area, keep the crew back and notify the supervisor and site saf
 
 $49.99 [Enroll](https://demolition.hazwoperosha.us/guides/demolishing-old-industrial-plants?buy=1056)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://demolition.hazwoperosha.us/guides/demolishing-old-industrial-plants?buy=584)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

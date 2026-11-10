@@ -1,6 +1,6 @@
 ---
 title: "HAZWOPER Program Training for EHS Managers | EHS Stack"
-description: "Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, RCRA generator…"
+description: "Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, and RCRA…"
 url: https://ehs-managers.hazwoperosha.us/
 ---
 
@@ -53,14 +53,6 @@ RCRA contingency plans and the emergency coordinator role.
 RCRA generator training for EHS staff and waste handlers.
 
 **$134.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=601)
-
-8 Hours
-
-### State-Plan Refresher
-
-8-hour refresher covering federal and state-plan HAZWOPER rules.
-
-**$84.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=900)
 
 ## Guides
 

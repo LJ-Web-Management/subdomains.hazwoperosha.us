@@ -67,9 +67,6 @@ export default {
 
   courses: [
     { id: 587, short: "40-Hour HAZWOPER", summary: "Every term in this glossary, in depth.", body: `The full initial course for site workers.`, topics: ["Hazard recognition", "PPE levels", "Monitoring", "Decon", "Site control"], who: "Site workers." },
-    { id: 585, short: "PPE Levels A–D", summary: "Levels A to D in 15 minutes.", body: `A short module on the levels of protection.`, topics: ["Levels A, B, C and D"], who: "Anyone." },
-    { id: 583, short: "Air Monitoring", summary: "PIDs, LEL and action levels in 20 minutes.", body: `A short module on direct-reading instruments.`, topics: ["Sensors", "Action levels"], who: "Anyone." },
-    { id: 584, short: "Decontamination", summary: "Zones and decon in 20 minutes.", body: `A short module on decon procedures.`, topics: ["Zones", "Decon stations"], who: "Anyone." },
     { id: 1099, short: "Awareness", summary: "Awareness-level responder training.", body: `Four hours on recognize, isolate, notify.`, topics: ["Recognize", "Isolate", "Notify"], who: "Front-line staff." },
   ],
 
@@ -96,7 +93,7 @@ export default {
       title: "PEL, REL, TLV, STEL and IDLH: exposure limits explained",
       description: "Five acronyms for exposure limits, who sets each one and which one your site plan uses.",
       date: "2026-10-25",
-      courses: [583, 587],
+      courses: [587],
       body: `| Limit | Set by | Means | Legally binding? |
 |---|---|---|---|
 | PEL | OSHA | Permissible exposure limit, usually an 8-hour TWA | Yes |
@@ -117,8 +114,7 @@ Many site safety plans set action levels using the **lowest** of the PEL, REL an
 ## IDLH and respirators
 
 IDLH conditions require the most protective respirators: SCBA or supplied air with an escape bottle. Air-purifying respirators (Level C) aren't allowed in IDLH atmospheres.
-
-{{buy:583}}`,
+`,
     },
     {
       slug: "hazwoper-acronyms-cheat-sheet",

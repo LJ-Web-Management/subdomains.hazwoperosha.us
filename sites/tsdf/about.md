@@ -23,10 +23,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): 24 Hours, $229.99 per seat
 - [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training): 8 Hours, $89.99 per seat
 - [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): 24 Hours, $349.99 per seat
-- [Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training): 24 Hours, $249.99 per seat
-- [Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training): 8 Hours, $109.99 per seat
 
-The [full catalog of 83 trainings](https://tsdf.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://tsdf.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://tsdf.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://tsdf.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

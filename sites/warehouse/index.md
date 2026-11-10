@@ -22,14 +22,6 @@ Recognize a hazardous release, get clear and report it.
 
 **$61.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=1099)
 
-1 Hour
-
-### Spill Kit Use
-
-Using spill kits on small, incidental spills.
-
-**$24.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=479)
-
 2 Hours · #542
 
 ### Spill Prevention
@@ -54,15 +46,7 @@ Hazardous waste generator training for damaged and returned chemical products.
 
 **$134.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=601)
 
-15 Min
-
-### PPE Levels A–D
-
-A 15-minute module on PPE levels.
-
-**$12.99** [Enroll](https://warehouse.hazwoperosha.us/?buy=585)
-
-[All trainings (83) →](https://warehouse.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://warehouse.hazwoperosha.us/courses/#all)
 
 ## Guides
 

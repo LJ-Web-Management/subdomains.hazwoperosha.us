@@ -39,16 +39,6 @@ export default {
       body: `Generators, fuel tanks and damaged vehicles leak. Two hours on safe first response.`,
       topics: ["Assessing a spill", "Stop, contain, report", "PPE"],
       who: "Recovery crews and site staff." },
-    { id: 584, short: "Decontamination",
-      summary: "A 20-minute module on decon procedures.",
-      body: `Floodwater and debris contaminate gear. A short module on decontaminating people and equipment.`,
-      topics: ["Decon stations", "Doffing", "Equipment decon"],
-      who: "All recovery crews." },
-    { id: 585, short: "PPE Levels A–D",
-      summary: "A 15-minute module on PPE levels.",
-      body: `What the levels of protection mean, in 15 minutes.`,
-      topics: ["Levels A, B, C and D"],
-      who: "New crew members." },
   ],
 
   guides: [
@@ -118,7 +108,7 @@ Collection is HAZWOPER work, done by trained crews with a plan, PPE, monitoring 
       title: "Health hazards in disaster recovery work",
       description: "Heat, contaminated water, carbon monoxide and fatigue hurt more recovery workers than chemicals do.",
       date: "2026-10-25",
-      courses: [584, 416],
+      courses: [416],
       body: `Disaster recovery is long days in tough conditions. These are the hazards that injure recovery workers most often.
 
 ## Heat
@@ -127,7 +117,7 @@ Many recoveries happen in hot weather. Work-rest cycles, shade, water and acclim
 
 ## Contaminated floodwater
 
-Floodwater can carry sewage, fuel, chemicals and debris. Wear waterproof boots and gloves, cover cuts, wash before eating and decontaminate gear. See [[584]].
+Floodwater can carry sewage, fuel, chemicals and debris. Wear waterproof boots and gloves, cover cuts, wash before eating and decontaminate gear.
 
 ## Carbon monoxide
 

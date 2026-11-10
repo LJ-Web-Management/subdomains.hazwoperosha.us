@@ -22,14 +22,6 @@ Preventing and responding to fuel and electrolyte spills.
 
 **$29.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=416)
 
-1 Hour
-
-### Spill Kit Use
-
-Choosing and using spill kits, including acid kits for battery rooms.
-
-**$24.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=479)
-
 2 Hours · #921
 
 ### Universal Waste
@@ -62,7 +54,7 @@ Hazardous waste generator training for campus facilities.
 
 **$134.99** [Enroll](https://data-centers.hazwoperosha.us/?buy=601)
 
-[All trainings (83) →](https://data-centers.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://data-centers.hazwoperosha.us/courses/#all)
 
 ## Guides
 

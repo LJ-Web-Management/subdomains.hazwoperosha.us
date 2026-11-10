@@ -77,10 +77,6 @@ $89.99 [Enroll](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper
 
 $49.99 [Enroll](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1056)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=479)
-
 [RCRA Universal Waste Handler Training](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=602)

@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "How much boom <span>do you need?</span>",
     lede: "Containment boom works only if there's enough of it, set at the right angle for the current. Get a quick estimate below, then train the crew that deploys it.",
-    cta: [478, "Boom Training · $24.99"],
+    cta: [416, "Spill Prevention & Response · $29.99"],
     alt: ["#calc", "Calculate"],
   },
   heroArt: `<svg class="bl-wave" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 60 Q150 20 300 60 T600 60 T900 60 T1200 60 V120 H0z" fill="#0b7285" opacity=".15"/><path d="M0 80 Q150 40 300 80 T600 80 T900 80 T1200 80 V120 H0z" fill="#0b7285" opacity=".2"/></svg>`,
@@ -18,10 +18,7 @@ export default {
   guidesTagline: "Deploying boom in moving water, and why boom fails.",
 
   courses: [
-    { id: 478, short: "Absorbent & Containment Booms", summary: "Choosing, deploying and recovering boom.", body: "One hour on containment and absorbent booms: types, sizes, connectors, anchoring and deployment for containment, deflection and exclusion.", topics: ["Containment vs absorbent boom", "Deployment configurations", "Anchoring", "Recovery and disposal"] },
-    { id: 479, short: "Spill Kit Selection & Use", summary: "The right kit for the spill.", body: "One hour on choosing, placing and using spill kits for oil, chemicals and universal spills.", topics: ["Kit types", "Placement", "Using absorbents"] },
     { id: 416, short: "Spill Prevention & Response", summary: "Preventing spills and the first response.", body: "Two hours on preventing spills and responding safely when they happen.", topics: ["Prevention", "First response", "Reporting"] },
-    { id: 591, short: "40-Hour Oil & Gas Spill Response", summary: "Full HAZWOPER for oil spill responders.", body: "The 40-hour HAZWOPER course built for oil and gas spill response crews.", topics: ["Oil spill hazards", "Containment and recovery", "PPE and decon", "Site safety"] },
   ],
 
   feature: () => `<section class="sec bl-sec" id="calc"><div class="wrap bl-in">
@@ -58,7 +55,7 @@ export default {
       title: "Deploying boom in moving water",
       description: "Angles, anchors and collection points for creeks, rivers and channels.",
       date: "2026-10-25",
-      courses: [478, 591],
+      courses: [],
       body: `In moving water, boom set straight across the current usually fails: oil is carried under the skirt (entrainment). Instead, crews **angle** the boom to deflect oil toward a calm collection point on the bank.
 
 ## The angle
@@ -77,15 +74,14 @@ The faster the current, the sharper the angle. A common rule of thumb keeps the 
 - Work in pairs with PFDs near water
 - Watch for slippery banks and debris
 - Never stand in the bight of a line under tension
-
-{{buy:478}}`,
+`,
     },
     {
       slug: "why-boom-fails",
       title: "Why boom fails",
       description: "Five ways oil gets past containment boom.",
       date: "2026-10-25",
-      courses: [478, 416],
+      courses: [416],
       body: `## 1. Entrainment
 
 Current too fast across the boom pulls oil droplets under the skirt.

@@ -17,7 +17,6 @@ ShopWaste (https://auto-shops.hazwoperosha.us/) sells online training from HAZWO
 - [Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Waste containers at the bay: labels, limits and lids. Enroll: https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
 - [RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps, aerosol cans and mercury switches. Enroll: https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
 - [OSHA Spill Prevention and Response Safety Training](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to fluid spills in the shop. Enroll: https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
-- [Spill Response Equipment - Spill Kit Selection & Use](https://auto-shops.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Using the shop spill kit. Enroll: https://auto-shops.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a release you shouldn't handle yourself. Enroll: https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 
 ## Guides
@@ -28,7 +27,7 @@ ShopWaste (https://auto-shops.hazwoperosha.us/) sells online training from HAZWO
 
 ## All trainings
 
-- [All 83 trainings](https://auto-shops.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://auto-shops.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

@@ -2,7 +2,7 @@
 export default {
   brand: "Refresh.8",
   title: "8-Hour HAZWOPER Refresher Online | Annual OSHA Renewal | Refresh.8",
-  description: "Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, state-plan, supervisor, incident command and ammonia versions. From $59.99.",
+  description: "Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, plus supervisor, incident command and ammonia versions. From $59.99.",
   theme: "#e30613",
   fonts: "family=Inter:wght@400;500;600;700;800",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#fff"/><text x="16" y="27" font-size="30" font-family="Arial" font-weight="900" text-anchor="middle" fill="#e30613">8</text></svg>`,
@@ -19,14 +19,6 @@ export default {
 If you're not a supervisor, an incident commander or an ammonia technician, this is your refresher.`,
       topics: ["Review of hazard recognition and toxicology", "PPE selection and respirator refresher", "Air monitoring review", "Decontamination procedures", "Recent incidents and lessons learned", "Changes in standards and good practice"],
       who: "Any worker with an initial 40-hour or 24-hour HAZWOPER certificate who needs to stay current.",
-    },
-    {
-      id: 900,
-      short: "State-Plan Refresher",
-      summary: "The annual 8-hour refresher for workers in OSHA state-plan states, with state versions available.",
-      body: `Twenty-some states run their own OSHA-approved programs. Most adopt the federal HAZWOPER rule word for word. A few write their own version. This refresher covers the federal requirement and the state-plan equivalents, so the certificate makes sense to an inspector in your state.`,
-      topics: ["Federal 1910.120(e)(8) refresher content", "How state plans adopt or adapt HAZWOPER", "State-specific references where they differ", "Hazard recognition, PPE and monitoring review", "Decon and emergency procedures review"],
-      who: "HAZWOPER-certified workers employed in state-plan jurisdictions, and employers with crews in several states.",
     },
     {
       id: 596,
@@ -60,7 +52,7 @@ If you're not a supervisor, an incident commander or an ammonia technician, this
       title: "When is my HAZWOPER refresher due? And what if I missed it?",
       description: "The 12-month clock, what happens when you're late and how to get back in compliance.",
       date: "2026-10-25",
-      courses: [595, 900],
+      courses: [595],
       body: `OSHA's rule is short: covered workers "shall receive eight hours of refresher training annually" (29 CFR 1910.120(e)(8)). Everything else is interpretation. Here's how most employers and auditors read it.
 
 ## The 12-month clock
@@ -93,7 +85,7 @@ The refresher has no hands-on field component the way the initial 40-hour does. 
       title: "Which 8-hour refresher fits your job?",
       description: "Five refreshers, one requirement. A side-by-side guide to choosing the right one.",
       date: "2026-10-25",
-      courses: [595, 900, 596, 574, 598],
+      courses: [595, 596, 574, 598],
       body: `Every refresher on this site gives you the eight hours that 1910.120(e)(8) requires each year. The difference is what fills those eight hours.
 
 ## Side by side
@@ -101,7 +93,6 @@ The refresher has no hands-on field component the way the initial 40-hour does. 
 | Refresher | Best for | Price |
 |---|---|---|
 | [[595]] | Any 40- or 24-hour worker | $59.99 |
-| [[900]] | Workers in state-plan states | $84.99 |
 | [[596]] | Supervisors and site leads | $69.99 |
 | [[574]] | Responders and incident commanders | $249.99 |
 | [[598]] | Ammonia refrigeration technicians | $89.99 |
@@ -121,7 +112,7 @@ You don't have to put the whole crew in one course. A typical contractor puts mo
       title: "State-plan states and the HAZWOPER refresher",
       description: "If your state runs its own OSHA program, does your refresher need to be different? Usually not, but here's when it matters.",
       date: "2026-10-25",
-      courses: [900, 595],
+      courses: [595],
       body: `About half of US states run their own OSHA-approved occupational safety program, called a "state plan." State plans must be at least as effective as federal OSHA. For HAZWOPER, most simply adopt 29 CFR 1910.120 as written.
 
 ## When your state has its own version
@@ -137,10 +128,9 @@ Federal OSHA doesn't cover state and local government workers, but state plans d
 ## What to do
 
 - **Federal-OSHA state, or a state plan that adopts the federal rule:** [[595]] covers you.
-- **State with its own HAZWOPER rule, or crews in several states:** [[900]] covers the federal rule and the state equivalents.
+- **State with its own HAZWOPER rule, or crews in several states:** [[595]] covers the federal rule; add a short briefing on the state's own rule.
 - **California specifically:** see our sister site [cal-osha.hazwoperosha.us](https://cal-osha.hazwoperosha.us/) for Cal/OSHA courses.
-
-{{buy:900}}`,
+`,
     },
   ],
 

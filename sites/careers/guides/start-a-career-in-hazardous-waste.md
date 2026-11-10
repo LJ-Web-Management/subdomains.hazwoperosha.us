@@ -26,7 +26,7 @@ Environmental services is a field where training matters more than a degree for 
 
 1. **[OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training)**: the certificate most postings ask for
 2. **A driver's license**, and for some roles a CDL with hazmat endorsement
-3. **[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training)** for waste technician and driver roles
+3. **DOT hazmat training** for waste technician and driver roles
 4. **Basic first aid/CPR**
 
 ## Your first months
@@ -42,10 +42,6 @@ Take the 8-hour refresher every year to stay employable between jobs.
 [OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://careers.hazwoperosha.us/guides/start-a-career-in-hazardous-waste?buy=587)
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://careers.hazwoperosha.us/guides/start-a-career-in-hazardous-waste?buy=403)
 
 ---
 

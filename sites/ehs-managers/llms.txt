@@ -1,6 +1,6 @@
 # EHS Stack
 
-> Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, RCRA generator and state-plan refresher courses.
+> Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, and RCRA generator courses.
 
 EHS Stack (https://ehs-managers.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
 
@@ -18,7 +18,6 @@ EHS Stack (https://ehs-managers.hazwoperosha.us/) sells online training from HAZ
 - [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $199.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for HAZWOPER emergency response. Enroll: https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://ehs-managers.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. RCRA contingency plans and the emergency coordinator role. Enroll: https://ehs-managers.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
 - [RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). RCRA generator training for EHS staff and waste handlers. Enroll: https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
-- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): $84.99 per seat, 8 Hours, State-plan equivalents of federal OSHA standard (see parent course). 8-hour refresher covering federal and state-plan HAZWOPER rules. Enroll: https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900
 
 ## Guides
 
@@ -28,7 +27,7 @@ EHS Stack (https://ehs-managers.hazwoperosha.us/) sells online training from HAZ
 
 ## All trainings
 
-- [All 83 trainings](https://ehs-managers.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://ehs-managers.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

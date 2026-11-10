@@ -43,8 +43,6 @@ export default {
     { id: 587, short: "40-Hour HAZWOPER", summary: "Everything in this deck, in depth.", body: `The full initial course.`, topics: ["Training rules", "PPE", "Zones", "Monitoring"], who: "Site workers." },
     { id: 581, short: "24-Hour HAZWOPER", summary: "For occasional and low-exposure workers.", body: `The 24-hour initial course.`, topics: ["Who qualifies", "PPE basics"], who: "Limited-exposure workers." },
     { id: 595, short: "8-Hour Refresher", summary: "Keep it all fresh every year.", body: `The annual refresher.`, topics: ["Review"], who: "Certified workers." },
-    { id: 585, short: "PPE Levels A–D", summary: "Master the PPE cards.", body: `15 minutes on PPE levels.`, topics: ["Levels A–D"], who: "Anyone." },
-    { id: 583, short: "Air Monitoring", summary: "Master the monitoring cards.", body: `20 minutes on instruments.`, topics: ["PIDs", "LEL"], who: "Anyone." },
   ],
 
   feature: () => `<section class="sec fc-sec" id="cards"><div class="wrap">
@@ -99,14 +97,14 @@ Flashcards help with facts. The course gives you the context: why the numbers ar
       title: "After the course: staying sharp between refreshers",
       description: "Twelve months is a long time. Simple habits that keep HAZWOPER knowledge current.",
       date: "2026-10-25",
-      courses: [595, 585, 583],
+      courses: [595],
       body: `## Use it at the tailgate
 
 Answer the supervisor's questions out loud. Ask your own.
 
 ## Review before new tasks
 
-Before a PPE upgrade, review the PPE cards and module ([[585]]). Before monitoring work, review instruments ([[583]]).
+Before a PPE upgrade, review the PPE cards. Before monitoring work, review the instrument cards.
 
 ## Read your site plan
 

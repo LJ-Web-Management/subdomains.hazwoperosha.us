@@ -20,13 +20,10 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): 40 Hours, $249.99 per seat
 - [OSHA 40 Hour HAZWOPER Training](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
-- [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment): 20 Min, $14.99 per seat
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
 - [OSHA 8 Hour HAZWOPER Refresher Training](https://pfas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
 
-The [full catalog of 83 trainings](https://pfas.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://pfas.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://pfas.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://pfas.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

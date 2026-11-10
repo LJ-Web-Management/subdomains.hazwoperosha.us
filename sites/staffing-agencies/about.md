@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://staffing-agencies.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): 24 Hours, $229.99 per seat
 
-The [full catalog of 83 trainings](https://staffing-agencies.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://staffing-agencies.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://staffing-agencies.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://staffing-agencies.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

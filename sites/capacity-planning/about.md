@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Power Distribution Systems Fundamentals](https://capacity-planning.hazwoperosha.us/courses/power-distribution-systems-fundamentals): 4 Hours, $99.99 per seat
 - [DCIM Platform Fundamentals](https://capacity-planning.hazwoperosha.us/courses/dcim-platform-fundamentals): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://capacity-planning.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://capacity-planning.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://capacity-planning.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://capacity-planning.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

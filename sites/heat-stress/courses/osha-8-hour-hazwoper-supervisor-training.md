@@ -64,10 +64,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://heat-stress.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=585)
-
 [OSHA 40 Hour HAZWOPER Training](https://heat-stress.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=587)

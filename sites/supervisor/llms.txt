@@ -26,7 +26,7 @@ The Site Supervisor (https://supervisor.hazwoperosha.us/) sells online training 
 
 ## All trainings
 
-- [All 83 trainings](https://supervisor.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://supervisor.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

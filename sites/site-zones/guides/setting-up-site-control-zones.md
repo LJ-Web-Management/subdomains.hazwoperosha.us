@@ -14,7 +14,7 @@ How a site safety officer lays out the hot, warm and cold zones on a new site.
 
 ## Step by step
 
-1. **Characterize the site.** Where's the contamination? What are the hazards? See [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment).
+1. **Characterize the site.** Where's the contamination? What are the hazards?
 2. **Check the wind and terrain.** The support zone goes upwind and, where possible, uphill.
 3. **Mark the exclusion zone** around all contaminated areas, with margin for vapors, dust and the work itself.
 4. **Lay out the warm zone** as a buffer, with room for the decon corridor.
@@ -32,10 +32,6 @@ Zones may move as work progresses, contamination is removed or the wind changes.
 [Enroll](https://site-zones.hazwoperosha.us/guides/setting-up-site-control-zones?buy=597)
 
 ## Courses
-
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://site-zones.hazwoperosha.us/guides/setting-up-site-control-zones?buy=586)
 
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://site-zones.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 

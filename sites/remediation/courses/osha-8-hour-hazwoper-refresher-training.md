@@ -60,22 +60,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=590)
-
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=586)
-
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=583)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=584)
-
 [OSHA Air Monitoring and Gas Detection Training](https://remediation.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=1056)

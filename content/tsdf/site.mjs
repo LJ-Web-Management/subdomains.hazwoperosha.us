@@ -31,20 +31,6 @@ export default {
       topics: ["HAZWOPER worker safety essentials", "RCRA waste identification and codes", "Lab packing and consolidation safety", "Compatibility and segregation", "Manifests and DOT basics", "Spill and emergency response"],
       who: "Field and facility waste technicians at environmental services companies.",
     },
-    {
-      id: 575, short: "Cal/OSHA 24-Hr TSDF",
-      summary: "The 24-hour TSDF course written to California's Title 8 section 5192(p) and Title 22.",
-      body: `For TSD facilities in California, Cal/OSHA's 8 CCR 5192(p) and DTSC's Title 22 rules apply. This course covers both, with California exposure limits and agencies.`,
-      topics: ["8 CCR 5192(p) requirements", "DTSC permits and Title 22 operations", "Container and tank management", "Waste receipt and profiling", "Facility emergency response", "PPE, monitoring and decon"],
-      who: "Workers at California hazardous waste TSD facilities.",
-    },
-    {
-      id: 579, short: "Cal/OSHA 8-Hr TSDF Refresher",
-      summary: "The annual 8-hour refresher for California TSDF workers.",
-      body: `The annual refresher for California TSD workers, covering Cal/OSHA 5192(p) and Title 22 updates.`,
-      topics: ["5192(p) refresher", "Title 22 updates", "Containment and tank review", "Emergency coordinator review", "Incident case studies"],
-      who: "California TSD facility workers who completed the 24-hour TSDF training.",
-    },
   ],
 
   guides: [
@@ -114,7 +100,7 @@ If your facility technician is sent to a remediation site, or to pack a customer
 
 - **Facility-only staff:** [[582]] and the annual [[594]]
 - **Technicians who work in the facility and in the field:** [[599]] for the RCRA and technician side, plus the 40-hour HAZWOPER for field work
-- **California facilities:** [[575]] and [[579]]
+- **California facilities:** see our sister site [cal-osha.hazwoperosha.us](https://cal-osha.hazwoperosha.us/) for Cal/OSHA courses
 
 ## Refreshers
 

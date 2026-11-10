@@ -12,7 +12,7 @@ The standard OSHA 40-hour initial HAZWOPER for general site workers on uncontrol
 
 This is the course most people mean when they say "HAZWOPER." It covers the 40 hours of off-site instruction that 29 CFR 1910.120(e)(3)(i) requires before a general site worker goes into a hazardous waste operation, and the matching construction rule, 1926.65(e).
 
-It's written for any industry. If your work doesn't fit one of the industry tracks below, or you're not sure yet where you'll be placed, take this one.
+It's written for any industry, so it fits construction, remediation, oil and gas, pipeline and hazmat crews alike, and it's the right choice if you're not sure yet where you'll be placed.
 
 ## What you'll cover
 
@@ -68,28 +68,6 @@ $249.99 per seat
 [Enroll now](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587)
 
 Certificate of completion included. 100% online, self-paced.
-
-## More courses on this site
-
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=588)
-
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=590)
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=591)
-
-[OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=592)
-
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=589)
 
 ---
 

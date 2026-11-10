@@ -24,9 +24,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Emergency/Standby Power Systems Fundamentals](https://dc-generators.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals): 4 Hours, $99.99 per seat
 - [Data Center Emergency Power Off (EPO) Procedures Training](https://dc-generators.hazwoperosha.us/courses/data-center-epo-procedures): 1 Hour, $99.99 per seat
 - [OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
-- [Spill Response Equipment - Spill Kit Selection & Use](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): 1 Hour, $24.99 per seat
 
-The [full catalog of 83 trainings](https://dc-generators.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-generators.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dc-generators.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-generators.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

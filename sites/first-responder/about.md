@@ -23,10 +23,9 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 - [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
 - [Manufacturing Emergency Response Team (ERT) Training](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): 8 Hours, $149.99 per seat
-- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): 40 Hours, $249.99 per seat
 - [8 Hour HAZWOPER and Incident Command Refresher Training](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $249.99 per seat
 
-The [full catalog of 83 trainings](https://first-responder.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://first-responder.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://first-responder.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://first-responder.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

@@ -45,10 +45,6 @@ The refresher has no hands-on field component the way the initial 40-hour does. 
 
 $59.99 [Enroll](https://refresher.hazwoperosha.us/guides/when-is-my-hazwoper-refresher-due?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://refresher.hazwoperosha.us/guides/when-is-my-hazwoper-refresher-due?buy=900)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

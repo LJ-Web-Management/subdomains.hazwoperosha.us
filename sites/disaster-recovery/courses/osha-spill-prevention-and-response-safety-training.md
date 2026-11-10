@@ -76,14 +76,6 @@ $169.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-pr
 
 $61.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1099)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=584)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://disaster-recovery.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://disaster-recovery.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=585)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

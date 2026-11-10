@@ -54,7 +54,7 @@ Terminate, test, and troubleshoot data center fiber to ANSI/TIA-942 standards.
 
 **$99.99** [Enroll](https://dc-design.hazwoperosha.us/?buy=834)
 
-[All trainings (83) →](https://dc-design.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-design.hazwoperosha.us/courses/#all)
 
 ## Design notes
 

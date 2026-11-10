@@ -28,15 +28,7 @@ The support zone is placed upwind so vapors and dust blow away from it. If the w
 
 Good site plans name an alternate muster point and describe how zones will be adjusted for a wind shift.
 
-**HAZWOPER Micro-Module: Decontamination Procedures** 20 Min · $14.99 per seat
-
-[Enroll](https://site-zones.hazwoperosha.us/guides/when-the-wind-shifts?buy=584)
-
 ## Courses
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://site-zones.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://site-zones.hazwoperosha.us/guides/when-the-wind-shifts?buy=584)
 
 [OSHA 40 Hour HAZWOPER Training](https://site-zones.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 

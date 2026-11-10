@@ -67,14 +67,6 @@ $249.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwope
 
 $59.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=595)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=585)
-
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=583)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

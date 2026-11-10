@@ -8,7 +8,7 @@ EHS Stack
 
 # About EHS Stack
 
-Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, RCRA generator and state-plan refresher courses.
+Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, and RCRA generator courses.
 
 ## Who delivers the training
 
@@ -25,9 +25,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://ehs-managers.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): 4 Hours, $99.99 per seat
 - [RCRA Hazardous Waste Generator Training](https://ehs-managers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
-- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): 8 Hours, $84.99 per seat
 
-The [full catalog of 83 trainings](https://ehs-managers.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://ehs-managers.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://ehs-managers.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://ehs-managers.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

@@ -19,7 +19,7 @@ Railroads move hazmat every day, and their employees are often first to an incid
 | Train and engine crews | Recognize, protect themselves, notify, provide the consist | Awareness level: [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://rail.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) |
 | Yard and car department staff | Recognize and notify, incidental cleanup at most | Awareness |
 | Railroad hazmat managers | Respond, advise incident command, coordinate contractors | Technician-level training and incident command: [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://rail.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) |
-| Response contractors | Contain, transfer and clean up | [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) or similar 40-hour plus specialized training |
+| Response contractors | Contain, transfer and clean up | 40-hour HAZWOPER plus specialized training |
 
 ## DOT hazmat training too
 
@@ -34,10 +34,6 @@ Responders need annual refresher training or demonstrated competency under 1910.
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://rail.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://rail.hazwoperosha.us/guides/railroad-employees-and-hazwoper?buy=1099)
-
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://rail.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://rail.hazwoperosha.us/guides/railroad-employees-and-hazwoper?buy=589)
 
 [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://rail.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 

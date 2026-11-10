@@ -66,7 +66,7 @@ Understand DCIM strategy and build the ROI case for implementation.
 
 **$99.99** [Enroll](https://capacity-planning.hazwoperosha.us/?buy=830)
 
-[All trainings (83) →](https://capacity-planning.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://capacity-planning.hazwoperosha.us/courses/#all)
 
 ## Guides
 

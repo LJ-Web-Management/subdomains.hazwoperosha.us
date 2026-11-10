@@ -69,10 +69,6 @@ Certificate of completion included. 100% online, self-paced.
 
 $61.99 [Enroll](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1099)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=479)
-
 [RCRA Universal Waste Handler Training](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=602)
@@ -80,10 +76,6 @@ $34.99 [Enroll](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-
 [RCRA Hazardous Waste Generator Training](https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
 $134.99 [Enroll](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=601)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=585)
 
 ---
 

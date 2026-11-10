@@ -10,7 +10,7 @@ var ORDER_FROM = "electrical-safety-loto.hazwoperosha.us";
 // price is for display; hazwoper-osha.com sets the amount actually charged.
 var courses = [
   {
-    "id": 187,
+    "id": 1163,
     "sku": "LOTO",
     "name": "OSHA Lockout Tagout (LOTO) Training",
     "price": 29.99

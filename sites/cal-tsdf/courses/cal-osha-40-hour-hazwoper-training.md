@@ -65,18 +65,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training) 24 Hours · 8 CCR 5192(p) / RCRA
-
-$249.99 [Enroll](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=575)
-
-[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · 8 CCR 5192(p)(8) / RCRA
-
-$109.99 [Enroll](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=579)
-
-[Cal/OSHA RCRA Hazardous Waste Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training) 4 Hours · 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192
-
-$49.99 [Enroll](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=1051)
-
 [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #490 · 8 CCR 5192(e)(8)
 
 $149.99 [Enroll](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=578)

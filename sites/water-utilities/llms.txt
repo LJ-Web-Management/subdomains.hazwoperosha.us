@@ -28,7 +28,7 @@ WaterWorks Hazmat (https://water-utilities.hazwoperosha.us/) sells online traini
 
 ## All trainings
 
-- [All 83 trainings](https://water-utilities.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://water-utilities.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

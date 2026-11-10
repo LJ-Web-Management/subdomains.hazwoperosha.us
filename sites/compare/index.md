@@ -50,14 +50,6 @@ The annual refresher.
 
 **$59.99** [Enroll](https://compare.hazwoperosha.us/?buy=595)
 
-8 Hours
-
-### State-Plan Refresher
-
-The annual refresher with state-plan versions.
-
-**$84.99** [Enroll](https://compare.hazwoperosha.us/?buy=900)
-
 40 Hours · #351
 
 ### Cal/OSHA 40-Hour
@@ -66,11 +58,11 @@ The 40-hour written to California's 8 CCR 5192.
 
 **$229.99** [Enroll](https://compare.hazwoperosha.us/?buy=577)
 
-[All trainings (83) →](https://compare.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://compare.hazwoperosha.us/courses/#all)
 
 ## Guides
 
-[2 min read **40-hour vs 24-hour vs 24-hour TSD: what's the difference?** Three initial HAZWOPER courses, three different jobs. Read guide →](https://compare.hazwoperosha.us/guides/40-hour-vs-24-hour-vs-tsdf) [2 min read **Federal, state-plan or Cal/OSHA refresher?** Three refreshers that all meet the annual requirement. Which one fits where you work. Read guide →](https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher)
+[2 min read **40-hour vs 24-hour vs 24-hour TSD: what's the difference?** Three initial HAZWOPER courses, three different jobs. Read guide →](https://compare.hazwoperosha.us/guides/40-hour-vs-24-hour-vs-tsdf) [2 min read **Federal, state-plan or Cal/OSHA refresher?** Federal and Cal/OSHA refreshers both meet the annual requirement. Which one fits where you work. Read guide →](https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher)
 
 ---
 

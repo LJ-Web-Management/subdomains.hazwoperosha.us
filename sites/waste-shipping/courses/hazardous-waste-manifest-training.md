@@ -67,10 +67,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://waste-shipping.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://waste-shipping.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=403)
-
 [RCRA Hazardous Waste Generator Training](https://waste-shipping.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
 $134.99 [Enroll](https://waste-shipping.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)

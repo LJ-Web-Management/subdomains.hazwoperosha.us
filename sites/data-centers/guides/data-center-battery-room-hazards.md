@@ -41,10 +41,6 @@ Smoke, a sweet chemical smell, swelling or heat from a battery cabinet: get out,
 
 $49.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards?buy=1056)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards?buy=479)
-
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-battery-room-hazards?buy=1099)

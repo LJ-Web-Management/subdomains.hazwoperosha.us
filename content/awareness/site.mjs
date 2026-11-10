@@ -2,7 +2,7 @@
 export default {
   brand: "Spot·It·Safe",
   title: "First Responder Awareness Training Online | Security & Warehouse Staff | Spot·It·Safe",
-  description: "HAZWOPER first responder awareness level training for security, warehouse, drivers and front-line staff: recognize a release, isolate the area and notify. Plus spill kit and PPE modules.",
+  description: "HAZWOPER first responder awareness level training for security, warehouse, drivers and front-line staff: recognize a release, isolate the area and notify. Plus spill prevention and response.",
   theme: "#ff3b30",
   fonts: "family=Bangers&family=Comic+Neue:wght@400;700",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#ffe600"/><path d="M16 2l3 9 9-3-6 8 8 4-9 2 2 9-7-6-7 6 2-9-9-2 8-4-6-8 9 3z" fill="#ff3b30" stroke="#111" stroke-width="1.2"/><text x="16" y="20" font-size="10" font-family="Arial" font-weight="900" text-anchor="middle" fill="#fff">!</text></svg>`,
@@ -16,20 +16,6 @@ export default {
       body: `Under 29 CFR 1910.120(q)(6)(i), first responders at the awareness level are people likely to witness or discover a hazardous substance release. Their job is to start the response by notifying the right people, and then **take no further action**. This four-hour course teaches exactly that.`,
       topics: ["What hazardous substances are", "Recognizing a release", "Identifying materials with placards, labels and the ERG", "Your role in the emergency response plan", "Isolating the area", "Notifying the right people"],
       who: "Security officers, warehouse staff, drivers, receptionists and anyone who may discover a release.",
-    },
-    {
-      id: 479, short: "Spill Kit Use",
-      summary: "One hour on using a spill kit for small, incidental spills.",
-      body: `Some small spills are incidental: known material, small amount, no real hazard. Staff can clean those up with a spill kit if they're trained. This course shows how, and when not to.`,
-      topics: ["Incidental vs emergency spills", "Kit types", "Using socks, pads and drain covers", "Disposal"],
-      who: "Warehouse and facility staff.",
-    },
-    {
-      id: 585, short: "PPE Levels A–D",
-      summary: "A 15-minute module on what responders wear and why.",
-      body: `Helps front-line staff understand what responders are wearing, and why they shouldn't go in without it.`,
-      topics: ["Levels A, B, C and D", "Why PPE matters"],
-      who: "Anyone curious about responder PPE.",
     },
     {
       id: 416, short: "Spill Prevention",
@@ -87,7 +73,7 @@ No absorbing, no plugging, no moving drums, no going back in to "check." Those a
       title: "See a spill? What to do, and what not to do",
       description: "A one-page guide for security, warehouse and front-line staff.",
       date: "2026-10-25",
-      courses: [1099, 479],
+      courses: [1099],
       body: `You're walking the warehouse and there's a puddle under a pallet of drums. Or a strange smell near the loading dock. Here's what to do.
 
 ## Do
@@ -109,7 +95,7 @@ No absorbing, no plugging, no moving drums, no going back in to "check." Those a
 
 ## Small and known?
 
-Some spills are incidental: a known material, a small amount and no real hazard, like a little motor oil. If you've been trained and your site allows it, you can clean those up with a spill kit. See [[479]]. If you're not sure, it's not incidental.
+Some spills are incidental: a known material, a small amount and no real hazard, like a little motor oil. If you've been trained and your site allows it, you can clean those up with a spill kit. See [[416]]. If you're not sure, it's not incidental.
 
 {{buy:1099}}`,
     },

@@ -64,7 +64,7 @@ Filling out and tracking the manifest for every shipment.
 
 **$58.99** [Enroll](https://generator-status.hazwoperosha.us/?buy=580)
 
-[All trainings (83) →](https://generator-status.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://generator-status.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -25,7 +25,7 @@ PointList (https://dc-bms.hazwoperosha.us/) sells online training from HAZWOPER 
 
 ## All trainings
 
-- [All 83 trainings](https://dc-bms.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-bms.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

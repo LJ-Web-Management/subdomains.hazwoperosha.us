@@ -54,7 +54,7 @@ For placements at treatment and disposal facilities.
 
 **$229.99** [Enroll](https://staffing-agencies.hazwoperosha.us/?buy=582)
 
-[All trainings (83) →](https://staffing-agencies.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://staffing-agencies.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -54,7 +54,7 @@ Collecting hazardous waste where it's made.
 
 **$59.99** [Enroll](https://universal-waste.hazwoperosha.us/?buy=415)
 
-[All trainings (83) →](https://universal-waste.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://universal-waste.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -1,6 +1,6 @@
 ---
 title: "Spill Response Training Online | SPCC, Spill Kits & Booms"
-description: "Online spill prevention and response training: SPCC and OSHA spill response, spill kit selection, absorbent and containment booms, air monitoring and 40-hour…"
+description: "Online spill prevention and response training: OSHA spill prevention and response and air monitoring, with guides to spill kits and booms."
 url: https://spill-response.hazwoperosha.us/
 ---
 
@@ -22,22 +22,6 @@ Spill prevention and first response for oil and chemical handlers under OSHA and
 
 **$29.99** [Enroll](https://spill-response.hazwoperosha.us/?buy=416)
 
-1 Hour
-
-### Spill Response Equipment - Spill Kit Selection & Use
-
-Choosing, stocking, placing and using the right spill kit for oil, chemical and universal spills.
-
-**$24.99** [Enroll](https://spill-response.hazwoperosha.us/?buy=479)
-
-1 Hour
-
-### Spill Response Equipment - Absorbent & Containment Booms
-
-Using absorbent and containment booms to stop spills on land and water.
-
-**$24.99** [Enroll](https://spill-response.hazwoperosha.us/?buy=478)
-
 2 Hours · #664
 
 ### OSHA Air Monitoring and Gas Detection Training
@@ -45,14 +29,6 @@ Using absorbent and containment booms to stop spills on land and water.
 Using gas detectors to decide when a spill area is safe to enter.
 
 **$49.99** [Enroll](https://spill-response.hazwoperosha.us/?buy=1056)
-
-40 Hours
-
-### OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response
-
-The full 40-hour HAZWOPER for crews whose job is responding to oil and fuel spills.
-
-**$249.99** [Enroll](https://spill-response.hazwoperosha.us/?buy=591)
 
 ## Know your kit.
 

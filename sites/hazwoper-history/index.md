@@ -104,7 +104,7 @@ The emergency response side of HAZWOPER.
 
 **$199.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=593)
 
-[All trainings (83) →](https://hazwoper-history.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://hazwoper-history.hazwoperosha.us/courses/#all)
 
 ## Guides
 

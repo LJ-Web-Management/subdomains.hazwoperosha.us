@@ -62,7 +62,7 @@ Contingency planning for large quantity generator shops.
 
 **$99.99** [Enroll](https://metal-finishing.hazwoperosha.us/?buy=412)
 
-[All trainings (83) →](https://metal-finishing.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://metal-finishing.hazwoperosha.us/courses/#all)
 
 ## Guides
 

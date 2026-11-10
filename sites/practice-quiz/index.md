@@ -30,22 +30,6 @@ Brush up every year.
 
 **$59.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=595)
 
-15 Min
-
-### PPE Levels A–D
-
-Ace the PPE questions.
-
-**$12.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=585)
-
-20 Min
-
-### Decontamination
-
-Ace the decon questions.
-
-**$14.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=584)
-
 4 Hours · #654
 
 ### Awareness
@@ -54,7 +38,7 @@ Ace the responder questions.
 
 **$61.99** [Enroll](https://practice-quiz.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://practice-quiz.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://practice-quiz.hazwoperosha.us/courses/#all)
 
 ## Guides
 

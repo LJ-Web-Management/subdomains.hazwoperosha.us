@@ -11,34 +11,6 @@ export default {
 
   courses: [
     {
-      id: 590, short: "40 Hr Remediation",
-      summary: "The 40-hour initial HAZWOPER for environmental remediation crews.",
-      body: `Remediation is the heart of HAZWOPER. This 40-hour course under 29 CFR 1910.120(e) follows a cleanup from investigation through excavation, treatment and closure, with the hazards and controls at each step.`,
-      topics: ["Phases of a cleanup and their hazards", "Drilling, sampling and test pits", "Drum and container handling", "Treatment systems: SVE, pump-and-treat, in-situ", "Air monitoring and action levels", "Decon of people and equipment"],
-      who: "Field technicians, geologists, samplers, laborers and operators on remediation projects.",
-    },
-    {
-      id: 586, short: "Site Characterization",
-      summary: "A 20-minute module on how sites are evaluated before and during work.",
-      body: `Before anyone goes in, the site is characterized. This module explains the preliminary evaluation, IDLH conditions and how monitoring keeps the picture up to date.`,
-      topics: ["Preliminary evaluation", "Recognizing IDLH conditions", "Site history and records", "Ongoing monitoring"],
-      who: "New field staff and anyone who walks a site before work starts.",
-    },
-    {
-      id: 583, short: "Air Monitoring",
-      summary: "A 20-minute module on direct-reading instruments and action levels.",
-      body: `PIDs, multi-gas meters and dust monitors drive most PPE decisions on a cleanup. This module covers what they measure and how to read them.`,
-      topics: ["PIDs and multi-gas meters", "Bump test vs calibration", "Action levels", "Breathing-zone readings"],
-      who: "Anyone who carries or reads monitoring equipment.",
-    },
-    {
-      id: 584, short: "Decontamination",
-      summary: "A 20-minute module on the decon line, station by station.",
-      body: `Decon is where contamination either stays on site or goes home. This module walks the decon line and the common doffing mistakes.`,
-      topics: ["Site zones", "Decon stations in order", "Doffing safely", "Equipment decon"],
-      who: "All remediation field staff and decon techs.",
-    },
-    {
       id: 1056, short: "Gas Detection",
       summary: "Two-hour training on gas detection for excavations, vaults and treatment systems.",
       body: `Remediation work often happens in excavations, manholes and treatment enclosures where vapors build up. This course covers multi-gas and PID monitoring in depth.`,
@@ -60,7 +32,7 @@ export default {
       title: "Your first week on a remediation site",
       description: "What new field techs should expect, from the HASP briefing to the decon line.",
       date: "2026-10-25",
-      courses: [590, 584],
+      courses: [],
       body: `You have your 40-hour certificate. Now comes the part the course can't give you: real days on a real site.
 
 ## Day one: paperwork and briefing
@@ -92,7 +64,7 @@ On a good site, stopping to ask is part of the job.`,
       title: "Action levels explained: what the PID reading means for you",
       description: "Most remediation PPE decisions come down to a few numbers in the HASP. Here's how to read them.",
       date: "2026-10-25",
-      courses: [583, 1056],
+      courses: [1056],
       body: `Every remediation health and safety plan has a table of action levels: readings that tell the crew when to keep working, upgrade PPE or stop. Understanding that table is one of the most useful things a field tech can learn.
 
 ## A typical action level table
@@ -119,15 +91,14 @@ A PID reads total volatile organics. It can't tell benzene from gasoline, and it
 ## Oxygen and LEL first
 
 In excavations and enclosed areas, check oxygen and LEL before trusting a PID reading. Low oxygen affects many sensors.
-
-{{buy:583}}`,
+`,
     },
     {
       slug: "drums-on-a-cleanup-site",
       title: "Finding drums on a cleanup site",
       description: "Buried or abandoned drums are one of the most dangerous surprises on a remediation job.",
       date: "2026-10-25",
-      courses: [590, 586],
+      courses: [],
       body: `Unknown drums turn a routine excavation into a hazmat situation. 29 CFR 1910.120(j) sets specific rules for handling them.
 
 ## When you find one
@@ -157,8 +128,7 @@ In excavations and enclosed areas, check oxygen and LEL before trusting a PID re
 Remote drum handling (grapplers, drum openers) and non-sparking tools are standard for unknown drums. Opening drums is done remotely or with shielding when contents might be pressurized or reactive.
 
 > Drum handling isn't a task for a new hire's first week. Watch, learn and let the experienced crew lead.
-
-{{buy:590}}`,
+`,
     },
   ],
 
@@ -180,7 +150,7 @@ Remote drum handling (grapplers, drum openers) and non-sparking tools are standa
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Clean up the site. <em>Go home clean.</em></h1>
 <p class="hero-lede">HAZWOPER and field-skills training for the people who investigate, excavate and treat contaminated sites.</p>
-<div class="hero-cta">${h.buy(590, "Start the 40-hour · $249.99")}<a class="btn btn-alt" href="/guides/first-week-on-a-remediation-site">Your first week</a></div>
+<div class="hero-cta">${h.buy(1056, "Start with gas detection · $49.99")}<a class="btn btn-alt" href="/guides/first-week-on-a-remediation-site">Your first week</a></div>
 </div></div></section>
 
 <section class="sec"><div class="wrap">

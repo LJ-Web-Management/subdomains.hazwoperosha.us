@@ -23,11 +23,6 @@ export default {
       body: `Train crews, yard workers and local officers are often first on scene. Four hours on recognizing, isolating and reporting.`,
       topics: ["Recognizing a release", "Placards, tank car markings and the ERG", "Isolation distances", "Notifying the railroad and 911"],
       who: "Train crews, yard workers, police and first-arriving responders." },
-    { id: 589, short: "40 Hr Fire / Hazmat",
-      summary: "The 40-hour HAZWOPER for fire and hazmat teams who also do post-incident cleanup.",
-      body: `Rail incidents often move from emergency response into days of cleanup. This 40-hour course covers both sides.`,
-      topics: ["Emergency response vs cleanup", "Hazmat branch operations", "Chemical protective clothing", "Monitoring", "Decon"],
-      who: "Fire and hazmat teams, railroad hazmat contractors." },
     { id: 593, short: "Incident Command",
       summary: "Incident command for rail emergencies.",
       body: `Rail incidents bring many agencies and the railroad into one command structure. Eight hours on ICS and the incident commander's role.`,
@@ -38,11 +33,6 @@ export default {
       body: `Fueling, transloading and car repair create spill risks. Two hours on prevention and first response.`,
       topics: ["Fueling and transfer spills", "Containment", "Reporting"],
       who: "Yard, fueling and transload staff." },
-    { id: 478, short: "Booms",
-      summary: "Booms for spills near creeks, rivers and ditches along the right-of-way.",
-      body: `Many rail lines follow rivers. One hour on deploying booms ahead of a spill.`,
-      topics: ["Boom types", "Placement in current", "Anchoring"],
-      who: "Response crews and contractors." },
     { id: 574, short: "Responder Refresher",
       summary: "Annual refresher for responders and incident commanders.",
       body: `Annual refresher with incident command review.`,
@@ -89,7 +79,7 @@ Hand off to the incident commander when command is established. Unified command 
       title: "Tank cars 101 for responders",
       description: "What you can learn from a tank car before you get close to it.",
       date: "2026-10-25",
-      courses: [1099, 589],
+      courses: [1099],
       body: `Tank cars carry most of the hazardous materials moved by rail. Responders learn to read them from a distance.
 
 ## General types
@@ -122,7 +112,7 @@ Valve and fitting work on tank cars is for trained hazmat technicians and railro
       title: "Railroad employees and HAZWOPER",
       description: "Which rail workers need which level of hazmat training.",
       date: "2026-10-25",
-      courses: [1099, 589, 593],
+      courses: [1099, 593],
       body: `Railroads move hazmat every day, and their employees are often first to an incident. Their HAZWOPER training depends on their role in the railroad's emergency response plan.
 
 ## Typical roles
@@ -132,7 +122,7 @@ Valve and fitting work on tank cars is for trained hazmat technicians and railro
 | Train and engine crews | Recognize, protect themselves, notify, provide the consist | Awareness level: [[1099]] |
 | Yard and car department staff | Recognize and notify, incidental cleanup at most | Awareness |
 | Railroad hazmat managers | Respond, advise incident command, coordinate contractors | Technician-level training and incident command: [[593]] |
-| Response contractors | Contain, transfer and clean up | [[589]] or similar 40-hour plus specialized training |
+| Response contractors | Contain, transfer and clean up | 40-hour HAZWOPER plus specialized training |
 
 ## DOT hazmat training too
 

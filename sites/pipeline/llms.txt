@@ -6,17 +6,15 @@ Right of Way (https://pipeline.hazwoperosha.us/) sells online training from HAZW
 
 ## When to use this site
 
-- Use it when someone needs 40-Hour Utility/Pipeline Emergency Response, Incident Command (q), Refresher with Incident Command, 40-Hour Oil & Gas Spill Response or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Incident Command (q), Refresher with Incident Command, Gas Detection training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://pipeline.hazwoperosha.us/index.md).
 
 ## Courses
 
-- [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://pipeline.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Full HAZWOPER for pipeline and utility responders. Enroll: https://pipeline.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=592
 - [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://pipeline.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $199.99 per seat, 8 Hours, 29 CFR 1910.120(q). Command for HAZWOPER emergency response. Enroll: https://pipeline.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
 - [8 Hour HAZWOPER and Incident Command Refresher Training](https://pipeline.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $249.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). The annual refresher with ICS. Enroll: https://pipeline.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
-- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://pipeline.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). For liquids pipeline spill response. Enroll: https://pipeline.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591
 - [OSHA Air Monitoring and Gas Detection Training](https://pipeline.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Monitoring at gas releases. Enroll: https://pipeline.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
 
 ## Guides
@@ -26,7 +24,7 @@ Right of Way (https://pipeline.hazwoperosha.us/) sells online training from HAZW
 
 ## All trainings
 
-- [All 83 trainings](https://pipeline.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://pipeline.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

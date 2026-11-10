@@ -27,7 +27,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [8 Hour HAZWOPER and Incident Command Refresher Training](https://water-utilities.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $249.99 per seat
 - [OSHA Spill Prevention and Response Safety Training](https://water-utilities.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 
-The [full catalog of 83 trainings](https://water-utilities.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://water-utilities.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://water-utilities.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://water-utilities.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

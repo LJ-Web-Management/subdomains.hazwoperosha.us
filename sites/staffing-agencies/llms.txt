@@ -26,7 +26,7 @@ Ready to Place (https://staffing-agencies.hazwoperosha.us/) sells online trainin
 
 ## All trainings
 
-- [All 83 trainings](https://staffing-agencies.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://staffing-agencies.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

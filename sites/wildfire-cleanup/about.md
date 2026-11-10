@@ -23,10 +23,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 40 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
 - [OSHA 24 Hour HAZWOPER Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): 24 Hours, $169.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://wildfire-cleanup.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
-- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): 15 Min, $12.99 per seat
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
 
-The [full catalog of 83 trainings](https://wildfire-cleanup.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://wildfire-cleanup.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://wildfire-cleanup.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://wildfire-cleanup.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

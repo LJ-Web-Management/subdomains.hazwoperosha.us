@@ -30,17 +30,13 @@ Under 40 CFR 263.30 and 263.31, if hazardous waste is discharged during transpor
 
 ## Training
 
-Drivers hauling waste need DOT hazmat training and should understand the manifest. [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) and [Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) cover both.
+Drivers hauling waste need DOT hazmat training and should understand the manifest. [Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) covers the manifest; get DOT hazmat training from your carrier or a DOT course.
 
 ## Courses
 
 [Hazardous Waste Manifest Training](https://trucking.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
 $58.99 [Enroll](https://trucking.hazwoperosha.us/guides/hauling-hazardous-waste-transporter-rules?buy=580)
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://trucking.hazwoperosha.us/guides/hauling-hazardous-waste-transporter-rules?buy=403)
 
 ---
 

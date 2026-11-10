@@ -10,29 +10,13 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Redevelopment turns contaminated land into housing, parks and jobs. The crews who dig the first foundation need HAZWOPER training.
 
-[40 Hr Construction · $249.99](https://brownfields.hazwoperosha.us/?buy=588) [What's a brownfield?](https://brownfields.hazwoperosha.us/guides/what-makes-a-site-a-brownfield)
+[24-Hour HAZWOPER · $169.99](https://brownfields.hazwoperosha.us/?buy=581) [What's a brownfield?](https://brownfields.hazwoperosha.us/guides/what-makes-a-site-a-brownfield)
 
 BEFORE **Vacant lot. Stained soil. Old tanks.**
 
 AFTER **Housing, parks and jobs.**
 
 ## Courses
-
-40 Hours
-
-### 40 Hr Construction
-
-The 40-hour HAZWOPER for construction on contaminated sites.
-
-**$249.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=588)
-
-40 Hours
-
-### 40 Hr Remediation
-
-The 40-hour HAZWOPER for remediation contractors.
-
-**$249.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=590)
 
 24 Hours · #137
 
@@ -50,14 +34,6 @@ The 8-hour supervisor course for site leads.
 
 **$69.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=597)
 
-20 Min
-
-### Site Characterization
-
-A 20-minute module on how sites are characterized.
-
-**$14.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=586)
-
 2 Hours · #664
 
 ### Gas Detection
@@ -66,7 +42,7 @@ Gas detection for excavations and below-grade work.
 
 **$49.99** [Enroll](https://brownfields.hazwoperosha.us/?buy=1056)
 
-[All trainings (83) →](https://brownfields.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://brownfields.hazwoperosha.us/courses/#all)
 
 ## Guides
 

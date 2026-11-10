@@ -32,8 +32,6 @@ export default {
   courses: [
     { id: 587, short: "40-Hour HAZWOPER", summary: "Covers every topic on this quiz.", body: `The full initial course.`, topics: ["Training rules", "PPE", "Decon", "Emergencies"], who: "Site workers." },
     { id: 595, short: "8-Hour Refresher", summary: "Brush up every year.", body: `The annual refresher.`, topics: ["Review", "Case studies"], who: "Certified workers." },
-    { id: 585, short: "PPE Levels A–D", summary: "Ace the PPE questions.", body: `15 minutes on PPE levels.`, topics: ["Levels A–D"], who: "Anyone." },
-    { id: 584, short: "Decontamination", summary: "Ace the decon questions.", body: `20 minutes on decon.`, topics: ["Zones", "Stations"], who: "Anyone." },
     { id: 1099, short: "Awareness", summary: "Ace the responder questions.", body: `Four hours on awareness level.`, topics: ["Recognize", "Isolate", "Notify"], who: "Anyone." },
   ],
 

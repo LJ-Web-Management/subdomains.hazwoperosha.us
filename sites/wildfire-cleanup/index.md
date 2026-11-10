@@ -38,23 +38,7 @@ Recognize hazardous materials in debris.
 
 **$61.99** [Enroll](https://wildfire-cleanup.hazwoperosha.us/?buy=1099)
 
-15 Min
-
-### PPE Levels A–D
-
-Choosing PPE for ash and debris.
-
-**$12.99** [Enroll](https://wildfire-cleanup.hazwoperosha.us/?buy=585)
-
-20 Min
-
-### Decontamination
-
-Keeping ash off you and out of your truck.
-
-**$14.99** [Enroll](https://wildfire-cleanup.hazwoperosha.us/?buy=584)
-
-[All trainings (83) →](https://wildfire-cleanup.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://wildfire-cleanup.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -27,7 +27,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://course-finder.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): 24 Hours, $229.99 per seat
 - [RCRA Hazardous Waste Generator Training](https://course-finder.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
 
-The [full catalog of 83 trainings](https://course-finder.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://course-finder.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://course-finder.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://course-finder.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

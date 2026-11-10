@@ -62,7 +62,7 @@ Contingency planning for large quantity generator campuses.
 
 **$99.99** [Enroll](https://universities.hazwoperosha.us/?buy=412)
 
-[All trainings (83) →](https://universities.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://universities.hazwoperosha.us/courses/#all)
 
 ## Guides
 

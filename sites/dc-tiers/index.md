@@ -64,7 +64,7 @@ Master data center electrical infrastructure — from utility interconnection to
 
 **$303.99** [Enroll](https://dc-tiers.hazwoperosha.us/?buy=847)
 
-[All trainings (83) →](https://dc-tiers.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-tiers.hazwoperosha.us/courses/#all)
 
 ## Guides
 

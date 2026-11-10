@@ -49,10 +49,6 @@ A lab pack is many small containers of chemical waste packed into a larger outer
 
 $349.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/lab-packing-safely?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/lab-packing-safely?buy=403)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

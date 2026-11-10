@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [HAZWOPER Train-the-Trainer Certification](https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): 24 Hours, $399.99 per seat
 - [OSHA 40 Hour HAZWOPER Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
 
-The [full catalog of 83 trainings](https://safety-plan-checklist.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://safety-plan-checklist.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://safety-plan-checklist.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://safety-plan-checklist.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

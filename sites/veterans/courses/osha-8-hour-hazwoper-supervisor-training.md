@@ -72,10 +72,6 @@ $199.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-s
 
 $399.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=1016)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://veterans.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://veterans.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=589)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

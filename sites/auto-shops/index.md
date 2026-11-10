@@ -46,14 +46,6 @@ Preventing and responding to fluid spills in the shop.
 
 **$29.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=416)
 
-1 Hour
-
-### Spill Kit Use
-
-Using the shop spill kit.
-
-**$24.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=479)
-
 4 Hours · #654
 
 ### Awareness
@@ -62,7 +54,7 @@ Recognize a release you shouldn't handle yourself.
 
 **$61.99** [Enroll](https://auto-shops.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://auto-shops.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://auto-shops.hazwoperosha.us/courses/#all)
 
 ## Guides
 

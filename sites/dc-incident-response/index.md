@@ -54,7 +54,7 @@ Recognize a hazardous release and get clear safely.
 
 **$61.99** [Enroll](https://dc-incident-response.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://dc-incident-response.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-incident-response.hazwoperosha.us/courses/#all)
 
 ## Guides
 

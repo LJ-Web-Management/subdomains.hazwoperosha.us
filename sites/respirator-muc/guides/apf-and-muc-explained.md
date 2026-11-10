@@ -32,15 +32,7 @@ The level of protection a respirator is expected to give workers when it's used 
 - Cartridges and filters have their own maximum concentrations
 - APFs only apply with fit testing, training and maintenance
 
-**HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained** 15 Min · $12.99 per seat
-
-[Enroll](https://respirator-muc.hazwoperosha.us/guides/apf-and-muc-explained?buy=585)
-
 ## Courses
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://respirator-muc.hazwoperosha.us/guides/apf-and-muc-explained?buy=585)
 
 [OSHA 40 Hour HAZWOPER Training](https://respirator-muc.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 

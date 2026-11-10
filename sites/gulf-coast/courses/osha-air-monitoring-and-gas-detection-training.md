@@ -77,10 +77,6 @@ $199.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-
 
 $149.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=702)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=591)
-
 [OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
 $59.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=595)

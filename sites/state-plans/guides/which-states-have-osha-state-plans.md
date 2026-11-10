@@ -35,14 +35,8 @@ Several states and territories, including Connecticut, Illinois, Maine, New Jers
 | Your situation | Course |
 | --- | --- |
 | Federal OSHA state, or a state plan that adopts 1910.120 | [OSHA 8 Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) |
-| State with its own HAZWOPER rule, or crews in several states | [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) |
+| State with its own HAZWOPER rule, or crews in several states | [OSHA 8 Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training), plus a briefing on the state rule |
 | California | [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://state-plans.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) |
-
-## Courses
-
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://state-plans.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://state-plans.hazwoperosha.us/guides/which-states-have-osha-state-plans?buy=900)
 
 ---
 

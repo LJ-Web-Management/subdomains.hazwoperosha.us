@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Capacity Planning & Forecasting](https://dc-design.hazwoperosha.us/courses/capacity-planning-forecasting): 4 Hours, $99.99 per seat
 - [Fiber Optics & Network Cabling](https://dc-design.hazwoperosha.us/courses/fiber-optics-network-cabling): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://dc-design.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-design.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dc-design.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-design.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

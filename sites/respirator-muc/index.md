@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Every respirator has a ceiling. The maximum use concentration is the highest airborne level a respirator can be used in, based on its assigned protection factor. Work it out below.
 
-[PPE Levels · $12.99](https://respirator-muc.hazwoperosha.us/?buy=585) [Calculate MUC](https://respirator-muc.hazwoperosha.us/#calc)
+[Air Monitoring & Gas Detection · $49.99](https://respirator-muc.hazwoperosha.us/?buy=1056) [Calculate MUC](https://respirator-muc.hazwoperosha.us/#calc)
 
 Respirator type Exposure limit (ppm or mg/m³) IDLH, if known (same units) Measured concentration (optional)
 
@@ -21,22 +21,6 @@ Maximum use concentration
 MUC = APF × exposure limit. Air-purifying respirators may not be used at or above IDLH, and cartridge and filter limits can be lower. This doesn't replace your respiratory protection program, fit testing or medical evaluation.
 
 ## Courses
-
-15 Min
-
-### PPE Levels A–D
-
-Respiratory protection across the four PPE levels.
-
-**$12.99** [Enroll](https://respirator-muc.hazwoperosha.us/?buy=585)
-
-20 Min
-
-### Air Monitoring
-
-Measuring what's in the air.
-
-**$14.99** [Enroll](https://respirator-muc.hazwoperosha.us/?buy=583)
 
 2 Hours · #664
 
@@ -54,7 +38,7 @@ Respiratory protection in depth.
 
 **$249.99** [Enroll](https://respirator-muc.hazwoperosha.us/?buy=587)
 
-[All trainings (83) →](https://respirator-muc.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://respirator-muc.hazwoperosha.us/courses/#all)
 
 ## Guides
 

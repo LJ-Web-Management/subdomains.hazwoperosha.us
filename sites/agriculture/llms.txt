@@ -17,7 +17,6 @@ FarmSafe Hazmat (https://agriculture.hazwoperosha.us/) sells online training fro
 - [OSHA Spill Prevention and Response Safety Training](https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to fuel, fertilizer and chemical spills. Enroll: https://agriculture.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
 - [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8) / 1910.111. HAZWOPER refresher focused on anhydrous ammonia. Enroll: https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training?buy=598
 - [OSHA Air Monitoring and Gas Detection Training](https://agriculture.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Gas detection for bins, pits and manure storage. Enroll: https://agriculture.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
-- [Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Choosing and using spill kits. Enroll: https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
 - [RCRA Universal Waste Handler Training](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps and pesticides as universal waste. Enroll: https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
 
 ## Guides
@@ -28,7 +27,7 @@ FarmSafe Hazmat (https://agriculture.hazwoperosha.us/) sells online training fro
 
 ## All trainings
 
-- [All 83 trainings](https://agriculture.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://agriculture.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

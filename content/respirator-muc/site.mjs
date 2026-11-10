@@ -20,15 +20,13 @@ export default {
   hero: {
     title: "How high can <span>you go?</span>",
     lede: "Every respirator has a ceiling. The maximum use concentration is the highest airborne level a respirator can be used in, based on its assigned protection factor. Work it out below.",
-    cta: [585, "PPE Levels · $12.99"],
+    cta: [1056, "Air Monitoring & Gas Detection · $49.99"],
     alt: ["#calc", "Calculate MUC"],
   },
   coursesTagline: "PPE, monitoring and HAZWOPER training.",
   guidesTagline: "APFs, MUCs and cartridge change schedules.",
 
   courses: [
-    { id: 585, short: "PPE Levels A–D", summary: "Respiratory protection across the four PPE levels.", body: "Fifteen minutes on PPE levels A through D and the respiratory protection each uses.", topics: ["Levels A–D", "SCBA vs air-purifying", "Choosing a level"] },
-    { id: 583, short: "Air Monitoring", summary: "Measuring what's in the air.", body: "Twenty minutes on direct-reading instruments: oxygen, LEL, PIDs and colorimetric tubes.", topics: ["Instruments", "Action levels", "Calibration"] },
     { id: 1056, short: "Air Monitoring & Gas Detection", summary: "Two hours on gas detection.", body: "Two hours on air monitoring and gas detection, from bump tests to reading results.", topics: ["Gas detectors", "Bump tests and calibration", "Interpreting readings"] },
     { id: 587, short: "40-Hour HAZWOPER", summary: "Respiratory protection in depth.", body: "The full 40-hour initial course, including respiratory protection and PPE selection.", topics: ["Respirators", "PPE", "Air monitoring", "Site safety"] },
   ],
@@ -66,7 +64,7 @@ export default {
       title: "APF and MUC explained",
       description: "The two numbers behind every respirator selection.",
       date: "2026-10-25",
-      courses: [585, 587],
+      courses: [587],
       body: `## Assigned protection factor (APF)
 
 The level of protection a respirator is expected to give workers when it's used as part of a proper respiratory protection program. An APF of 10 means the respirator should reduce the concentration inside the facepiece to about one tenth of the outside air.
@@ -88,15 +86,14 @@ The level of protection a respirator is expected to give workers when it's used 
 - Air-purifying respirators can't be used in IDLH atmospheres or oxygen-deficient air
 - Cartridges and filters have their own maximum concentrations
 - APFs only apply with fit testing, training and maintenance
-
-{{buy:585}}`,
+`,
     },
     {
       slug: "cartridge-change-schedules",
       title: "Cartridge change schedules",
       description: "Why 'change it when you smell it' isn't allowed.",
       date: "2026-10-25",
-      courses: [583, 1056],
+      courses: [1056],
       body: `For gases and vapors, OSHA requires air-purifying respirators to have either an **end-of-service-life indicator** or a **change schedule** based on objective data.
 
 ## Building a schedule

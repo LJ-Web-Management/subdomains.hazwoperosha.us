@@ -40,20 +40,6 @@ Contaminated spoils are waste, not fill. Stockpile them on liners, cover them an
 
 Pumped water from an impacted excavation usually can't go to a storm drain. Follow the site plan for treatment or containment.
 
-**OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)** 40 Hours · $249.99 per seat
-
-[Enroll](https://construction.hazwoperosha.us/guides/excavating-contaminated-soil?buy=588)
-
-## Courses
-
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://construction.hazwoperosha.us/guides/excavating-contaminated-soil?buy=588)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://construction.hazwoperosha.us/guides/excavating-contaminated-soil?buy=585)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

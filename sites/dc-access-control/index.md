@@ -38,7 +38,7 @@ Build a facility security program that satisfies SOC 2, ISO 27001, and physical 
 
 **$291.99** [Enroll](https://dc-access-control.hazwoperosha.us/?buy=848)
 
-[All trainings (83) →](https://dc-access-control.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-access-control.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -10,23 +10,13 @@ export default {
   hero: {
     title: "From brownfield <em>to building.</em>",
     lede: "Redevelopment turns contaminated land into housing, parks and jobs. The crews who dig the first foundation need HAZWOPER training.",
-    cta: [588, "40 Hr Construction · $249.99"],
+    cta: [581, "24-Hour HAZWOPER · $169.99"],
     alt: ["/guides/what-makes-a-site-a-brownfield", "What's a brownfield?"],
   },
   coursesTagline: "Training for developers' crews, remediation contractors and site leads.",
   guidesTagline: "ESAs, soil management and vapor intrusion for redevelopment teams.",
 
   courses: [
-    { id: 588, short: "40 Hr Construction",
-      summary: "The 40-hour HAZWOPER for construction on contaminated sites.",
-      body: `Brownfield redevelopment usually means construction crews working in impacted soil. This 40-hour course is built for them under 29 CFR 1926.65.`,
-      topics: ["1926.65 on construction projects", "Excavating impacted soil", "Equipment decon", "Dust and vapor control", "Working under a remediation HASP"],
-      who: "Construction crews on redevelopment projects." },
-    { id: 590, short: "40 Hr Remediation",
-      summary: "The 40-hour HAZWOPER for remediation contractors.",
-      body: `For the crews who investigate and clean up before and during redevelopment.`,
-      topics: ["Cleanup phases", "Sampling", "Drums", "Monitoring", "Decon"],
-      who: "Remediation technicians and laborers." },
     { id: 581, short: "24-Hour HAZWOPER",
       summary: "The 24-hour HAZWOPER for limited-exposure staff.",
       body: `For surveyors, inspectors and trades who are on site occasionally or in monitored areas.`,
@@ -37,11 +27,6 @@ export default {
       body: `For foremen and superintendents directing work on contaminated ground.`,
       topics: ["Safety program", "PPE decisions", "Monitoring", "Site control"],
       who: "Foremen and superintendents." },
-    { id: 586, short: "Site Characterization",
-      summary: "A 20-minute module on how sites are characterized.",
-      body: `A short module on preliminary evaluation and monitoring before and during work.`,
-      topics: ["Preliminary evaluation", "IDLH conditions", "Ongoing monitoring"],
-      who: "New field staff and project managers." },
     { id: 1056, short: "Gas Detection",
       summary: "Gas detection for excavations and below-grade work.",
       body: `Two hours on monitoring for vapors, methane and low oxygen.`,
@@ -57,7 +42,7 @@ export default {
       title: "What makes a site a brownfield?",
       description: "The definition, the common contaminants and why redevelopment crews need HAZWOPER.",
       date: "2026-10-25",
-      courses: [588, 586],
+      courses: [],
       body: `EPA defines a brownfield as a property whose expansion, redevelopment or reuse may be complicated by the presence or potential presence of a hazardous substance, pollutant or contaminant.
 
 In plain terms: land that's probably contaminated, which makes building on it harder.
@@ -84,15 +69,14 @@ When redevelopment includes digging up, moving or managing contaminated soil, or
 2. A cleanup or soil management plan, often under a state voluntary cleanup program
 3. Remediation, sometimes combined with construction
 4. Engineering controls such as caps and vapor barriers built into the new development
-
-{{buy:588}}`,
+`,
     },
     {
       slug: "phase-i-and-phase-ii-esas",
       title: "Phase I and Phase II environmental site assessments",
       description: "What ESAs are, and what they tell field crews about the hazards they'll find.",
       date: "2026-10-25",
-      courses: [586, 590],
+      courses: [],
       body: `Before buying or redeveloping a property, buyers and lenders commission environmental site assessments.
 
 ## Phase I ESA
@@ -115,7 +99,7 @@ Ask the project team for the ESA summaries and the site health and safety plan b
 
 ## Surprises still happen
 
-ESAs sample a small fraction of a site. Unknown tanks, drums and buried debris turn up during excavation. That's why crews need training to recognize them and stop work. See [[586]].`,
+ESAs sample a small fraction of a site. Unknown tanks, drums and buried debris turn up during excavation. That's why crews need training to recognize them and stop work. See [[581]].`,
     },
     {
       slug: "vapor-intrusion-and-new-buildings",

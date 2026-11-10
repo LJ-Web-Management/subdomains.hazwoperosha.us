@@ -3,7 +3,7 @@ export default {
   brand: "Michigan HAZWOPER",
   logo: `<span class="badge">MI</span> Michigan HAZWOPER`,
   title: "HAZWOPER Training in Michigan | MIOSHA Part 432 | Michigan HAZWOPER",
-  description: "HAZWOPER training for Michigan workers under MIOSHA Part 432: 40-hour, refreshers, state-plan refresher, manufacturing ERT, RCRA generator and awareness, with guides to Part 201 cleanups.",
+  description: "HAZWOPER training for Michigan workers under MIOSHA Part 432: 40-hour, refreshers, manufacturing ERT, RCRA generator and awareness, with guides to Part 201 cleanups.",
   theme: "#c8102e",
   fonts: "family=Righteous&family=Work+Sans:wght@400;500;600;700",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="16" fill="#c8102e"/><circle cx="16" cy="16" r="12" fill="none" stroke="#f5efe0" stroke-width="2"/><text x="16" y="21" font-size="12" font-family="Arial" font-weight="700" text-anchor="middle" fill="#f5efe0">MI</text></svg>`,
@@ -37,11 +37,6 @@ export default {
       body: `Michigan regulates hazardous waste under Part 111 of its environmental code, with EGLE running the program. This course covers the generator rules it builds on.`,
       topics: ["Waste determination", "Containers and labels", "Accumulation", "Manifests"],
       who: "Waste handlers and EHS staff." },
-    { id: 900, short: "State-Plan Refresher",
-      summary: "The annual refresher with state-plan versions available.",
-      body: `For workers in state-plan states like Michigan.`,
-      topics: ["Federal refresher content", "State-plan differences", "Core review"],
-      who: "Michigan HAZWOPER workers." },
     { id: 595, short: "8-Hour Refresher",
       summary: "The standard annual 8-hour refresher.",
       body: `Eight hours of annual refresher training.`,
@@ -55,7 +50,7 @@ export default {
       title: "MIOSHA Part 432: Michigan's HAZWOPER standard",
       description: "Michigan enforces its own HAZWOPER rule. What's the same, what's different and who's covered.",
       date: "2026-10-25",
-      courses: [587, 900],
+      courses: [587],
       body: `Michigan is a state-plan state. **MIOSHA**, the Michigan Occupational Safety and Health Administration, enforces workplace safety for most private and public employers. Its HAZWOPER rule is **Part 432, Hazardous Waste Operations and Emergency Response**.
 
 ## What's the same
@@ -70,7 +65,7 @@ Part 432 follows the federal training structure: 40 or 24 hours of initial train
 
 ## Training
 
-Federal-based 40-hour and 24-hour courses cover the core. For the annual refresher, a course that addresses state-plan rules, like [[900]], keeps records easy to defend in a MIOSHA inspection.
+Federal-based 40-hour and 24-hour courses cover the core. For the annual refresher, [[595]] plus a short briefing on Part 432 keeps records easy to defend in a MIOSHA inspection.
 
 {{buy:587}}`,
     },

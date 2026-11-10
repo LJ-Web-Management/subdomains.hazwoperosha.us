@@ -46,14 +46,6 @@ Training for in-plant emergency response team members.
 
 **$149.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=702)
 
-40 Hours
-
-### 40 Hr Oil Spill
-
-The 40-hour HAZWOPER for terminal and dock spill response.
-
-**$249.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=591)
-
 8 Hours · #112
 
 ### 8-Hour Refresher
@@ -62,7 +54,7 @@ The annual 8-hour refresher.
 
 **$59.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://gulf-coast.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://gulf-coast.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -18,7 +18,6 @@ Refresher Reminder (https://refresher-reminder.hazwoperosha.us/) sells online tr
 - [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $249.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). The annual refresher for responders and incident commanders. Enroll: https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
 - [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(p)(8) / RCRA. The annual refresher for TSD facility workers. Enroll: https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training?buy=594
 - [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training): $149.99 per seat, 8 Hours, 8 CCR 5192(e)(8). The annual refresher written to Cal/OSHA Title 8. Enroll: https://refresher-reminder.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training?buy=578
-- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): $84.99 per seat, 8 Hours, State-plan equivalents of federal OSHA standard (see parent course). The annual refresher with state-plan versions. Enroll: https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900
 
 ## Guides
 
@@ -27,7 +26,7 @@ Refresher Reminder (https://refresher-reminder.hazwoperosha.us/) sells online tr
 
 ## All trainings
 
-- [All 83 trainings](https://refresher-reminder.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://refresher-reminder.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

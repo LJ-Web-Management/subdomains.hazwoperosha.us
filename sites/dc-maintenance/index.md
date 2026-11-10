@@ -54,7 +54,7 @@ Preventive roofing maintenance to protect the facility below it.
 
 **$99.99** [Enroll](https://dc-maintenance.hazwoperosha.us/?buy=1101)
 
-[All trainings (83) →](https://dc-maintenance.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-maintenance.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -26,7 +26,7 @@ DC Career Lines (https://dc-careers.hazwoperosha.us/) sells online training from
 
 ## All trainings
 
-- [All 83 trainings](https://dc-careers.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-careers.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

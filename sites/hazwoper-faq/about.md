@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 40-Hour HAZWOPER Training (Spanish)](https://hazwoper-faq.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish): 40 Hours, $249.99 per seat
 - [OSHA 8 Hour HAZWOPER Supervisor Training](https://hazwoper-faq.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $69.99 per seat
 
-The [full catalog of 83 trainings](https://hazwoper-faq.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://hazwoper-faq.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://hazwoper-faq.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://hazwoper-faq.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

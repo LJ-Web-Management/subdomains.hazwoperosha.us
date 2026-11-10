@@ -1,6 +1,6 @@
 ---
 title: "8-Hour HAZWOPER Refresher Online | Annual OSHA Renewal"
-description: "Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, state-plan, supervisor, incident command and ammonia versions. From $59.99."
+description: "Renew your HAZWOPER certification online. OSHA 8-hour annual refresher, plus supervisor, incident command and ammonia versions. From $59.99."
 url: https://refresher.hazwoperosha.us/
 ---
 
@@ -25,26 +25,19 @@ OSHA requires an 8-hour HAZWOPER refresher every 12 months. Pick your version, f
    **$59.99** [Enroll](https://refresher.hazwoperosha.us/?buy=595)
 2. 02
 
-   [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available)
-
-   The annual 8-hour refresher for workers in OSHA state-plan states, with state versions available.
-
-   **$84.99** [Enroll](https://refresher.hazwoperosha.us/?buy=900)
-3. 03
-
    [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training)
 
    The annual refresher for HAZWOPER supervisors: the 8 hours your crew needs, plus the supervisor's view.
 
    **$69.99** [Enroll](https://refresher.hazwoperosha.us/?buy=596)
-4. 04
+3. 03
 
    [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training)
 
    The annual refresher for emergency responders and incident commanders under 1910.120(q).
 
    **$249.99** [Enroll](https://refresher.hazwoperosha.us/?buy=574)
-5. 05
+4. 04
 
    [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training)
 

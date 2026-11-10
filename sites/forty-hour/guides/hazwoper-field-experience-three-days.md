@@ -48,10 +48,6 @@ Only through the equivalent-training route in 1910.120(e)(9). An employer can co
 
 $249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/hazwoper-field-experience-three-days?buy=587)
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/hazwoper-field-experience-three-days?buy=590)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

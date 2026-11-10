@@ -20,7 +20,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA Lockout Tagout (LOTO) Training](https://electrical-safety-loto.hazwoperosha.us/#course-187): 1 hour, $29.99 per seat
+- [OSHA Lockout Tagout (LOTO) Training](https://electrical-safety-loto.hazwoperosha.us/#course-1163): 1 hour, $29.99 per seat
 - [Radiofrequency (RF) Safety and Hazard Awareness Training](https://electrical-safety-loto.hazwoperosha.us/#course-466): 1 hour, $47.99 per seat
 - [Arc Flash Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.hazwoperosha.us/#course-423): 2 hours, $49.99 per seat
 - [Electrical Safety Training (NFPA 70E 2024)](https://electrical-safety-loto.hazwoperosha.us/#course-420): 3 hours, $59.99 per seat

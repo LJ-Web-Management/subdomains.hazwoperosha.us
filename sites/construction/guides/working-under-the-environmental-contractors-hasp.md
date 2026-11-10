@@ -42,10 +42,6 @@ Your company still owns its own workers' safety under OSHA's multi-employer cita
 
 $69.99 [Enroll](https://construction.hazwoperosha.us/guides/working-under-the-environmental-contractors-hasp?buy=597)
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://construction.hazwoperosha.us/guides/working-under-the-environmental-contractors-hasp?buy=588)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

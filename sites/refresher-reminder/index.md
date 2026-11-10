@@ -64,15 +64,7 @@ The annual refresher written to Cal/OSHA Title 8.
 
 **$149.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=578)
 
-8 Hours
-
-### State-Plan Refresher
-
-The annual refresher with state-plan versions.
-
-**$84.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=900)
-
-[All trainings (83) →](https://refresher-reminder.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://refresher-reminder.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -22,7 +22,6 @@ export default {
     { id: 581, short: "24-Hour HAZWOPER", summary: "Initial training for occasional and low-exposure workers.", body: `29 CFR 1910.120(e)(3)(ii)-(iii).`, topics: ["Who qualifies", "Hazard recognition", "PPE basics"], who: "Occasional and low-exposure workers." },
     { id: 582, short: "24-Hr TSD Operations", summary: "Initial training for TSD facility workers.", body: `29 CFR 1910.120(p).`, topics: ["(p) requirements", "Waste handling"], who: "TSDF workers." },
     { id: 595, short: "8-Hour Refresher", summary: "The annual refresher.", body: `1910.120(e)(8).`, topics: ["Review", "Case studies"], who: "Certified workers." },
-    { id: 900, short: "State-Plan Refresher", summary: "The annual refresher with state-plan versions.", body: `For state-plan states.`, topics: ["Federal and state content"], who: "State-plan workers." },
     { id: 577, short: "Cal/OSHA 40-Hour", summary: "The 40-hour written to California's 8 CCR 5192.", body: `California's HAZWOPER rule.`, topics: ["Title 8", "Cal/OSHA limits"], who: "California workers." },
   ],
 
@@ -83,22 +82,21 @@ Use the comparison tool above to put them side by side with prices.`,
     {
       slug: "federal-vs-state-plan-vs-cal-osha-refresher",
       title: "Federal, state-plan or Cal/OSHA refresher?",
-      description: "Three refreshers that all meet the annual requirement. Which one fits where you work.",
+      description: "Federal and Cal/OSHA refreshers both meet the annual requirement. Which one fits where you work.",
       date: "2026-10-25",
-      courses: [595, 900, 577],
-      body: `All three give you the eight hours of annual refresher training. The difference is which rule they're written around.
+      courses: [595, 577],
+      body: `Both give you the eight hours of annual refresher training. The difference is which rule they're written around.
 
 | Refresher | Best for |
 |---|---|
 | [[595]] | Federal OSHA states, and state plans that adopt the federal rule |
-| [[900]] | State-plan states and multi-state crews |
 | Cal/OSHA 8-Hour Refresher | California workers under 8 CCR 5192 |
 
 ## How to choose
 
 1. **Where do you work most?** That state's rule is what an inspector will cite.
 2. **Does your state write its own HAZWOPER rule?** California, Washington and Michigan do. Most state plans adopt the federal rule.
-3. **Multi-state crew?** The state-plan refresher covers more ground.
+3. **Multi-state crew?** Take the federal refresher and brief each crew on the state rules where it works.
 
 California workers starting from scratch can compare [[577]] with the federal 40-hour in the tool above.`,
     },

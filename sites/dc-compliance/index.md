@@ -54,7 +54,7 @@ Waste determinations and generator rules.
 
 **$134.99** [Enroll](https://dc-compliance.hazwoperosha.us/?buy=601)
 
-[All trainings (83) →](https://dc-compliance.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-compliance.hazwoperosha.us/courses/#all)
 
 ## Guides
 

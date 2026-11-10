@@ -10,17 +10,9 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Former bases, ranges and weapons-complex sites are some of the largest cleanups in the country. HAZWOPER training for the contractors who work them.
 
-[40 Hr Remediation · $249.99](https://federal-sites.hazwoperosha.us/?buy=590) [Who's covered](https://federal-sites.hazwoperosha.us/guides/hazwoper-on-federal-cleanup-sites)
+[40-Hour HAZWOPER · $249.99](https://federal-sites.hazwoperosha.us/?buy=587) [Who's covered](https://federal-sites.hazwoperosha.us/guides/hazwoper-on-federal-cleanup-sites)
 
 ## Courses
-
-40 Hours
-
-### 40 Hr Remediation
-
-The 40-hour HAZWOPER for remediation crews on federal cleanup sites.
-
-**$249.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=590)
 
 40 Hours · #123
 
@@ -62,7 +54,7 @@ The annual 8-hour refresher.
 
 **$59.99** [Enroll](https://federal-sites.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://federal-sites.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://federal-sites.hazwoperosha.us/courses/#all)
 
 ## Guides
 

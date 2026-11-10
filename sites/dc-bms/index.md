@@ -46,7 +46,7 @@ Cut operating costs with a measurable PUE optimization roadmap.
 
 **$99.99** [Enroll](https://dc-bms.hazwoperosha.us/?buy=832)
 
-[All trainings (83) →](https://dc-bms.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-bms.hazwoperosha.us/courses/#all)
 
 ## Guides
 

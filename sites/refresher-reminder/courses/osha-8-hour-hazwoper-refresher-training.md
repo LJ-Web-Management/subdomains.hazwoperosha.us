@@ -81,10 +81,6 @@ $89.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-h
 
 $149.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=578)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=900)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

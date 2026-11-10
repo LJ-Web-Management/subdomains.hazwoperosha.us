@@ -31,27 +31,6 @@ export default {
       topics: ["Title 8 HAZWOPER refresher review", "Updates to Cal/OSHA rules and exposure limits", "Heat illness prevention on hazardous waste sites", "PPE and respirator refresher", "Decon and emergency procedures", "California incident lessons learned"],
       who: "California workers with a Cal/OSHA or federal 40- or 24-hour HAZWOPER certificate.",
     },
-    {
-      id: 575, short: "Cal/OSHA 24-Hr TSDF",
-      summary: "The 24-hour initial training for California treatment, storage and disposal facility workers.",
-      body: `Workers at permitted hazardous waste treatment, storage and disposal facilities fall under 8 CCR 5192(p), with 24 hours of initial training. California TSDFs are also permitted by DTSC under Title 22, so this course covers both the Cal/OSHA worker-safety side and the hazardous waste rules that shape daily work.`,
-      topics: ["8 CCR 5192(p) requirements for TSD facilities", "DTSC permits and Title 22 operating requirements", "Container and tank management", "Waste receipt, sampling and profiling", "Facility emergency response plan", "PPE, monitoring and decon at a TSDF"],
-      who: "Operators and technicians at California hazardous waste TSD facilities.",
-    },
-    {
-      id: 579, short: "Cal/OSHA 8-Hr TSDF Refresher",
-      summary: "The annual 8-hour refresher for California TSDF workers.",
-      body: `TSD facility workers need eight hours of refresher training each year. This course reviews Cal/OSHA 5192(p) and the Title 22 operating rules, with a focus on what has changed and what goes wrong at TSD facilities.`,
-      topics: ["5192(p) refresher review", "Title 22 updates for permitted facilities", "Container, tank and secondary containment review", "Emergency coordinator and contingency plan review", "Incident case studies"],
-      who: "California TSD facility workers who completed the 24-hour TSDF course.",
-    },
-    {
-      id: 1051, short: "Cal/OSHA RCRA Waste",
-      summary: "California hazardous waste generator training under Title 22, federal RCRA and Title 8.",
-      body: `California regulates more waste as hazardous than federal EPA does, and generators answer to DTSC and their local CUPA. This short course covers what generator staff need to handle waste correctly in California: identification, containers, labels, accumulation times and manifests.`,
-      topics: ["California-only hazardous wastes and why they exist", "Generator categories and accumulation time limits", "Container labels and inspections", "Satellite accumulation", "Manifests and e-Manifest", "CUPA inspections and common violations"],
-      who: "Staff at California businesses that generate hazardous waste: shops, labs, manufacturers, hospitals and warehouses.",
-    },
   ],
 
   guides: [
@@ -97,7 +76,7 @@ Cal/OSHA cares that your training covered what 5192 requires. A federal certific
       title: "California hazardous waste rules: DTSC, CUPAs and the waste federal EPA doesn't count",
       description: "Why California generators manage more waste as hazardous, who inspects them and what staff need to know.",
       date: "2026-10-25",
-      courses: [1051],
+      courses: [],
       body: `If you've managed hazardous waste in another state, California will feel familiar, with more of it. The state runs its own program under **Title 22, Division 4.5**, authorized by US EPA, and it's broader than federal RCRA.
 
 ## Who's in charge
@@ -131,8 +110,7 @@ Every California generator needs people who can:
 ## Training records
 
 Large quantity generators need documented, job-specific training for everyone who handles hazardous waste, with annual review. CUPAs commonly ask to see these records. Smaller generators still have to make sure staff know proper handling and emergency procedures. A short course with a certificate is the simplest way to show it.
-
-{{buy:1051}}`,
+`,
     },
     {
       slug: "working-in-california-with-out-of-state-hazwoper", seoTitle: "Using an out-of-state HAZWOPER certificate in California",

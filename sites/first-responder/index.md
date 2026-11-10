@@ -38,7 +38,7 @@ L3
 
 Approach the release and stop it
 
-[40 Hr Fire / Hazmat →](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams)
+[→](https://first-responder.hazwoperosha.us/null)
 
 L4
 
@@ -77,14 +77,6 @@ Training for the person who takes charge under 1910.120(q)(3).
 Training for in-plant emergency response teams at manufacturing facilities.
 
 **$149.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=702)
-
-40 Hours
-
-### OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams
-
-The full 40-hour HAZWOPER for fire departments and hazmat teams who also do cleanup.
-
-**$249.99** [Enroll](https://first-responder.hazwoperosha.us/?buy=589)
 
 8 Hours · #382
 

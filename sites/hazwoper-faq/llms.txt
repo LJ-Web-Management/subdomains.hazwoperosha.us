@@ -26,7 +26,7 @@ HAZWOPER Answers (https://hazwoper-faq.hazwoperosha.us/) sells online training f
 
 ## All trainings
 
-- [All 83 trainings](https://hazwoper-faq.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://hazwoper-faq.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

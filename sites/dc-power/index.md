@@ -62,7 +62,7 @@ NFPA 70E-aligned electrical safety fundamentals for facility staff.
 
 **$99.99** [Enroll](https://dc-power.hazwoperosha.us/?buy=831)
 
-[All trainings (83) →](https://dc-power.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-power.hazwoperosha.us/courses/#all)
 
 ## Guides
 

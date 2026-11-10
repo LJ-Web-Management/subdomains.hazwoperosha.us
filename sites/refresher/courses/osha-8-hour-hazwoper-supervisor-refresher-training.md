@@ -71,10 +71,6 @@ Certificate of completion included. 100% online, self-paced.
 
 $59.99 [Enroll](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=900)
-
 [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
 $249.99 [Enroll](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=574)

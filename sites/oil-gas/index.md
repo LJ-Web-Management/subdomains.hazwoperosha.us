@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 HAZWOPER, gas detection and spill response training for oil and gas crews. Online, on your schedule, between hitches.
 
-[Get certified · $249.99](https://oil-gas.hazwoperosha.us/?buy=591) [All courses](https://oil-gas.hazwoperosha.us/courses/)
+[Get spill-ready · $29.99](https://oil-gas.hazwoperosha.us/?buy=416) [All courses](https://oil-gas.hazwoperosha.us/courses/)
 
 **H2S** Deadens your sense of smell. Monitor, don't sniff.
 
@@ -21,14 +21,6 @@ HAZWOPER, gas detection and spill response training for oil and gas crews. Onlin
 **NaCl** Produced water sterilizes soil. Contain it fast.
 
 ## Courses for the crew
-
-40 Hours
-
-### OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response
-
-The 40-hour HAZWOPER for crews who respond to crude, condensate, fuel and produced-water spills.
-
-**$249.99** [Enroll](https://oil-gas.hazwoperosha.us/?buy=591)
 
 2 Hours · #664
 
@@ -45,22 +37,6 @@ Using multi-gas meters and PIDs to stay out of H2S, LEL and low-oxygen atmospher
 Preventing and responding to oil spills at production and storage sites under SPCC and OSHA.
 
 **$29.99** [Enroll](https://oil-gas.hazwoperosha.us/?buy=416)
-
-1 Hour
-
-### Spill Response Equipment - Absorbent & Containment Booms
-
-Absorbent and containment booms for ditches, creeks and ponds near well sites.
-
-**$24.99** [Enroll](https://oil-gas.hazwoperosha.us/?buy=478)
-
-40 Hours
-
-### OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response
-
-The 40-hour HAZWOPER for pipeline and gathering-system crews who respond to releases.
-
-**$249.99** [Enroll](https://oil-gas.hazwoperosha.us/?buy=592)
 
 8 Hours · #112
 

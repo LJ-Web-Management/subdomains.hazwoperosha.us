@@ -26,17 +26,7 @@ EPA designated PFOA and PFOS as CERCLA hazardous substances in 2024, and many st
 
 ## Protect crews
 
-HAZWOPER training, site-specific briefings, PPE based on the hazards, and thorough decon ([HAZWOPER Micro-Module: Decontamination Procedures](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures)).
-
-## Courses
-
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://pfas.hazwoperosha.us/guides/afff-site-hazards?buy=590)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://pfas.hazwoperosha.us/guides/afff-site-hazards?buy=584)
+HAZWOPER training, site-specific briefings, PPE based on the hazards, and thorough decon.
 
 ---
 

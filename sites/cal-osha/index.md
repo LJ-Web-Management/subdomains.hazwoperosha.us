@@ -56,30 +56,6 @@ The annual 8-hour HAZWOPER refresher, written to Cal/OSHA Title 8.
 
 **$149.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=578)
 
-24 Hours
-
-### Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training
-
-The 24-hour initial training for California treatment, storage and disposal facility workers.
-
-**$249.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=575)
-
-8 Hours
-
-### Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training
-
-The annual 8-hour refresher for California TSDF workers.
-
-**$109.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=579)
-
-4 Hours
-
-### Cal/OSHA RCRA Hazardous Waste Training
-
-California hazardous waste generator training under Title 22, federal RCRA and Title 8.
-
-**$49.99** [Enroll](https://cal-osha.hazwoperosha.us/?buy=1051)
-
 ## Field notes
 
 [2 min read **Cal/OSHA vs federal OSHA HAZWOPER: what's different in California** The training hours match, but the rule, the exposure limits and the agencies don't. Here's what changes when you work in California. Read guide →](https://cal-osha.hazwoperosha.us/guides/cal-osha-vs-federal-hazwoper) [2 min read **California hazardous waste rules: DTSC, CUPAs and the waste federal EPA doesn't count** Why California generators manage more waste as hazardous, who inspects them and what staff need to know. Read guide →](https://cal-osha.hazwoperosha.us/guides/california-hazardous-waste-dtsc-cupa) [2 min read **Moving to a California job with an out-of-state HAZWOPER certificate** Your 40-hour likely still counts. Here's what California employers check, and when a Cal/OSHA course is the smart move. Read guide →](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper)

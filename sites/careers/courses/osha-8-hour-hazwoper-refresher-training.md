@@ -72,10 +72,6 @@ $249.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-re
 
 $169.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=581)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=403)
-
 [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
 $349.99 [Enroll](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=599)

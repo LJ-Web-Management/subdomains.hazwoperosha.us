@@ -6,7 +6,7 @@ Exposure Limits (https://exposure-limits.hazwoperosha.us/) sells online training
 
 ## When to use this site
 
-- Use it when someone needs Gas Detection, Air Monitoring, 40-Hour HAZWOPER, PPE Levels A–D training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Gas Detection, 40-Hour HAZWOPER training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://exposure-limits.hazwoperosha.us/index.md).
@@ -14,9 +14,7 @@ Exposure Limits (https://exposure-limits.hazwoperosha.us/) sells online training
 ## Courses
 
 - [OSHA Air Monitoring and Gas Detection Training](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Monitoring for the chemicals in this table. Enroll: https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
-- [HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). Direct-reading instruments and action levels in 20 minutes. Enroll: https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583
 - [OSHA 40 Hour HAZWOPER Training](https://exposure-limits.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Toxicology, exposure limits and controls in depth. Enroll: https://exposure-limits.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
-- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). What to wear when limits are exceeded. Enroll: https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
 
 ## Guides
 
@@ -25,7 +23,7 @@ Exposure Limits (https://exposure-limits.hazwoperosha.us/) sells online training
 
 ## All trainings
 
-- [All 83 trainings](https://exposure-limits.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://exposure-limits.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

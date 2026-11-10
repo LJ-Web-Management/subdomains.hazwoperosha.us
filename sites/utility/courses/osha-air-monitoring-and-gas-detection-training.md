@@ -66,10 +66,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=592)
-
 [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
 $199.99 [Enroll](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=593)

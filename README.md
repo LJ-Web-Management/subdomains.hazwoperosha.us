@@ -91,76 +91,75 @@ and the base styles the course sites use. `_shared` can't be a subdomain, so it 
 
 ## Course landing sites
 
-A hundred and ten sites sell hazwoper-osha.com courses, each with its own niche, design, guides and course pages. Every site's
+A hundred and nine sites sell hazwoper-osha.com courses, each with its own niche, design, guides and course pages. Every site's
 `/courses/` page lists its own featured courses first, then all trainings in the catalog, grouped by category, each with an Enroll button:
 
 | Site | Niche | Course keys (`id` in the catalog, not LMS ids) |
 |---|---|---|
-| [forty-hour](https://forty-hour.hazwoperosha.us) | OSHA 40-hour and industry tracks | 587, 588, 590, 591, 592, 589 |
-| [refresher](https://refresher.hazwoperosha.us) | Annual 8-hour refreshers | 595, 900, 596, 574, 598 |
-| [cal-osha](https://cal-osha.hazwoperosha.us) | Cal/OSHA and California waste | 577, 576, 578, 575, 579, 1051 |
-| [rcra](https://rcra.hazwoperosha.us) | EPA RCRA generator compliance | 601, 600, 580, 415, 412, 602, 403 |
-| [spill-response](https://spill-response.hazwoperosha.us) | Spills, kits and booms | 416, 479, 478, 1056, 591 |
+| [forty-hour](https://forty-hour.hazwoperosha.us) | OSHA 40-hour HAZWOPER | 587 |
+| [refresher](https://refresher.hazwoperosha.us) | Annual 8-hour refreshers | 595, 596, 574, 598 |
+| [cal-osha](https://cal-osha.hazwoperosha.us) | Cal/OSHA and California waste | 577, 576, 578 |
+| [rcra](https://rcra.hazwoperosha.us) | EPA RCRA generator compliance | 601, 600, 580, 415, 412, 602 |
+| [spill-response](https://spill-response.hazwoperosha.us) | Spills, kits and booms | 416, 1056 |
 | [supervisor](https://supervisor.hazwoperosha.us) | Supervisors, command, trainers | 597, 593, 596, 1016 |
 | [espanol](https://espanol.hazwoperosha.us) | Spanish-language 40-hour | 1100, 1099, 595 |
-| [micro-modules](https://micro-modules.hazwoperosha.us) | 15-20 minute modules | 585, 584, 583, 586, 478, 479 |
-| [first-responder](https://first-responder.hazwoperosha.us) | Emergency response (q) | 1099, 593, 702, 589, 574 |
-| [tsdf](https://tsdf.hazwoperosha.us) | TSD facility operations (p) | 582, 594, 599, 575, 579 |
+| [first-responder](https://first-responder.hazwoperosha.us) | Emergency response (q) | 1099, 593, 702, 574 |
+| [tsdf](https://tsdf.hazwoperosha.us) | TSD facility operations (p) | 582, 594, 599 |
 | [24-hour](https://24-hour.hazwoperosha.us) | 24-hour HAZWOPER, low-exposure workers | 581, 576, 595, 1099 |
-| [construction](https://construction.hazwoperosha.us) | Construction on contaminated sites | 588, 581, 597, 595, 585 |
-| [oil-gas](https://oil-gas.hazwoperosha.us) | Oil and gas crews | 591, 1056, 416, 478, 592, 595 |
-| [remediation](https://remediation.hazwoperosha.us) | Environmental remediation crews | 590, 586, 583, 584, 1056, 595 |
+| [construction](https://construction.hazwoperosha.us) | Construction on contaminated sites | 581, 597, 595 |
+| [oil-gas](https://oil-gas.hazwoperosha.us) | Oil and gas crews | 1056, 416, 595 |
+| [remediation](https://remediation.hazwoperosha.us) | Environmental remediation crews | 1056, 595 |
 | [lab-waste](https://lab-waste.hazwoperosha.us) | Laboratory hazardous waste | 415, 601, 600, 580, 602, 412 |
 | [healthcare](https://healthcare.hazwoperosha.us) | Hospitals, clinics, pharmacies | 601, 415, 602, 600, 1099, 412 |
 | [manufacturing](https://manufacturing.hazwoperosha.us) | Plant ERTs and waste | 702, 1099, 593, 601, 416, 412 |
 | [ammonia](https://ammonia.hazwoperosha.us) | Ammonia refrigeration | 598, 1056, 593, 1099, 574 |
-| [utility](https://utility.hazwoperosha.us) | Gas, pipeline and electric utilities | 592, 1056, 593, 1099, 595, 574 |
-| [waste-shipping](https://waste-shipping.hazwoperosha.us) | Shipping hazardous waste (RCRA + DOT) | 403, 580, 601, 600, 602 |
-| [ehs-managers](https://ehs-managers.hazwoperosha.us) | Running a HAZWOPER program | 1016, 597, 593, 412, 601, 900 |
-| [state-plans](https://state-plans.hazwoperosha.us) | OSHA state-plan states | 900, 595, 577, 576, 578 |
+| [utility](https://utility.hazwoperosha.us) | Gas, pipeline and electric utilities | 1056, 593, 1099, 595, 574 |
+| [waste-shipping](https://waste-shipping.hazwoperosha.us) | Shipping hazardous waste (RCRA + DOT) | 580, 601, 600, 602 |
+| [ehs-managers](https://ehs-managers.hazwoperosha.us) | Running a HAZWOPER program | 1016, 597, 593, 412, 601 |
+| [state-plans](https://state-plans.hazwoperosha.us) | OSHA state-plan states | 595, 577, 576, 578 |
 | [crews](https://crews.hazwoperosha.us) | Seats for whole crews | 587, 581, 595, 597, 1016, 1099 |
-| [awareness](https://awareness.hazwoperosha.us) | First responder awareness | 1099, 479, 585, 416 |
-| [environmental-services](https://environmental-services.hazwoperosha.us) | Field waste technicians | 599, 403, 582, 594, 580, 584 |
-| [texas](https://texas.hazwoperosha.us) | Texas (OSHA, TCEQ, RRC) | 587, 581, 595, 591, 601 |
-| [gulf-coast](https://gulf-coast.hazwoperosha.us) | Refineries and petrochemical plants | 587, 593, 1056, 702, 591, 595 |
-| [new-jersey](https://new-jersey.hazwoperosha.us) | New Jersey (OSHA, PEOSH, NJDEP) | 590, 587, 595, 900, 601, 1099 |
-| [washington](https://washington.hazwoperosha.us) | Washington State (WAC 296-843) | 587, 590, 581, 900, 595, 1056 |
-| [michigan](https://michigan.hazwoperosha.us) | Michigan (MIOSHA Part 432) | 587, 702, 1099, 601, 900, 595 |
-| [disaster-recovery](https://disaster-recovery.hazwoperosha.us) | Disaster cleanup crews | 587, 581, 1099, 416, 584, 585 |
-| [brownfields](https://brownfields.hazwoperosha.us) | Brownfield redevelopment | 588, 590, 581, 597, 586, 1056 |
-| [landfill](https://landfill.hazwoperosha.us) | Landfills and transfer stations | 1099, 1056, 581, 587, 416, 584 |
-| [rail](https://rail.hazwoperosha.us) | Rail hazmat response | 1099, 589, 593, 416, 478, 574 |
-| [trucking](https://trucking.hazwoperosha.us) | Hazmat carriers and drivers | 403, 1099, 416, 479, 580 |
-| [warehouse](https://warehouse.hazwoperosha.us) | Warehouses and distribution centers | 1099, 479, 416, 602, 601, 585 |
-| [fire-departments](https://fire-departments.hazwoperosha.us) | Fire departments | 1099, 589, 593, 574, 1056, 584 |
-| [industrial-cleaning](https://industrial-cleaning.hazwoperosha.us) | Industrial cleaning crews | 587, 1056, 584, 585, 416, 595 |
-| [demolition](https://demolition.hazwoperosha.us) | Demolition on contaminated sites | 588, 581, 597, 1056, 585, 584 |
+| [awareness](https://awareness.hazwoperosha.us) | First responder awareness | 1099, 416 |
+| [environmental-services](https://environmental-services.hazwoperosha.us) | Field waste technicians | 599, 582, 594, 580 |
+| [texas](https://texas.hazwoperosha.us) | Texas (OSHA, TCEQ, RRC) | 587, 581, 595, 601 |
+| [gulf-coast](https://gulf-coast.hazwoperosha.us) | Refineries and petrochemical plants | 587, 593, 1056, 702, 595 |
+| [new-jersey](https://new-jersey.hazwoperosha.us) | New Jersey (OSHA, PEOSH, NJDEP) | 587, 595, 601, 1099 |
+| [washington](https://washington.hazwoperosha.us) | Washington State (WAC 296-843) | 587, 581, 595, 1056 |
+| [michigan](https://michigan.hazwoperosha.us) | Michigan (MIOSHA Part 432) | 587, 702, 1099, 601, 595 |
+| [disaster-recovery](https://disaster-recovery.hazwoperosha.us) | Disaster cleanup crews | 587, 581, 1099, 416 |
+| [brownfields](https://brownfields.hazwoperosha.us) | Brownfield redevelopment | 581, 597, 1056 |
+| [landfill](https://landfill.hazwoperosha.us) | Landfills and transfer stations | 1099, 1056, 581, 587, 416 |
+| [rail](https://rail.hazwoperosha.us) | Rail hazmat response | 1099, 593, 416, 574 |
+| [trucking](https://trucking.hazwoperosha.us) | Hazmat carriers and drivers | 1099, 416, 580 |
+| [warehouse](https://warehouse.hazwoperosha.us) | Warehouses and distribution centers | 1099, 416, 602, 601 |
+| [fire-departments](https://fire-departments.hazwoperosha.us) | Fire departments | 1099, 593, 574, 1056 |
+| [industrial-cleaning](https://industrial-cleaning.hazwoperosha.us) | Industrial cleaning crews | 587, 1056, 416, 595 |
+| [demolition](https://demolition.hazwoperosha.us) | Demolition on contaminated sites | 581, 597, 1056 |
 | [universities](https://universities.hazwoperosha.us) | College campuses | 415, 601, 600, 602, 1099, 412 |
-| [federal-sites](https://federal-sites.hazwoperosha.us) | DoD and DOE cleanup contractors | 590, 587, 597, 593, 1016, 595 |
+| [federal-sites](https://federal-sites.hazwoperosha.us) | DoD and DOE cleanup contractors | 587, 597, 593, 1016, 595 |
 | [water-utilities](https://water-utilities.hazwoperosha.us) | Water and wastewater utilities | 1099, 1056, 593, 702, 574, 416 |
-| [auto-shops](https://auto-shops.hazwoperosha.us) | Auto repair and fleet shops | 601, 415, 602, 416, 479, 1099 |
+| [auto-shops](https://auto-shops.hazwoperosha.us) | Auto repair and fleet shops | 601, 415, 602, 416, 1099 |
 | [metal-finishing](https://metal-finishing.hazwoperosha.us) | Plating and metal finishing | 601, 600, 415, 702, 1099, 412 |
-| [agriculture](https://agriculture.hazwoperosha.us) | Farms and ag retailers | 1099, 416, 598, 1056, 479, 602 |
-| [marine](https://marine.hazwoperosha.us) | Marinas, ports and terminals | 478, 416, 591, 1099, 593, 1056 |
+| [agriculture](https://agriculture.hazwoperosha.us) | Farms and ag retailers | 1099, 416, 598, 1056, 602 |
+| [marine](https://marine.hazwoperosha.us) | Marinas, ports and terminals | 416, 1099, 593, 1056 |
 | [bilingual](https://bilingual.hazwoperosha.us) | English/Spanish crews | 1100, 587, 597, 595, 1099 |
-| [careers](https://careers.hazwoperosha.us) | Starting a career | 587, 581, 403, 599, 595, 1099 |
+| [careers](https://careers.hazwoperosha.us) | Starting a career | 587, 581, 599, 595, 1099 |
 | [small-business](https://small-business.hazwoperosha.us) | Small businesses | 601, 415, 602, 580, 416, 1099 |
-| [data-centers](https://data-centers.hazwoperosha.us) | Data center facilities | 416, 479, 602, 1099, 1056, 601 |
+| [data-centers](https://data-centers.hazwoperosha.us) | Data center facilities | 416, 602, 1099, 1056, 601 |
 | [course-finder](https://course-finder.hazwoperosha.us) | Tool: question wizard that picks a course | 587, 581, 595, 1099, 582, 601 |
-| [refresher-reminder](https://refresher-reminder.hazwoperosha.us) | Tool: renewal reminder (.ics and Google Calendar) | 595, 596, 574, 594, 578, 900 |
-| [compare](https://compare.hazwoperosha.us) | Tool: compare up to three courses side by side | 587, 581, 582, 595, 900, 577 |
-| [glossary](https://glossary.hazwoperosha.us) | Tool: searchable A–Z glossary | 587, 585, 583, 584, 1099 |
-| [ppe-picker](https://ppe-picker.hazwoperosha.us) | Tool: PPE level A–D picker | 585, 587, 583, 597 |
-| [practice-quiz](https://practice-quiz.hazwoperosha.us) | Tool: 10-question practice quiz | 587, 595, 585, 584, 1099 |
-| [exposure-limits](https://exposure-limits.hazwoperosha.us) | Tool: PEL and IDLH lookup table | 1056, 583, 587, 585 |
-| [decon-drill](https://decon-drill.hazwoperosha.us) | Tool: put the decon stations in order | 584, 587, 585, 589 |
+| [refresher-reminder](https://refresher-reminder.hazwoperosha.us) | Tool: renewal reminder (.ics and Google Calendar) | 595, 596, 574, 594, 578 |
+| [compare](https://compare.hazwoperosha.us) | Tool: compare up to three courses side by side | 587, 581, 582, 595, 577 |
+| [glossary](https://glossary.hazwoperosha.us) | Tool: searchable A–Z glossary | 587, 1099 |
+| [ppe-picker](https://ppe-picker.hazwoperosha.us) | Tool: PPE level A–D picker | 587, 597 |
+| [practice-quiz](https://practice-quiz.hazwoperosha.us) | Tool: 10-question practice quiz | 587, 595, 1099 |
+| [exposure-limits](https://exposure-limits.hazwoperosha.us) | Tool: PEL and IDLH lookup table | 1056, 587 |
+| [decon-drill](https://decon-drill.hazwoperosha.us) | Tool: put the decon stations in order | 587 |
 | [safety-plan-checklist](https://safety-plan-checklist.hazwoperosha.us) | Tool: printable site safety plan checklist | 597, 596, 1016, 587 |
 | [cert-tracker](https://cert-tracker.hazwoperosha.us) | Tool: crew refresher tracker with CSV export | 595, 596, 574, 594, 587 |
-| [spill-kit-sizer](https://spill-kit-sizer.hazwoperosha.us) | Tool: spill kit size recommendation | 479, 416, 478, 1099 |
+| [spill-kit-sizer](https://spill-kit-sizer.hazwoperosha.us) | Tool: spill kit size recommendation | 416, 1099 |
 | [hazwoper-history](https://hazwoper-history.hazwoperosha.us) | Tool: timeline of hazardous waste law | 587, 601, 580, 593 |
 | [hazwoper-faq](https://hazwoper-faq.hazwoperosha.us) | Tool: searchable FAQ | 587, 581, 595, 1100, 597 |
-| [site-zones](https://site-zones.hazwoperosha.us) | Tool: clickable site control zone map | 584, 586, 587, 597 |
-| [flashcards](https://flashcards.hazwoperosha.us) | Tool: flip-card study deck | 587, 581, 595, 585, 583 |
+| [site-zones](https://site-zones.hazwoperosha.us) | Tool: clickable site control zone map | 587, 597 |
+| [flashcards](https://flashcards.hazwoperosha.us) | Tool: flip-card study deck | 587, 581, 595 |
 | [dc-design](https://dc-design.hazwoperosha.us) | DC: design and planning | 842, 849, 845, 829, 834 |
 | [dc-tiers](https://dc-tiers.hazwoperosha.us) | DC: Tier I–IV (tier explorer) | 849, 842, 844, 847 |
 | [dc-operations](https://dc-operations.hazwoperosha.us) | DC: operations management | 843, 839, 837, 830, 1097 |
@@ -173,7 +172,7 @@ A hundred and ten sites sell hazwoper-osha.com courses, each with its own niche,
 | [dc-hvac](https://dc-hvac.hazwoperosha.us) | DC: HVAC and mechanical technicians | 836, 838, 851, 1096 |
 | [ups-batteries](https://ups-batteries.hazwoperosha.us) | DC: UPS and batteries (runtime estimator) | 857, 1102, 840, 1084, 1021 |
 | [dc-fiber](https://dc-fiber.hazwoperosha.us) | DC: fiber and cabling | 834, 829, 830, 855 |
-| [dc-generators](https://dc-generators.hazwoperosha.us) | DC: generators (fuel runtime estimator) | 835, 1098, 853, 416, 479 |
+| [dc-generators](https://dc-generators.hazwoperosha.us) | DC: generators (fuel runtime estimator) | 835, 1098, 853, 416 |
 | [pue](https://pue.hazwoperosha.us) | DC: energy efficiency (PUE calculator) | 832, 841, 846, 830 |
 | [capacity-planning](https://capacity-planning.hazwoperosha.us) | DC: capacity planning (rack load calculator) | 829, 842, 843, 1092, 830 |
 | [dc-maintenance](https://dc-maintenance.hazwoperosha.us) | DC: maintenance programs | 839, 838, 1097, 1096, 1101 |
@@ -188,24 +187,24 @@ A hundred and ten sites sell hazwoper-osha.com courses, each with its own niche,
 | [dc-careers](https://dc-careers.hazwoperosha.us) | DC: career tracks (clickable track map) | 852, 856, 858, 855, 843 |
 | [generator-status](https://generator-status.hazwoperosha.us) | Tool: VSQG/SQG/LQG calculator | 601, 600, 415, 412, 580 |
 | [saa-labels](https://saa-labels.hazwoperosha.us) | Tool: hazardous waste label maker (SAA) | 415, 601, 602, 580 |
-| [manifest](https://manifest.hazwoperosha.us) | Tool: manifest box-by-box explainer | 580, 403, 601, 600 |
+| [manifest](https://manifest.hazwoperosha.us) | Tool: manifest box-by-box explainer | 580, 601, 600 |
 | [universal-waste](https://universal-waste.hazwoperosha.us) | Tool: universal waste sorting game | 602, 601, 415 |
-| [placards](https://placards.hazwoperosha.us) | Tool: DOT hazard class placard explorer | 403, 580, 1099, 589 |
-| [boom-calculator](https://boom-calculator.hazwoperosha.us) | Tool: spill boom length calculator | 478, 479, 416, 591 |
-| [heat-stress](https://heat-stress.hazwoperosha.us) | Tool: heat index for crews in PPE | 585, 587, 597, 595 |
-| [respirator-muc](https://respirator-muc.hazwoperosha.us) | Tool: respirator APF / MUC calculator | 585, 583, 1056, 587 |
-| [lel-converter](https://lel-converter.hazwoperosha.us) | Tool: %LEL to ppm converter | 1056, 583, 587, 586 |
+| [placards](https://placards.hazwoperosha.us) | Tool: DOT hazard class placard explorer | 580, 1099 |
+| [boom-calculator](https://boom-calculator.hazwoperosha.us) | Tool: spill boom length calculator | 416 |
+| [heat-stress](https://heat-stress.hazwoperosha.us) | Tool: heat index for crews in PPE | 587, 597, 595 |
+| [respirator-muc](https://respirator-muc.hazwoperosha.us) | Tool: respirator APF / MUC calculator | 1056, 587 |
+| [lel-converter](https://lel-converter.hazwoperosha.us) | Tool: %LEL to ppm converter | 1056, 587 |
 | [toolbox-talks](https://toolbox-talks.hazwoperosha.us) | Tool: printable toolbox talks | 595, 597, 596, 587 |
 | [emergency-coordinator](https://emergency-coordinator.hazwoperosha.us) | Tool: contingency plan quick reference guide builder | 412, 601, 600, 1099 |
-| [cal-tsdf](https://cal-tsdf.hazwoperosha.us) | California TSDF workers (Cal/OSHA) | 575, 579, 1051, 577, 578 |
+| [cal-tsdf](https://cal-tsdf.hazwoperosha.us) | California TSDF workers (Cal/OSHA) | 577, 578 |
 | [train-the-trainer](https://train-the-trainer.hazwoperosha.us) | HAZWOPER instructors | 1016, 587, 597, 595 |
-| [pipeline](https://pipeline.hazwoperosha.us) | Pipeline and utility emergency response | 592, 593, 574, 591, 1056 |
-| [hw-technician](https://hw-technician.hazwoperosha.us) | Hazardous waste technicians and lab packers | 599, 403, 580, 601, 584 |
-| [veterans](https://veterans.hazwoperosha.us) | Veterans entering HAZWOPER careers | 587, 593, 1016, 589, 597 |
+| [pipeline](https://pipeline.hazwoperosha.us) | Pipeline and utility emergency response | 593, 574, 1056 |
+| [hw-technician](https://hw-technician.hazwoperosha.us) | Hazardous waste technicians and lab packers | 599, 580, 601 |
+| [veterans](https://veterans.hazwoperosha.us) | Veterans entering HAZWOPER careers | 587, 593, 1016, 597 |
 | [staffing-agencies](https://staffing-agencies.hazwoperosha.us) | Staffing agencies placing temps | 587, 581, 595, 1099, 582 |
-| [wildfire-cleanup](https://wildfire-cleanup.hazwoperosha.us) | Wildfire debris and HHW cleanup | 587, 581, 1099, 585, 584 |
-| [meth-lab-cleanup](https://meth-lab-cleanup.hazwoperosha.us) | Clandestine drug lab remediation | 587, 585, 583, 584, 595 |
-| [pfas](https://pfas.hazwoperosha.us) | PFAS and AFFF remediation | 590, 587, 586, 584, 595 |
+| [wildfire-cleanup](https://wildfire-cleanup.hazwoperosha.us) | Wildfire debris and HHW cleanup | 587, 581, 1099 |
+| [meth-lab-cleanup](https://meth-lab-cleanup.hazwoperosha.us) | Clandestine drug lab remediation | 587, 595 |
+| [pfas](https://pfas.hazwoperosha.us) | PFAS and AFFF remediation | 587, 595 |
 
 They're generated. Edit the sources, then rebuild and commit the output:
 
@@ -247,10 +246,13 @@ whatever LMS course had that number (for example, row 595, the 8-Hour Refresher,
 Derrick Operator Certification). On 2026-11-10 every course was checked against hazwoper-osha.com and given
 its real `lmsId`, and `price` was set to the LMS price, since the LMS sets the amount charged.
 
-Courses with `"lmsId": null` had no match on hazwoper-osha.com (no page under their slug or name, and not in
-the /online-courses catalog). Their Enroll buttons open an enrollment request (phone or email) instead of the
-card form, so no order can reach the wrong course. To sell one by card, find its course page on
-hazwoper-osha.com, set `lmsId` and `price` from it, and run `npm run build`.
+Sixteen courses had no match on hazwoper-osha.com (no page under their slug or name, and not in the
+/online-courses catalog), so they were removed from the catalog and every site on 2026-11-10: EPA RCRA/DOT
+Combined (403), the two spill-equipment courses (478, 479), Cal/OSHA TSDF RCRA and its refresher (575, 579),
+the four micro-modules (583-586), the five 40-hour industry tracks (588-592), the State-Plan Refresher (900)
+and Cal/OSHA RCRA (1051). The micro-modules site, which sold only those courses, was deleted. To bring a course
+back, find its page on hazwoper-osha.com and add it to the catalog with that `lmsId` and price. Checkout still
+treats a course with `"lmsId": null` as enroll-by-request (phone or email), never by card.
 
 Two data center courses are still missing from `dc-catalog.json`: Facility Management Fundamentals (LMS 1099)
 and Generator Fundamentals (LMS 1100). They were left out because the HAZWOPER keys 1099 and 1100 were taken

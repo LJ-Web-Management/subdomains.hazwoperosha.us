@@ -17,7 +17,6 @@ Gulf Coast HAZWOPER (https://gulf-coast.hazwoperosha.us/) sells online training 
 - [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $199.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for plant shift supervisors and ERT leaders. Enroll: https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
 - [OSHA Air Monitoring and Gas Detection Training](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Multi-gas meters and PIDs for H2S, LEL, benzene screening and oxygen. Enroll: https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
 - [Manufacturing Emergency Response Team (ERT) Training](https://gulf-coast.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for in-plant emergency response team members. Enroll: https://gulf-coast.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702
-- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for terminal and dock spill response. Enroll: https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591
 - [OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $59.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher. Enroll: https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
 
 ## Guides
@@ -28,7 +27,7 @@ Gulf Coast HAZWOPER (https://gulf-coast.hazwoperosha.us/) sells online training 
 
 ## All trainings
 
-- [All 83 trainings](https://gulf-coast.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://gulf-coast.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

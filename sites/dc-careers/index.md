@@ -108,7 +108,7 @@ Run daily operations like the teams behind Tier 3/4 facilities — maintenance, 
 
 **$325.99** [Enroll](https://dc-careers.hazwoperosha.us/?buy=843)
 
-[All trainings (83) →](https://dc-careers.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-careers.hazwoperosha.us/courses/#all)
 
 ## Guides
 

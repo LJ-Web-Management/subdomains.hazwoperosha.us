@@ -46,7 +46,7 @@ Recognize a hazardous release and get clear safely.
 
 **$61.99** [Enroll](https://clean-agent.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://clean-agent.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://clean-agent.hazwoperosha.us/courses/#all)
 
 ## Guides
 

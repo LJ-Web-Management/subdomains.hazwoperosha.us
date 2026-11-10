@@ -41,9 +41,7 @@ export default {
 
   courses: [
     { id: 1056, short: "Gas Detection", summary: "Monitoring for the chemicals in this table.", body: `Two hours on multi-gas meters and PIDs.`, topics: ["Sensors", "Calibration", "Alarm set points"], who: "Anyone who carries a monitor." },
-    { id: 583, short: "Air Monitoring", summary: "Direct-reading instruments and action levels in 20 minutes.", body: `A short module on instruments.`, topics: ["PIDs", "LEL", "Action levels"], who: "Anyone." },
     { id: 587, short: "40-Hour HAZWOPER", summary: "Toxicology, exposure limits and controls in depth.", body: `The full initial course.`, topics: ["Toxicology", "Exposure limits", "PPE", "Monitoring"], who: "Site workers." },
-    { id: 585, short: "PPE Levels A–D", summary: "What to wear when limits are exceeded.", body: `15 minutes on PPE levels.`, topics: ["Levels A–D"], who: "Anyone." },
   ],
 
   feature: (h) => `<section class="sec lim-sec" id="limits"><div class="wrap">
@@ -65,7 +63,7 @@ export default {
       title: "From exposure limit to action level",
       description: "How a site safety plan turns a PEL into a number on your monitor that tells you what to do.",
       date: "2026-10-25",
-      courses: [583, 1056],
+      courses: [1056],
       body: `Exposure limits are averaged over time, usually 8 hours. A monitor reads right now. Action levels bridge the two.
 
 ## How sites set them

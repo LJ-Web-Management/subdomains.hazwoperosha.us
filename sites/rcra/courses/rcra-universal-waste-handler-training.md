@@ -83,10 +83,6 @@ $59.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handle
 
 $99.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=412)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=403)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

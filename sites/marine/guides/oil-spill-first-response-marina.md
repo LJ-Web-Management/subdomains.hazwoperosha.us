@@ -32,19 +32,11 @@ Collect used absorbents in bags or drums, label them and manage them as oily was
 - Use fuel nozzle bibs and vent overflow catchers
 - Keep a spill kit with boom at the fuel dock
 
-**Spill Response Equipment - Absorbent & Containment Booms** 1 Hour · $24.99 per seat
-
-[Enroll](https://marine.hazwoperosha.us/guides/oil-spill-first-response-marina?buy=478)
-
 ## Courses
 
 [OSHA Spill Prevention and Response Safety Training](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
 $29.99 [Enroll](https://marine.hazwoperosha.us/guides/oil-spill-first-response-marina?buy=416)
-
-[Spill Response Equipment - Absorbent & Containment Booms](https://marine.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://marine.hazwoperosha.us/guides/oil-spill-first-response-marina?buy=478)
 
 ---
 

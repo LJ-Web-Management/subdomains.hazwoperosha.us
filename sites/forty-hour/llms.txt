@@ -1,12 +1,12 @@
 # 40 Hour HAZWOPER
 
-> Take the OSHA 40-Hour HAZWOPER online under 29 CFR 1910.120(e). General, construction, remediation, oil & gas, pipeline and fire/hazmat tracks. $249.99, certificate included.
+> Take the OSHA 40-Hour HAZWOPER online under 29 CFR 1910.120(e). Self-paced, written for every industry. $249.99, certificate included.
 
 40 Hour HAZWOPER (https://forty-hour.hazwoperosha.us/) sells online training from HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Courses are 100% online and self-paced, and each includes a certificate of completion. Prices are per seat; seats for a whole crew can be bought in one checkout. Phone +1-866-429-6742, email info@hazwoper-osha.com.
 
 ## When to use this site
 
-- Use it when someone needs 40 Hr · General, 40 Hr · Construction, 40 Hr · Remediation, 40 Hr · Oil & Gas Spill or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs 40 Hr · General training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://forty-hour.hazwoperosha.us/index.md).
@@ -14,21 +14,15 @@
 ## Courses
 
 - [OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The standard OSHA 40-hour initial HAZWOPER for general site workers on uncontrolled hazardous waste sites. Enroll: https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
-- [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour initial HAZWOPER told through the lens of construction work on contaminated ground. Enroll: https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites?buy=588
-- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour initial HAZWOPER for remediation crews, from site investigation to closure. Enroll: https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=590
-- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour initial HAZWOPER for crews who respond to crude, fuel and produced-water spills. Enroll: https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591
-- [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour initial HAZWOPER for utility and pipeline crews who respond to releases on the line. Enroll: https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response?buy=592
-- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour initial HAZWOPER for fire departments and industrial hazmat teams. Enroll: https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=589
 
 ## Guides
 
 - [40-hour or 24-hour HAZWOPER: which one does your job need?](https://forty-hour.hazwoperosha.us/guides/40-hour-or-24-hour-hazwoper): OSHA ties the hours to your exposure, not your job title. Here's how to tell which initial course applies.
 - [The three days of field experience: what online training can't do for you](https://forty-hour.hazwoperosha.us/guides/hazwoper-field-experience-three-days): The 40-hour has two parts. The course covers the classroom part. Here's how employers handle the supervised days on site.
-- [Construction, remediation, oil & gas, pipeline or hazmat: picking your 40-hour track](https://forty-hour.hazwoperosha.us/guides/choosing-a-40-hour-industry-track): All six 40-hour courses meet the same OSHA requirement. The track decides which examples, hazards and scenarios you'll study.
 
 ## All trainings
 
-- [All 83 trainings](https://forty-hour.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://forty-hour.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

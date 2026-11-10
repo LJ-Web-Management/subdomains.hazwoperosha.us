@@ -1,6 +1,6 @@
 ---
 title: "Hazardous Waste Technician Training: HAZWOPER, RCRA & DOT"
-description: "Training for hazardous waste technicians, field chemists and lab packers: the HAZWOPER and RCRA technician course, generator rules, RCRA/DOT shipping and the…"
+description: "Training for hazardous waste technicians, field chemists and lab packers: the HAZWOPER and RCRA technician course, generator rules and the manifest."
 url: https://hw-technician.hazwoperosha.us/
 ---
 
@@ -22,14 +22,6 @@ Safety and compliance for hazardous waste technicians.
 
 **$349.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=599)
 
-8 Hours
-
-### RCRA/DOT Combined
-
-Shipping hazardous waste legally.
-
-**$149.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=403)
-
 2 Hours · #374
 
 ### Hazardous Waste Manifest
@@ -46,15 +38,7 @@ The generator rules your customers follow.
 
 **$134.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=601)
 
-20 Min
-
-### Decontamination
-
-Decon in 20 minutes.
-
-**$14.99** [Enroll](https://hw-technician.hazwoperosha.us/?buy=584)
-
-[All trainings (83) →](https://hw-technician.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://hw-technician.hazwoperosha.us/courses/#all)
 
 ## Guides
 

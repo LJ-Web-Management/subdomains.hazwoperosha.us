@@ -8,19 +8,11 @@ url: https://utility.hazwoperosha.us/
 
 HAZWOPER for gas, pipeline and electric utility crews who respond to releases on the line.
 
-[Enroll the crew · $249.99](https://utility.hazwoperosha.us/?buy=592) [Line strike guide](https://utility.hazwoperosha.us/guides/responding-to-a-gas-line-strike)
+[Enroll the crew · $199.99](https://utility.hazwoperosha.us/?buy=593) [Line strike guide](https://utility.hazwoperosha.us/guides/responding-to-a-gas-line-strike)
 
 Call 911 Evacuate No ignition Monitor Isolate
 
 ## Crew courses
-
-40 Hours
-
-### OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response
-
-The 40-hour HAZWOPER for utility and pipeline crews who respond to releases on the line.
-
-**$249.99** [Enroll](https://utility.hazwoperosha.us/?buy=592)
 
 2 Hours · #664
 

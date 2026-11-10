@@ -40,15 +40,7 @@ Asbestos (29 CFR 1926.1101) and lead (1926.62) have their own OSHA standards and
 4. Demolish
 5. Manage soil and debris under the site plan
 
-**OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)** 40 Hours · $249.99 per seat
-
-[Enroll](https://demolition.hazwoperosha.us/guides/pre-demolition-surveys?buy=588)
-
 ## Courses
-
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://demolition.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://demolition.hazwoperosha.us/guides/pre-demolition-surveys?buy=588)
 
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://demolition.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 

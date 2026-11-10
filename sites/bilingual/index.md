@@ -66,7 +66,7 @@ First responder awareness (in English).
 
 **$61.99** [Enroll](https://bilingual.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://bilingual.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://bilingual.hazwoperosha.us/courses/#all)
 
 ## Guides
 

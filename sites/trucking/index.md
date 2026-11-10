@@ -1,6 +1,6 @@
 ---
 title: "Hazmat Training for Truck Drivers & Carriers"
-description: "Training for hazmat carriers and drivers: RCRA/DOT combined, first responder awareness, spill prevention, spill kit use and hazardous waste manifests, with…"
+description: "Training for hazmat carriers and drivers: first responder awareness, spill prevention and hazardous waste manifests, with guides for drivers and waste…"
 url: https://trucking.hazwoperosha.us/
 ---
 
@@ -10,17 +10,9 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 DOT hazmat, spill response and hazardous waste transport training for drivers, dispatchers and carrier safety managers.
 
-[RCRA/DOT Combined · $149.99](https://trucking.hazwoperosha.us/?buy=403) [Driver training rules](https://trucking.hazwoperosha.us/guides/hazmat-driver-training-requirements)
+[Awareness · $61.99](https://trucking.hazwoperosha.us/?buy=1099) [Driver training rules](https://trucking.hazwoperosha.us/guides/hazmat-driver-training-requirements)
 
 ## Courses
-
-8 Hours
-
-### RCRA/DOT Combined
-
-DOT hazmat employee training combined with RCRA hazardous waste rules.
-
-**$149.99** [Enroll](https://trucking.hazwoperosha.us/?buy=403)
 
 4 Hours · #654
 
@@ -38,14 +30,6 @@ Preventing and responding to spills during loading, unloading and on the road.
 
 **$29.99** [Enroll](https://trucking.hazwoperosha.us/?buy=416)
 
-1 Hour
-
-### Spill Kit Use
-
-Using the spill kit on your truck.
-
-**$24.99** [Enroll](https://trucking.hazwoperosha.us/?buy=479)
-
 2 Hours · #374
 
 ### Manifest
@@ -54,7 +38,7 @@ The hazardous waste manifest from the transporter's side.
 
 **$58.99** [Enroll](https://trucking.hazwoperosha.us/?buy=580)
 
-[All trainings (83) →](https://trucking.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://trucking.hazwoperosha.us/courses/#all)
 
 ## Guides
 

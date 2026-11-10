@@ -46,23 +46,7 @@ Responding safely to fuel and oil spills during recovery.
 
 **$29.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=416)
 
-20 Min
-
-### Decontamination
-
-A 20-minute module on decon procedures.
-
-**$14.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=584)
-
-15 Min
-
-### PPE Levels A–D
-
-A 15-minute module on PPE levels.
-
-**$12.99** [Enroll](https://disaster-recovery.hazwoperosha.us/?buy=585)
-
-[All trainings (83) →](https://disaster-recovery.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://disaster-recovery.hazwoperosha.us/courses/#all)
 
 ## Guides
 

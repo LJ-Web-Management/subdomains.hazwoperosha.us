@@ -1,6 +1,6 @@
 ---
 title: "HAZWOPER Training for OSHA State-Plan States"
-description: "HAZWOPER training for workers in OSHA state-plan states: state-plan 8-hour refresher, federal refresher and Cal/OSHA 40-hour, 24-hour and refresher courses…"
+description: "HAZWOPER training for workers in OSHA state-plan states: federal 8-hour refresher and Cal/OSHA 40-hour, 24-hour and refresher courses, with guides to state…"
 url: https://state-plans.hazwoperosha.us/
 ---
 
@@ -10,17 +10,9 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 About half the country runs its own OSHA program. Train to the rule your state enforces.
 
-[State-plan refresher · $84.99](https://state-plans.hazwoperosha.us/?buy=900) [Is my state one?](https://state-plans.hazwoperosha.us/guides/which-states-have-osha-state-plans)
+[8-hour refresher · $59.99](https://state-plans.hazwoperosha.us/?buy=595) [Is my state one?](https://state-plans.hazwoperosha.us/guides/which-states-have-osha-state-plans)
 
 ## Courses
-
-8 Hours · No. 900
-
-### State-Plan Refresher
-
-The annual 8-hour HAZWOPER refresher with state-plan versions available.
-
-**$84.99** [Enroll](https://state-plans.hazwoperosha.us/?buy=900)
 
 8 Hours · No. 595
 

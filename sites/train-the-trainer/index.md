@@ -46,7 +46,7 @@ Keep your own certification current.
 
 **$59.99** [Enroll](https://train-the-trainer.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://train-the-trainer.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://train-the-trainer.hazwoperosha.us/courses/#all)
 
 ## Guides
 

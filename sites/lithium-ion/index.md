@@ -66,7 +66,7 @@ Managing spent and damaged batteries.
 
 **$34.99** [Enroll](https://lithium-ion.hazwoperosha.us/?buy=602)
 
-[All trainings (83) →](https://lithium-ion.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://lithium-ion.hazwoperosha.us/courses/#all)
 
 ## Guides
 

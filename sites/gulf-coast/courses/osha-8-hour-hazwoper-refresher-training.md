@@ -80,10 +80,6 @@ $49.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-
 
 $149.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=702)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=591)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

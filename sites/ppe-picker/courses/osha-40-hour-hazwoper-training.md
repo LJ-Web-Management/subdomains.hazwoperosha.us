@@ -65,14 +65,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=585)
-
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=583)
-
 [OSHA 8 Hour HAZWOPER Supervisor Training](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
 $69.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=597)

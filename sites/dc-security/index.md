@@ -46,7 +46,7 @@ Understand the environmental regulations that apply to your facility.
 
 **$99.99** [Enroll](https://dc-security.hazwoperosha.us/?buy=833)
 
-[All trainings (83) →](https://dc-security.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-security.hazwoperosha.us/courses/#all)
 
 ## Guides
 

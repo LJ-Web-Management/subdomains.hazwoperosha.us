@@ -2,7 +2,7 @@
 export default {
   brand: "Waste//Freight",
   title: "Hazardous Waste Shipping Training | RCRA, DOT Hazmat & Manifests | Waste//Freight",
-  description: "Training for the people who ship hazardous waste: combined RCRA/DOT hazmat training, hazardous waste manifests, generator training and universal waste shipping.",
+  description: "Training for the people who ship hazardous waste: hazardous waste manifests, generator training and universal waste shipping.",
   theme: "#2a1d10",
   fonts: "family=Black+Ops+One&family=Courier+Prime:wght@400;700&family=Inter:wght@400;600",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#c9a878"/><rect x="5" y="7" width="22" height="18" fill="#fffdf6" stroke="#2a1d10" stroke-width="2"/><path d="M8 20h2M11 20h1M13 20h3M17 20h1M19 20h2M22 20h2" stroke="#2a1d10" stroke-width="3"/></svg>`,
@@ -10,13 +10,6 @@ export default {
   guidesTagline: "Shipping papers, markings and the steps between the drum and the truck.",
 
   courses: [
-    {
-      id: 403, short: "RCRA/DOT Combined",
-      summary: "One course covering RCRA generator rules and DOT hazmat employee training for waste shippers.",
-      body: `Hazardous waste shipments are DOT hazardous materials shipments. Anyone who classifies, packages, marks, labels or signs for them is a DOT hazmat employee and needs training under 49 CFR 172.704, at least every three years. This eight-hour course combines that with RCRA generator training.`,
-      topics: ["RCRA generator requirements", "Hazmat classification", "Packaging and UN specifications", "Marking and labeling", "Shipping papers and the manifest", "Security awareness"],
-      who: "Shipping staff, EHS staff and anyone who prepares or signs hazardous waste shipments.",
-    },
     {
       id: 580, short: "Manifest",
       summary: "The Uniform Hazardous Waste Manifest and e-Manifest, box by box.",
@@ -53,7 +46,7 @@ export default {
       title: "DOT hazmat training for hazardous waste shippers",
       description: "If you sign the manifest, you're a DOT hazmat employee. What 49 CFR 172.704 requires.",
       date: "2026-10-25",
-      courses: [403],
+      courses: [],
       body: `Many facilities train their waste staff on RCRA and forget DOT. But a hazardous waste shipment is a hazardous materials shipment, and the manifest is a DOT shipping paper.
 
 ## Who's a hazmat employee?
@@ -84,15 +77,14 @@ Anyone who, in the course of their job, directly affects hazmat transportation s
 ## Records
 
 Keep a record for each employee: name, completion date, training materials or description, trainer's name and address, and certification that the employee was trained and tested. Keep it for as long as they're employed and 90 days after.
-
-{{buy:403}}`,
+`,
     },
     {
       slug: "preparing-a-hazardous-waste-shipment",
       title: "Preparing a hazardous waste shipment, step by step",
       description: "From the drum to the truck: the pre-transport checklist generators should follow.",
       date: "2026-10-25",
-      courses: [403, 580, 601],
+      courses: [580, 601],
       body: `Your waste vendor's driver is on the way. Here's the order of operations that keeps the shipment legal.
 
 ## 1. Profile and classify
@@ -183,7 +175,7 @@ Many waste vendors prepare LDR notices for you, but **the generator is responsib
 <div class="label-bot"><span>FROM: your loading dock</span><span>TO: a permitted facility</span></div>
 </div>
 <div><p class="hero-lede">Manifests, DOT hazmat shipping and RCRA, for the people who package, mark and sign the papers.</p>
-<div class="hero-cta">${h.buy(403, "Certify now · $149.99")}<a class="btn btn-alt" href="/guides/preparing-a-hazardous-waste-shipment">Shipping checklist</a></div></div>
+<div class="hero-cta">${h.buy(580, "Certify now · $58.99")}<a class="btn btn-alt" href="/guides/preparing-a-hazardous-waste-shipment">Shipping checklist</a></div></div>
 </div></section>
 
 <section class="sec"><div class="wrap">

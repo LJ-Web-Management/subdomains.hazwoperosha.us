@@ -54,7 +54,7 @@ Core building maintenance fundamentals for facilities teams supporting critical 
 
 **$99.99** [Enroll](https://dc-operations.hazwoperosha.us/?buy=1097)
 
-[All trainings (83) →](https://dc-operations.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-operations.hazwoperosha.us/courses/#all)
 
 ## Guides
 

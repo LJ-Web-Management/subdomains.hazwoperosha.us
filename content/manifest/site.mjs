@@ -20,7 +20,7 @@ export default {
   brand: "Manifest 101",
   logo: `<span class="mf-copies"><i></i><i></i><i></i></span>Manifest 101`,
   title: "Hazardous Waste Manifest Explained, Box by Box | Manifest 101",
-  description: "A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest, RCRA/DOT and generator training.",
+  description: "A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest and generator training.",
   theme: "#1971c2",
   fonts: "family=Courier+Prime:wght@400;700&family=Public+Sans:wght@400;600;800",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="9" y="3" width="19" height="24" fill="#ffd8a8"/><rect x="6" y="5" width="19" height="24" fill="#d0ebff"/><rect x="3" y="7" width="19" height="23" fill="#fff" stroke="#1971c2" stroke-width="1.5"/><path d="M6 13h13M6 17h13M6 21h9" stroke="#1971c2" stroke-width="1.5"/></svg>`,
@@ -35,7 +35,6 @@ export default {
 
   courses: [
     { id: 580, short: "Hazardous Waste Manifest", summary: "Two hours on completing, signing and tracking the manifest.", body: "Two hours on the Uniform Hazardous Waste Manifest, box by box: generator, transporter and facility information, DOT descriptions, waste codes, signatures and e-Manifest.", topics: ["Every manifest box", "DOT shipping descriptions", "Signatures and copies", "e-Manifest and corrections"] },
-    { id: 403, short: "RCRA/DOT Combined Compliance", summary: "RCRA and DOT hazmat rules together for shippers.", body: "Eight hours on RCRA hazardous waste and DOT hazardous materials rules together, for people who prepare and ship hazardous waste.", topics: ["Hazmat classification", "Packaging, marking and labeling", "Shipping papers and placards", "RCRA generator duties"] },
     { id: 601, short: "RCRA Generator Training", summary: "The full generator course.", body: "Eight hours on hazardous waste generator rules.", topics: ["Waste determinations", "Generator categories", "Accumulation", "Manifests"] },
     { id: 600, short: "RCRA Generator Refresher", summary: "The annual refresher.", body: "Four hours of refresher training on generator rules.", topics: ["Generator categories", "Containers", "Recent changes"] },
   ],
@@ -60,7 +59,7 @@ window.MF = ${JSON.stringify(BOXES).replace(/</g, "\\u003c")};
       title: "Before you sign the manifest: a 10-point check",
       description: "Your signature certifies the shipment. Check these first.",
       date: "2026-10-25",
-      courses: [580, 403],
+      courses: [580],
       body: `By signing box 15, the generator certifies that the waste is properly classified, described, packaged, marked and labeled. Only people trained under DOT hazmat rules should sign.
 
 1. EPA ID numbers are correct for the generator, transporter and facility

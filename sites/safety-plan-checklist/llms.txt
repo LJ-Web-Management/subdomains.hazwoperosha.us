@@ -25,7 +25,7 @@ HASP Checklist (https://safety-plan-checklist.hazwoperosha.us/) sells online tra
 
 ## All trainings
 
-- [All 83 trainings](https://safety-plan-checklist.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://safety-plan-checklist.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

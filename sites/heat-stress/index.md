@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Chemical protective clothing traps heat and sweat, so crews in PPE can overheat at temperatures that feel comfortable in a T-shirt. Check today's heat index and plan for it.
 
-[PPE Levels · $12.99](https://heat-stress.hazwoperosha.us/?buy=585) [Check the heat index](https://heat-stress.hazwoperosha.us/#calc)
+[40-Hour HAZWOPER · $249.99](https://heat-stress.hazwoperosha.us/?buy=587) [Check the heat index](https://heat-stress.hazwoperosha.us/#calc)
 
 Air temperature (°F) Relative humidity (%) Crew is wearing chemical protective clothing
 
@@ -21,14 +21,6 @@ Heat index
 Heat index uses the National Weather Service formula and shade conditions. Full sun can add up to 15 °F. Risk levels follow OSHA's heat index bands. Impermeable PPE can make real heat stress far worse than the index shows, so use physiological monitoring and your site's heat plan.
 
 ## Courses
-
-15 Min
-
-### PPE Levels A–D
-
-The four levels of protection and their trade-offs.
-
-**$12.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=585)
 
 40 Hours · #123
 
@@ -54,7 +46,7 @@ The annual refresher.
 
 **$59.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://heat-stress.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://heat-stress.hazwoperosha.us/courses/#all)
 
 ## Guides
 

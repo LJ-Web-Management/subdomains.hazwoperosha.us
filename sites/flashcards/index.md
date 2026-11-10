@@ -46,23 +46,7 @@ Keep it all fresh every year.
 
 **$59.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=595)
 
-15 Min
-
-### PPE Levels A–D
-
-Master the PPE cards.
-
-**$12.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=585)
-
-20 Min
-
-### Air Monitoring
-
-Master the monitoring cards.
-
-**$14.99** [Enroll](https://flashcards.hazwoperosha.us/?buy=583)
-
-[All trainings (83) →](https://flashcards.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://flashcards.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -8,7 +8,7 @@ Waste//Freight
 
 # About Waste//Freight
 
-Training for the people who ship hazardous waste: combined RCRA/DOT hazmat training, hazardous waste manifests, generator training and universal waste shipping.
+Training for the people who ship hazardous waste: hazardous waste manifests, generator training and universal waste shipping.
 
 ## Who delivers the training
 
@@ -20,13 +20,12 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://waste-shipping.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): 8 Hours, $149.99 per seat
 - [Hazardous Waste Manifest Training](https://waste-shipping.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 - [RCRA Hazardous Waste Generator Training](https://waste-shipping.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
 - [RCRA Hazardous Waste Generator Refresher Training](https://waste-shipping.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): 4 Hours, $124.99 per seat
 - [RCRA Universal Waste Handler Training](https://waste-shipping.hazwoperosha.us/courses/rcra-universal-waste-handler-training): 2 Hours, $34.99 per seat
 
-The [full catalog of 83 trainings](https://waste-shipping.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://waste-shipping.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://waste-shipping.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://waste-shipping.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

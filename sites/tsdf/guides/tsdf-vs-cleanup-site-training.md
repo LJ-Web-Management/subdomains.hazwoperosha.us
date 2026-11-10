@@ -32,7 +32,7 @@ If your facility technician is sent to a remediation site, or to pack a customer
 
 - **Facility-only staff:** [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) and the annual [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training)
 - **Technicians who work in the facility and in the field:** [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) for the RCRA and technician side, plus the 40-hour HAZWOPER for field work
-- **California facilities:** [Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training) and [Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training)
+- **California facilities:** see our sister site [cal-osha.hazwoperosha.us](https://cal-osha.hazwoperosha.us/) for Cal/OSHA courses
 
 ## Refreshers
 

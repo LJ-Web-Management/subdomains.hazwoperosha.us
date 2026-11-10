@@ -28,7 +28,7 @@ LabWaste. (https://lab-waste.hazwoperosha.us/) sells online training from HAZWOP
 
 ## All trainings
 
-- [All 83 trainings](https://lab-waste.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://lab-waste.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

@@ -82,10 +82,6 @@ $99.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-
 
 $134.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=601)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://ehs-managers.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://ehs-managers.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=900)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

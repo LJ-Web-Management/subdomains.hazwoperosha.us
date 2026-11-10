@@ -63,18 +63,6 @@ Certificate of completion included. 100% online, self-paced.
 
 $249.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=587)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=585)
-
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=583)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=584)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

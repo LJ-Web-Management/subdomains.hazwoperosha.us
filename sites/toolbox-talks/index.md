@@ -80,7 +80,7 @@ Where it all starts.
 
 **$249.99** [Enroll](https://toolbox-talks.hazwoperosha.us/?buy=587)
 
-[All trainings (83) →](https://toolbox-talks.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://toolbox-talks.hazwoperosha.us/courses/#all)
 
 ## Guides
 

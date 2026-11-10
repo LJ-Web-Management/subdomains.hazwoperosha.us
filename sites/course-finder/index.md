@@ -64,7 +64,7 @@ For businesses that generate and ship hazardous waste.
 
 **$134.99** [Enroll](https://course-finder.hazwoperosha.us/?buy=601)
 
-[All trainings (83) →](https://course-finder.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://course-finder.hazwoperosha.us/courses/#all)
 
 ## Guides
 

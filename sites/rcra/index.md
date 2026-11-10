@@ -88,10 +88,6 @@ $99.99 [Enroll](https://rcra.hazwoperosha.us/?buy=412)
 
 $34.99 [Enroll](https://rcra.hazwoperosha.us/?buy=602)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://rcra.hazwoperosha.us/?buy=403)
-
 Compliance notes
 
 ## Guides for EHS teams

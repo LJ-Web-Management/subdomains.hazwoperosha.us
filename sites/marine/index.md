@@ -10,17 +10,9 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Fuel docks, transfer hoses and vessel traffic make spills a constant risk on the waterfront. Spill response training for dock crews and terminal staff.
 
-[Booms course · $24.99](https://marine.hazwoperosha.us/?buy=478) [First response](https://marine.hazwoperosha.us/guides/oil-spill-first-response-marina)
+[Spill Prevention · $29.99](https://marine.hazwoperosha.us/?buy=416) [First response](https://marine.hazwoperosha.us/guides/oil-spill-first-response-marina)
 
 ## Courses
-
-1 Hour
-
-### Booms
-
-Deploying absorbent and containment boom from docks and boats.
-
-**$24.99** [Enroll](https://marine.hazwoperosha.us/?buy=478)
 
 2 Hours · #542
 
@@ -29,14 +21,6 @@ Deploying absorbent and containment boom from docks and boats.
 Preventing spills at fuel docks and transfers.
 
 **$29.99** [Enroll](https://marine.hazwoperosha.us/?buy=416)
-
-40 Hours
-
-### 40 Hr Oil Spill
-
-The 40-hour HAZWOPER for oil spill response crews.
-
-**$249.99** [Enroll](https://marine.hazwoperosha.us/?buy=591)
 
 4 Hours · #654
 
@@ -62,7 +46,7 @@ Gas detection for vessel spaces, tanks and fuel areas.
 
 **$49.99** [Enroll](https://marine.hazwoperosha.us/?buy=1056)
 
-[All trainings (83) →](https://marine.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://marine.hazwoperosha.us/courses/#all)
 
 ## Guides
 

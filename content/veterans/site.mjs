@@ -20,7 +20,6 @@ export default {
     { id: 587, short: "40-Hour HAZWOPER", summary: "The credential most employers ask for.", body: "The 40-hour initial HAZWOPER course: the standard credential for hazardous waste site work.", topics: ["Site safety", "PPE", "Decon", "Monitoring"] },
     { id: 593, short: "Incident Command (q)", summary: "Put your command experience on paper.", body: "Eight hours of HAZWOPER incident command training.", topics: ["ICS", "Unified command", "Resource management"] },
     { id: 1016, short: "Train-the-Trainer", summary: "For veterans who trained troops.", body: "Twenty-four hours for experienced professionals preparing to teach HAZWOPER.", topics: ["Instructor skills", "Hands-on exercises", "Records"] },
-    { id: 589, short: "40-Hour Fire/Hazmat Teams", summary: "For military firefighters and CBRN specialists.", body: "The 40-hour HAZWOPER for fire service and hazmat teams.", topics: ["Hazmat response", "PPE", "Decon"] },
     { id: 597, short: "HAZWOPER Supervisor", summary: "For NCOs and officers.", body: "Eight hours for HAZWOPER supervisors.", topics: ["Safety program", "Supervision", "Briefings"] },
   ],
 
@@ -52,7 +51,7 @@ Use civilian words: "operated decontamination line for 40 personnel," not just t
       title: "Landing your first civilian HAZWOPER job",
       description: "Where veterans find work, and what to do first.",
       date: "2026-10-25",
-      courses: [587, 589],
+      courses: [587],
       body: `## Where the jobs are
 
 - Environmental remediation and cleanup contractors

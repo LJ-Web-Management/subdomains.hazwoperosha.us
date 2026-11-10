@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): 4 Hours, $99.99 per seat
 - [Hazardous Waste Manifest Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 
-The [full catalog of 83 trainings](https://generator-status.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://generator-status.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://generator-status.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://generator-status.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

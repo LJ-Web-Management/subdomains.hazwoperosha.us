@@ -1,6 +1,6 @@
 ---
 title: "Start a Career in Hazardous Waste & Environmental Cleanup"
-description: "Get the training employers look for in hazardous waste, remediation and environmental services jobs: 40-hour and 24-hour HAZWOPER, RCRA/DOT, waste technician…"
+description: "Get the training employers look for in hazardous waste, remediation and environmental services jobs: 40-hour and 24-hour HAZWOPER, waste technician, refresher…"
 url: https://careers.hazwoperosha.us/
 ---
 
@@ -30,14 +30,6 @@ For roles with limited site exposure.
 
 **$169.99** [Enroll](https://careers.hazwoperosha.us/?buy=581)
 
-8 Hours
-
-### RCRA/DOT Combined
-
-Waste and hazmat shipping knowledge that sets applicants apart.
-
-**$149.99** [Enroll](https://careers.hazwoperosha.us/?buy=403)
-
 24 Hours · #346
 
 ### Waste Technician
@@ -62,7 +54,7 @@ A short, affordable first certificate.
 
 **$61.99** [Enroll](https://careers.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://careers.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://careers.hazwoperosha.us/courses/#all)
 
 ## Guides
 

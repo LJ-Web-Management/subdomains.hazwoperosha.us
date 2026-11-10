@@ -1,6 +1,6 @@
 ---
 title: "Training for Environmental Services Field Technicians"
-description: "Training for hazardous waste field technicians: HAZWOPER and RCRA waste technician, RCRA/DOT combined, 24-hour TSD operations, TSD refresher, manifests and…"
+description: "Training for hazardous waste field technicians: HAZWOPER and RCRA waste technician, 24-hour TSD operations, TSD refresher and manifests."
 url: https://environmental-services.hazwoperosha.us/
 ---
 
@@ -21,14 +21,6 @@ The training stack for technicians at environmental services companies: HAZWOPER
 Combined HAZWOPER and RCRA training for hazardous waste management technicians.
 
 **$349.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=599)
-
-8 Hours
-
-### RCRA/DOT Combined
-
-RCRA generator rules plus DOT hazmat employee training.
-
-**$149.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=403)
 
 24 Hours · #135
 
@@ -53,14 +45,6 @@ The annual 8-hour refresher for TSD workers.
 Manifests and e-Manifest, box by box.
 
 **$58.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=580)
-
-20 Min
-
-### Decontamination
-
-A 20-minute module on decon procedures.
-
-**$14.99** [Enroll](https://environmental-services.hazwoperosha.us/?buy=584)
 
 ## Field notes
 

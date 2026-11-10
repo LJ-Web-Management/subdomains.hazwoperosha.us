@@ -6,7 +6,7 @@ FirstResponse (https://first-responder.hazwoperosha.us/) sells online training f
 
 ## When to use this site
 
-- Use it when someone needs Awareness Level, Incident Command, Manufacturing ERT, 40 Hr Fire / Hazmat or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Awareness Level, Incident Command, Manufacturing ERT, Responder Refresher training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://first-responder.hazwoperosha.us/index.md).
@@ -16,7 +16,6 @@ FirstResponse (https://first-responder.hazwoperosha.us/) sells online training f
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). First responder awareness level: recognize the release, secure the area, call it in. Enroll: https://first-responder.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 - [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $199.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for the person who takes charge under 1910.120(q)(3). Enroll: https://first-responder.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
 - [Manufacturing Emergency Response Team (ERT) Training](https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(q). Training for in-plant emergency response teams at manufacturing facilities. Enroll: https://first-responder.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training?buy=702
-- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The full 40-hour HAZWOPER for fire departments and hazmat teams who also do cleanup. Enroll: https://first-responder.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams?buy=589
 - [8 Hour HAZWOPER and Incident Command Refresher Training](https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): $249.99 per seat, 8 Hours, 29 CFR 1910.120(q)(8). The annual refresher for responders and incident commanders. Enroll: https://first-responder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574
 
 ## Guides
@@ -27,7 +26,7 @@ FirstResponse (https://first-responder.hazwoperosha.us/) sells online training f
 
 ## All trainings
 
-- [All 83 trainings](https://first-responder.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://first-responder.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

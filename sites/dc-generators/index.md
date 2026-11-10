@@ -60,15 +60,7 @@ Fuel deliveries, day tanks and spill response.
 
 **$29.99** [Enroll](https://dc-generators.hazwoperosha.us/?buy=416)
 
-1 Hour
-
-### Spill Kit Selection & Use
-
-Choosing and using spill kits for fuel.
-
-**$24.99** [Enroll](https://dc-generators.hazwoperosha.us/?buy=479)
-
-[All trainings (83) →](https://dc-generators.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-generators.hazwoperosha.us/courses/#all)
 
 ## Guides
 

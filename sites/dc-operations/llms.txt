@@ -26,7 +26,7 @@ Floor Ops (https://dc-operations.hazwoperosha.us/) sells online training from HA
 
 ## All trainings
 
-- [All 83 trainings](https://dc-operations.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-operations.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

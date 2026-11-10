@@ -30,7 +30,7 @@ The training structure follows the federal rule:
 
 ## Training approach
 
-A federal 40-hour course covers the same core training. For the annual refresher, [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://washington.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) covers the state-plan context. Keep certificates with your company's written HAZWOPER program, since L&I inspectors will want to see both.
+A federal 40-hour course covers the same core training. For the annual refresher, [OSHA 8 Hour HAZWOPER Refresher Training](https://washington.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) covers the federal core; brief your crew on the WAC differences. Keep certificates with your company's written HAZWOPER program, since L&I inspectors will want to see both.
 
 **OSHA 40 Hour HAZWOPER Training** 40 Hours · $249.99 per seat
 
@@ -41,10 +41,6 @@ A federal 40-hour course covers the same core training. For the annual refresher
 [OSHA 40 Hour HAZWOPER Training](https://washington.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://washington.hazwoperosha.us/guides/wac-296-843-washington-hazwoper?buy=587)
-
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://washington.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://washington.hazwoperosha.us/guides/wac-296-843-washington-hazwoper?buy=900)
 
 ---
 

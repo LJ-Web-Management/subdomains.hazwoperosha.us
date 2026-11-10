@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 
-The [full catalog of 83 trainings](https://24-hour.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://24-hour.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://24-hour.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://24-hour.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

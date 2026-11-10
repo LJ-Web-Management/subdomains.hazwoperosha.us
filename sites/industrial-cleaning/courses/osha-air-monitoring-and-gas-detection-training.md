@@ -70,14 +70,6 @@ Certificate of completion included. 100% online, self-paced.
 
 $249.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=587)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=584)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=585)
-
 [OSHA Spill Prevention and Response Safety Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
 $29.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=416)

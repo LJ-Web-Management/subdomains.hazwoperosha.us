@@ -76,10 +76,6 @@ $89.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste
 
 $49.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=1056)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://agriculture.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://agriculture.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=479)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

@@ -60,18 +60,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=590)
-
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=586)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://pfas.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=584)
-
 [OSHA 8 Hour HAZWOPER Refresher Training](https://pfas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
 $59.99 [Enroll](https://pfas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=595)

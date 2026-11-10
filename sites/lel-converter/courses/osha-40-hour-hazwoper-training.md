@@ -64,14 +64,6 @@ Certificate of completion included. 100% online, self-paced.
 
 $49.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=1056)
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=583)
-
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=586)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

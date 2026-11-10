@@ -65,17 +65,9 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=583)
-
 [OSHA 40 Hour HAZWOPER Training](https://exposure-limits.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=587)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://exposure-limits.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=585)
 
 ---
 

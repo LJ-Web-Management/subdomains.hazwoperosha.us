@@ -66,10 +66,6 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=588)
-
 [OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=581)
@@ -77,10 +73,6 @@ $169.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwop
 [OSHA 8 Hour HAZWOPER Refresher Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
 $59.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=595)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=585)
 
 ---
 

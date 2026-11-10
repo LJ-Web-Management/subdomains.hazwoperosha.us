@@ -27,7 +27,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [UPS Systems Fundamentals](https://dc-power.hazwoperosha.us/courses/ups-systems-fundamentals): 2 Hours, $99.99 per seat
 - [Electrical Safety & Best Practices](https://dc-power.hazwoperosha.us/courses/electrical-safety-best-practices): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://dc-power.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-power.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dc-power.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-power.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

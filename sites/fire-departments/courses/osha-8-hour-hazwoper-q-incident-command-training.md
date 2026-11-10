@@ -70,10 +70,6 @@ Certificate of completion included. 100% online, self-paced.
 
 $61.99 [Enroll](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=1099)
 
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://fire-departments.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=589)
-
 [8 Hour HAZWOPER and Incident Command Refresher Training](https://fire-departments.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
 $249.99 [Enroll](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=574)
@@ -81,10 +77,6 @@ $249.99 [Enroll](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-ha
 [OSHA Air Monitoring and Gas Detection Training](https://fire-departments.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=1056)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://fire-departments.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=584)
 
 ---
 

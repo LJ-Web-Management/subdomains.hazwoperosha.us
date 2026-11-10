@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Ready for the <em>call.</em>",
     lede: "Hazmat and HAZWOPER training for career and volunteer departments: awareness for every member, command for officers, and the 40-hour for hazmat teams.",
-    cta: [589, "40 Hr Fire / Hazmat · $249.99"],
+    cta: [1099, "Awareness · $61.99"],
     alt: ["/guides/hazwoper-for-fire-departments", "Which level?"],
   },
   coursesTagline: "Hazmat training for firefighters, officers and hazmat teams.",
@@ -22,11 +22,6 @@ export default {
       body: `Every firefighter may arrive first at a hazmat call. Four hours on recognizing, isolating and notifying.`,
       topics: ["Recognizing hazmat", "Placards and the ERG", "Isolation and denial of entry", "Calling for resources"],
       who: "All members, career and volunteer." },
-    { id: 589, short: "40 Hr Fire / Hazmat",
-      summary: "The 40-hour HAZWOPER for fire and hazmat teams.",
-      body: `For teams whose work extends into post-emergency cleanup or remediation support.`,
-      topics: ["Response vs cleanup", "Hazmat branch operations", "Chemical protective clothing and SCBA", "Detection", "Technical and mass decon"],
-      who: "Hazmat team members and technicians." },
     { id: 593, short: "Incident Command",
       summary: "Incident command for hazmat incidents.",
       body: `Eight hours on taking command of a hazmat incident under 1910.120(q)(3).`,
@@ -42,11 +37,6 @@ export default {
       body: `Two hours on the monitors your rigs carry: what they read and what the numbers mean.`,
       topics: ["O2, LEL, CO, H2S", "PIDs", "Bump tests", "Interpreting readings"],
       who: "Engine and truck companies." },
-    { id: 584, short: "Decontamination",
-      summary: "A 20-minute decon module.",
-      body: `Decon stations and doffing, in 20 minutes.`,
-      topics: ["Decon stations", "Doffing", "Equipment decon"],
-      who: "All members." },
   ],
 
   guides: [
@@ -55,7 +45,7 @@ export default {
       title: "HAZWOPER for fire departments: which level does each member need?",
       description: "OSHA's responder levels, applied to a fire department roster.",
       date: "2026-10-25",
-      courses: [1099, 589, 593],
+      courses: [1099, 593],
       body: `Fire departments are emergency responders under HAZWOPER paragraph (q). In state-plan states the state rule applies to public employees. In federal OSHA states, EPA's 40 CFR Part 311 applies the same requirements to public employees. Volunteer coverage depends on the state.
 
 Many departments also train to NFPA's hazmat competency standard (now NFPA 470), which lines up with OSHA's levels.
@@ -66,7 +56,7 @@ Many departments also train to NFPA's hazmat competency standard (now NFPA 470),
 |---|---|---|
 | Every member | Awareness, and usually operations | [[1099]] |
 | Engine and truck companies | Operations: defensive actions, isolation, decon support | Department operations training |
-| Hazmat team | Technician | [[589]] plus team training |
+| Hazmat team | Technician | 40-hour HAZWOPER plus team training |
 | Company officers and chiefs | Incident commander | [[593]] |
 
 ## Operations level
@@ -76,15 +66,14 @@ OSHA requires at least 8 hours of training, or demonstrated competency, for firs
 ## Annual refresher
 
 Responders need annual refresher training, or a documented demonstration of competency, under (q)(8). See [[574]].
-
-{{buy:589}}`,
+`,
     },
     {
       slug: "decon-on-the-fireground",
       title: "Decon on the fireground: gross, technical and mass decon",
       description: "Three kinds of decon, when each is used and who runs them.",
       date: "2026-10-25",
-      courses: [584, 589],
+      courses: [],
       body: `Every hazmat incident needs a decon plan before anyone enters the hot zone.
 
 ## Gross decon
@@ -106,8 +95,7 @@ The decon team works in the warm zone and needs PPE, usually one level below the
 ## Plan it before entry
 
 Under HAZWOPER, the decon procedures must be in place before entry. No entry without a decon line ready.
-
-{{buy:584}}`,
+`,
     },
     {
       slug: "annual-hazmat-refresher-fire",

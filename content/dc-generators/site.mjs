@@ -21,7 +21,6 @@ export default {
     { id: 1098, short: "Emergency/Standby Power Systems" },
     { id: 853, short: "Emergency Power Off (EPO)" },
     { id: 416, short: "Spill Prevention & Response", summary: "Fuel deliveries, day tanks and spill response.", body: `Two hours on preventing and responding to diesel spills at generator yards: deliveries, tanks, containment and reporting.`, topics: ["Fuel deliveries", "Day tanks", "Secondary containment", "Reporting"], who: "Generator and facility technicians." },
-    { id: 479, short: "Spill Kit Selection & Use", summary: "Choosing and using spill kits for fuel.", body: `One hour on choosing, placing and using spill kits, including oil-only kits for diesel.`, topics: ["Kit types", "Placement", "Using absorbents", "Disposal"], who: "Generator and facility technicians." },
   ],
 
   feature: () => `<section class="sec gy-sec" id="fuel"><div class="wrap gy-in">
@@ -108,7 +107,7 @@ Follow NFPA 110 inspection and testing, run monthly tests under load, and load b
 
 ## Spill risks
 
-Fuel deliveries, overfills and tank leaks are the main spill risks at most data centers. Watch every delivery, use secondary containment and keep spill kits nearby. See [[416]] and [[479]].`,
+Fuel deliveries, overfills and tank leaks are the main spill risks at most data centers. Watch every delivery, use secondary containment and keep spill kits nearby. See [[416]].`,
     },
   ],
 };

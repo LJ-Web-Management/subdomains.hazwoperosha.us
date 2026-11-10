@@ -62,7 +62,7 @@ Chemical and fuel spill prevention and response.
 
 **$29.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=416)
 
-[All trainings (83) →](https://water-utilities.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://water-utilities.hazwoperosha.us/courses/#all)
 
 ## Guides
 

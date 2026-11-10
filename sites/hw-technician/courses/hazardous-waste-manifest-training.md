@@ -64,17 +64,9 @@ Certificate of completion included. 100% online, self-paced.
 
 $349.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=403)
-
 [RCRA Hazardous Waste Generator Training](https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
 $134.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=584)
 
 ---
 

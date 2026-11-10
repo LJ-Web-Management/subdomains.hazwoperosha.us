@@ -58,20 +58,6 @@ $249.99 per seat
 
 Certificate of completion included. 100% online, self-paced.
 
-## More courses on this site
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://decon-drill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://decon-drill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=584)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://decon-drill.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://decon-drill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=585)
-
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://decon-drill.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://decon-drill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=589)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

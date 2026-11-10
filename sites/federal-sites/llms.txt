@@ -6,14 +6,13 @@ Federal Site HAZWOPER (https://federal-sites.hazwoperosha.us/) sells online trai
 
 ## When to use this site
 
-- Use it when someone needs 40 Hr Remediation, 40-Hour HAZWOPER, Supervisor, Incident Command or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs 40-Hour HAZWOPER, Supervisor, Incident Command, Train-the-Trainer or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://federal-sites.hazwoperosha.us/index.md).
 
 ## Courses
 
-- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour HAZWOPER for remediation crews on federal cleanup sites. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=590
 - [OSHA 40 Hour HAZWOPER Training](https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The standard 40-hour initial HAZWOPER. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
 - [OSHA 8 Hour HAZWOPER Supervisor Training](https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $69.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8-hour supervisor course for site leads. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
 - [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $199.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command for site emergencies. Enroll: https://federal-sites.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
@@ -28,7 +27,7 @@ Federal Site HAZWOPER (https://federal-sites.hazwoperosha.us/) sells online trai
 
 ## All trainings
 
-- [All 83 trainings](https://federal-sites.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://federal-sites.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

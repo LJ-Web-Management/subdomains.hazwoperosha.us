@@ -77,10 +77,6 @@ $59.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-
 
 $29.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://auto-shops.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=479)
-
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=1099)

@@ -32,16 +32,6 @@ Decontamination follows one principle: **move from dirtiest to cleanest, and nev
 
 Exact lines vary with the site, contaminant and PPE level. Follow your site's decon plan.
 
-**HAZWOPER Micro-Module: Decontamination Procedures** 20 Min · $14.99 per seat
-
-[Enroll](https://decon-drill.hazwoperosha.us/guides/why-decon-order-matters?buy=584)
-
-## Courses
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://decon-drill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://decon-drill.hazwoperosha.us/guides/why-decon-order-matters?buy=584)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

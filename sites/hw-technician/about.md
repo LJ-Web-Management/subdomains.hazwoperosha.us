@@ -8,7 +8,7 @@ Waste Tech
 
 # About Waste Tech
 
-Training for hazardous waste technicians, field chemists and lab packers: the HAZWOPER and RCRA technician course, generator rules, RCRA/DOT shipping and the manifest.
+Training for hazardous waste technicians, field chemists and lab packers: the HAZWOPER and RCRA technician course, generator rules and the manifest.
 
 ## Who delivers the training
 
@@ -21,12 +21,10 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): 24 Hours, $349.99 per seat
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): 8 Hours, $149.99 per seat
 - [Hazardous Waste Manifest Training](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 - [RCRA Hazardous Waste Generator Training](https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
 
-The [full catalog of 83 trainings](https://hw-technician.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://hw-technician.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://hw-technician.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://hw-technician.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

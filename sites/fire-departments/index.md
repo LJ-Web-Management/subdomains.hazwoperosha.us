@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Hazmat and HAZWOPER training for career and volunteer departments: awareness for every member, command for officers, and the 40-hour for hazmat teams.
 
-[40 Hr Fire / Hazmat · $249.99](https://fire-departments.hazwoperosha.us/?buy=589) [Which level?](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments)
+[Awareness · $61.99](https://fire-departments.hazwoperosha.us/?buy=1099) [Which level?](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments)
 
 ## Courses
 
@@ -21,14 +21,6 @@ Hazmat and HAZWOPER training for career and volunteer departments: awareness for
 Awareness level training for every member of the department.
 
 **$61.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=1099)
-
-40 Hours
-
-### 40 Hr Fire / Hazmat
-
-The 40-hour HAZWOPER for fire and hazmat teams.
-
-**$249.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=589)
 
 8 Hours · #259
 
@@ -54,15 +46,7 @@ Multi-gas meters and PIDs on scene.
 
 **$49.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=1056)
 
-20 Min
-
-### Decontamination
-
-A 20-minute decon module.
-
-**$14.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=584)
-
-[All trainings (83) →](https://fire-departments.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://fire-departments.hazwoperosha.us/courses/#all)
 
 ## Guides
 

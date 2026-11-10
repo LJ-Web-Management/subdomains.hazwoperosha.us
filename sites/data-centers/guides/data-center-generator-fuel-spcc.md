@@ -42,10 +42,6 @@ EPA's Spill Prevention, Control and Countermeasure rule (40 CFR Part 112) applie
 
 $29.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-generator-fuel-spcc?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://data-centers.hazwoperosha.us/guides/data-center-generator-fuel-spcc?buy=479)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

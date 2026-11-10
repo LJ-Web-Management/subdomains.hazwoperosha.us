@@ -26,7 +26,7 @@ Sev One (https://dc-incident-response.hazwoperosha.us/) sells online training fr
 
 ## All trainings
 
-- [All 83 trainings](https://dc-incident-response.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-incident-response.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

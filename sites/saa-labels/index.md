@@ -69,7 +69,7 @@ The paperwork that follows the waste.
 
 **$58.99** [Enroll](https://saa-labels.hazwoperosha.us/?buy=580)
 
-[All trainings (83) →](https://saa-labels.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://saa-labels.hazwoperosha.us/courses/#all)
 
 ## Guides
 

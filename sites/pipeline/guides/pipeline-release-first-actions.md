@@ -34,15 +34,7 @@ Close valves only if you're trained and authorized and it's safe. Coordinate wit
 
 Share what you know with the fire department and unified command: product, pressure, valve locations, and actions taken.
 
-**OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response** 40 Hours · $249.99 per seat
-
-[Enroll](https://pipeline.hazwoperosha.us/guides/pipeline-release-first-actions?buy=592)
-
 ## Courses
-
-[OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://pipeline.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://pipeline.hazwoperosha.us/guides/pipeline-release-first-actions?buy=592)
 
 [OSHA Air Monitoring and Gas Detection Training](https://pipeline.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 

@@ -162,7 +162,7 @@ The 8-hour supervisor course.
 
 **$69.99** [Enroll](https://hazwoper-faq.hazwoperosha.us/?buy=597)
 
-[All trainings (83) →](https://hazwoper-faq.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://hazwoper-faq.hazwoperosha.us/courses/#all)
 
 ## Guides
 

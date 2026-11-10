@@ -22,14 +22,6 @@ Recognize a rail hazmat release, isolate the area and notify.
 
 **$61.99** [Enroll](https://rail.hazwoperosha.us/?buy=1099)
 
-40 Hours
-
-### 40 Hr Fire / Hazmat
-
-The 40-hour HAZWOPER for fire and hazmat teams who also do post-incident cleanup.
-
-**$249.99** [Enroll](https://rail.hazwoperosha.us/?buy=589)
-
 8 Hours · #259
 
 ### Incident Command
@@ -46,14 +38,6 @@ Spill prevention and response at rail yards and transload facilities.
 
 **$29.99** [Enroll](https://rail.hazwoperosha.us/?buy=416)
 
-1 Hour
-
-### Booms
-
-Booms for spills near creeks, rivers and ditches along the right-of-way.
-
-**$24.99** [Enroll](https://rail.hazwoperosha.us/?buy=478)
-
 8 Hours · #382
 
 ### Responder Refresher
@@ -62,7 +46,7 @@ Annual refresher for responders and incident commanders.
 
 **$249.99** [Enroll](https://rail.hazwoperosha.us/?buy=574)
 
-[All trainings (83) →](https://rail.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://rail.hazwoperosha.us/courses/#all)
 
 ## Guides
 

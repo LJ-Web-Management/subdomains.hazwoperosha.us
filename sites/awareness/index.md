@@ -32,22 +32,6 @@ Awareness level training: recognize a hazardous release, isolate the area and no
 
 **$61.99** [Enroll!](https://awareness.hazwoperosha.us/?buy=1099)
 
-1 Hour
-
-### Spill Kit Use
-
-One hour on using a spill kit for small, incidental spills.
-
-**$24.99** [Enroll!](https://awareness.hazwoperosha.us/?buy=479)
-
-15 Min
-
-### PPE Levels A–D
-
-A 15-minute module on what responders wear and why.
-
-**$12.99** [Enroll!](https://awareness.hazwoperosha.us/?buy=585)
-
 2 Hours · #542
 
 ### Spill Prevention

@@ -34,15 +34,11 @@ Many operators require 40-hour HAZWOPER for spill-response contractors and 24-ho
 | Role | Training |
 | --- | --- |
 | Lease operators and pumpers | [OSHA Spill Prevention and Response Safety Training](https://oil-gas.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) and gas detection |
-| In-house spill response team | [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) plus refresher |
-| Spill cleanup contractors | [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) plus refresher |
-| Midstream emergency responders | [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) |
+| In-house spill response team | 40-hour HAZWOPER plus [OSHA 8 Hour HAZWOPER Refresher Training](https://oil-gas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) |
+| Spill cleanup contractors | 40-hour HAZWOPER plus [OSHA 8 Hour HAZWOPER Refresher Training](https://oil-gas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) |
+| Midstream emergency responders | 40-hour HAZWOPER |
 
 ## Courses
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://oil-gas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://oil-gas.hazwoperosha.us/guides/does-hazwoper-apply-in-the-oilfield?buy=591)
 
 [OSHA Spill Prevention and Response Safety Training](https://oil-gas.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 

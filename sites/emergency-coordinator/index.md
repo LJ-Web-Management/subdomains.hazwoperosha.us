@@ -67,7 +67,7 @@ Recognize, isolate, notify.
 
 **$61.99** [Enroll](https://emergency-coordinator.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://emergency-coordinator.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://emergency-coordinator.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -34,7 +34,7 @@ Look up the UN number for initial isolation distances and hazards.
 
 ## 5. Contain only if it's safe
 
-A small, known leak may be stopped or contained with your spill kit if you're trained and it's safe. See [Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use). Otherwise, wait for responders.
+A small, known leak may be stopped or contained with your spill kit if you're trained and it's safe. See [OSHA Spill Prevention and Response Safety Training](https://trucking.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training). Otherwise, wait for responders.
 
 ## 6. Report
 
@@ -49,10 +49,6 @@ Serious incidents must be reported under 49 CFR 171.15 and 171.16. Your carrier'
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://trucking.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://trucking.hazwoperosha.us/guides/roadside-hazmat-spill-driver?buy=1099)
-
-[Spill Response Equipment - Spill Kit Selection & Use](https://trucking.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://trucking.hazwoperosha.us/guides/roadside-hazmat-spill-driver?buy=479)
 
 ---
 

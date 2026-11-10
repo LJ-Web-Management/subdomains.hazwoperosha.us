@@ -23,10 +23,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA 40 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
 - [OSHA 24 Hour HAZWOPER Training](https://flashcards.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): 24 Hours, $169.99 per seat
 - [OSHA 8 Hour HAZWOPER Refresher Training](https://flashcards.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
-- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): 15 Min, $12.99 per seat
-- [HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://flashcards.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments): 20 Min, $14.99 per seat
 
-The [full catalog of 83 trainings](https://flashcards.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://flashcards.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://flashcards.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://flashcards.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

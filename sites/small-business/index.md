@@ -62,7 +62,7 @@ Knowing when a spill is too big to handle yourself.
 
 **$61.99** [Enroll](https://small-business.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://small-business.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://small-business.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -30,22 +30,6 @@ Monitoring tanks, pits and vac truck discharge points.
 
 **$49.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=1056)
 
-20 Min
-
-### Decontamination
-
-A 20-minute decon module.
-
-**$14.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=584)
-
-15 Min
-
-### PPE Levels A–D
-
-A 15-minute module on PPE levels.
-
-**$12.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=585)
-
 2 Hours · #542
 
 ### Spill Response
@@ -62,7 +46,7 @@ The annual 8-hour refresher.
 
 **$59.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://industrial-cleaning.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://industrial-cleaning.hazwoperosha.us/courses/#all)
 
 ## Guides
 

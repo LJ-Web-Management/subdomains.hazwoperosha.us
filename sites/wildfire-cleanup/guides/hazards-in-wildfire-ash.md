@@ -36,10 +36,6 @@ Ash from burned buildings isn't just wood ash. It can contain:
 
 $249.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/guides/hazards-in-wildfire-ash?buy=587)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://wildfire-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://wildfire-cleanup.hazwoperosha.us/guides/hazards-in-wildfire-ash?buy=585)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

@@ -32,17 +32,7 @@ Ask the project team for the ESA summaries and the site health and safety plan b
 
 ## Surprises still happen
 
-ESAs sample a small fraction of a site. Unknown tanks, drums and buried debris turn up during excavation. That's why crews need training to recognize them and stop work. See [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment).
-
-## Courses
-
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://brownfields.hazwoperosha.us/guides/phase-i-and-phase-ii-esas?buy=586)
-
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://brownfields.hazwoperosha.us/guides/phase-i-and-phase-ii-esas?buy=590)
+ESAs sample a small fraction of a site. Unknown tanks, drums and buried debris turn up during excavation. That's why crews need training to recognize them and stop work. See [OSHA 24 Hour HAZWOPER Training](https://brownfields.hazwoperosha.us/courses/osha-24-hour-hazwoper-training).
 
 ---
 

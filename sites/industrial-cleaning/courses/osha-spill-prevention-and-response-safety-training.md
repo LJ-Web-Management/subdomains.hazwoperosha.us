@@ -72,14 +72,6 @@ $249.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-
 
 $49.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1056)
 
-[HAZWOPER Micro-Module: Decontamination Procedures](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=584)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://industrial-cleaning.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=585)
-
 [OSHA 8 Hour HAZWOPER Refresher Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
 $59.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=595)

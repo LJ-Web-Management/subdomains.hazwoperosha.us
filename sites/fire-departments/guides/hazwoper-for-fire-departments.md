@@ -20,7 +20,7 @@ Many departments also train to NFPA's hazmat competency standard (now NFPA 470),
 | --- | --- | --- |
 | Every member | Awareness, and usually operations | [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://fire-departments.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) |
 | Engine and truck companies | Operations: defensive actions, isolation, decon support | Department operations training |
-| Hazmat team | Technician | [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://fire-departments.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) plus team training |
+| Hazmat team | Technician | 40-hour HAZWOPER plus team training |
 | Company officers and chiefs | Incident commander | [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) |
 
 ## Operations level
@@ -31,19 +31,11 @@ OSHA requires at least 8 hours of training, or demonstrated competency, for firs
 
 Responders need annual refresher training, or a documented demonstration of competency, under (q)(8). See [8 Hour HAZWOPER and Incident Command Refresher Training](https://fire-departments.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training).
 
-**OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams** 40 Hours · $249.99 per seat
-
-[Enroll](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments?buy=589)
-
 ## Courses
 
 [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://fire-departments.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments?buy=1099)
-
-[OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://fire-departments.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams) 40 Hours · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments?buy=589)
 
 [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 

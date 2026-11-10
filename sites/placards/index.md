@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Placards tell drivers, workers and responders what's inside at a glance. Tap a class to learn what it means, then train on shipping and handling hazmat.
 
-[RCRA/DOT Compliance · $149.99](https://placards.hazwoperosha.us/?buy=403) [Explore the classes](https://placards.hazwoperosha.us/#classes)
+[Hazardous Waste Manifest · $58.99](https://placards.hazwoperosha.us/?buy=580) [Explore the classes](https://placards.hazwoperosha.us/#classes)
 
 **1**
 
@@ -42,14 +42,6 @@ Liquids with a flash point of 60 °C (140 °F) or below. Examples: gasoline, ace
 
 ## Courses
 
-8 Hours
-
-### RCRA/DOT Combined Compliance
-
-Hazmat shipping and hazardous waste rules together.
-
-**$149.99** [Enroll](https://placards.hazwoperosha.us/?buy=403)
-
 2 Hours · #374
 
 ### Hazardous Waste Manifest
@@ -66,15 +58,7 @@ Recognize, isolate, notify: using placards and the ERG.
 
 **$61.99** [Enroll](https://placards.hazwoperosha.us/?buy=1099)
 
-40 Hours
-
-### 40-Hour Fire/Hazmat Teams
-
-Full HAZWOPER for hazmat response teams.
-
-**$249.99** [Enroll](https://placards.hazwoperosha.us/?buy=589)
-
-[All trainings (83) →](https://placards.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://placards.hazwoperosha.us/courses/#all)
 
 ## Guides
 
