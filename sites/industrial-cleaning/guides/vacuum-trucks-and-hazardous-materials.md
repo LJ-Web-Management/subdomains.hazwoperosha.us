@@ -39,13 +39,13 @@ Keep a spill kit on the truck and know how to stop a hose leak. See [OSHA Spill 
 
 ## Courses
 
-[OSHA Air Monitoring and Gas Detection Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/guides/vacuum-trucks-and-hazardous-materials?buy=1056)
 
-[OSHA Spill Prevention and Response Safety Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://industrial-cleaning.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/guides/vacuum-trucks-and-hazardous-materials?buy=416)
+$29.99 [Enroll](https://industrial-cleaning.hazwoperosha.us/guides/vacuum-trucks-and-hazardous-materials?buy=416)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "HAZWOPER Program Training for EHS Managers | EHS Stack"
-description: "Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, RCRA generator…"
+description: "Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, and RCRA…"
 url: https://ehs-managers.hazwoperosha.us/
 ---
 
@@ -14,7 +14,7 @@ Trainers, supervisors, generator training and contingency plans. Everything an E
 
 ## Courses
 
-24 Hours · #1016
+24 Hours · #1147
 
 ### Train-the-Trainer
 
@@ -22,23 +22,23 @@ Become a qualified in-house HAZWOPER trainer under 1910.120(e)(5).
 
 **$399.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=1016)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 The 8-hour HAZWOPER supervisor course under 1910.120(e)(4).
 
-**$179.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=597)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 Incident command for HAZWOPER emergency response.
 
-**$179.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=593)
 
-4 Hours · #412
+4 Hours · #899
 
 ### Contingency Plan
 
@@ -46,21 +46,13 @@ RCRA contingency plans and the emergency coordinator role.
 
 **$99.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=412)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 RCRA generator training for EHS staff and waste handlers.
 
-**$89.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=601)
-
-8 Hours · #900
-
-### State-Plan Refresher
-
-8-hour refresher covering federal and state-plan HAZWOPER rules.
-
-**$84.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=900)
+**$134.99** [Enroll](https://ehs-managers.hazwoperosha.us/?buy=601)
 
 ## Guides
 

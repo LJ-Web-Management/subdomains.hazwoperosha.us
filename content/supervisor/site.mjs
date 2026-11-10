@@ -180,7 +180,7 @@ Many employers mix approaches. New hires take the online 40-hour for the classro
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>The crew looks to <em>you.</em></h1>
 <p class="dropcap">Supervisors on a hazardous waste site need eight more hours on top of their 40. That's where you learn to run the site safety plan, the decon line and the people. It's the difference between knowing the work and being responsible for it.</p>
-<div class="lead-cta">${h.buy(597, "Enroll in the supervisor course · $179.99")}<a class="textlink" href="/guides/hazwoper-supervisor-eight-hours">Read the cover story →</a></div>
+<div class="lead-cta">${h.buy(597, "Enroll in the supervisor course · $69.99")}<a class="textlink" href="/guides/hazwoper-supervisor-eight-hours">Read the cover story →</a></div>
 </div>
 <aside class="contents"><h2>In this issue</h2>
 <ol>${guides.map((g, i) => `<li><span>${roman[i]}.</span><a href="${g.url}"><b>${esc(g.title)}</b><small>${g.minutes} min read</small></a></li>`).join("")}</ol>
@@ -190,7 +190,7 @@ Many employers mix approaches. New hires take the online 40-hour for the classro
 
 <section class="features"><div class="wrap">
 <h2 class="sec-title"><span>The Curriculum</span></h2>
-<div class="feat-grid">${courses.map((c, i) => `<article class="feat"><p class="feat-no">${roman[i]}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><p class="feat-meta">${esc(c.duration)} · Course #${c.id}</p><div class="feat-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="feat-grid">${courses.map((c, i) => `<article class="feat"><p class="feat-no">${roman[i]}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><p class="feat-meta">${esc(c.duration)}${c.lmsId ? ` · Course #${c.lmsId}` : ""}</p><div class="feat-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="ladder"><div class="wrap">

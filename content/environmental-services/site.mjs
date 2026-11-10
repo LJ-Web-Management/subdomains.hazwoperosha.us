@@ -2,7 +2,7 @@
 export default {
   brand: "ENV/SERVICES",
   title: "Training for Environmental Services Field Technicians | Lab Packs, Drums, Load-outs | ENV/SERVICES",
-  description: "Training for hazardous waste field technicians: HAZWOPER and RCRA waste technician, RCRA/DOT combined, 24-hour TSD operations, TSD refresher, manifests and decontamination.",
+  description: "Training for hazardous waste field technicians: HAZWOPER and RCRA waste technician, 24-hour TSD operations, TSD refresher and manifests.",
   theme: "#1b1b3a",
   fonts: "family=Rubik+Mono+One&family=Karla:wght@400;500;700",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#f6f1e7"/><circle cx="13" cy="13" r="9" fill="#ff48b0" opacity=".85"/><circle cx="19" cy="19" r="9" fill="#00a9b5" opacity=".85"/></svg>`,
@@ -16,13 +16,6 @@ export default {
       body: `Field techs work on both sides of the line: OSHA worker safety and EPA waste rules. This 24-hour course covers both, for technicians who pack lab waste, consolidate drums, profile streams and load out shipments.`,
       topics: ["HAZWOPER worker safety", "RCRA identification and waste codes", "Lab packing and consolidation", "Compatibility and segregation", "Manifests and DOT basics", "Spill and emergency response"],
       who: "Field and facility technicians at environmental services companies.",
-    },
-    {
-      id: 403, short: "RCRA/DOT Combined",
-      summary: "RCRA generator rules plus DOT hazmat employee training.",
-      body: `Techs classify, package, mark and load hazmat every day. That makes them DOT hazmat employees under 49 CFR 172.704. This eight-hour course combines DOT and RCRA.`,
-      topics: ["Hazmat classification", "Packaging and UN specs", "Marking and labeling", "Shipping papers and manifests", "Security awareness"],
-      who: "Techs and drivers who prepare or load shipments.",
     },
     {
       id: 582, short: "24-Hr TSD Operations",
@@ -45,13 +38,6 @@ export default {
       topics: ["Manifest boxes", "Generator certification", "e-Manifest", "Tracking"],
       who: "Techs and project managers who prepare manifests.",
     },
-    {
-      id: 584, short: "Decontamination",
-      summary: "A 20-minute module on decon procedures.",
-      body: `A quick module on decon line stations and doffing safely.`,
-      topics: ["Zones", "Stations", "Doffing", "Equipment decon"],
-      who: "Field techs.",
-    },
   ],
 
   guides: [
@@ -60,7 +46,7 @@ export default {
       title: "Lab packing safely: a field tech's checklist",
       description: "Lab packs look simple: small bottles in a drum. Getting them wrong can start a fire in the truck.",
       date: "2026-10-25",
-      courses: [599, 403],
+      courses: [599],
       body: `A lab pack is many small containers of chemical waste packed into a larger outer container, usually a drum, with absorbent. They're common at labs, schools, hospitals and cleanouts.
 
 ## Before you pack
@@ -135,7 +121,7 @@ Label the receiving container with the combined contents, update the profile if 
       title: "The waste technician training path",
       description: "From new hire to lead tech: the certificates field techs usually build up, in order.",
       date: "2026-10-25",
-      courses: [599, 403, 582],
+      courses: [599, 582],
       body: `Environmental services companies hire people with all kinds of backgrounds. The training path tends to look the same.
 
 ## Year one
@@ -143,7 +129,7 @@ Label the receiving container with the combined contents, update the profile if 
 | Training | Why |
 |---|---|
 | 40-hour HAZWOPER | Field work on customer sites and cleanups |
-| [[403]] | You'll be packaging, marking and loading hazmat within weeks |
+| DOT hazmat training | You'll be packaging, marking and loading hazmat within weeks |
 | [[599]] | The technician skills: lab packs, consolidation, profiles |
 | Respirator fit test and medical clearance | Before respirator use |
 
@@ -188,12 +174,12 @@ Your certificates are your résumé in this industry. Keep copies on your phone 
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Lab packs, drums &amp; <span>load-outs.</span></h1>
 <p class="hero-lede">The training stack for technicians at environmental services companies: HAZWOPER, RCRA, DOT and TSDF.</p>
-<div class="hero-cta">${h.buy(599, "Waste Technician · $199.99")}<a class="btn btn-alt" href="/guides/waste-technician-training-path">Training path</a></div>
+<div class="hero-cta">${h.buy(599, "Waste Technician · $349.99")}<a class="btn btn-alt" href="/guides/waste-technician-training-path">Training path</a></div>
 </div></div></section>
 
 <section class="sec"><div class="wrap">
 <h2 class="title">The stack</h2>
-<div class="cgrid">${courses.map((c, i) => `<article class="cc cc${i % 2}"><p class="meta">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c, i) => `<article class="cc cc${i % 2}"><p class="meta">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec sec-ink"><div class="wrap">

@@ -34,11 +34,11 @@ For each member: date, topic, hours or competency demonstrated, and instructor. 
 
 ## Courses
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://fire-departments.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://fire-departments.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/annual-hazmat-refresher-fire?buy=574)
+$249.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/annual-hazmat-refresher-fire?buy=574)
 
-[OSHA Air Monitoring and Gas Detection Training](https://fire-departments.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://fire-departments.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://fire-departments.hazwoperosha.us/guides/annual-hazmat-refresher-fire?buy=1056)
 

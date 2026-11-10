@@ -14,8 +14,8 @@ Quick Reference (https://emergency-coordinator.hazwoperosha.us/) sells online tr
 ## Courses
 
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://emergency-coordinator.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. The emergency coordinator's duties and the contingency plan. Enroll: https://emergency-coordinator.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
-- [RCRA Hazardous Waste Generator Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The full generator course. Enroll: https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
-- [RCRA Hazardous Waste Generator Refresher Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $59.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual refresher for LQG staff. Enroll: https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
+- [RCRA Hazardous Waste Generator Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The full generator course. Enroll: https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Refresher Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $124.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual refresher for LQG staff. Enroll: https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://emergency-coordinator.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize, isolate, notify. Enroll: https://emergency-coordinator.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 
 ## Guides
@@ -25,7 +25,7 @@ Quick Reference (https://emergency-coordinator.hazwoperosha.us/) sells online tr
 
 ## All trainings
 
-- [All 83 trainings](https://emergency-coordinator.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://emergency-coordinator.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

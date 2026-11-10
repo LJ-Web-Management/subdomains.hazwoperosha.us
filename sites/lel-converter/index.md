@@ -24,7 +24,7 @@ Assumes the meter is calibrated for the gas selected. LEL values are typical pub
 
 ## Courses
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Air Monitoring & Gas Detection
 
@@ -32,15 +32,7 @@ Two hours on gas detection and reading meters.
 
 **$49.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=1056)
 
-20 Min · #583
-
-### Air Monitoring Micro-Module
-
-Direct-reading instruments in 20 minutes.
-
-**$14.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=583)
-
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -48,15 +40,7 @@ Monitoring in the context of site safety.
 
 **$249.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=587)
 
-20 Min · #586
-
-### Site Characterization
-
-Evaluating a site before entry.
-
-**$14.99** [Enroll](https://lel-converter.hazwoperosha.us/?buy=586)
-
-[All trainings (83) →](https://lel-converter.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://lel-converter.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -10,16 +10,14 @@ export default {
   hero: {
     title: "What size spill kit <span>do you need?</span>",
     lede: "Match the kit to your biggest container, the liquid and where it could flow. Get a recommendation in seconds, then train your staff to use it.",
-    cta: [479, "Spill kit course · $24.99"],
+    cta: [416, "Spill Prevention & Response · $29.99"],
     alt: ["#sizer", "Size my kit"],
   },
   coursesTagline: "Spill response courses to go with the right kit.",
   guidesTagline: "Placing kits and keeping them stocked.",
 
   courses: [
-    { id: 479, short: "Spill Kit Selection & Use", summary: "Choosing, placing and using spill kits.", body: `One hour on spill kits.`, topics: ["Kit types", "Sizing", "Placement", "Use and disposal"], who: "Anyone expected to use a spill kit." },
     { id: 416, short: "Spill Prevention & Response", summary: "Preventing spills and responding safely.", body: `Two hours on prevention and first response.`, topics: ["Causes", "Containment", "Reporting"], who: "Facility staff." },
-    { id: 478, short: "Booms", summary: "Using booms near drains and water.", body: `One hour on booms.`, topics: ["Boom types", "Placement", "Anchoring"], who: "Staff near waterways." },
     { id: 1099, short: "Awareness", summary: "Knowing when a spill is too big for the kit.", body: `Four hours on recognizing and reporting releases.`, topics: ["Recognize", "Isolate", "Notify"], who: "All staff." },
   ],
 
@@ -50,7 +48,7 @@ export default {
     if (loc.value === "water") extras.unshift("Absorbent booms long enough to ring the area or block the ditch");
     if (l.value === "chem") extras.unshift("Acid and base neutralizers matched to your chemicals", "Chemical-resistant gloves and apron rated for the products (check the SDS)");
     var kit = cap ? cap + "-gallon kit (wheeled bin or drum for 30+ gallons)" : "Multiple kits or a bulk spill station: your largest container (" + gal + " gal) exceeds standard kit sizes";
-    outEl.innerHTML = '<p class="k">Recommended</p><h3></h3><p class="t"></p><p class="k">Add</p><ul></ul><p class="k">Train your staff</p><a class="btn" rel="nofollow" href="?buy=479" data-buy="479">Spill kit course · $24.99</a>';
+    outEl.innerHTML = '<p class="k">Recommended</p><h3></h3><p class="t"></p><p class="k">Add</p><ul></ul><p class="k">Train your staff</p><a class="btn" rel="nofollow" href="?buy=416" data-buy="416">Spill prevention course · $29.99</a>';
     outEl.querySelector("h3").textContent = kit; outEl.querySelector(".t").textContent = type;
     var ul = outEl.querySelector("ul"); extras.forEach(function (e) { var li = document.createElement("li"); li.textContent = e; ul.appendChild(li); });
   }
@@ -67,7 +65,7 @@ export default {
       title: "Where to put spill kits",
       description: "A spill kit across the building doesn't help. Placement rules that work.",
       date: "2026-10-25",
-      courses: [479, 416],
+      courses: [416],
       body: `## Put kits where spills start
 
 - Fuel dispensers and generator day tanks
@@ -91,15 +89,14 @@ Label kits clearly, mount signs above them and keep them free of pallets and clu
 ## Matched to the area
 
 A battery room needs acid neutralizer. A fuel island needs oil-only absorbents. Use the sizer above for each area.
-
-{{buy:479}}`,
+`,
     },
     {
       slug: "spill-kit-inspection-checklist",
       title: "Spill kit inspection checklist",
       description: "A monthly two-minute check that keeps kits ready.",
       date: "2026-10-25",
-      courses: [479],
+      courses: [],
       body: `Check every kit monthly and after every use.
 
 ## Checklist
@@ -121,8 +118,7 @@ Restock the same day. A used kit with half its contents is worse than none, beca
 ## Disposal
 
 Used absorbents take on the hazards of what they absorbed. Bag, label and manage them as waste under your facility's procedures.
-
-{{buy:479}}`,
+`,
     },
   ],
 };

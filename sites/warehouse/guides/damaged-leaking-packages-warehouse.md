@@ -30,7 +30,7 @@ Find the product's safety data sheet. Sections 2, 6 and 8 cover hazards, spill r
 
 ## 5. Clean up only if trained
 
-Use the right kit and absorbent, cover drains, bag the waste and label it. See [Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use).
+Use the right kit and absorbent, cover drains, bag the waste and label it. See [OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training).
 
 ## 6. Damaged product may be waste
 
@@ -42,13 +42,9 @@ Leaked and damaged chemical products that can't be sold may be hazardous waste. 
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://warehouse.hazwoperosha.us/guides/damaged-leaking-packages-warehouse?buy=1099)
-
-[Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://warehouse.hazwoperosha.us/guides/damaged-leaking-packages-warehouse?buy=479)
 
 ---
 

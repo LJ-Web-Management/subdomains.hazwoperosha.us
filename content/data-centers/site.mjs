@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Uptime starts with <span>safe facilities.</span>",
     lede: "UPS batteries, diesel generators and cooling chemicals bring real hazmat risks into the data center. Training for critical facilities teams.",
-    cta: [416, "Spill prevention · $49.99"],
+    cta: [416, "Spill prevention · $29.99"],
     alt: ["/guides/data-center-battery-room-hazards", "Battery room hazards"],
   },
   heroArt: `<div class="rack" aria-hidden="true"></div>`,
@@ -23,11 +23,6 @@ export default {
       body: `Generator fuel deliveries, day tanks and battery rooms are the main spill risks. Two hours on prevention and first response.`,
       topics: ["Fuel deliveries and day tanks", "Secondary containment", "Battery electrolyte", "Reporting"],
       who: "Critical facilities technicians and engineers." },
-    { id: 479, short: "Spill Kit Use",
-      summary: "Choosing and using spill kits, including acid kits for battery rooms.",
-      body: `One hour on spill kits: oil-only for fuel, acid-neutralizing for battery rooms.`,
-      topics: ["Kit types", "Acid neutralizers", "Disposal"],
-      who: "Facilities technicians." },
     { id: 602, short: "Universal Waste",
       summary: "Managing spent UPS batteries and lamps as universal waste.",
       body: `Battery replacements generate large volumes of spent batteries. Two hours on universal waste rules.`,
@@ -56,7 +51,7 @@ export default {
       title: "Battery room hazards in data centers",
       description: "Lead-acid and lithium-ion UPS batteries carry different risks. What facilities teams need to know.",
       date: "2026-10-25",
-      courses: [1056, 479, 1099],
+      courses: [1056, 1099],
       body: `UPS battery rooms keep the data center running during power interruptions. They also store a lot of energy and chemicals.
 
 ## Lead-acid batteries (VRLA and flooded)
@@ -87,7 +82,7 @@ Smoke, a sweet chemical smell, swelling or heat from a battery cabinet: get out,
       title: "Generator fuel and SPCC at data centers",
       description: "Backup generator fuel storage often triggers EPA's spill prevention rule. What that means.",
       date: "2026-10-25",
-      courses: [416, 479],
+      courses: [416],
       body: `Most data centers keep diesel on site for backup generators, often tens of thousands of gallons across belly tanks, day tanks and bulk tanks.
 
 ## Does SPCC apply?

@@ -36,13 +36,9 @@ Change the angle, add a second line of boom, choose a boom with a larger skirt o
 
 ## Courses
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$24.99 [Enroll](https://boom-calculator.hazwoperosha.us/guides/why-boom-fails?buy=478)
-
-[OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
-
-$49.99 [Enroll](https://boom-calculator.hazwoperosha.us/guides/why-boom-fails?buy=416)
+$29.99 [Enroll](https://boom-calculator.hazwoperosha.us/guides/why-boom-fails?buy=416)
 
 ---
 

@@ -41,20 +41,6 @@ When current is faster than about **0.7 knots** (roughly 1.3 feet per second), b
 
 Collect saturated absorbent booms into lined drums or bags and treat them as waste from the spilled product. Clean containment boom before you put it back in storage.
 
-**Spill Response Equipment - Absorbent & Containment Booms** 1 Hour · $24.99 per seat
-
-[Enroll](https://spill-response.hazwoperosha.us/guides/absorbent-vs-containment-booms?buy=478)
-
-## Courses
-
-[Spill Response Equipment - Absorbent & Containment Booms](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://spill-response.hazwoperosha.us/guides/absorbent-vs-containment-booms?buy=478)
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://spill-response.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://spill-response.hazwoperosha.us/guides/absorbent-vs-containment-booms?buy=591)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

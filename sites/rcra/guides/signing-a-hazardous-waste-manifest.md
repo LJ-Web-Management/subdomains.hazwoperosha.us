@@ -20,7 +20,7 @@ You're also certifying your waste minimization statement. In plain words: you ch
 
 ## You're also a DOT hazmat employee
 
-Signing a manifest is preparing a hazardous materials shipping paper. Under 49 CFR 172.704, anyone who does that needs DOT hazmat employee training within 90 days of starting the job and at least every three years after. Many manifest signers have RCRA training but no DOT training. [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) covers both.
+Signing a manifest is preparing a hazardous materials shipping paper. Under 49 CFR 172.704, anyone who does that needs DOT hazmat employee training within 90 days of starting the job and at least every three years after. Many manifest signers have RCRA training but no DOT training. Make sure they have both.
 
 ## e-Manifest
 
@@ -42,19 +42,15 @@ Since 2018, manifests are tracked in EPA's e-Manifest system. Receiving faciliti
 4. Waste codes are complete
 5. Containers labeled, marked and closed
 
-**Hazardous Waste Manifest Training** 2 Hours · $34.99 per seat
+**Hazardous Waste Manifest Training** 2 Hours · $58.99 per seat
 
 [Enroll](https://rcra.hazwoperosha.us/guides/signing-a-hazardous-waste-manifest?buy=580)
 
 ## Courses
 
-[Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://rcra.hazwoperosha.us/guides/signing-a-hazardous-waste-manifest?buy=580)
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://rcra.hazwoperosha.us/guides/signing-a-hazardous-waste-manifest?buy=403)
+$58.99 [Enroll](https://rcra.hazwoperosha.us/guides/signing-a-hazardous-waste-manifest?buy=580)
 
 ---
 

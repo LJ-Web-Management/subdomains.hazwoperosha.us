@@ -20,9 +20,7 @@ export default {
 
   courses: [
     { id: 1056, short: "Air Monitoring & Gas Detection", summary: "Two hours on gas detection and reading meters.", body: "Two hours on air monitoring and gas detection: sensor types, bump tests, calibration, alarm settings and interpreting readings.", topics: ["Sensor types", "Bump tests and calibration", "Alarm set points", "Interpreting readings"] },
-    { id: 583, short: "Air Monitoring Micro-Module", summary: "Direct-reading instruments in 20 minutes.", body: "Twenty minutes on direct-reading instruments for HAZWOPER sites.", topics: ["O₂ and LEL", "PIDs", "Action levels"] },
     { id: 587, short: "40-Hour HAZWOPER", summary: "Monitoring in the context of site safety.", body: "The full 40-hour initial course, including air monitoring, site characterization and PPE.", topics: ["Air monitoring", "Site characterization", "PPE"] },
-    { id: 586, short: "Site Characterization", summary: "Evaluating a site before entry.", body: "Twenty minutes on site characterization and hazard assessment.", topics: ["Preliminary evaluation", "Entry monitoring"] },
   ],
 
   feature: (h) => `<section class="sec lc-sec" id="calc"><div class="wrap lc-in">
@@ -58,7 +56,7 @@ export default {
       title: "LEL correction factors: when your meter isn't calibrated for the gas",
       description: "A methane-calibrated meter reading pentane gives the wrong number. Here's why.",
       date: "2026-10-25",
-      courses: [1056, 583],
+      courses: [1056],
       body: `Catalytic bead LEL sensors respond differently to different gases. A meter calibrated on methane will over- or under-read other gases.
 
 ## Correction factors

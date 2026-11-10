@@ -10,18 +10,13 @@ export default {
   hero: {
     title: "Cleared for <span>federal sites.</span>",
     lede: "Former bases, ranges and weapons-complex sites are some of the largest cleanups in the country. HAZWOPER training for the contractors who work them.",
-    cta: [590, "40 Hr Remediation · $249.99"],
+    cta: [587, "40-Hour HAZWOPER · $249.99"],
     alt: ["/guides/hazwoper-on-federal-cleanup-sites", "Who's covered"],
   },
   coursesTagline: "HAZWOPER courses for federal cleanup contractors.",
   guidesTagline: "Federal coverage rules, munitions safety and radiological awareness.",
 
   courses: [
-    { id: 590, short: "40 Hr Remediation",
-      summary: "The 40-hour HAZWOPER for remediation crews on federal cleanup sites.",
-      body: `Federal site cleanups are hazardous waste operations. This 40-hour course covers the initial training under 29 CFR 1910.120(e).`,
-      topics: ["Cleanup phases", "Sampling and drilling", "Drums and containers", "Monitoring", "Decon"],
-      who: "Remediation contractors on DoD and DOE sites." },
     { id: 587, short: "40-Hour HAZWOPER",
       summary: "The standard 40-hour initial HAZWOPER.",
       body: `The general 40-hour course for site workers.`,
@@ -55,7 +50,7 @@ export default {
       title: "HAZWOPER on federal cleanup sites: who's covered by what",
       description: "Contractors, federal employees and DOE sites each have their own path to the same HAZWOPER rule.",
       date: "2026-10-25",
-      courses: [590, 587],
+      courses: [587],
       body: `Federal cleanup sites mix contractors and federal employees, and different rules bring HAZWOPER to each.
 
 ## Contractors
@@ -76,14 +71,14 @@ Cleanups at active installations, Base Realignment and Closure (BRAC) sites and 
 
 ## Training
 
-The core is the same everywhere: [[587]] or [[590]], supervisor training for leads and an annual refresher. Site-specific training, such as munitions awareness or rad worker training, is added on top.`,
+The core is the same everywhere: [[587]], supervisor training for leads and an annual refresher. Site-specific training, such as munitions awareness or rad worker training, is added on top.`,
     },
     {
       slug: "munitions-recognize-retreat-report",
       title: "Munitions on cleanup sites: recognize, retreat, report",
       description: "Former ranges and bases can hide unexploded ordnance. HAZWOPER crews aren't trained to handle it, and shouldn't.",
       date: "2026-10-25",
-      courses: [590, 597],
+      courses: [597],
       body: `Former military ranges and training areas can contain **munitions and explosives of concern (MEC)**, including unexploded ordnance (UXO). HAZWOPER training doesn't qualify anyone to handle them.
 
 ## The 3Rs
@@ -110,7 +105,7 @@ Know the site's MEC plan, who the UXO lead is and the stop-work procedure. Make 
       title: "Radiological awareness on cleanup sites",
       description: "Some federal and industrial sites have radiological contamination. What HAZWOPER workers should know.",
       date: "2026-10-25",
-      courses: [590, 595],
+      courses: [595],
       body: `HAZWOPER covers chemical, physical, biological **and radiological** hazards. On some federal sites, especially in the DOE weapons complex, radiological contamination is part of the job.
 
 ## Basic protection principles

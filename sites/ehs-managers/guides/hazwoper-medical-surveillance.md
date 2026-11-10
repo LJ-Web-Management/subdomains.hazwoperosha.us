@@ -41,9 +41,9 @@ Align medical exams with fit tests and refreshers, and keep a single due-date li
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://ehs-managers.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/hazwoper-medical-surveillance?buy=597)
+$69.99 [Enroll](https://ehs-managers.hazwoperosha.us/guides/hazwoper-medical-surveillance?buy=597)
 
 ---
 

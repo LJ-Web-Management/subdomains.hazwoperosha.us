@@ -3,25 +3,20 @@ export default {
   brand: "NJ HAZWOPER",
   logo: `<span class="shield">NJ</span> HAZWOPER`,
   title: "HAZWOPER Training in New Jersey | Remediation, OSHA & PEOSH | NJ HAZWOPER",
-  description: "HAZWOPER training for New Jersey remediation and industrial workers: 40-hour, environmental remediation, refresher, state-plan refresher, RCRA generator and awareness, with guides to NJ rules.",
+  description: "HAZWOPER training for New Jersey remediation and industrial workers: 40-hour, refresher, RCRA generator and awareness, with guides to NJ rules.",
   theme: "#00613a",
   fonts: "family=Overpass:wght@400;600;700;800;900",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="5" fill="#00613a"/><rect x="3" y="3" width="26" height="26" rx="3" fill="none" stroke="#fff" stroke-width="1.5"/><text x="16" y="21" font-size="12" font-family="Arial" font-weight="700" text-anchor="middle" fill="#fff">NJ</text></svg>`,
   hero: {
     title: "Cleanups at<br><span>every exit.</span>",
     lede: "From historic fill in Newark to tank farms in Linden, New Jersey has more cleanup sites than almost anywhere. Get your crew trained for them.",
-    cta: [590, "40 Hr Remediation · $249.99"],
+    cta: [587, "40-Hour HAZWOPER · $249.99"],
     alt: ["/guides/hazwoper-in-new-jersey-osha-and-peosh", "OSHA or PEOSH?"],
   },
   coursesTagline: "HAZWOPER and waste training for New Jersey crews.",
   guidesTagline: "OSHA vs PEOSH, LSRP-led cleanups and historic fill.",
 
   courses: [
-    { id: 590, short: "40 Hr Remediation",
-      summary: "The 40-hour HAZWOPER for environmental remediation crews.",
-      body: `New Jersey's cleanup program keeps remediation crews busy. This 40-hour course follows a cleanup from investigation to closure.`,
-      topics: ["Phases of a cleanup", "Sampling and drilling", "Drum handling", "Monitoring", "Decon"],
-      who: "Remediation technicians, samplers and laborers." },
     { id: 587, short: "40-Hour HAZWOPER",
       summary: "The standard OSHA 40-hour initial HAZWOPER.",
       body: `The general 40-hour course under 29 CFR 1910.120(e).`,
@@ -32,11 +27,6 @@ export default {
       body: `Eight hours a year under 1910.120(e)(8).`,
       topics: ["Hazard review", "PPE and monitoring", "Case studies"],
       who: "Certified HAZWOPER workers." },
-    { id: 900, short: "State-Plan Refresher",
-      summary: "Refresher with state-plan versions, for public employees covered by PEOSH.",
-      body: `New Jersey public employees are covered by PEOSH, the state's public-employee plan. This refresher covers federal and state-plan equivalents.`,
-      topics: ["Federal refresher content", "State-plan context", "Core review"],
-      who: "New Jersey public employees doing HAZWOPER work." },
     { id: 601, short: "RCRA Generator",
       summary: "Hazardous waste generator training.",
       body: `For New Jersey facilities that generate hazardous waste, regulated by NJDEP under its authorized program.`,
@@ -61,7 +51,7 @@ export default {
       title: "HAZWOPER in New Jersey: federal OSHA and PEOSH",
       description: "New Jersey's state plan covers only public employees. Here's who's covered by which program.",
       date: "2026-10-25",
-      courses: [587, 900],
+      courses: [587],
       body: `New Jersey has a split system.
 
 ## Private employers: federal OSHA
@@ -87,8 +77,8 @@ NJDEP runs the state's site remediation and hazardous waste programs. Remediatio
 
 | You are | Training |
 |---|---|
-| Private remediation or industrial worker | [[587]] or [[590]], then [[595]] annually |
-| Public employee doing HAZWOPER work | Same initial training, refresher via [[900]] or [[595]] |
+| Private remediation or industrial worker | [[587]], then [[595]] annually |
+| Public employee doing HAZWOPER work | Same initial training, then [[595]] annually |
 | Staff who may discover a release | [[1099]] |`,
     },
     {
@@ -96,7 +86,7 @@ NJDEP runs the state's site remediation and hazardous waste programs. Remediatio
       title: "Working on LSRP-led cleanups in New Jersey",
       description: "Most NJ remediation is overseen by a Licensed Site Remediation Professional. What that means for field crews.",
       date: "2026-10-25",
-      courses: [590],
+      courses: [],
       body: `Since the Site Remediation Reform Act of 2009, most New Jersey cleanups are managed by **Licensed Site Remediation Professionals (LSRPs)** instead of directly by NJDEP case managers.
 
 ## What the LSRP does
@@ -119,15 +109,14 @@ The LSRP is hired by the responsible party to oversee the investigation and clea
 ## Common New Jersey contaminants
 
 Petroleum from underground tanks, chlorinated solvents at old industrial sites, metals and PAHs in historic fill, and PCBs at former manufacturing sites. Each affects monitoring and PPE.
-
-{{buy:590}}`,
+`,
     },
     {
       slug: "historic-fill-in-new-jersey",
       title: "Historic fill: why so many NJ sites are contaminated",
       description: "Much of urban New Jersey sits on fill material with ash, slag and debris. What crews should expect when they dig.",
       date: "2026-10-25",
-      courses: [590, 587],
+      courses: [587],
       body: `Over a century of development filled marshes and shorelines across urban New Jersey with whatever was available: ash, slag, cinders, dredge spoils, demolition debris. NJDEP calls it **historic fill**.
 
 ## Why it matters

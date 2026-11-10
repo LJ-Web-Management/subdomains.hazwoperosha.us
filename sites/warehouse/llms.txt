@@ -6,7 +6,7 @@ RackSafe (https://warehouse.hazwoperosha.us/) sells online training from HAZWOPE
 
 ## When to use this site
 
-- Use it when someone needs Awareness, Spill Kit Use, Spill Prevention, Universal Waste or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Awareness, Spill Prevention, Universal Waste, RCRA Generator training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://warehouse.hazwoperosha.us/index.md).
@@ -14,11 +14,9 @@ RackSafe (https://warehouse.hazwoperosha.us/) sells online training from HAZWOPE
 ## Courses
 
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a hazardous release, get clear and report it. Enroll: https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
-- [Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Using spill kits on small, incidental spills. Enroll: https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
-- [OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing spills in storage, handling and loading. Enroll: https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing spills in storage, handling and loading. Enroll: https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
 - [RCRA Universal Waste Handler Training](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps and aerosol cans from operations and returns. Enroll: https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
-- [RCRA Hazardous Waste Generator Training](https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for damaged and returned chemical products. Enroll: https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
-- [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained): $12.99 per seat, 15 Min, 29 CFR 1910.120(e) / 1926.65(e). A 15-minute module on PPE levels. Enroll: https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained?buy=585
+- [RCRA Hazardous Waste Generator Training](https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for damaged and returned chemical products. Enroll: https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
 
 ## Guides
 
@@ -28,7 +26,7 @@ RackSafe (https://warehouse.hazwoperosha.us/) sells online training from HAZWOPE
 
 ## All trainings
 
-- [All 83 trainings](https://warehouse.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://warehouse.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

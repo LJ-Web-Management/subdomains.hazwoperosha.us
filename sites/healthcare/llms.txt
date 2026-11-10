@@ -13,10 +13,10 @@ CareWaste (https://healthcare.hazwoperosha.us/) sells online training from HAZWO
 
 ## Courses
 
-- [RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for hospital EHS, pharmacy, lab and environmental services staff. Enroll: https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for hospital EHS, pharmacy, lab and environmental services staff. Enroll: https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
 - [Hazardous Waste Satellite Accumulation Area Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Running satellite accumulation areas in pharmacies, labs and clinical units. Enroll: https://healthcare.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
 - [RCRA Universal Waste Handler Training](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Batteries, lamps, mercury devices and aerosol cans under 40 CFR 273. Enroll: https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
-- [RCRA Hazardous Waste Generator Refresher Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $59.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual RCRA refresher for healthcare staff. Enroll: https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
+- [RCRA Hazardous Waste Generator Refresher Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $124.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual RCRA refresher for healthcare staff. Enroll: https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://healthcare.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Awareness-level training for staff who may discover a chemical release. Enroll: https://healthcare.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. Contingency plans and emergency coordinator duties for large quantity generator facilities. Enroll: https://healthcare.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
 
@@ -28,7 +28,7 @@ CareWaste (https://healthcare.hazwoperosha.us/) sells online training from HAZWO
 
 ## All trainings
 
-- [All 83 trainings](https://healthcare.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://healthcare.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

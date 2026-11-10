@@ -28,7 +28,7 @@ Utilities have their own federal safety rules (for gas pipelines, DOT's 49 CFR P
 | Role | Training |
 | --- | --- |
 | Meter readers, locators, inspectors | [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) |
-| Field crews who respond to emergencies | [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) and annual refresher |
+| Field crews who respond to emergencies | 40-hour HAZWOPER and [OSHA 8 Hour HAZWOPER Refresher Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) |
 | Supervisors and on-call managers | [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) |
 | Leak investigators | Gas detection: [OSHA Air Monitoring and Gas Detection Training](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) |
 
@@ -38,17 +38,13 @@ DOT operator qualification covers specific covered tasks on pipelines. It doesn'
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) 40 Hours · Course #592 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://utility.hazwoperosha.us/guides/where-hazwoper-fits-in-utility-work?buy=592)
-
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://utility.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://utility.hazwoperosha.us/guides/where-hazwoper-fits-in-utility-work?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://utility.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://utility.hazwoperosha.us/guides/where-hazwoper-fits-in-utility-work?buy=593)
+$199.99 [Enroll](https://utility.hazwoperosha.us/guides/where-hazwoper-fits-in-utility-work?buy=593)
 
 ---
 

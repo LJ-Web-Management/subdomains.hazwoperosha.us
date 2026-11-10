@@ -2,7 +2,7 @@
 export default {
   brand: "State Plan HAZWOPER",
   title: "HAZWOPER Training for OSHA State-Plan States | State Plan HAZWOPER",
-  description: "HAZWOPER training for workers in OSHA state-plan states: state-plan 8-hour refresher, federal refresher and Cal/OSHA 40-hour, 24-hour and refresher courses, with guides to state rules.",
+  description: "HAZWOPER training for workers in OSHA state-plan states: federal 8-hour refresher and Cal/OSHA 40-hour, 24-hour and refresher courses, with guides to state rules.",
   theme: "#b5452a",
   fonts: "family=Alfa+Slab+One&family=Libre+Franklin:wght@400;500;600;700",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#e9dcc0"/><rect y="20" width="32" height="12" fill="#3e5641"/><path d="M0 22l9-10 7 7 6-5 10 8z" fill="#7a8b5a"/><circle cx="22" cy="9" r="4" fill="#d2693c"/></svg>`,
@@ -10,13 +10,6 @@ export default {
   guidesTagline: "Which states run their own plans, which wrote their own HAZWOPER rules and who's covered.",
 
   courses: [
-    {
-      id: 900, short: "State-Plan Refresher",
-      summary: "The annual 8-hour HAZWOPER refresher with state-plan versions available.",
-      body: `For workers in state-plan states, or crews that cross state lines. This refresher covers the federal 1910.120(e)(8) requirement and the state-plan equivalents, so the certificate makes sense to inspectors in your state.`,
-      topics: ["Federal refresher content", "How state plans adopt HAZWOPER", "State-specific references", "Hazard, PPE and monitoring review", "Decon and emergency review"],
-      who: "HAZWOPER workers in state-plan states and multi-state employers.",
-    },
     {
       id: 595, short: "Federal 8-Hr Refresher",
       summary: "The standard federal OSHA 8-hour refresher.",
@@ -53,7 +46,7 @@ export default {
       title: "Which states run their own OSHA plans?",
       description: "About half the country is covered by a state-run OSHA program. A quick reference.",
       date: "2026-10-25",
-      courses: [900],
+      courses: [],
       body: `Section 18 of the OSH Act lets states run their own workplace safety programs, called **state plans**, if they're at least as effective as federal OSHA. Federal OSHA approves and monitors them.
 
 ## Plans covering private and public employers
@@ -79,7 +72,7 @@ Several states and territories, including Connecticut, Illinois, Maine, New Jers
 | Your situation | Course |
 |---|---|
 | Federal OSHA state, or a state plan that adopts 1910.120 | [[595]] |
-| State with its own HAZWOPER rule, or crews in several states | [[900]] |
+| State with its own HAZWOPER rule, or crews in several states | [[595]], plus a briefing on the state rule |
 | California | [[578]] |`,
     },
     {
@@ -87,7 +80,7 @@ Several states and territories, including Connecticut, Illinois, Maine, New Jers
       title: "States that wrote their own HAZWOPER rules",
       description: "California, Washington and Michigan each publish their own version. What's the same and what to watch for.",
       date: "2026-10-25",
-      courses: [900, 577],
+      courses: [577],
       body: `Most state plans adopt federal HAZWOPER as written. A few rewrote it into their own codes.
 
 ## California: Title 8, section 5192
@@ -121,14 +114,14 @@ In every case, the core structure is the federal one:
 
 ## Training approach
 
-Federal-based training covers the core. A refresher that references your state's rule makes your records easier to defend. See [[900]], or for California [[577]] and [[578]].`,
+Federal-based training covers the core. A refresher that references your state's rule makes your records easier to defend. See [[595]], or for California [[577]] and [[578]].`,
     },
     {
       slug: "public-employees-and-hazwoper",
       title: "Public employees and HAZWOPER",
       description: "City crews, county hazmat teams and state road workers: who covers them depends on where they work.",
       date: "2026-10-25",
-      courses: [900, 595],
+      courses: [595],
       body: `Federal OSHA doesn't cover state and local government employees. That doesn't mean public workers go without HAZWOPER protection.
 
 ## In state-plan states
@@ -174,7 +167,7 @@ Public employees need the same training as private workers in the same roles: re
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Every state. Every rule.</h1>
 <p class="hero-lede">About half the country runs its own OSHA program. Train to the rule your state enforces.</p>
-<div class="hero-cta">${h.buy(900, "State-plan refresher · $84.99")}<a class="btn btn-alt" href="/guides/which-states-have-osha-state-plans">Is my state one?</a></div>
+<div class="hero-cta">${h.buy(595, "8-hour refresher · $59.99")}<a class="btn btn-alt" href="/guides/which-states-have-osha-state-plans">Is my state one?</a></div>
 </div>
 <div class="poster" aria-hidden="true"><div class="sun"></div><div class="m1"></div><div class="m2"></div><div class="fl"></div><span>SAFE WORK<br>IN EVERY STATE</span></div>
 </div></section>

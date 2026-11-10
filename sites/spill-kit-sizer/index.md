@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Match the kit to your biggest container, the liquid and where it could flow. Get a recommendation in seconds, then train your staff to use it.
 
-[Spill kit course · $24.99](https://spill-kit-sizer.hazwoperosha.us/?buy=479) [Size my kit](https://spill-kit-sizer.hazwoperosha.us/#sizer)
+[Spill Prevention & Response · $29.99](https://spill-kit-sizer.hazwoperosha.us/?buy=416) [Size my kit](https://spill-kit-sizer.hazwoperosha.us/#sizer)
 
 Largest single container in the area (gallons) What's stored there? Where could it flow? Indoors or out?
 
@@ -20,31 +20,15 @@ A starting point only. Size kits to your largest likely spill, check product com
 
 ## Courses
 
-1 Hour · #479
-
-### Spill Kit Selection & Use
-
-Choosing, placing and using spill kits.
-
-**$24.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=479)
-
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention & Response
 
 Preventing spills and responding safely.
 
-**$49.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=416)
 
-1 Hour · #478
-
-### Booms
-
-Using booms near drains and water.
-
-**$24.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=478)
-
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -52,7 +36,7 @@ Knowing when a spill is too big for the kit.
 
 **$61.99** [Enroll](https://spill-kit-sizer.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://spill-kit-sizer.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://spill-kit-sizer.hazwoperosha.us/courses/#all)
 
 ## Guides
 

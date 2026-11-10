@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Decon only works if the steps happen in the right order. Try putting a typical Level B line in sequence, then learn why each step sits where it does.
 
-[Decon module · $14.99](https://decon-drill.hazwoperosha.us/?buy=584) [Start the drill](https://decon-drill.hazwoperosha.us/#drill)
+[40-Hour HAZWOPER · $249.99](https://decon-drill.hazwoperosha.us/?buy=587) [Start the drill](https://decon-drill.hazwoperosha.us/#drill)
 
 Tap the stations in the order a worker leaving the hot zone goes through them.
 
@@ -18,15 +18,7 @@ Shuffle and restart
 
 ## Courses
 
-20 Min · #584
-
-### Decontamination
-
-Decon stations and doffing in 20 minutes.
-
-**$14.99** [Enroll](https://decon-drill.hazwoperosha.us/?buy=584)
-
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -34,23 +26,7 @@ Decon and site control in depth.
 
 **$249.99** [Enroll](https://decon-drill.hazwoperosha.us/?buy=587)
 
-15 Min · #585
-
-### PPE Levels A–D
-
-What you're taking off, level by level.
-
-**$12.99** [Enroll](https://decon-drill.hazwoperosha.us/?buy=585)
-
-40 Hours · #589
-
-### 40 Hr Fire / Hazmat
-
-Technical and mass decon for response teams.
-
-**$249.99** [Enroll](https://decon-drill.hazwoperosha.us/?buy=589)
-
-[All trainings (83) →](https://decon-drill.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://decon-drill.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -6,17 +6,14 @@ Boom Length (https://boom-calculator.hazwoperosha.us/) sells online training fro
 
 ## When to use this site
 
-- Use it when someone needs Absorbent & Containment Booms, Spill Kit Selection & Use, Spill Prevention & Response, 40-Hour Oil & Gas Spill Response training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Spill Prevention & Response training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://boom-calculator.hazwoperosha.us/index.md).
 
 ## Courses
 
-- [Spill Response Equipment - Absorbent & Containment Booms](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Choosing, deploying and recovering boom. Enroll: https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms?buy=478
-- [Spill Response Equipment - Spill Kit Selection & Use](https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. The right kit for the spill. Enroll: https://boom-calculator.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
-- [OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing spills and the first response. Enroll: https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
-- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://boom-calculator.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Full HAZWOPER for oil spill responders. Enroll: https://boom-calculator.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response?buy=591
+- [OSHA Spill Prevention and Response Safety Training](https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing spills and the first response. Enroll: https://boom-calculator.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
 
 ## Guides
 
@@ -25,7 +22,7 @@ Boom Length (https://boom-calculator.hazwoperosha.us/) sells online training fro
 
 ## All trainings
 
-- [All 83 trainings](https://boom-calculator.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://boom-calculator.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

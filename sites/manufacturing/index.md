@@ -20,7 +20,7 @@ DANGER
 
 Training for in-plant emergency response teams under HAZWOPER (q).
 
-8 Hours · Course #702
+8 Hours · Course #970
 
 **$149.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=702)
 
@@ -30,7 +30,7 @@ WARNING
 
 Awareness-level training for operators and staff who may discover a release.
 
-4 Hours · Course #1099
+4 Hours · Course #654
 
 **$61.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=1099)
 
@@ -40,9 +40,9 @@ DANGER
 
 Incident command for shift supervisors and ERT leaders.
 
-8 Hours · Course #593
+8 Hours · Course #259
 
-**$179.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=593)
 
 CAUTION
 
@@ -50,9 +50,9 @@ CAUTION
 
 Hazardous waste generator training for plant waste handlers.
 
-8 Hours · Course #601
+8 Hours · Course #114
 
-**$89.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=601)
 
 NOTICE
 
@@ -60,9 +60,9 @@ NOTICE
 
 Spill prevention and first response for plant staff.
 
-2 Hours · Course #416
+2 Hours · Course #542
 
-**$49.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=416)
 
 NOTICE
 
@@ -70,7 +70,7 @@ NOTICE
 
 Contingency plans and the emergency coordinator role.
 
-4 Hours · Course #412
+4 Hours · Course #899
 
 **$99.99** [Enroll](https://manufacturing.hazwoperosha.us/?buy=412)
 

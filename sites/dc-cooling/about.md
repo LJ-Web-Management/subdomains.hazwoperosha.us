@@ -26,7 +26,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Energy Efficiency & PUE Optimization](https://dc-cooling.hazwoperosha.us/courses/energy-efficiency-pue-optimization): 4 Hours, $99.99 per seat
 - [Mechanical Systems & Equipment Maintenance](https://dc-cooling.hazwoperosha.us/courses/mechanical-systems-maintenance): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://dc-cooling.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-cooling.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dc-cooling.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-cooling.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

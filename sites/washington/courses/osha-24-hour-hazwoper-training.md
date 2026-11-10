@@ -4,7 +4,7 @@ description: "The 24-hour HAZWOPER for occasional and low-exposure workers. A 24
 url: https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training
 ---
 
-[Courses](https://washington.hazwoperosha.us/courses/) / Course #581
+[Courses](https://washington.hazwoperosha.us/courses/) / Course #137
 
 # OSHA 24 Hour HAZWOPER Training
 
@@ -52,7 +52,7 @@ $169.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120(e)
-- **Course**: #581
+- **Course**: #137
 
 [Enroll now](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581)
 
@@ -60,23 +60,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://washington.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://washington.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=587)
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://washington.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://washington.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$249.99 [Enroll](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=590)
+$59.99 [Enroll](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://washington.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=900)
-
-[OSHA 8 Hour HAZWOPER Refresher Training](https://washington.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
-
-$89.99 [Enroll](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=595)
-
-[OSHA Air Monitoring and Gas Detection Training](https://washington.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://washington.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=1056)
 

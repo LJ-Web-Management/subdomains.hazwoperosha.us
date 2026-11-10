@@ -72,7 +72,7 @@ Every rule in your 40-hour course traces back to real events. Walk the timeline 
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -80,31 +80,31 @@ The training SARA Section 126 made law.
 
 **$249.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=587)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Training rooted in 1976's RCRA.
 
-**$89.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=601)
 
-2 Hours · #580
+2 Hours · #374
 
 ### Manifest
 
 Cradle to grave, on paper and now electronic.
 
-**$34.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=580)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 The emergency response side of HAZWOPER.
 
-**$179.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://hazwoper-history.hazwoperosha.us/?buy=593)
 
-[All trainings (83) →](https://hazwoper-history.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://hazwoper-history.hazwoperosha.us/courses/#all)
 
 ## Guides
 

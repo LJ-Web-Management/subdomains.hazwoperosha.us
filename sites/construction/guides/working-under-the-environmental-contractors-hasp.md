@@ -38,13 +38,9 @@ Your company still owns its own workers' safety under OSHA's multi-employer cita
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://construction.hazwoperosha.us/guides/working-under-the-environmental-contractors-hasp?buy=597)
-
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://construction.hazwoperosha.us/guides/working-under-the-environmental-contractors-hasp?buy=588)
+$69.99 [Enroll](https://construction.hazwoperosha.us/guides/working-under-the-environmental-contractors-hasp?buy=597)
 
 ---
 

@@ -32,11 +32,11 @@ Normal operations at a municipal solid waste landfill, such as accepting, placin
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://landfill.hazwoperosha.us/guides/does-hazwoper-apply-at-a-landfill?buy=587)
 
-[OSHA 24 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://landfill.hazwoperosha.us/guides/does-hazwoper-apply-at-a-landfill?buy=581)
 

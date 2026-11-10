@@ -14,7 +14,7 @@ Companies with steady HAZWOPER training needs often bring it in-house. The train
 
 ## Courses
 
-24 Hours · #1016
+24 Hours · #1147
 
 ### HAZWOPER Train-the-Trainer
 
@@ -22,7 +22,7 @@ Certification for HAZWOPER instructors.
 
 **$399.99** [Enroll](https://train-the-trainer.hazwoperosha.us/?buy=1016)
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -30,23 +30,23 @@ The course most trainers teach.
 
 **$249.99** [Enroll](https://train-the-trainer.hazwoperosha.us/?buy=587)
 
-8 Hours · #597
+8 Hours · #133
 
 ### HAZWOPER Supervisor
 
 Supervisors often become trainers.
 
-**$179.99** [Enroll](https://train-the-trainer.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://train-the-trainer.hazwoperosha.us/?buy=597)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 Keep your own certification current.
 
-**$89.99** [Enroll](https://train-the-trainer.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://train-the-trainer.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://train-the-trainer.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://train-the-trainer.hazwoperosha.us/courses/#all)
 
 ## Guides
 

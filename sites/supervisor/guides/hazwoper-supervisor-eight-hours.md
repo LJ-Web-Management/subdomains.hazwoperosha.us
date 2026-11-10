@@ -43,19 +43,19 @@ Look at what the person does, not their title. A lead hand who assigns tasks in 
 
 Supervisors need eight hours of refresher training each year like everyone else. [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) keeps the supervisor's perspective in that refresher, so the leadership part of their training stays current too.
 
-**OSHA 8 Hour HAZWOPER Supervisor Training** 8 Hours · $179.99 per seat
+**OSHA 8 Hour HAZWOPER Supervisor Training** 8 Hours · $69.99 per seat
 
 [Enroll](https://supervisor.hazwoperosha.us/guides/hazwoper-supervisor-eight-hours?buy=597)
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://supervisor.hazwoperosha.us/guides/hazwoper-supervisor-eight-hours?buy=597)
+$69.99 [Enroll](https://supervisor.hazwoperosha.us/guides/hazwoper-supervisor-eight-hours?buy=597)
 
-[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #596 · 29 CFR 1910.120(e)(4)/(e)(8)
+[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #134 · 29 CFR 1910.120(e)(4)/(e)(8)
 
-$149.99 [Enroll](https://supervisor.hazwoperosha.us/guides/hazwoper-supervisor-eight-hours?buy=596)
+$69.99 [Enroll](https://supervisor.hazwoperosha.us/guides/hazwoper-supervisor-eight-hours?buy=596)
 
 ---
 

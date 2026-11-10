@@ -1,10 +1,10 @@
 ---
 title: "Hazardous Waste Manifest Training | ENV/SERVICES"
-description: "Manifests and e-Manifest, box by box. A 2-hour online course, $34.99 per seat. Self-paced, with a certificate of completion."
+description: "Manifests and e-Manifest, box by box. A 2-hour online course, $58.99 per seat. Self-paced, with a certificate of completion."
 url: https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training
 ---
 
-[Courses](https://environmental-services.hazwoperosha.us/courses/) / Course #580
+[Courses](https://environmental-services.hazwoperosha.us/courses/) / Course #374
 
 # Hazardous Waste Manifest Training
 
@@ -31,7 +31,7 @@ Techs and project managers who prepare manifests.
 
 ### How much does Hazardous Waste Manifest Training cost?
 
-$34.99 per seat. To train a crew, choose the number of seats at checkout.
+$58.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -49,11 +49,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$34.99 per seat
+$58.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262 Subpart B (RCRA)
-- **Course**: #580
+- **Course**: #374
 
 [Enroll now](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580)
 
@@ -61,25 +61,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=599)
+$349.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=403)
-
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=582)
 
-[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #594 · 29 CFR 1910.120(p)(8) / RCRA
+[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #138 · 29 CFR 1910.120(p)(8) / RCRA
 
-$99.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=594)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://environmental-services.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=584)
+$89.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=594)
 
 ---
 

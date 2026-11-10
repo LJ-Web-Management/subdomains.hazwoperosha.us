@@ -25,7 +25,7 @@ PUE Calc (https://pue.hazwoperosha.us/) sells online training from HAZWOPER OSHA
 
 ## All trainings
 
-- [All 83 trainings](https://pue.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://pue.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

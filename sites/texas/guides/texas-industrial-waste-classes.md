@@ -33,15 +33,15 @@ TCEQ's rules (30 TAC Chapter 335) set the exact definitions and tests. Your wast
 
 Staff who sort, label and ship industrial waste should know both the federal hazardous waste rules and the Texas classes. Start with [RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training), and add your facility's own waste stream list.
 
-**RCRA Hazardous Waste Generator Training** 8 Hours · $89.99 per seat
+**RCRA Hazardous Waste Generator Training** 8 Hours · $134.99 per seat
 
 [Enroll](https://texas.hazwoperosha.us/guides/texas-industrial-waste-classes?buy=601)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://texas.hazwoperosha.us/guides/texas-industrial-waste-classes?buy=601)
+$134.99 [Enroll](https://texas.hazwoperosha.us/guides/texas-industrial-waste-classes?buy=601)
 
 ---
 

@@ -4,7 +4,7 @@ description: "Contingency plans and the emergency coordinator role. A 4-hour onl
 url: https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training
 ---
 
-[Courses](https://manufacturing.hazwoperosha.us/courses/) / Course #412
+[Courses](https://manufacturing.hazwoperosha.us/courses/) / Course #899
 
 # Hazardous Waste Contingency Plan and Emergency Coordinator Training
 
@@ -53,7 +53,7 @@ $99.99 per seat
 
 - **Length**: 4 Hours
 - **Standard**: 40 CFR Parts 262 and 264/265
-- **Course**: #412
+- **Course**: #899
 
 [Enroll now](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412)
 
@@ -61,25 +61,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=702)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=593)
+$199.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=593)
 
-[RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=601)
+$134.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=601)
 
-[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=416)
+$29.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=416)
 
 ---
 

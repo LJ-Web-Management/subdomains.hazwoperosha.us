@@ -42,16 +42,6 @@ Drivers also need training on operating a vehicle carrying hazmat, covering:
 
 Carriers keep a training record for each hazmat employee for as long as they're employed and 90 days after.
 
-**EPA RCRA/DOT Combined Hazardous Materials Compliance Training** 8 Hours · $149.99 per seat
-
-[Enroll](https://trucking.hazwoperosha.us/guides/hazmat-driver-training-requirements?buy=403)
-
-## Courses
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://trucking.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://trucking.hazwoperosha.us/guides/hazmat-driver-training-requirements?buy=403)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

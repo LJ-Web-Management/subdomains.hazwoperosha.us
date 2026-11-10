@@ -4,7 +4,7 @@ description: "The 24-hour HAZWOPER for work at your company's permitted TSD faci
 url: https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training
 ---
 
-[Courses](https://environmental-services.hazwoperosha.us/courses/) / Course #582
+[Courses](https://environmental-services.hazwoperosha.us/courses/) / Course #135
 
 # OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training
 
@@ -57,7 +57,7 @@ $229.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120(p) / RCRA
-- **Course**: #582
+- **Course**: #135
 
 [Enroll now](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=582)
 
@@ -65,25 +65,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=599)
+$349.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #138 · 29 CFR 1910.120(p)(8) / RCRA
 
-$149.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=403)
+$89.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=594)
 
-[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #594 · 29 CFR 1910.120(p)(8) / RCRA
+[Hazardous Waste Manifest Training](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$99.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=594)
-
-[Hazardous Waste Manifest Training](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
-
-$34.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=580)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://environmental-services.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=584)
+$58.99 [Enroll](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=580)
 
 ---
 

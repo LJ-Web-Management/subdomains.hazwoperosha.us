@@ -4,7 +4,7 @@ description: "Two hours on gas detection and reading meters. A 2-hour online cou
 url: https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training
 ---
 
-[Courses](https://lel-converter.hazwoperosha.us/courses/) / Course #1056
+[Courses](https://lel-converter.hazwoperosha.us/courses/) / Course #664
 
 # OSHA Air Monitoring and Gas Detection Training
 
@@ -58,7 +58,7 @@ $49.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 1910.146 / 1910.1000
-- **Course**: #1056
+- **Course**: #664
 
 [Enroll now](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056)
 
@@ -66,17 +66,9 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=583)
-
-[OSHA 40 Hour HAZWOPER Training](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://lel-converter.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=587)
-
-[HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://lel-converter.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment) 20 Min · Course #586 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=586)
 
 ---
 

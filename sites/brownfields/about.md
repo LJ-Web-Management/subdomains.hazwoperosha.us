@@ -20,14 +20,11 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites): 40 Hours, $249.99 per seat
-- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://brownfields.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): 40 Hours, $249.99 per seat
 - [OSHA 24 Hour HAZWOPER Training](https://brownfields.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): 24 Hours, $169.99 per seat
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $179.99 per seat
-- [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://brownfields.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment): 20 Min, $14.99 per seat
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://brownfields.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $69.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://brownfields.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
 
-The [full catalog of 83 trainings](https://brownfields.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://brownfields.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://brownfields.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://brownfields.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

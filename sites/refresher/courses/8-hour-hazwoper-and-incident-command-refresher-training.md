@@ -1,10 +1,10 @@
 ---
 title: "8 Hour HAZWOPER and Incident Command Refresher Training"
-description: "The annual refresher for emergency responders and incident commanders under 1910.120(q). An 8-hour online course, $159.99 per seat."
+description: "The annual refresher for emergency responders and incident commanders under 1910.120(q). An 8-hour online course, $249.99 per seat."
 url: https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training
 ---
 
-[Courses](https://refresher.hazwoperosha.us/courses/) / Course #574
+[Courses](https://refresher.hazwoperosha.us/courses/) / Course #382
 
 # 8 Hour HAZWOPER and Incident Command Refresher Training
 
@@ -33,7 +33,7 @@ Hazmat team members, fire brigade members, industrial ERT members and on-scene i
 
 ### How much does 8 Hour HAZWOPER and Incident Command Refresher Training cost?
 
-$159.99 per seat. To train a crew, choose the number of seats at checkout.
+$249.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -55,11 +55,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Which 8-hour refresher fits your job?](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher)
 
-$159.99 per seat
+$249.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(q)(8)
-- **Course**: #574
+- **Course**: #382
 
 [Enroll now](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=574)
 
@@ -67,21 +67,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=595)
+$59.99 [Enroll](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #134 · 29 CFR 1910.120(e)(4)/(e)(8)
 
-$84.99 [Enroll](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=900)
+$69.99 [Enroll](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=596)
 
-[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #596 · 29 CFR 1910.120(e)(4)/(e)(8)
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$149.99 [Enroll](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=596)
-
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
-
-$109.99 [Enroll](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=598)
+$89.99 [Enroll](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training?buy=598)
 
 ---
 

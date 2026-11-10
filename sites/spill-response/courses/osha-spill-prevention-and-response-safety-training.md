@@ -1,10 +1,10 @@
 ---
 title: "OSHA Spill Prevention and Response Safety Training"
-description: "Spill prevention and first response for oil and chemical handlers under OSHA and EPA SPCC rules. A 2-hour online course, $49.99 per seat."
+description: "Spill prevention and first response for oil and chemical handlers under OSHA and EPA SPCC rules. A 2-hour online course, $29.99 per seat."
 url: https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training
 ---
 
-[Courses](https://spill-response.hazwoperosha.us/courses/) / Course #416
+[Courses](https://spill-response.hazwoperosha.us/courses/) / Course #542
 
 # OSHA Spill Prevention and Response Safety Training
 
@@ -33,7 +33,7 @@ Oil-handling personnel, warehouse and maintenance staff, fuel and chemical trans
 
 ### How much does OSHA Spill Prevention and Response Safety Training cost?
 
-$49.99 per seat. To train a crew, choose the number of seats at checkout.
+$29.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -55,11 +55,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [SPCC training requirements: what 40 CFR 112.7(f) actually asks for](https://spill-response.hazwoperosha.us/guides/spcc-training-requirements)
 
-$49.99 per seat
+$29.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 40 CFR 112
-- **Course**: #416
+- **Course**: #542
 
 [Enroll now](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416)
 
@@ -67,21 +67,9 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=479)
-
-[Spill Response Equipment - Absorbent & Containment Booms](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=478)
-
-[OSHA Air Monitoring and Gas Detection Training](https://spill-response.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://spill-response.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1056)
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://spill-response.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://spill-response.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=591)
 
 ---
 

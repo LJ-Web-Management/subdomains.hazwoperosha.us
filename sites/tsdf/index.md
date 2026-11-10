@@ -14,7 +14,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 > initial: 24 hours · refresher: 8 hours / year
 ```
 
-[$ enroll --course 582](https://tsdf.hazwoperosha.us/?buy=582) [$ man tsdf](https://tsdf.hazwoperosha.us/guides/tsdf-training-1910-120-p)
+[$ enroll --course 135](https://tsdf.hazwoperosha.us/?buy=582) [$ man tsdf](https://tsdf.hazwoperosha.us/guides/tsdf-training-1910-120-p)
 
 $ diff cleanup_site.txt tsdf.txt
 
@@ -42,7 +42,7 @@ The 24-hour initial HAZWOPER for workers at RCRA treatment, storage and disposal
 
 The annual 8-hour refresher for TSD facility workers under 1910.120(p).
 
-**$99.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=594)
+**$89.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=594)
 
 [599] 24 Hours · 29 CFR 1910.120 / RCRA
 
@@ -50,23 +50,7 @@ The annual 8-hour refresher for TSD facility workers under 1910.120(p).
 
 Combined HAZWOPER and RCRA training for hazardous waste management technicians.
 
-**$199.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=599)
-
-[575] 24 Hours · 8 CCR 5192(p) / RCRA
-
-### Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training
-
-The 24-hour TSDF course written to California's Title 8 section 5192(p) and Title 22.
-
-**$249.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=575)
-
-[579] 8 Hours · 8 CCR 5192(p)(8) / RCRA
-
-### Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training
-
-The annual 8-hour refresher for California TSDF workers.
-
-**$109.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=579)
+**$349.99** [$ enroll](https://tsdf.hazwoperosha.us/?buy=599)
 
 $ ls./docs
 

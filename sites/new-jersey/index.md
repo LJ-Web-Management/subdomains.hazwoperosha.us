@@ -1,6 +1,6 @@
 ---
 title: "HAZWOPER Training in New Jersey | Remediation, OSHA & PEOSH"
-description: "HAZWOPER training for New Jersey remediation and industrial workers: 40-hour, environmental remediation, refresher, state-plan refresher, RCRA generator and…"
+description: "HAZWOPER training for New Jersey remediation and industrial workers: 40-hour, refresher, RCRA generator and awareness, with guides to NJ rules."
 url: https://new-jersey.hazwoperosha.us/
 ---
 
@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 From historic fill in Newark to tank farms in Linden, New Jersey has more cleanup sites than almost anywhere. Get your crew trained for them.
 
-[40 Hr Remediation · $249.99](https://new-jersey.hazwoperosha.us/?buy=590) [OSHA or PEOSH?](https://new-jersey.hazwoperosha.us/guides/hazwoper-in-new-jersey-osha-and-peosh)
+[40-Hour HAZWOPER · $249.99](https://new-jersey.hazwoperosha.us/?buy=587) [OSHA or PEOSH?](https://new-jersey.hazwoperosha.us/guides/hazwoper-in-new-jersey-osha-and-peosh)
 
 PRIVATE EMPLOYERS **Federal OSHA** 29 CFR 1910.120
 
@@ -20,15 +20,7 @@ CLEANUPS & WASTE **NJDEP** Site remediation and hazardous waste
 
 ## Courses
 
-40 Hours · #590
-
-### 40 Hr Remediation
-
-The 40-hour HAZWOPER for environmental remediation crews.
-
-**$249.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=590)
-
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -36,31 +28,23 @@ The standard OSHA 40-hour initial HAZWOPER.
 
 **$249.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=587)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual 8-hour HAZWOPER refresher.
 
-**$89.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=595)
 
-8 Hours · #900
-
-### State-Plan Refresher
-
-Refresher with state-plan versions, for public employees covered by PEOSH.
-
-**$84.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=900)
-
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training.
 
-**$89.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=601)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -68,7 +52,7 @@ First responder awareness for staff who may discover a release.
 
 **$61.99** [Enroll](https://new-jersey.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://new-jersey.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://new-jersey.hazwoperosha.us/courses/#all)
 
 ## Guides
 

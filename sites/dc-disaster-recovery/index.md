@@ -46,7 +46,7 @@ Understand the standby power systems that carry a facility through a utility out
 
 **$99.99** [Enroll](https://dc-disaster-recovery.hazwoperosha.us/?buy=1098)
 
-[All trainings (83) →](https://dc-disaster-recovery.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-disaster-recovery.hazwoperosha.us/courses/#all)
 
 ## Guides
 

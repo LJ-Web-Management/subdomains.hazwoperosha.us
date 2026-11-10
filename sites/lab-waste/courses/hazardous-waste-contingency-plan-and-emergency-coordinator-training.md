@@ -4,7 +4,7 @@ description: "Contingency planning and the emergency coordinator role. A 4-hour 
 url: https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training
 ---
 
-[Courses](https://lab-waste.hazwoperosha.us/courses/) / Course #412
+[Courses](https://lab-waste.hazwoperosha.us/courses/) / Course #899
 
 # Hazardous Waste Contingency Plan and Emergency Coordinator Training
 
@@ -57,7 +57,7 @@ $99.99 per seat
 
 - **Length**: 4 Hours
 - **Standard**: 40 CFR Parts 262 and 264/265
-- **Course**: #412
+- **Course**: #899
 
 [Enroll now](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412)
 
@@ -65,23 +65,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Hazardous Waste Satellite Accumulation Area Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=415)
 
-[RCRA Hazardous Waste Generator Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=601)
+$134.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=601)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=600)
+$124.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=600)
 
-[Hazardous Waste Manifest Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=580)
+$58.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=580)
 
-[RCRA Universal Waste Handler Training](https://lab-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://lab-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=602)
 

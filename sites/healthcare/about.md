@@ -20,14 +20,14 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $89.99 per seat
+- [RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
 - [Hazardous Waste Satellite Accumulation Area Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): 2 Hours, $59.99 per seat
 - [RCRA Universal Waste Handler Training](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training): 2 Hours, $34.99 per seat
-- [RCRA Hazardous Waste Generator Refresher Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): 4 Hours, $59.99 per seat
+- [RCRA Hazardous Waste Generator Refresher Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): 4 Hours, $124.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://healthcare.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://healthcare.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://healthcare.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://healthcare.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://healthcare.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://healthcare.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

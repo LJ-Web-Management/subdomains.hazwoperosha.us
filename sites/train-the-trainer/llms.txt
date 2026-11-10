@@ -15,8 +15,8 @@ Lead the Class (https://train-the-trainer.hazwoperosha.us/) sells online trainin
 
 - [HAZWOPER Train-the-Trainer Certification](https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Certification for HAZWOPER instructors. Enroll: https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
 - [OSHA 40 Hour HAZWOPER Training](https://train-the-trainer.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The course most trainers teach. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Supervisors often become trainers. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). Keep your own certification current. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $69.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Supervisors often become trainers. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $59.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). Keep your own certification current. Enroll: https://train-the-trainer.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
 
 ## Guides
 
@@ -25,7 +25,7 @@ Lead the Class (https://train-the-trainer.hazwoperosha.us/) sells online trainin
 
 ## All trainings
 
-- [All 83 trainings](https://train-the-trainer.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://train-the-trainer.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

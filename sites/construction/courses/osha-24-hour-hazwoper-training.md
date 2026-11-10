@@ -4,7 +4,7 @@ description: "The 24-hour HAZWOPER for construction staff who are on contaminate
 url: https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training
 ---
 
-[Courses](https://construction.hazwoperosha.us/courses/) / Course #581
+[Courses](https://construction.hazwoperosha.us/courses/) / Course #137
 
 # OSHA 24 Hour HAZWOPER Training
 
@@ -58,7 +58,7 @@ $169.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120(e)
-- **Course**: #581
+- **Course**: #137
 
 [Enroll now](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581)
 
@@ -66,21 +66,13 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$249.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=588)
+$69.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=597)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$179.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=597)
-
-[OSHA 8 Hour HAZWOPER Refresher Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
-
-$89.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=595)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=585)
+$59.99 [Enroll](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=595)
 
 ---
 

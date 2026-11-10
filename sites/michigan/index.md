@@ -1,6 +1,6 @@
 ---
 title: "HAZWOPER Training in Michigan | MIOSHA Part 432"
-description: "HAZWOPER training for Michigan workers under MIOSHA Part 432: 40-hour, refreshers, state-plan refresher, manufacturing ERT, RCRA generator and awareness, with…"
+description: "HAZWOPER training for Michigan workers under MIOSHA Part 432: 40-hour, refreshers, manufacturing ERT, RCRA generator and awareness, with guides to Part 201…"
 url: https://michigan.hazwoperosha.us/
 ---
 
@@ -14,7 +14,7 @@ HAZWOPER training for Michigan's plants, cleanup crews and public responders, un
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,7 +22,7 @@ The 40-hour initial HAZWOPER for Michigan hazardous waste site workers.
 
 **$249.99** [Enroll](https://michigan.hazwoperosha.us/?buy=587)
 
-8 Hours · #702
+8 Hours · #970
 
 ### Plant ERT
 
@@ -30,7 +30,7 @@ Training for in-plant emergency response teams.
 
 **$149.99** [Enroll](https://michigan.hazwoperosha.us/?buy=702)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -38,31 +38,23 @@ First responder awareness for plant and facility staff.
 
 **$61.99** [Enroll](https://michigan.hazwoperosha.us/?buy=1099)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training for Michigan facilities.
 
-**$89.99** [Enroll](https://michigan.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://michigan.hazwoperosha.us/?buy=601)
 
-8 Hours · #900
-
-### State-Plan Refresher
-
-The annual refresher with state-plan versions available.
-
-**$84.99** [Enroll](https://michigan.hazwoperosha.us/?buy=900)
-
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The standard annual 8-hour refresher.
 
-**$89.99** [Enroll](https://michigan.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://michigan.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://michigan.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://michigan.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -8,7 +8,7 @@ ENV/SERVICES
 
 # About ENV/SERVICES
 
-Training for hazardous waste field technicians: HAZWOPER and RCRA waste technician, RCRA/DOT combined, 24-hour TSD operations, TSD refresher, manifests and decontamination.
+Training for hazardous waste field technicians: HAZWOPER and RCRA waste technician, 24-hour TSD operations, TSD refresher and manifests.
 
 ## Who delivers the training
 
@@ -20,14 +20,12 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): 24 Hours, $199.99 per seat
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): 8 Hours, $149.99 per seat
+- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): 24 Hours, $349.99 per seat
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): 24 Hours, $229.99 per seat
-- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training): 8 Hours, $99.99 per seat
-- [Hazardous Waste Manifest Training](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $34.99 per seat
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://environmental-services.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
+- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training): 8 Hours, $89.99 per seat
+- [Hazardous Waste Manifest Training](https://environmental-services.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 
-The [full catalog of 83 trainings](https://environmental-services.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://environmental-services.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://environmental-services.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://environmental-services.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

@@ -4,7 +4,7 @@ description: "The OSHA 40-hour initial HAZWOPER for Texas hazardous waste site w
 url: https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training
 ---
 
-[Courses](https://texas.hazwoperosha.us/courses/) / Course #587
+[Courses](https://texas.hazwoperosha.us/courses/) / Course #123
 
 # OSHA 40 Hour HAZWOPER Training
 
@@ -60,7 +60,7 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #587
+- **Course**: #123
 
 [Enroll now](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587)
 
@@ -68,21 +68,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 24 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=581)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://texas.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=595)
+$59.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=595)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
+[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$249.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=591)
-
-[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
-
-$89.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=601)
+$134.99 [Enroll](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=601)
 
 ---
 

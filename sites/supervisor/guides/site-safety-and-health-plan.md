@@ -43,9 +43,9 @@ At the morning briefing, ask a crew member three questions: What's our PPE level
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://supervisor.hazwoperosha.us/guides/site-safety-and-health-plan?buy=597)
+$69.99 [Enroll](https://supervisor.hazwoperosha.us/guides/site-safety-and-health-plan?buy=597)
 
 ---
 

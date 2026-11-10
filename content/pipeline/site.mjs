@@ -10,17 +10,15 @@ export default {
   hero: {
     title: "First on scene <span>at the line.</span>",
     lede: "When a pipeline or utility line fails, company responders are often there before anyone else. HAZWOPER training built for the people who make the scene safe and stop the release.",
-    cta: [592, "40-Hr Utility/Pipeline · $249.99"],
+    cta: [593, "Incident Command (q) · $199.99"],
     alt: ["/guides/pipeline-release-first-actions", "First actions"],
   },
   coursesTagline: "HAZWOPER and response training for pipeline and utility crews.",
   guidesTagline: "First actions at a release, and working with the fire department.",
 
   courses: [
-    { id: 592, short: "40-Hour Utility/Pipeline Emergency Response", summary: "Full HAZWOPER for pipeline and utility responders.", body: "The 40-hour HAZWOPER course built for utility and pipeline emergency response: releases of natural gas, hazardous liquids and other materials, site control, PPE and incident command.", topics: ["Pipeline and utility hazards", "Site control and isolation", "PPE and monitoring", "Incident command"] },
     { id: 593, short: "Incident Command (q)", summary: "Command for HAZWOPER emergency response.", body: "Eight hours of incident command training under 1910.120(q).", topics: ["ICS structure", "Unified command", "Resource management"] },
     { id: 574, short: "Refresher with Incident Command", summary: "The annual refresher with ICS.", body: "The 8-hour annual refresher with incident command content.", topics: ["Review", "ICS", "Lessons learned"] },
-    { id: 591, short: "40-Hour Oil & Gas Spill Response", summary: "For liquids pipeline spill response.", body: "The 40-hour HAZWOPER for oil and gas spill response.", topics: ["Spill response", "Containment", "Recovery"] },
     { id: 1056, short: "Gas Detection", summary: "Monitoring at gas releases.", body: "Two hours on air monitoring and gas detection.", topics: ["LEL and O₂", "Bump tests", "Readings"] },
   ],
 
@@ -30,7 +28,7 @@ export default {
       title: "First actions at a pipeline release",
       description: "Life safety, ignition sources and isolation, in that order.",
       date: "2026-10-25",
-      courses: [592, 1056],
+      courses: [1056],
       body: `## 1. Approach safely
 
 From upwind and uphill. Look for dead vegetation, frost on the ground, hissing, bubbling water, a sheen or a vapor cloud.
@@ -54,8 +52,7 @@ Close valves only if you're trained and authorized and it's safe. Coordinate wit
 ## 6. Hand over
 
 Share what you know with the fire department and unified command: product, pressure, valve locations, and actions taken.
-
-{{buy:592}}`,
+`,
     },
     {
       slug: "working-with-the-fire-department",

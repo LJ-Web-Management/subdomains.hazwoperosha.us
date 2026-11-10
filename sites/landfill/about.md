@@ -24,10 +24,9 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [OSHA Air Monitoring and Gas Detection Training](https://landfill.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
 - [OSHA 24 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): 24 Hours, $169.99 per seat
 - [OSHA 40 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
-- [OSHA Spill Prevention and Response Safety Training](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://landfill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 
-The [full catalog of 83 trainings](https://landfill.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://landfill.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://landfill.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://landfill.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

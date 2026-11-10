@@ -10,11 +10,11 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Hazmat and HAZWOPER training for career and volunteer departments: awareness for every member, command for officers, and the 40-hour for hazmat teams.
 
-[40 Hr Fire / Hazmat · $249.99](https://fire-departments.hazwoperosha.us/?buy=589) [Which level?](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments)
+[Awareness · $61.99](https://fire-departments.hazwoperosha.us/?buy=1099) [Which level?](https://fire-departments.hazwoperosha.us/guides/hazwoper-for-fire-departments)
 
 ## Courses
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -22,31 +22,23 @@ Awareness level training for every member of the department.
 
 **$61.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=1099)
 
-40 Hours · #589
-
-### 40 Hr Fire / Hazmat
-
-The 40-hour HAZWOPER for fire and hazmat teams.
-
-**$249.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=589)
-
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 Incident command for hazmat incidents.
 
-**$179.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=593)
 
-8 Hours · #574
+8 Hours · #382
 
 ### Responder Refresher
 
 The annual hazmat refresher with incident command review.
 
-**$159.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=574)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -54,15 +46,7 @@ Multi-gas meters and PIDs on scene.
 
 **$49.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=1056)
 
-20 Min · #584
-
-### Decontamination
-
-A 20-minute decon module.
-
-**$14.99** [Enroll](https://fire-departments.hazwoperosha.us/?buy=584)
-
-[All trainings (83) →](https://fire-departments.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://fire-departments.hazwoperosha.us/courses/#all)
 
 ## Guides
 

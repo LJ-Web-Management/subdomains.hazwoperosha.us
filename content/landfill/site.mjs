@@ -42,11 +42,6 @@ export default {
       body: `Fuel tanks, equipment and leachate systems can spill. Two hours on prevention and first response.`,
       topics: ["Fuel spills", "Containment", "Reporting"],
       who: "Operators and maintenance staff." },
-    { id: 584, short: "Decontamination",
-      summary: "A 20-minute decon module.",
-      body: `Decon for people and equipment after hazardous material handling.`,
-      topics: ["Decon stations", "Doffing", "Equipment"],
-      who: "Load check and HHW staff." },
   ],
 
   guides: [

@@ -1,10 +1,10 @@
 ---
 title: "HAZWOPER & RCRA Hazardous Waste Technician Training"
-description: "Safety and compliance for hazardous waste technicians. A 24-hour online course, $199.99 per seat. Self-paced, with a certificate of completion."
+description: "Safety and compliance for hazardous waste technicians. A 24-hour online course, $349.99 per seat. Self-paced, with a certificate of completion."
 url: https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training
 ---
 
-[Courses](https://hw-technician.hazwoperosha.us/courses/) / Course #599
+[Courses](https://hw-technician.hazwoperosha.us/courses/) / Course #346
 
 # OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training
 
@@ -31,7 +31,7 @@ Waste management technicians, environmental services
 
 ### How much does OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training cost?
 
-$199.99 per seat. To train a crew, choose the number of seats at checkout.
+$349.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -54,11 +54,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [Lab pack basics](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics)
 - [Compatibility testing before bulking](https://hw-technician.hazwoperosha.us/guides/compatibility-before-bulking)
 
-$199.99 per seat
+$349.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120 / RCRA
-- **Course**: #599
+- **Course**: #346
 
 [Enroll now](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=599)
 
@@ -66,21 +66,13 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
+[Hazardous Waste Manifest Training](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$149.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=403)
+$58.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=580)
 
-[Hazardous Waste Manifest Training](https://hw-technician.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[RCRA Hazardous Waste Generator Training](https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$34.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=580)
-
-[RCRA Hazardous Waste Generator Training](https://hw-technician.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
-
-$89.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=601)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=584)
+$134.99 [Enroll](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training?buy=601)
 
 ---
 

@@ -14,7 +14,7 @@ Many military jobs build exactly the skills hazardous waste and emergency respon
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,15 +22,15 @@ The credential most employers ask for.
 
 **$249.99** [Enroll](https://veterans.hazwoperosha.us/?buy=587)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command (q)
 
 Put your command experience on paper.
 
-**$179.99** [Enroll](https://veterans.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://veterans.hazwoperosha.us/?buy=593)
 
-24 Hours · #1016
+24 Hours · #1147
 
 ### Train-the-Trainer
 
@@ -38,23 +38,15 @@ For veterans who trained troops.
 
 **$399.99** [Enroll](https://veterans.hazwoperosha.us/?buy=1016)
 
-40 Hours · #589
-
-### 40-Hour Fire/Hazmat Teams
-
-For military firefighters and CBRN specialists.
-
-**$249.99** [Enroll](https://veterans.hazwoperosha.us/?buy=589)
-
-8 Hours · #597
+8 Hours · #133
 
 ### HAZWOPER Supervisor
 
 For NCOs and officers.
 
-**$179.99** [Enroll](https://veterans.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://veterans.hazwoperosha.us/?buy=597)
 
-[All trainings (83) →](https://veterans.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://veterans.hazwoperosha.us/courses/#all)
 
 ## Guides
 

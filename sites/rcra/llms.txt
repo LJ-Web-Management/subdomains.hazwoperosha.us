@@ -13,13 +13,12 @@ RCRA Compliance Center (https://rcra.hazwoperosha.us/) sells online training fro
 
 ## Courses
 
-- [RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The core RCRA training for hazardous waste generator personnel under 40 CFR 262.17. Enroll: https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
-- [RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $59.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual RCRA review for staff who completed initial generator training. Enroll: https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
-- [Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training): $34.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). How to prepare, sign and track the Uniform Hazardous Waste Manifest and e-Manifest. Enroll: https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
+- [RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). The core RCRA training for hazardous waste generator personnel under 40 CFR 262.17. Enroll: https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): $124.99 per seat, 4 Hours, 40 CFR 262.17 (RCRA, annual). The annual RCRA review for staff who completed initial generator training. Enroll: https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600
+- [Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training): $58.99 per seat, 2 Hours, 40 CFR 262 Subpart B (RCRA). How to prepare, sign and track the Uniform Hazardous Waste Manifest and e-Manifest. Enroll: https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580
 - [Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): $59.99 per seat, 2 Hours, 40 CFR 262.15. Running satellite accumulation areas at the point of generation under 40 CFR 262.15. Enroll: https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): $99.99 per seat, 4 Hours, 40 CFR Parts 262 and 264/265. Contingency plans and the emergency coordinator role for LQGs and TSDFs. Enroll: https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training?buy=412
 - [RCRA Universal Waste Handler Training](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Managing batteries, lamps, mercury equipment, pesticides and aerosol cans under 40 CFR 273. Enroll: https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): $149.99 per seat, 8 Hours, RCRA + 49 CFR 172. One course for generator staff who also prepare hazardous materials shipments under DOT. Enroll: https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training?buy=403
 
 ## Guides
 
@@ -29,7 +28,7 @@ RCRA Compliance Center (https://rcra.hazwoperosha.us/) sells online training fro
 
 ## All trainings
 
-- [All 83 trainings](https://rcra.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://rcra.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

@@ -1,6 +1,7 @@
 [
  {
   "id": 842,
+  "lmsId": 842,
   "slug": "data-center-design-fundamentals",
   "name": "Data Center Design Fundamentals",
   "price": 312.99,
@@ -36,6 +37,7 @@
  },
  {
   "id": 849,
+  "lmsId": 849,
   "slug": "tier-infrastructure-fundamentals",
   "name": "Tier Infrastructure Fundamentals",
   "price": 280.99,
@@ -71,6 +73,7 @@
  },
  {
   "id": 843,
+  "lmsId": 843,
   "slug": "data-center-operations-management",
   "name": "Data Center Operations Management",
   "price": 325.99,
@@ -106,6 +109,7 @@
  },
  {
   "id": 848,
+  "lmsId": 848,
   "slug": "security-compliance-data-centers",
   "name": "Security & Compliance for Data Centers",
   "price": 291.99,
@@ -141,6 +145,7 @@
  },
  {
   "id": 847,
+  "lmsId": 847,
   "slug": "power-systems-electrical-fundamentals",
   "name": "Power Systems & Electrical Fundamentals",
   "price": 303.99,
@@ -176,6 +181,7 @@
  },
  {
   "id": 841,
+  "lmsId": 841,
   "slug": "cooling-systems-design-optimization",
   "name": "Cooling Systems Design & Optimization",
   "price": 298.99,
@@ -211,6 +217,7 @@
  },
  {
   "id": 844,
+  "lmsId": 844,
   "slug": "disaster-recovery-business-continuity",
   "name": "Disaster Recovery & Business Continuity",
   "price": 307.99,
@@ -246,6 +253,7 @@
  },
  {
   "id": 845,
+  "lmsId": 845,
   "slug": "infrastructure-commissioning-startup",
   "name": "Infrastructure Commissioning & Startup",
   "price": 267.99,
@@ -281,6 +289,7 @@
  },
  {
   "id": 846,
+  "lmsId": 846,
   "slug": "monitoring-automation-bms-systems",
   "name": "Monitoring, Automation & BMS Systems",
   "price": 276.99,
@@ -316,6 +325,7 @@
  },
  {
   "id": 836,
+  "lmsId": 836,
   "slug": "hvac-troubleshooting-essentials",
   "name": "HVAC Systems Troubleshooting Essentials",
   "price": 99.99,
@@ -348,6 +358,7 @@
  },
  {
   "id": 840,
+  "lmsId": 840,
   "slug": "ups-operations-load-testing",
   "name": "UPS Operations & Load Testing",
   "price": 99.99,
@@ -380,6 +391,7 @@
  },
  {
   "id": 834,
+  "lmsId": 834,
   "slug": "fiber-optics-network-cabling",
   "name": "Fiber Optics & Network Cabling",
   "price": 99.99,
@@ -412,6 +424,7 @@
  },
  {
   "id": 835,
+  "lmsId": 835,
   "slug": "generator-operations-maintenance",
   "name": "Generator Operations & Maintenance",
   "price": 99.99,
@@ -444,6 +457,7 @@
  },
  {
   "id": 832,
+  "lmsId": 832,
   "slug": "energy-efficiency-pue-optimization",
   "name": "Energy Efficiency & PUE Optimization",
   "price": 99.99,
@@ -476,6 +490,7 @@
  },
  {
   "id": 829,
+  "lmsId": 829,
   "slug": "capacity-planning-forecasting",
   "name": "Capacity Planning & Forecasting",
   "price": 99.99,
@@ -508,6 +523,7 @@
  },
  {
   "id": 839,
+  "lmsId": 839,
   "slug": "preventive-maintenance-planning",
   "name": "Preventive Maintenance Planning",
   "price": 99.99,
@@ -540,6 +556,7 @@
  },
  {
   "id": 833,
+  "lmsId": 833,
   "slug": "facility-environmental-compliance",
   "name": "Facility Environmental Compliance",
   "price": 99.99,
@@ -572,6 +589,7 @@
  },
  {
   "id": 837,
+  "lmsId": 837,
   "slug": "incident-response-troubleshooting",
   "name": "Incident Response & Troubleshooting",
   "price": 99.99,
@@ -604,6 +622,7 @@
  },
  {
   "id": 828,
+  "lmsId": 828,
   "slug": "access-control-physical-security",
   "name": "Access Control & Physical Security",
   "price": 99.99,
@@ -636,6 +655,7 @@
  },
  {
   "id": 830,
+  "lmsId": 830,
   "slug": "dcim-platform-fundamentals",
   "name": "DCIM Platform Fundamentals",
   "price": 99.99,
@@ -669,6 +689,7 @@
  },
  {
   "id": 838,
+  "lmsId": 838,
   "slug": "mechanical-systems-maintenance",
   "name": "Mechanical Systems & Equipment Maintenance",
   "price": 99.99,
@@ -701,6 +722,7 @@
  },
  {
   "id": 831,
+  "lmsId": 831,
   "slug": "electrical-safety-best-practices",
   "name": "Electrical Safety & Best Practices",
   "price": 99.99,
@@ -733,6 +755,7 @@
  },
  {
   "id": 1084,
+  "lmsId": 1084,
   "slug": "batteries-dc-circuits",
   "name": "Batteries and DC Circuits",
   "price": 99.99,
@@ -765,6 +788,7 @@
  },
  {
   "id": 1104,
+  "lmsId": 1104,
   "slug": "building-automation-systems-fundamentals",
   "name": "Building Automation Systems (BAS) Fundamentals",
   "price": 99.99,
@@ -797,6 +821,7 @@
  },
  {
   "id": 1096,
+  "lmsId": 1096,
   "slug": "building-envelope-fundamentals",
   "name": "Building Envelope Fundamentals",
   "price": 99.99,
@@ -829,6 +854,7 @@
  },
  {
   "id": 1097,
+  "lmsId": 1097,
   "slug": "building-maintenance-fundamentals",
   "name": "Building Maintenance Fundamentals",
   "price": 99.99,
@@ -861,6 +887,7 @@
  },
  {
   "id": 880,
+  "lmsId": 880,
   "slug": "business-continuity-disaster-recovery-planning",
   "name": "Business Continuity and Disaster Recovery Planning Training",
   "price": 99.99,
@@ -893,6 +920,7 @@
  },
  {
   "id": 850,
+  "lmsId": 850,
   "slug": "data-center-arc-flash-safety",
   "name": "Data Center Arc Flash Safety Training",
   "price": 99.99,
@@ -925,6 +953,7 @@
  },
  {
   "id": 851,
+  "lmsId": 851,
   "slug": "data-center-cooling-refrigerant-safety",
   "name": "Data Center Cooling System and Refrigerant Safety Training",
   "price": 99.99,
@@ -957,6 +986,7 @@
  },
  {
   "id": 852,
+  "lmsId": 852,
   "slug": "data-center-electrical-safety",
   "name": "Data Center Electrical Safety Training",
   "price": 99.99,
@@ -989,6 +1019,7 @@
  },
  {
   "id": 853,
+  "lmsId": 853,
   "slug": "data-center-epo-procedures",
   "name": "Data Center Emergency Power Off (EPO) Procedures Training",
   "price": 99.99,
@@ -1021,6 +1052,7 @@
  },
  {
   "id": 854,
+  "lmsId": 854,
   "slug": "data-center-fire-suppression-safety",
   "name": "Data Center Fire Suppression System Safety Training (Clean Agent Systems)",
   "price": 99.99,
@@ -1054,6 +1086,7 @@
  },
  {
   "id": 855,
+  "lmsId": 855,
   "slug": "data-center-physical-security-access-control",
   "name": "Data Center Physical Security and Access Control Training",
   "price": 99.99,
@@ -1086,6 +1119,7 @@
  },
  {
   "id": 856,
+  "lmsId": 856,
   "slug": "data-center-raised-floor-confined-space",
   "name": "Data Center Raised Floor and Confined Space Awareness Training",
   "price": 99.99,
@@ -1119,6 +1153,7 @@
  },
  {
   "id": 857,
+  "lmsId": 857,
   "slug": "data-center-ups-battery-safety",
   "name": "Data Center UPS and Battery System Safety Training",
   "price": 99.99,
@@ -1151,6 +1186,7 @@
  },
  {
   "id": 1098,
+  "lmsId": 1098,
   "slug": "emergency-standby-power-systems-fundamentals",
   "name": "Emergency/Standby Power Systems Fundamentals",
   "price": 99.99,
@@ -1183,6 +1219,7 @@
  },
  {
   "id": 1021,
+  "lmsId": 1021,
   "slug": "lithium-ion-thermal-runaway-emergency-response",
   "name": "Lithium-Ion Battery Thermal Runaway and Emergency Response Training",
   "price": 99.99,
@@ -1216,6 +1253,7 @@
  },
  {
   "id": 1092,
+  "lmsId": 1092,
   "slug": "power-distribution-systems-fundamentals",
   "name": "Power Distribution Systems Fundamentals",
   "price": 99.99,
@@ -1248,6 +1286,7 @@
  },
  {
   "id": 1101,
+  "lmsId": 1101,
   "slug": "roofing-systems-maintenance-fundamentals",
   "name": "Roofing Systems Maintenance Fundamentals",
   "price": 99.99,
@@ -1280,6 +1319,7 @@
  },
  {
   "id": 858,
+  "lmsId": 858,
   "slug": "server-room-ergonomics-manual-handling",
   "name": "Server Room Ergonomics and Manual Handling Training",
   "price": 99.99,
@@ -1312,6 +1352,7 @@
  },
  {
   "id": 1102,
+  "lmsId": 1102,
   "slug": "ups-systems-fundamentals",
   "name": "UPS Systems Fundamentals",
   "price": 99.99,

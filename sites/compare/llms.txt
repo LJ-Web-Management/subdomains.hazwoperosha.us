@@ -16,18 +16,17 @@ Course Compare (https://compare.hazwoperosha.us/) sells online training from HAZ
 - [OSHA 40 Hour HAZWOPER Training](https://compare.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). Initial training for general site workers. Enroll: https://compare.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
 - [OSHA 24 Hour HAZWOPER Training](https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). Initial training for occasional and low-exposure workers. Enroll: https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): $229.99 per seat, 24 Hours, 29 CFR 1910.120(p) / RCRA. Initial training for TSD facility workers. Enroll: https://compare.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=582
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://compare.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual refresher. Enroll: https://compare.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
-- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://compare.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): $84.99 per seat, 8 Hours, State-plan equivalents of federal OSHA standard (see parent course). The annual refresher with state-plan versions. Enroll: https://compare.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available?buy=900
-- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training): $219.99 per seat, 40 Hours, 8 CCR 5192(e). The 40-hour written to California's 8 CCR 5192. Enroll: https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=577
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://compare.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $59.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual refresher. Enroll: https://compare.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training): $229.99 per seat, 40 Hours, 8 CCR 5192(e). The 40-hour written to California's 8 CCR 5192. Enroll: https://compare.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=577
 
 ## Guides
 
 - [40-hour vs 24-hour vs 24-hour TSD: what's the difference?](https://compare.hazwoperosha.us/guides/40-hour-vs-24-hour-vs-tsdf): Three initial HAZWOPER courses, three different jobs.
-- [Federal, state-plan or Cal/OSHA refresher?](https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher): Three refreshers that all meet the annual requirement. Which one fits where you work.
+- [Federal, state-plan or Cal/OSHA refresher?](https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher): Federal and Cal/OSHA refreshers both meet the annual requirement. Which one fits where you work.
 
 ## All trainings
 
-- [All 83 trainings](https://compare.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://compare.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

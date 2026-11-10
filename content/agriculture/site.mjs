@@ -37,11 +37,6 @@ export default {
       body: `Grain bins, manure pits and silos can hold toxic gases and low oxygen. Two hours on monitoring.`,
       topics: ["Oxygen, H2S, CO and NO2 risks", "Monitors", "Confined spaces"],
       who: "Farm crews and grain handlers." },
-    { id: 479, short: "Spill Kit Use",
-      summary: "Choosing and using spill kits.",
-      body: `One hour on spill kits for fuel and chemical spills.`,
-      topics: ["Kit types", "Absorbents", "Disposal"],
-      who: "Anyone who may clean up small spills." },
     { id: 602, short: "Universal Waste",
       summary: "Batteries, lamps and pesticides as universal waste.",
       body: `Recalled and unused pesticides can be managed as universal waste. Two hours on the rules.`,
@@ -87,7 +82,7 @@ Get upwind and uphill, keep people away and call 911. Don't try to stop a large 
       title: "Pesticide spills: the first 15 minutes",
       description: "Control, contain, clean up. What to do when pesticide spills in the shed, the field or on the road.",
       date: "2026-10-25",
-      courses: [416, 479],
+      courses: [416],
       body: `Pesticide spills range from a cracked jug in the shed to a tank rollover on the road. The basic sequence is the same.
 
 ## 1. Protect yourself and others
@@ -112,7 +107,7 @@ Many states require reporting pesticide spills above certain amounts to the stat
 
 ## Be ready
 
-Keep a spill kit where pesticides are stored and mixed, with absorbent, a shovel, bags, PPE and the emergency numbers. See [[479]].
+Keep a spill kit where pesticides are stored and mixed, with absorbent, a shovel, bags, PPE and the emergency numbers. See [[416]].
 
 {{buy:416}}`,
     },

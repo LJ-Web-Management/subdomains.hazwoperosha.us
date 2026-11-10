@@ -41,7 +41,7 @@ What you'll learn
 
 $29.99 per person
 
-[Enroll now in OSHA Lockout Tagout (LOTO) Training (opens in a new tab)](https://electrical-safety-loto.hazwoperosha.us/checkout?course=187) [Full syllabus for OSHA Lockout Tagout (LOTO) Training on hazwoper-osha.com (opens in a new tab)](https://hazwoper-osha.com/online-courses/osha-lockout-tagout-loto-training)
+[Enroll now in OSHA Lockout Tagout (LOTO) Training (opens in a new tab)](https://electrical-safety-loto.hazwoperosha.us/checkout?course=1163) [Full syllabus for OSHA Lockout Tagout (LOTO) Training on hazwoper-osha.com (opens in a new tab)](https://hazwoper-osha.com/online-courses/osha-lockout-tagout-loto-training)
 
 ### Radiofrequency (RF) Safety and Hazard Awareness Training
 
@@ -150,7 +150,7 @@ All 6 courses in a single checkout, so every role on your crew is covered:
 - OSHA Ground Fault Protection/GFCI Safety Training (NFPA 70E 2024)
 - OSHA-ANSI Lockout/Tagout (LOTO) Certificate Training
 
-$377.94 for all 6 courses, per person [Buy the bundle](https://electrical-safety-loto.hazwoperosha.us/checkout?course=187,466,423,420,528,572) Team pricing applies to every course in the bundle.
+$377.94 for all 6 courses, per person [Buy the bundle](https://electrical-safety-loto.hazwoperosha.us/checkout?course=1163,466,423,420,528,572) Team pricing applies to every course in the bundle.
 
 ## Team pricing
 

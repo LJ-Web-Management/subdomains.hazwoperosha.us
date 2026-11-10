@@ -49,3 +49,25 @@ test("sites with their own checkout report their own hostname", () => {
   }
   assert.ok(configs > 0);
 });
+
+// The catalog's `id` is only a page key (for HAZWOPER courses, a spreadsheet row number). add_order must get
+// the LMS course id, or buyers are enrolled in whatever LMS course shares the row number (row 595, the 8-Hour
+// Refresher, is LMS course 595, Digger Derrick).
+test("the shared checkout sends the LMS course id, not the catalog key", () => {
+  const js = readFileSync(join(SITES, "_shared/checkout.js"), "utf8");
+  assert.match(js, /course_id: current\.lmsId/);
+  assert.doesNotMatch(js, /course_id: current\.id\b/);
+});
+
+test("every catalog course says whether it has an LMS id", () => {
+  const src = readFileSync(join(SITES, "_shared/catalog.js"), "utf8");
+  const courses = JSON.parse(src.slice(src.indexOf("{"), src.lastIndexOf("}") + 1));
+  for (const [key, c] of Object.entries(courses)) {
+    assert.ok("lmsId" in c, `course ${key} has no lmsId field`);
+    assert.ok(c.lmsId === null || Number.isInteger(c.lmsId), `course ${key}: lmsId ${c.lmsId}`);
+  }
+  // Spot checks against hazwoper-osha.com course pages.
+  assert.equal(courses["595"].lmsId, 112, "8-Hour Refresher");
+  assert.equal(courses["587"].lmsId, 123, "40-Hour HAZWOPER");
+  assert.equal(courses["581"].lmsId, 137, "24-Hour HAZWOPER");
+});

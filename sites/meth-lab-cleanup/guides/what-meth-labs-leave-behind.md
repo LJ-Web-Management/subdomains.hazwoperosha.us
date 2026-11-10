@@ -24,7 +24,7 @@ The residues and hazards remediation crews find.
 
 - Make sure law enforcement has released the site and bulk chemicals have been removed
 - Review any assessment or sampling reports
-- Monitor the air (see [HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments))
+- Monitor the air
 - Set up zones and a decon area
 
 ## State rules
@@ -37,13 +37,9 @@ Many states have their own cleanup standards, contractor certification and sampl
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/guides/what-meth-labs-leave-behind?buy=587)
-
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/guides/what-meth-labs-leave-behind?buy=583)
 
 ---
 

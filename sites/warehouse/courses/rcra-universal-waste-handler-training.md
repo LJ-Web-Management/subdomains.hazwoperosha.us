@@ -4,7 +4,7 @@ description: "Batteries, lamps and aerosol cans from operations and returns. A 2
 url: https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training
 ---
 
-[Courses](https://warehouse.hazwoperosha.us/courses/) / Course #602
+[Courses](https://warehouse.hazwoperosha.us/courses/) / Course #921
 
 # RCRA Universal Waste Handler Training
 
@@ -57,7 +57,7 @@ $34.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 273 (RCRA)
-- **Course**: #602
+- **Course**: #921
 
 [Enroll now](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602)
 
@@ -65,25 +65,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://warehouse.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=1099)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://warehouse.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$24.99 [Enroll](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=479)
+$29.99 [Enroll](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
 
-[OSHA Spill Prevention and Response Safety Training](https://warehouse.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[RCRA Hazardous Waste Generator Training](https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$49.99 [Enroll](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=416)
-
-[RCRA Hazardous Waste Generator Training](https://warehouse.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
-
-$89.99 [Enroll](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://warehouse.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=585)
+$134.99 [Enroll](https://warehouse.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=601)
 
 ---
 

@@ -39,13 +39,13 @@ Not after. The training has to come first.
 
 ## Courses
 
-[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://24-hour.hazwoperosha.us/guides/upgrading-from-24-to-40-hour?buy=581)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://24-hour.hazwoperosha.us/guides/upgrading-from-24-to-40-hour?buy=595)
+$59.99 [Enroll](https://24-hour.hazwoperosha.us/guides/upgrading-from-24-to-40-hour?buy=595)
 
 ---
 

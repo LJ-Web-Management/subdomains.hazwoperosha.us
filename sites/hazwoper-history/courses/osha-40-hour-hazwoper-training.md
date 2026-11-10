@@ -4,7 +4,7 @@ description: "The training SARA Section 126 made law. A 40-hour online course, $
 url: https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training
 ---
 
-[Courses](https://hazwoper-history.hazwoperosha.us/courses/) / Course #587
+[Courses](https://hazwoper-history.hazwoperosha.us/courses/) / Course #123
 
 # OSHA 40 Hour HAZWOPER Training
 
@@ -58,7 +58,7 @@ $249.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 29 CFR 1910.120(e) / 1926.65(e)
-- **Course**: #587
+- **Course**: #123
 
 [Enroll now](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587)
 
@@ -66,17 +66,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://hazwoper-history.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://hazwoper-history.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=601)
+$134.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=601)
 
-[Hazardous Waste Manifest Training](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://hazwoper-history.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=580)
+$58.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=580)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=593)
+$199.99 [Enroll](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=593)
 
 ---
 

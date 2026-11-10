@@ -27,17 +27,13 @@ Bulking (combining compatible waste from many containers into one) saves money b
 
 ## Never
 
-Bulk unknowns, or mix incompatible waste streams to "make them disappear." Decon your equipment after each job ([HAZWOPER Micro-Module: Decontamination Procedures](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures)).
+Bulk unknowns, or mix incompatible waste streams to "make them disappear." Decon your equipment after each job.
 
 ## Courses
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/compatibility-before-bulking?buy=599)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://hw-technician.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/compatibility-before-bulking?buy=584)
+$349.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/compatibility-before-bulking?buy=599)
 
 ---
 

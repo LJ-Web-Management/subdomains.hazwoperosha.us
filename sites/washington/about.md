@@ -21,13 +21,11 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA 40 Hour HAZWOPER Training](https://washington.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
-- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://washington.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): 40 Hours, $249.99 per seat
 - [OSHA 24 Hour HAZWOPER Training](https://washington.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): 24 Hours, $169.99 per seat
-- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://washington.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): 8 Hours, $84.99 per seat
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://washington.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://washington.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://washington.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
 
-The [full catalog of 83 trainings](https://washington.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://washington.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://washington.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://washington.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

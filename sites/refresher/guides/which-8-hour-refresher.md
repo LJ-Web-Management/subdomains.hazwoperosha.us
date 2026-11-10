@@ -16,11 +16,10 @@ Every refresher on this site gives you the eight hours that 1910.120(e)(8) requi
 
 | Refresher | Best for | Price |
 | --- | --- | --- |
-| [OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) | Any 40- or 24-hour worker | $89.99 |
-| [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) | Workers in state-plan states | $84.99 |
-| [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) | Supervisors and site leads | $149.99 |
-| [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) | Responders and incident commanders | $159.99 |
-| [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) | Ammonia refrigeration technicians | $109.99 |
+| [OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) | Any 40- or 24-hour worker | $59.99 |
+| [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) | Supervisors and site leads | $69.99 |
+| [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) | Responders and incident commanders | $249.99 |
+| [OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) | Ammonia refrigeration technicians | $89.99 |
 
 ## Three quick rules
 
@@ -34,25 +33,21 @@ You don't have to put the whole crew in one course. A typical contractor puts mo
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=595)
+$59.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=595)
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #134 · 29 CFR 1910.120(e)(4)/(e)(8)
 
-$84.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=900)
+$69.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=596)
 
-[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #596 · 29 CFR 1910.120(e)(4)/(e)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$149.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=596)
+$249.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=574)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$159.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=574)
-
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
-
-$109.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=598)
+$89.99 [Enroll](https://refresher.hazwoperosha.us/guides/which-8-hour-refresher?buy=598)
 
 ---
 

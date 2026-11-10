@@ -23,21 +23,11 @@ export default {
       body: `Washington's HAZWOPER rule, WAC 296-843, keeps the federal training hours. This is the 40-hour initial course for general site workers.`,
       topics: ["Hazard recognition", "Site safety plans", "PPE and respirators", "Monitoring", "Decon", "Emergencies"],
       who: "Hazardous waste site workers in Washington." },
-    { id: 590, short: "40 Hr Remediation",
-      summary: "The 40-hour HAZWOPER for remediation crews.",
-      body: `For crews on MTCA cleanups, former mill sites and contaminated shorelines.`,
-      topics: ["Cleanup phases", "Sampling", "Drums", "Monitoring", "Decon"],
-      who: "Remediation technicians and laborers." },
     { id: 581, short: "24-Hour HAZWOPER",
       summary: "The 24-hour HAZWOPER for occasional and low-exposure workers.",
       body: `For workers on site only occasionally or in monitored low-exposure areas.`,
       topics: ["Who qualifies", "Hazard recognition", "PPE basics"],
       who: "Surveyors, inspectors and support staff." },
-    { id: 900, short: "State-Plan Refresher",
-      summary: "The annual refresher with state-plan versions available.",
-      body: `For workers in state-plan states like Washington, whose rule has its own numbering and details.`,
-      topics: ["Federal refresher content", "State-plan differences", "Core review"],
-      who: "Washington HAZWOPER workers." },
     { id: 595, short: "8-Hour Refresher",
       summary: "The standard annual 8-hour refresher.",
       body: `Eight hours of annual refresher training.`,
@@ -56,7 +46,7 @@ export default {
       title: "WAC 296-843: Washington's HAZWOPER rule",
       description: "Washington writes its own HAZWOPER rule. What's the same as federal OSHA and what to watch for.",
       date: "2026-10-25",
-      courses: [587, 900],
+      courses: [587],
       body: `Washington is a state-plan state. Its Department of Labor and Industries (L&I), through the Division of Occupational Safety and Health (DOSH), enforces workplace safety. Washington's HAZWOPER rule is **chapter 296-843 WAC**.
 
 ## What's the same
@@ -77,7 +67,7 @@ The training structure follows the federal rule:
 
 ## Training approach
 
-A federal 40-hour course covers the same core training. For the annual refresher, [[900]] covers the state-plan context. Keep certificates with your company's written HAZWOPER program, since L&I inspectors will want to see both.
+A federal 40-hour course covers the same core training. For the annual refresher, [[595]] covers the federal core; brief your crew on the WAC differences. Keep certificates with your company's written HAZWOPER program, since L&I inspectors will want to see both.
 
 {{buy:587}}`,
     },
@@ -112,7 +102,7 @@ Ecology publishes guidance on designating waste. When in doubt, have the waste p
       title: "MTCA cleanups: what Washington field crews should know",
       description: "Most Washington cleanups run under the Model Toxics Control Act. The basics for crews on site.",
       date: "2026-10-25",
-      courses: [590, 1056],
+      courses: [1056],
       body: `Washington's cleanup law is the **Model Toxics Control Act (MTCA)**, passed by voters in 1988 and administered by the Department of Ecology. Cleanups run either under Ecology oversight or through the Voluntary Cleanup Program.
 
 ## Typical Washington sites
@@ -135,8 +125,7 @@ HAZWOPER applies to cleanup work at these sites. Expect:
 ## Sediment and shoreline work
 
 Work near water adds drowning hazards, tides and boat work to the usual HAZWOPER hazards. Life jackets, rescue plans and tide schedules belong in the HASP.
-
-{{buy:590}}`,
+`,
     },
   ],
 };

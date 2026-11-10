@@ -33,11 +33,11 @@ Invite the local fire department to tour the plant and join a drill. They need t
 
 ## Courses
 
-[Manufacturing Emergency Response Team (ERT) Training](https://michigan.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://michigan.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://michigan.hazwoperosha.us/guides/michigan-plant-emergency-response?buy=702)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://michigan.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://michigan.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://michigan.hazwoperosha.us/guides/michigan-plant-emergency-response?buy=1099)
 

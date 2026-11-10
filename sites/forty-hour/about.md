@@ -8,7 +8,7 @@ url: https://forty-hour.hazwoperosha.us/about
 
 # About 40 Hour HAZWOPER
 
-Take the OSHA 40-Hour HAZWOPER online under 29 CFR 1910.120(e). General, construction, remediation, oil & gas, pipeline and fire/hazmat tracks. $249.99, certificate included.
+Take the OSHA 40-Hour HAZWOPER online under 29 CFR 1910.120(e). Self-paced, written for every industry. $249.99, certificate included.
 
 ## Who delivers the training
 
@@ -21,13 +21,8 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
-- [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites): 40 Hours, $249.99 per seat
-- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): 40 Hours, $249.99 per seat
-- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): 40 Hours, $249.99 per seat
-- [OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response): 40 Hours, $249.99 per seat
-- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): 40 Hours, $249.99 per seat
 
-The [full catalog of 83 trainings](https://forty-hour.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://forty-hour.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://forty-hour.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://forty-hour.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

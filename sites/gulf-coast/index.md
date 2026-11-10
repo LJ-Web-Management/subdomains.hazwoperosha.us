@@ -14,7 +14,7 @@ HAZWOPER training for refinery, petrochemical and terminal workers from Corpus C
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,15 +22,15 @@ The 40-hour HAZWOPER for plant cleanup, tank and waste work.
 
 **$249.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=587)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 Incident command for plant shift supervisors and ERT leaders.
 
-**$179.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=593)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -38,7 +38,7 @@ Multi-gas meters and PIDs for H2S, LEL, benzene screening and oxygen.
 
 **$49.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=1056)
 
-8 Hours · #702
+8 Hours · #970
 
 ### Plant ERT
 
@@ -46,23 +46,15 @@ Training for in-plant emergency response team members.
 
 **$149.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=702)
 
-40 Hours · #591
-
-### 40 Hr Oil Spill
-
-The 40-hour HAZWOPER for terminal and dock spill response.
-
-**$249.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=591)
-
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual 8-hour refresher.
 
-**$89.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://gulf-coast.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://gulf-coast.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://gulf-coast.hazwoperosha.us/courses/#all)
 
 ## Guides
 

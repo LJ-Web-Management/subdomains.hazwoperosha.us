@@ -1,10 +1,10 @@
 ---
 title: "Hazardous Waste Manifest Training | Generator Status"
-description: "Filling out and tracking the manifest for every shipment. A 2-hour online course, $34.99 per seat. Self-paced, with a certificate of completion."
+description: "Filling out and tracking the manifest for every shipment. A 2-hour online course, $58.99 per seat. Self-paced, with a certificate of completion."
 url: https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training
 ---
 
-[Courses](https://generator-status.hazwoperosha.us/courses/) / Course #580
+[Courses](https://generator-status.hazwoperosha.us/courses/) / Course #374
 
 # Hazardous Waste Manifest Training
 
@@ -31,7 +31,7 @@ Waste generators, transporters, TSD facility staff
 
 ### How much does Hazardous Waste Manifest Training cost?
 
-$34.99 per seat. To train a crew, choose the number of seats at checkout.
+$58.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -49,11 +49,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$34.99 per seat
+$58.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262 Subpart B (RCRA)
-- **Course**: #580
+- **Course**: #374
 
 [Enroll now](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=580)
 
@@ -61,19 +61,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)
+$134.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=601)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=600)
+$124.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=600)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=415)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training?buy=412)
 

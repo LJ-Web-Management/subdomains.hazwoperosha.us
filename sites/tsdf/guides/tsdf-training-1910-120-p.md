@@ -46,13 +46,13 @@ EPA requires its own personnel training at TSDFs: 40 CFR 264.16 for permitted fa
 
 ## Courses
 
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-1910-120-p?buy=582)
 
-[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #594 · 29 CFR 1910.120(p)(8) / RCRA
+[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #138 · 29 CFR 1910.120(p)(8) / RCRA
 
-$99.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-1910-120-p?buy=594)
+$89.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-1910-120-p?buy=594)
 
 ---
 

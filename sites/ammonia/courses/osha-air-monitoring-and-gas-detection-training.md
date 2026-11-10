@@ -4,7 +4,7 @@ description: "Fixed and portable ammonia detection, plus multi-gas monitoring. A
 url: https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training
 ---
 
-[Courses](https://ammonia.hazwoperosha.us/courses/) / Course #1056
+[Courses](https://ammonia.hazwoperosha.us/courses/) / Course #664
 
 # OSHA Air Monitoring and Gas Detection Training
 
@@ -58,7 +58,7 @@ $49.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 1910.146 / 1910.1000
-- **Course**: #1056
+- **Course**: #664
 
 [Enroll now](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056)
 
@@ -66,21 +66,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$109.99 [Enroll](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=598)
+$89.99 [Enroll](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=598)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=593)
+$199.99 [Enroll](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=593)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://ammonia.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://ammonia.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1099)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://ammonia.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://ammonia.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=574)
+$249.99 [Enroll](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=574)
 
 ---
 

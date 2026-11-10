@@ -29,17 +29,9 @@ Your body cools mostly by sweating. Impermeable suits stop sweat from evaporatin
 - **Physiological monitoring**: heart rate and body temperature as your site plan specifies
 - **Buddy system** to spot early signs
 
-**HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained** 15 Min · $12.99 per seat
-
-[Enroll](https://heat-stress.hazwoperosha.us/guides/heat-stress-in-chemical-protective-clothing?buy=585)
-
 ## Courses
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://heat-stress.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://heat-stress.hazwoperosha.us/guides/heat-stress-in-chemical-protective-clothing?buy=585)
-
-[OSHA 40 Hour HAZWOPER Training](https://heat-stress.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://heat-stress.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://heat-stress.hazwoperosha.us/guides/heat-stress-in-chemical-protective-clothing?buy=587)
 

@@ -2,7 +2,7 @@
 export default {
   brand: "EHS Stack",
   title: "HAZWOPER Program Training for EHS Managers | EHS Stack",
-  description: "Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, RCRA generator and state-plan refresher courses.",
+  description: "Training for EHS managers who run HAZWOPER and hazardous waste programs: train-the-trainer, supervisor, incident command, contingency planning, and RCRA generator courses.",
   theme: "#0c0a1a",
   fonts: "family=Manrope:wght@400;500;600;700;800",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs><rect width="32" height="32" rx="8" fill="#0c0a1a"/><path d="M16 6l9 10-9 10-9-10z" fill="url(#g)"/></svg>`,
@@ -44,13 +44,6 @@ export default {
       body: `Eight hours on the generator rules your program has to meet and train others on.`,
       topics: ["Waste determination", "Generator categories", "Containers and accumulation", "Inspections and records", "Emergencies"],
       who: "EHS staff and waste handlers.",
-    },
-    {
-      id: 900, short: "State-Plan Refresher",
-      summary: "8-hour refresher covering federal and state-plan HAZWOPER rules.",
-      body: `For multi-state programs: the annual refresher with state-plan equivalents, so one course works across your locations.`,
-      topics: ["Federal refresher content", "State-plan differences", "Core review"],
-      who: "Workers across multiple states.",
     },
   ],
 
@@ -97,7 +90,7 @@ Keep the program in one place, version it and review it at least annually or whe
       title: "Tracking training renewal cycles across your workforce",
       description: "Every rule has its own clock. A reference table for the cycles EHS teams track most.",
       date: "2026-10-25",
-      courses: [900, 601],
+      courses: [601],
       body: `The hardest part of training compliance isn't the training. It's the calendar. Each rule renews on a different cycle.
 
 ## Common renewal cycles
@@ -123,7 +116,7 @@ Keep the program in one place, version it and review it at least annually or whe
 
 ## Multi-state programs
 
-If you operate in state-plan states, check whether the state has its own HAZWOPER rule. [[900]] covers federal and state-plan equivalents in one refresher.`,
+If you operate in state-plan states, check whether the state has its own HAZWOPER rule. Federal training covers the core; add a short briefing on the state's own rule.`,
     },
     {
       slug: "hazwoper-medical-surveillance",
@@ -186,7 +179,7 @@ Align medical exams with fit tests and refreshers, and keep a single due-date li
 
 <section class="sec"><div class="wrap">
 <h2 class="title">Courses</h2>
-<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

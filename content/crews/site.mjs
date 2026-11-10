@@ -64,7 +64,7 @@ export default {
 
 ## The yearly cost of a certified worker
 
-- [[595]] at $89.99 per seat
+- [[595]] at $59.99 per seat
 - 8 hours of paid time
 - Annual fit test and, for most, an annual medical exam
 
@@ -169,7 +169,7 @@ Even a fully certified worker needs your site's briefing: your site safety plan,
 </div>
 <div class="calc" id="calc">
 <p class="calc-head">Crew estimate</p>
-${courses.map((c) => `<label class="crow"><span><b>${esc(c.short)}</b><small>#${c.id} · ${money(c.price)} per seat</small></span><input type="number" min="0" max="10000" step="1" value="${c.default}" data-price="${c.price}" aria-label="Seats of ${esc(c.short)}"></label>`).join("")}
+${courses.map((c) => `<label class="crow"><span><b>${esc(c.short)}</b><small>${c.lmsId ? `#${c.lmsId} · ` : ""}${money(c.price)} per seat</small></span><input type="number" min="0" max="10000" step="1" value="${c.default}" data-price="${c.price}" aria-label="Seats of ${esc(c.short)}"></label>`).join("")}
 <div class="ctotal"><span>Estimated total</span><strong id="crewTotal">—</strong></div>
 <p class="cnote">Each course is checked out separately with its seat count. For one invoice or a purchase order, call +1-866-429-6742.</p>
 </div>

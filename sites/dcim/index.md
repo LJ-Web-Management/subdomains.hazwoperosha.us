@@ -46,7 +46,7 @@ Build a 3–5 year capacity plan before you run out of power, cooling, or space.
 
 **$99.99** [Enroll](https://dcim.hazwoperosha.us/?buy=829)
 
-[All trainings (83) →](https://dcim.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dcim.hazwoperosha.us/courses/#all)
 
 ## Guides
 

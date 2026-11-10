@@ -4,7 +4,7 @@ description: "First responder awareness training for staff who may discover a re
 url: https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training
 ---
 
-[Courses](https://24-hour.hazwoperosha.us/courses/) / Course #1099
+[Courses](https://24-hour.hazwoperosha.us/courses/) / Course #654
 
 # OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
@@ -53,7 +53,7 @@ $61.99 per seat
 
 - **Length**: 4 Hours
 - **Standard**: 29 CFR 1910.120(q)(6)(i)
-- **Course**: #1099
+- **Course**: #654
 
 [Enroll now](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099)
 
@@ -61,17 +61,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=581)
 
-[Cal/OSHA 24-Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #576 · 8 CCR 5192(e)
+[Cal/OSHA 24-Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #496 · 8 CCR 5192(e)
 
-$169.99 [Enroll](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=576)
+$189.99 [Enroll](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=576)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=595)
+$59.99 [Enroll](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=595)
 
 ---
 

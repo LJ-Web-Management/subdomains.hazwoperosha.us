@@ -13,8 +13,8 @@ HASP Checklist (https://safety-plan-checklist.hazwoperosha.us/) sells online tra
 
 ## Courses
 
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Running the site safety and health plan. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
-- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4)/(e)(8). Annual refresher for plan owners. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $69.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). Running the site safety and health plan. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): $69.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4)/(e)(8). Annual refresher for plan owners. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596
 - [HAZWOPER Train-the-Trainer Certification](https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Teach the plan to your crews. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
 - [OSHA 40 Hour HAZWOPER Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The foundation every plan assumes. Enroll: https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
 
@@ -25,7 +25,7 @@ HASP Checklist (https://safety-plan-checklist.hazwoperosha.us/) sells online tra
 
 ## All trainings
 
-- [All 83 trainings](https://safety-plan-checklist.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://safety-plan-checklist.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

@@ -35,17 +35,9 @@ Encapsulated work is physically demanding. The precautions that keep entry teams
 
 Encapsulating suits trap almost all body heat. Work periods in hot weather can be as short as 15 to 20 minutes. Cooling vests and shaded rest areas help.
 
-**HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained** 15 Min · $12.99 per seat
-
-[Enroll](https://ppe-picker.hazwoperosha.us/guides/working-safely-in-level-a-and-b?buy=585)
-
 ## Courses
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://ppe-picker.hazwoperosha.us/guides/working-safely-in-level-a-and-b?buy=585)
-
-[OSHA 40 Hour HAZWOPER Training](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://ppe-picker.hazwoperosha.us/guides/working-safely-in-level-a-and-b?buy=587)
 

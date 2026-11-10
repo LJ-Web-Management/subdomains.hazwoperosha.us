@@ -2,7 +2,7 @@
 export default {
   brand: "SITEWORK/HAZ",
   title: "HAZWOPER for Construction Workers | 29 CFR 1926.65 Online | SITEWORK/HAZ",
-  description: "HAZWOPER training for construction crews on brownfields, landfills and contaminated excavations: 40-hour construction track, 24-hour, supervisor and PPE modules under 29 CFR 1926.65.",
+  description: "HAZWOPER training for construction crews on brownfields, landfills and contaminated excavations: 24-hour, supervisor and refresher courses under 29 CFR 1926.65.",
   theme: "#0d3b78",
   fonts: "family=Archivo+Narrow:wght@500;600;700&family=Roboto+Mono:wght@400;500;700",
   icon: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#0d3b78"/><path d="M4 26h24M8 26V12l8-6 8 6v14" stroke="#e6f0ff" stroke-width="2" fill="none"/><path d="M13 26v-7h6v7" stroke="#9cc3ff" stroke-width="2" fill="none"/></svg>`,
@@ -10,13 +10,6 @@ export default {
   guidesTagline: "Drawings and notes for contractors who dig, grade and build on impacted sites.",
 
   courses: [
-    {
-      id: 588, short: "40 HR Construction",
-      summary: "The 40-hour initial HAZWOPER for construction workers on contaminated sites under 29 CFR 1926.65.",
-      body: `Construction work on a hazardous waste site falls under 29 CFR 1926.65, the construction twin of 1910.120. The hours are the same: 40 hours of instruction and three days of supervised field experience for general site workers. This track teaches it through construction work: excavation, earthmoving, utilities and foundations in impacted soil.`,
-      topics: ["How 1926.65 applies to construction projects", "Excavating and trenching through contaminated soil", "Heavy equipment in the exclusion zone", "Dust, vapor and heat on the job site", "Working under the environmental contractor's site plan", "PPE, respirators and decon for crews"],
-      who: "Laborers, operators, pipe layers, foremen and superintendents on brownfield, landfill and contaminated-site projects.",
-    },
     {
       id: 581, short: "24 HR HAZWOPER",
       summary: "The 24-hour HAZWOPER for construction staff who are on contaminated sites only occasionally or in low-exposure areas.",
@@ -38,13 +31,6 @@ export default {
       topics: ["Hazard and PPE review", "Monitoring and decon review", "Construction incident case studies", "Regulatory updates"],
       who: "Construction workers with a current 40- or 24-hour certificate.",
     },
-    {
-      id: 585, short: "PPE Levels A–D",
-      summary: "A 15-minute module on PPE levels, built for tailgate meetings.",
-      body: `A quick, focused lesson on what Level A, B, C and D mean, ideal for a morning tailgate before a PPE change on site.`,
-      topics: ["Levels A, B, C and D", "Respiratory vs skin protection", "Upgrading and downgrading"],
-      who: "Crews before a PPE change, new hires and anyone needing a quick refresher.",
-    },
   ],
 
   guides: [
@@ -53,7 +39,7 @@ export default {
       title: "Does my construction crew need HAZWOPER?",
       description: "Brownfields, landfills and contaminated excavations bring 1926.65 onto the job. Here's when it applies.",
       date: "2026-10-25",
-      courses: [588, 581],
+      courses: [581],
       body: `Most construction never touches HAZWOPER. Then a project lands on a former gas station, a closed landfill or a brownfield, and suddenly it does.
 
 ## When 1926.65 applies
@@ -78,7 +64,7 @@ In practice, if your project is part of a remediation or the contaminated materi
 
 ## Who needs what
 
-- **Crew in the excavation or operating equipment in impacted areas:** [[588]]
+- **Crew in the excavation or operating equipment in impacted areas:** 40-hour HAZWOPER
 - **Occasional visitors and staff in monitored, low-exposure areas:** [[581]]
 - **Foremen and superintendents:** add [[597]]
 
@@ -89,7 +75,7 @@ In practice, if your project is part of a remediation or the contaminated materi
       title: "Excavating contaminated soil: what changes for the crew",
       description: "Digging impacted soil is still digging. But air, skin and decon now matter as much as trench protection.",
       date: "2026-10-25",
-      courses: [588, 585],
+      courses: [],
       body: `An excavation on a contaminated site has every hazard a normal trench has, plus chemical ones. The trench rules (1926 Subpart P) still apply in full.
 
 ## Air
@@ -119,15 +105,14 @@ Contaminated spoils are waste, not fill. Stockpile them on liners, cover them an
 ## Groundwater
 
 Pumped water from an impacted excavation usually can't go to a storm drain. Follow the site plan for treatment or containment.
-
-{{buy:588}}`,
+`,
     },
     {
       slug: "working-under-the-environmental-contractors-hasp", seoTitle: "Working under an environmental contractor's HASP",
       title: "Working under the environmental contractor's health and safety plan",
       description: "On remediation-driven projects, the site plan often isn't yours. Here's how to work inside it.",
       date: "2026-10-25",
-      courses: [597, 588],
+      courses: [597],
       body: `On many contaminated-site projects, an environmental consultant or remediation contractor writes the site health and safety plan (HASP) and controls the zones. Your construction crew works inside their system.
 
 ## Before mobilization
@@ -173,7 +158,7 @@ Your company still owns its own workers' safety under OSHA's multi-employer cita
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Build on contaminated ground.</h1>
 <p class="hero-lede">HAZWOPER for construction crews on brownfields, landfills and impacted excavations. Online, self-paced, with certificates the environmental contractor will accept.</p>
-<div class="hero-cta">${h.buy(588, "Enroll · 40 HR Construction")}<a class="btn btn-alt" href="/guides/does-my-construction-crew-need-hazwoper">Does my crew need it?</a></div>
+<div class="hero-cta">${h.buy(581, "Enroll · 24 HR HAZWOPER")}<a class="btn btn-alt" href="/guides/does-my-construction-crew-need-hazwoper">Does my crew need it?</a></div>
 </div>
 <div class="plan" aria-hidden="true">
 <svg viewBox="0 0 400 300"><g fill="none" stroke="#9cc3ff" stroke-width="1.5"><rect x="20" y="20" width="360" height="260" stroke-dasharray="6 4"/><rect x="40" y="40" width="150" height="120" stroke="#ff8f7a" stroke-width="2"/><rect x="200" y="40" width="80" height="120" stroke="#ffd36b" stroke-width="2"/><rect x="290" y="40" width="70" height="220" stroke="#8ff0b5" stroke-width="2"/><path d="M60 200h110v50H60z"/><path d="M200 240h70"/></g><g font-family="Roboto Mono" font-size="11" fill="#e6f0ff"><text x="48" y="58">EXCLUSION ZONE</text><text x="206" y="58">CRZ / DECON</text><text x="296" y="58">SUPPORT</text><text x="64" y="218">SPOILS ON LINER</text><text x="200" y="232">WASH PAD</text></g></svg>
@@ -183,7 +168,7 @@ Your company still owns its own workers' safety under OSHA's multi-employer cita
 <p class="tag">SCHEDULE OF COURSES</p>
 <div class="schedule">
 <div class="srow shead"><span>ID</span><span>COURSE</span><span>LENGTH</span><span>PRICE</span><span></span></div>
-${courses.map((c) => `<div class="srow"><span>#${c.id}</span><a href="${c.url}">${esc(c.name)}</a><span>${esc(c.duration)}</span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div>`).join("")}
+${courses.map((c) => `<div class="srow"><span>${c.lmsId ? `#${c.lmsId}` : ""}</span><a href="${c.url}">${esc(c.name)}</a><span>${esc(c.duration)}</span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div>`).join("")}
 </div></div></section>
 
 <section class="sec"><div class="wrap">

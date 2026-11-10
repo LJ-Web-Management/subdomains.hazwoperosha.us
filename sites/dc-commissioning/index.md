@@ -60,7 +60,7 @@ Size, test, and maintain backup generators with confidence.
 
 **$99.99** [Enroll](https://dc-commissioning.hazwoperosha.us/?buy=835)
 
-[All trainings (83) →](https://dc-commissioning.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-commissioning.hazwoperosha.us/courses/#all)
 
 ## Guides
 

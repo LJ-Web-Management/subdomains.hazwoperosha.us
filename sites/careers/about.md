@@ -8,7 +8,7 @@ HAZWOPER Careers
 
 # About HAZWOPER Careers
 
-Get the training employers look for in hazardous waste, remediation and environmental services jobs: 40-hour and 24-hour HAZWOPER, RCRA/DOT, waste technician, refresher and awareness courses.
+Get the training employers look for in hazardous waste, remediation and environmental services jobs: 40-hour and 24-hour HAZWOPER, waste technician, refresher and awareness courses.
 
 ## Who delivers the training
 
@@ -22,12 +22,11 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 - [OSHA 40 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
 - [OSHA 24 Hour HAZWOPER Training](https://careers.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): 24 Hours, $169.99 per seat
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://careers.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): 8 Hours, $149.99 per seat
-- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): 24 Hours, $199.99 per seat
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
+- [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://careers.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training): 24 Hours, $349.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://careers.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://careers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 
-The [full catalog of 83 trainings](https://careers.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://careers.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://careers.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://careers.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

@@ -41,16 +41,6 @@ Anyone who, in the course of their job, directly affects hazmat transportation s
 
 Keep a record for each employee: name, completion date, training materials or description, trainer's name and address, and certification that the employee was trained and tested. Keep it for as long as they're employed and 90 days after.
 
-**EPA RCRA/DOT Combined Hazardous Materials Compliance Training** 8 Hours · $149.99 per seat
-
-[Enroll](https://waste-shipping.hazwoperosha.us/guides/dot-hazmat-training-for-waste-shippers?buy=403)
-
-## Courses
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://waste-shipping.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://waste-shipping.hazwoperosha.us/guides/dot-hazmat-training-for-waste-shippers?buy=403)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

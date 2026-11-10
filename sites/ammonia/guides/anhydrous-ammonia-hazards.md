@@ -40,17 +40,17 @@ Eye damage, airway burns and lung injury can happen fast at high concentrations.
 
 Machinery room ventilation, fixed detection with alarms, emergency shutdown, labeled valves and piping, proper PPE and trained people.
 
-**OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training** 8 Hours · $109.99 per seat
+**OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training** 8 Hours · $89.99 per seat
 
 [Enroll](https://ammonia.hazwoperosha.us/guides/anhydrous-ammonia-hazards?buy=598)
 
 ## Courses
 
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://ammonia.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$109.99 [Enroll](https://ammonia.hazwoperosha.us/guides/anhydrous-ammonia-hazards?buy=598)
+$89.99 [Enroll](https://ammonia.hazwoperosha.us/guides/anhydrous-ammonia-hazards?buy=598)
 
-[OSHA Air Monitoring and Gas Detection Training](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://ammonia.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://ammonia.hazwoperosha.us/guides/anhydrous-ammonia-hazards?buy=1056)
 

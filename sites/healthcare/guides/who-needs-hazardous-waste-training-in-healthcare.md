@@ -36,15 +36,15 @@ Inspectors from EPA or your state agency will ask who was trained, when and on w
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://healthcare.hazwoperosha.us/guides/who-needs-hazardous-waste-training-in-healthcare?buy=601)
+$134.99 [Enroll](https://healthcare.hazwoperosha.us/guides/who-needs-hazardous-waste-training-in-healthcare?buy=601)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://healthcare.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://healthcare.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://healthcare.hazwoperosha.us/guides/who-needs-hazardous-waste-training-in-healthcare?buy=1099)
 
-[RCRA Universal Waste Handler Training](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://healthcare.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://healthcare.hazwoperosha.us/guides/who-needs-hazardous-waste-training-in-healthcare?buy=602)
 

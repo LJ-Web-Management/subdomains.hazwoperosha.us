@@ -15,8 +15,8 @@ crewseats (https://crews.hazwoperosha.us/) sells online training from HAZWOPER O
 
 - [OSHA 40 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The OSHA 40-hour initial HAZWOPER for general site workers. Enroll: https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
 - [OSHA 24 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The 24-hour HAZWOPER for occasional and low-exposure workers. Enroll: https://crews.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher for every certified worker. Enroll: https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8-hour supervisor course for foremen and site leads. Enroll: https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $59.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher for every certified worker. Enroll: https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $69.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8-hour supervisor course for foremen and site leads. Enroll: https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
 - [HAZWOPER Train-the-Trainer Certification](https://crews.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Qualify an in-house trainer to run field days and refreshers. Enroll: https://crews.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://crews.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). First responder awareness for support staff. Enroll: https://crews.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 
@@ -28,7 +28,7 @@ crewseats (https://crews.hazwoperosha.us/) sells online training from HAZWOPER O
 
 ## All trainings
 
-- [All 83 trainings](https://crews.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://crews.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Refresher Training | Refresher Reminder"
-description: "The standard annual HAZWOPER refresher. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "The standard annual HAZWOPER refresher. An 8-hour online course, $59.99 per seat. Self-paced, with a certificate of completion."
 url: https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training
 ---
 
-[Courses](https://refresher-reminder.hazwoperosha.us/courses/) / Course #595
+[Courses](https://refresher-reminder.hazwoperosha.us/courses/) / Course #112
 
 # OSHA 8 Hour HAZWOPER Refresher Training
 
@@ -30,7 +30,7 @@ Workers with a 40- or 24-hour certificate.
 
 ### How much does OSHA 8 Hour HAZWOPER Refresher Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$59.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [Keeping a whole crew on one renewal date](https://refresher-reminder.hazwoperosha.us/guides/keeping-a-crew-on-one-renewal-date)
 - [What starts the 12-month refresher clock?](https://refresher-reminder.hazwoperosha.us/guides/what-counts-as-the-12-month-clock)
 
-$89.99 per seat
+$59.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(8)
-- **Course**: #595
+- **Course**: #112
 
 [Enroll now](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595)
 
@@ -65,25 +65,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #596 · 29 CFR 1910.120(e)(4)/(e)(8)
+[OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training) 8 Hours · Course #134 · 29 CFR 1910.120(e)(4)/(e)(8)
 
-$149.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=596)
+$69.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=596)
 
-[8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #574 · 29 CFR 1910.120(q)(8)
+[8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training) 8 Hours · Course #382 · 29 CFR 1910.120(q)(8)
 
-$159.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=574)
+$249.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=574)
 
-[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #594 · 29 CFR 1910.120(p)(8) / RCRA
+[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #138 · 29 CFR 1910.120(p)(8) / RCRA
 
-$99.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=594)
+$89.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=594)
 
-[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #578 · 8 CCR 5192(e)(8)
+[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #490 · 8 CCR 5192(e)(8)
 
-$89.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=578)
-
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=900)
+$149.99 [Enroll](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=578)
 
 ---
 

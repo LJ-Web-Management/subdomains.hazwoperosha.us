@@ -27,19 +27,15 @@ A **lab pack** is an outer container (usually a drum) holding many small contain
 - Leaking or bulging containers
 - Reactive or air-sensitive materials
 
-**OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training** 24 Hours · $199.99 per seat
+**OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training** 24 Hours · $349.99 per seat
 
 [Enroll](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics?buy=599)
 
 ## Courses
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://hw-technician.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics?buy=599)
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://hw-technician.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics?buy=403)
+$349.99 [Enroll](https://hw-technician.hazwoperosha.us/guides/lab-pack-basics?buy=599)
 
 ---
 

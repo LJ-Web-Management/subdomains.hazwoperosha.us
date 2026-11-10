@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Which generator <span>are you?</span>",
     lede: "Your generator category sets how long you can store waste, how much paperwork you need and how much training your people need. Enter your monthly amounts to find yours.",
-    cta: [601, "RCRA Generator · $89.99"],
+    cta: [601, "RCRA Generator · $134.99"],
     alt: ["#calc", "Find my category"],
   },
   coursesTagline: "Generator training for every category.",

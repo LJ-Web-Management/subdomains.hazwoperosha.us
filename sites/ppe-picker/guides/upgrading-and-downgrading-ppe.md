@@ -36,13 +36,9 @@ The site safety officer or supervisor, using the plan's action levels. Workers s
 
 ## Courses
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$14.99 [Enroll](https://ppe-picker.hazwoperosha.us/guides/upgrading-and-downgrading-ppe?buy=583)
-
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
-
-$179.99 [Enroll](https://ppe-picker.hazwoperosha.us/guides/upgrading-and-downgrading-ppe?buy=597)
+$69.99 [Enroll](https://ppe-picker.hazwoperosha.us/guides/upgrading-and-downgrading-ppe?buy=597)
 
 ---
 

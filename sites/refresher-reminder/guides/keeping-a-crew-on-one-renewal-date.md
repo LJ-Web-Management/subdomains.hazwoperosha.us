@@ -26,15 +26,15 @@ The one thing you can't do is stretch anyone past 12 months to get them into the
 
 Put each worker's due date in a calendar with a reminder 30 to 60 days ahead. The reminder tool on this site creates a calendar file in seconds.
 
-**OSHA 8 Hour HAZWOPER Refresher Training** 8 Hours · $89.99 per seat
+**OSHA 8 Hour HAZWOPER Refresher Training** 8 Hours · $59.99 per seat
 
 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/keeping-a-crew-on-one-renewal-date?buy=595)
 
 ## Courses
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/keeping-a-crew-on-one-renewal-date?buy=595)
+$59.99 [Enroll](https://refresher-reminder.hazwoperosha.us/guides/keeping-a-crew-on-one-renewal-date?buy=595)
 
 ---
 

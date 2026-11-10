@@ -22,12 +22,12 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 - [Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): 8 Hours, $149.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $179.99 per seat
-- [RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $89.99 per seat
-- [OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $49.99 per seat
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
+- [RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
+- [OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): 2 Hours, $29.99 per seat
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://manufacturing.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://manufacturing.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://manufacturing.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://manufacturing.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

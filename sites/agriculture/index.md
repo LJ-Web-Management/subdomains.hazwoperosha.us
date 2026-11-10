@@ -14,7 +14,7 @@ Anhydrous ammonia, pesticides and fuel are everyday risks in agriculture. Spill 
 
 ## Courses
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -22,23 +22,23 @@ Recognize a chemical release, get clear and call for help.
 
 **$61.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=1099)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention
 
 Preventing and responding to fuel, fertilizer and chemical spills.
 
-**$49.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=416)
 
-8 Hours · #598
+8 Hours · #357
 
 ### Ammonia Refresher
 
 HAZWOPER refresher focused on anhydrous ammonia.
 
-**$109.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=598)
+**$89.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=598)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -46,15 +46,7 @@ Gas detection for bins, pits and manure storage.
 
 **$49.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=1056)
 
-1 Hour · #479
-
-### Spill Kit Use
-
-Choosing and using spill kits.
-
-**$24.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=479)
-
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste
 
@@ -62,7 +54,7 @@ Batteries, lamps and pesticides as universal waste.
 
 **$34.99** [Enroll](https://agriculture.hazwoperosha.us/?buy=602)
 
-[All trainings (83) →](https://agriculture.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://agriculture.hazwoperosha.us/courses/#all)
 
 ## Guides
 

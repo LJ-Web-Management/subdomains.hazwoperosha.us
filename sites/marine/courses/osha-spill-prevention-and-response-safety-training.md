@@ -1,10 +1,10 @@
 ---
 title: "OSHA Spill Prevention and Response Safety Training"
-description: "Preventing spills at fuel docks and transfers. A 2-hour online course, $49.99 per seat. Self-paced, with a certificate of completion."
+description: "Preventing spills at fuel docks and transfers. A 2-hour online course, $29.99 per seat. Self-paced, with a certificate of completion."
 url: https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training
 ---
 
-[Courses](https://marine.hazwoperosha.us/courses/) / Course #416
+[Courses](https://marine.hazwoperosha.us/courses/) / Course #542
 
 # OSHA Spill Prevention and Response Safety Training
 
@@ -31,7 +31,7 @@ Fuel dock attendants and terminal operators.
 
 ### How much does OSHA Spill Prevention and Response Safety Training cost?
 
-$49.99 per seat. To train a crew, choose the number of seats at checkout.
+$29.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Oil spill at the marina: first response and reporting](https://marine.hazwoperosha.us/guides/oil-spill-first-response-marina)
 
-$49.99 per seat
+$29.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 40 CFR 112
-- **Course**: #416
+- **Course**: #542
 
 [Enroll now](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416)
 
@@ -65,23 +65,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://marine.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=478)
-
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://marine.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=591)
-
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://marine.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://marine.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=593)
+$199.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=593)
 
-[OSHA Air Monitoring and Gas Detection Training](https://marine.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://marine.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1056)
 

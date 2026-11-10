@@ -1,10 +1,10 @@
 ---
 title: "Cal/OSHA 24-Hour HAZWOPER Training | 24·Hour·HAZWOPER"
-description: "The 24-hour initial HAZWOPER written to Cal/OSHA Title 8 section 5192 for California workers. A 24-hour online course, $169.99 per seat."
+description: "The 24-hour initial HAZWOPER written to Cal/OSHA Title 8 section 5192 for California workers. A 24-hour online course, $189.99 per seat."
 url: https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training
 ---
 
-[Courses](https://24-hour.hazwoperosha.us/courses/) / Course #576
+[Courses](https://24-hour.hazwoperosha.us/courses/) / Course #496
 
 # Cal/OSHA 24-Hour HAZWOPER Training
 
@@ -32,7 +32,7 @@ California workers with occasional or low-exposure hazardous waste site work.
 
 ### How much does Cal/OSHA 24-Hour HAZWOPER Training cost?
 
-$169.99 per seat. To train a crew, choose the number of seats at checkout.
+$189.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -54,11 +54,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [What happens on the one-day field experience](https://24-hour.hazwoperosha.us/guides/the-24-hour-field-day)
 
-$169.99 per seat
+$189.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 8 CCR 5192(e)
-- **Course**: #576
+- **Course**: #496
 
 [Enroll now](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=576)
 
@@ -66,15 +66,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=581)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=595)
+$59.99 [Enroll](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=595)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=1099)
 

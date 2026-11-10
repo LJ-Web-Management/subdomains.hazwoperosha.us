@@ -21,13 +21,12 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA 40 Hour HAZWOPER Training](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): 40 Hours, $249.99 per seat
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $179.99 per seat
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://gulf-coast.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
 - [Manufacturing Emergency Response Team (ERT) Training](https://gulf-coast.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training): 8 Hours, $149.99 per seat
-- [OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://gulf-coast.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response): 40 Hours, $249.99 per seat
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://gulf-coast.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
 
-The [full catalog of 83 trainings](https://gulf-coast.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://gulf-coast.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://gulf-coast.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://gulf-coast.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

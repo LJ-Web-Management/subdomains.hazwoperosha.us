@@ -34,7 +34,7 @@ In practice, if your project is part of a remediation or the contaminated materi
 
 ## Who needs what
 
-- **Crew in the excavation or operating equipment in impacted areas:** [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites)
+- **Crew in the excavation or operating equipment in impacted areas:** 40-hour HAZWOPER
 - **Occasional visitors and staff in monitored, low-exposure areas:** [OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training)
 - **Foremen and superintendents:** add [OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training)
 
@@ -42,11 +42,7 @@ In practice, if your project is part of a remediation or the contaminated materi
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours · Course #588 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://construction.hazwoperosha.us/guides/does-my-construction-crew-need-hazwoper?buy=588)
-
-[OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #581 · 29 CFR 1910.120(e)
+[OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours · Course #137 · 29 CFR 1910.120(e)
 
 $169.99 [Enroll](https://construction.hazwoperosha.us/guides/does-my-construction-crew-need-hazwoper?buy=581)
 

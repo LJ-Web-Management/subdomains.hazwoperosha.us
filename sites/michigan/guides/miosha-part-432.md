@@ -24,7 +24,7 @@ Part 432 follows the federal training structure: 40 or 24 hours of initial train
 
 ## Training
 
-Federal-based 40-hour and 24-hour courses cover the core. For the annual refresher, a course that addresses state-plan rules, like [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://michigan.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available), keeps records easy to defend in a MIOSHA inspection.
+Federal-based 40-hour and 24-hour courses cover the core. For the annual refresher, [OSHA 8 Hour HAZWOPER Refresher Training](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) plus a short briefing on Part 432 keeps records easy to defend in a MIOSHA inspection.
 
 **OSHA 40 Hour HAZWOPER Training** 40 Hours · $249.99 per seat
 
@@ -32,13 +32,9 @@ Federal-based 40-hour and 24-hour courses cover the core. For the annual refresh
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://michigan.hazwoperosha.us/guides/miosha-part-432?buy=587)
-
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://michigan.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://michigan.hazwoperosha.us/guides/miosha-part-432?buy=900)
 
 ---
 

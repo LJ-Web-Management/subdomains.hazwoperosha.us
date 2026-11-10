@@ -36,16 +36,6 @@ Under 29 CFR 1910.120(e)(3)(i), new general site workers need **three days** of 
 
 On a good site, stopping to ask is part of the job.
 
-## Courses
-
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://remediation.hazwoperosha.us/guides/first-week-on-a-remediation-site?buy=590)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://remediation.hazwoperosha.us/guides/first-week-on-a-remediation-site?buy=584)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

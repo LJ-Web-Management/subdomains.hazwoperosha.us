@@ -29,11 +29,11 @@ Online courses ([OSHA 40 Hour HAZWOPER Training](https://train-the-trainer.hazwo
 
 ## Courses
 
-[HAZWOPER Train-the-Trainer Certification](https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1016 · 29 CFR 1910.120(e)
+[HAZWOPER Train-the-Trainer Certification](https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1147 · 29 CFR 1910.120(e)
 
 $399.99 [Enroll](https://train-the-trainer.hazwoperosha.us/guides/running-a-hands-on-hazwoper-class?buy=1016)
 
-[OSHA 40 Hour HAZWOPER Training](https://train-the-trainer.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://train-the-trainer.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://train-the-trainer.hazwoperosha.us/guides/running-a-hands-on-hazwoper-class?buy=587)
 

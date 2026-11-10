@@ -33,16 +33,6 @@ The LSRP is hired by the responsible party to oversee the investigation and clea
 
 Petroleum from underground tanks, chlorinated solvents at old industrial sites, metals and PAHs in historic fill, and PCBs at former manufacturing sites. Each affects monitoring and PPE.
 
-**OSHA 40 Hour HAZWOPER for Environmental Remediation** 40 Hours · $249.99 per seat
-
-[Enroll](https://new-jersey.hazwoperosha.us/guides/working-on-lsrp-led-cleanups?buy=590)
-
-## Courses
-
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://new-jersey.hazwoperosha.us/guides/working-on-lsrp-led-cleanups?buy=590)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

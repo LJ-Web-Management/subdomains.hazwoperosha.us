@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Put your refresher <span>on the calendar.</span>",
     lede: "HAZWOPER certificates need renewing every 12 months. Work out your due date and drop a reminder into your calendar in one click.",
-    cta: [595, "Renew now · $89.99"],
+    cta: [595, "Renew now · $59.99"],
     alt: ["#reminder", "Set a reminder"],
   },
   coursesTitle: "Refresher courses",
@@ -23,7 +23,6 @@ export default {
     { id: 574, short: "Responder Refresher", summary: "The annual refresher for responders and incident commanders.", body: `Annual training under 1910.120(q)(8).`, topics: ["ICS review", "PPE", "Lessons learned"], who: "Responders." },
     { id: 594, short: "TSD Refresher", summary: "The annual refresher for TSD facility workers.", body: `Eight hours a year under 1910.120(p).`, topics: ["(p) review", "Incidents", "PPE"], who: "TSDF workers." },
     { id: 578, short: "Cal/OSHA Refresher", summary: "The annual refresher written to Cal/OSHA Title 8.", body: `California's 8-hour annual refresher.`, topics: ["Title 8 review", "Heat illness", "Case studies"], who: "California workers." },
-    { id: 900, short: "State-Plan Refresher", summary: "The annual refresher with state-plan versions.", body: `For workers in state-plan states.`, topics: ["Federal content", "State-plan differences"], who: "State-plan workers." },
   ],
 
   feature: (h) => `<section class="sec rem-sec" id="reminder"><div class="wrap rem-in">

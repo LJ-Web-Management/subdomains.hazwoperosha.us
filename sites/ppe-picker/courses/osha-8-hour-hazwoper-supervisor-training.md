@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Supervisor Training | PPE Picker"
-description: "Making PPE decisions as a supervisor. An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion."
+description: "Making PPE decisions as a supervisor. An 8-hour online course, $69.99 per seat. Self-paced, with a certificate of completion."
 url: https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training
 ---
 
-[Courses](https://ppe-picker.hazwoperosha.us/courses/) / Course #597
+[Courses](https://ppe-picker.hazwoperosha.us/courses/) / Course #133
 
 # OSHA 8 Hour HAZWOPER Supervisor Training
 
@@ -30,7 +30,7 @@ Supervisors.
 
 ### How much does OSHA 8 Hour HAZWOPER Supervisor Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$69.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -52,11 +52,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Upgrading and downgrading PPE on site](https://ppe-picker.hazwoperosha.us/guides/upgrading-and-downgrading-ppe)
 
-$179.99 per seat
+$69.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(4)
-- **Course**: #597
+- **Course**: #133
 
 [Enroll now](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597)
 
@@ -64,17 +64,9 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=585)
-
-[OSHA 40 Hour HAZWOPER Training](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://ppe-picker.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=587)
-
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://ppe-picker.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://ppe-picker.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=583)
 
 ---
 

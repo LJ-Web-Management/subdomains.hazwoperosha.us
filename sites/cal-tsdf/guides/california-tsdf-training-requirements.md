@@ -28,20 +28,6 @@ California's Department of Toxic Substances Control, under Title 22, requires fa
 
 The 24-hour TSDF course is not the same as the 24-hour HAZWOPER for occasional site workers. Make sure the course is written for §5192(p).
 
-**Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training** 24 Hours · $249.99 per seat
-
-[Enroll](https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements?buy=575)
-
-## Courses
-
-[Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training) 24 Hours · Course #575 · 8 CCR 5192(p) / RCRA
-
-$249.99 [Enroll](https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements?buy=575)
-
-[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://cal-tsdf.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · Course #579 · 8 CCR 5192(p)(8) / RCRA
-
-$109.99 [Enroll](https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements?buy=579)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

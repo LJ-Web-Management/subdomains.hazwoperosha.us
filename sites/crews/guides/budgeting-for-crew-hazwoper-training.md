@@ -25,7 +25,7 @@ When contractors price HAZWOPER training, they usually price the course. The big
 
 ## The yearly cost of a certified worker
 
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) at $89.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) at $59.99 per seat
 - 8 hours of paid time
 - Annual fit test and, for most, an annual medical exam
 
@@ -43,13 +43,13 @@ Budget for new hires through the year, not just the start-of-season crew.
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://crews.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://crews.hazwoperosha.us/guides/budgeting-for-crew-hazwoper-training?buy=587)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://crews.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://crews.hazwoperosha.us/guides/budgeting-for-crew-hazwoper-training?buy=595)
+$59.99 [Enroll](https://crews.hazwoperosha.us/guides/budgeting-for-crew-hazwoper-training?buy=595)
 
 ---
 

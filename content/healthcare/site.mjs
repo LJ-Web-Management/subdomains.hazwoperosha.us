@@ -171,7 +171,7 @@ Inspectors from EPA or your state agency will ask who was trained, when and on w
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>Hazardous waste training for <span>healthcare.</span></h1>
 <p class="hero-lede">Pharmacy waste, lab chemicals, lamps and batteries. Short online courses for every team that touches hazardous waste.</p>
-<div class="hero-cta">${h.buy(601, "Start generator training · $89.99")}<a class="btn btn-alt" href="/guides/who-needs-hazardous-waste-training-in-healthcare">Who needs training?</a></div>
+<div class="hero-cta">${h.buy(601, "Start generator training · $134.99")}<a class="btn btn-alt" href="/guides/who-needs-hazardous-waste-training-in-healthcare">Who needs training?</a></div>
 </div>
 </div></section>
 
@@ -183,7 +183,7 @@ Inspectors from EPA or your state agency will ask who was trained, when and on w
 
 <section class="sec sec-soft"><div class="wrap">
 <h2 class="title">Courses</h2>
-<div class="cgrid">${courses.map((c) => `<article class="cc"><span class="ic">+</span><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><p class="meta">${esc(c.duration)} · Course #${c.id}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="cc"><span class="ic">+</span><h3><a href="${c.url}">${esc(c.short)}</a></h3><p>${esc(c.summary)}</p><p class="meta">${esc(c.duration)}${c.lmsId ? ` · Course #${c.lmsId}` : ""}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

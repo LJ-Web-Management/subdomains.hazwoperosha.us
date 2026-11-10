@@ -17,7 +17,7 @@ Environmental services companies hire people with all kinds of backgrounds. The 
 | Training | Why |
 | --- | --- |
 | 40-hour HAZWOPER | Field work on customer sites and cleanups |
-| [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) | You'll be packaging, marking and loading hazmat within weeks |
+| DOT hazmat training | You'll be packaging, marking and loading hazmat within weeks |
 | [OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) | The technician skills: lab packs, consolidation, profiles |
 | Respirator fit test and medical clearance | Before respirator use |
 
@@ -45,15 +45,11 @@ Your certificates are your résumé in this industry. Keep copies on your phone 
 
 ## Courses
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://environmental-services.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/waste-technician-training-path?buy=599)
+$349.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/waste-technician-training-path?buy=599)
 
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://environmental-services.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/waste-technician-training-path?buy=403)
-
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://environmental-services.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://environmental-services.hazwoperosha.us/guides/waste-technician-training-path?buy=582)
 

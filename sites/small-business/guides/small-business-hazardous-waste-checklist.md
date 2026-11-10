@@ -45,11 +45,11 @@ See [Hazardous Waste Satellite Accumulation Area Training](https://small-busines
 
 ## Courses
 
-[Hazardous Waste Satellite Accumulation Area Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://small-business.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://small-business.hazwoperosha.us/guides/small-business-hazardous-waste-checklist?buy=415)
 
-[RCRA Universal Waste Handler Training](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://small-business.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://small-business.hazwoperosha.us/guides/small-business-hazardous-waste-checklist?buy=602)
 

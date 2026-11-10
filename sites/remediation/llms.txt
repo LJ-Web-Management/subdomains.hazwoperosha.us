@@ -6,19 +6,15 @@ Remediate (https://remediation.hazwoperosha.us/) sells online training from HAZW
 
 ## When to use this site
 
-- Use it when someone needs 40 Hr Remediation, Site Characterization, Air Monitoring, Decontamination or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Gas Detection, 8 Hr Refresher training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://remediation.hazwoperosha.us/index.md).
 
 ## Courses
 
-- [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). The 40-hour initial HAZWOPER for environmental remediation crews. Enroll: https://remediation.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation?buy=590
-- [HAZWOPER Micro-Module: Site Characterization & Hazard Assessment](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute module on how sites are evaluated before and during work. Enroll: https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-site-characterization-and-hazard-assessment?buy=586
-- [HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute module on direct-reading instruments and action levels. Enroll: https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments?buy=583
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): $14.99 per seat, 20 Min, 29 CFR 1910.120(e) / 1926.65(e). A 20-minute module on the decon line, station by station. Enroll: https://remediation.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures?buy=584
 - [OSHA Air Monitoring and Gas Detection Training](https://remediation.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Two-hour training on gas detection for excavations, vaults and treatment systems. Enroll: https://remediation.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour HAZWOPER refresher. Enroll: https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $59.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour HAZWOPER refresher. Enroll: https://remediation.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
 
 ## Guides
 
@@ -28,7 +24,7 @@ Remediate (https://remediation.hazwoperosha.us/) sells online training from HAZW
 
 ## All trainings
 
-- [All 83 trainings](https://remediation.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://remediation.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

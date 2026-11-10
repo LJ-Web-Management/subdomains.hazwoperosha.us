@@ -39,7 +39,7 @@ Inspectors find the same problems in studios as in labs: open containers, missin
 
 ## Courses
 
-[Hazardous Waste Satellite Accumulation Area Training](https://universities.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://universities.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://universities.hazwoperosha.us/guides/art-studios-hazardous-waste?buy=415)
 

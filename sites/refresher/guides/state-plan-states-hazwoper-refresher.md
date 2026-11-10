@@ -25,22 +25,14 @@ Federal OSHA doesn't cover state and local government workers, but state plans d
 ## What to do
 
 - **Federal-OSHA state, or a state plan that adopts the federal rule:** [OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) covers you.
-- **State with its own HAZWOPER rule, or crews in several states:** [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) covers the federal rule and the state equivalents.
+- **State with its own HAZWOPER rule, or crews in several states:** [OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) covers the federal rule; add a short briefing on the state's own rule.
 - **California specifically:** see our sister site [cal-osha.hazwoperosha.us](https://cal-osha.hazwoperosha.us/) for Cal/OSHA courses.
-
-**8 Hour HAZWOPER Refresher - State-Plan Versions Available** 8 Hours · $84.99 per seat
-
-[Enroll](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher?buy=900)
 
 ## Courses
 
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$84.99 [Enroll](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher?buy=900)
-
-[OSHA 8 Hour HAZWOPER Refresher Training](https://refresher.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
-
-$89.99 [Enroll](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher?buy=595)
+$59.99 [Enroll](https://refresher.hazwoperosha.us/guides/state-plan-states-hazwoper-refresher?buy=595)
 
 ---
 

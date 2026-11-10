@@ -4,7 +4,7 @@ description: "Two hours on SAA rules: location, limits, labels and closed contai
 url: https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training
 ---
 
-[Courses](https://saa-labels.hazwoperosha.us/courses/) / Course #415
+[Courses](https://saa-labels.hazwoperosha.us/courses/) / Course #901
 
 # Hazardous Waste Satellite Accumulation Area Training
 
@@ -58,7 +58,7 @@ $59.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262.15
-- **Course**: #415
+- **Course**: #901
 
 [Enroll now](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415)
 
@@ -66,17 +66,17 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=601)
+$134.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=601)
 
-[RCRA Universal Waste Handler Training](https://saa-labels.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://saa-labels.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=602)
 
-[Hazardous Waste Manifest Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=580)
+$58.99 [Enroll](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=580)
 
 ---
 

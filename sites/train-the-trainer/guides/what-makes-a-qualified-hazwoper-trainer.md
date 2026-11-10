@@ -34,7 +34,7 @@ Document each trainer's qualifications, and keep class rosters, tests and certif
 
 ## Courses
 
-[HAZWOPER Train-the-Trainer Certification](https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1016 · 29 CFR 1910.120(e)
+[HAZWOPER Train-the-Trainer Certification](https://train-the-trainer.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1147 · 29 CFR 1910.120(e)
 
 $399.99 [Enroll](https://train-the-trainer.hazwoperosha.us/guides/what-makes-a-qualified-hazwoper-trainer?buy=1016)
 

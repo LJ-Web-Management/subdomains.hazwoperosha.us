@@ -20,7 +20,7 @@ OSHA HAZWOPER and hazardous waste training for Texas crews, from Permian well pa
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -28,7 +28,7 @@ The OSHA 40-hour initial HAZWOPER for Texas hazardous waste site workers.
 
 **$249.99** [Enroll](https://texas.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -36,31 +36,23 @@ The 24-hour HAZWOPER for occasional and low-exposure site workers.
 
 **$169.99** [Enroll](https://texas.hazwoperosha.us/?buy=581)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual 8-hour HAZWOPER refresher.
 
-**$89.99** [Enroll](https://texas.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://texas.hazwoperosha.us/?buy=595)
 
-40 Hours · #591
-
-### 40 Hr Oil & Gas Spill
-
-The 40-hour HAZWOPER for oilfield spill response crews.
-
-**$249.99** [Enroll](https://texas.hazwoperosha.us/?buy=591)
-
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Hazardous waste generator training for Texas facilities.
 
-**$89.99** [Enroll](https://texas.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://texas.hazwoperosha.us/?buy=601)
 
-[All trainings (83) →](https://texas.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://texas.hazwoperosha.us/courses/#all)
 
 ## Guides
 

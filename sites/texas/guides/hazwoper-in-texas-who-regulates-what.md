@@ -35,13 +35,13 @@ Federal OSHA doesn't cover state and local government employees, and Texas has n
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://texas.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://texas.hazwoperosha.us/guides/hazwoper-in-texas-who-regulates-what?buy=587)
 
-[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://texas.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://texas.hazwoperosha.us/guides/hazwoper-in-texas-who-regulates-what?buy=601)
+$134.99 [Enroll](https://texas.hazwoperosha.us/guides/hazwoper-in-texas-who-regulates-what?buy=601)
 
 ---
 

@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Data Center Cooling System and Refrigerant Safety Training](https://dc-hvac.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety): 2 Hours, $99.99 per seat
 - [Building Envelope Fundamentals](https://dc-hvac.hazwoperosha.us/courses/building-envelope-fundamentals): 2 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://dc-hvac.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-hvac.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dc-hvac.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dc-hvac.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

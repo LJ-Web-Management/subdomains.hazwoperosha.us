@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Data Center Electrical Safety Training](https://raised-floor.hazwoperosha.us/courses/data-center-electrical-safety): 2 Hours, $99.99 per seat
 - [Data Center Physical Security and Access Control Training](https://raised-floor.hazwoperosha.us/courses/data-center-physical-security-access-control): 1 Hour, $99.99 per seat
 
-The [full catalog of 83 trainings](https://raised-floor.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://raised-floor.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://raised-floor.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://raised-floor.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

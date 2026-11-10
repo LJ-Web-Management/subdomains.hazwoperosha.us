@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Refresher Training | HAZWOPER Quiz"
-description: "Brush up every year. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "Brush up every year. An 8-hour online course, $59.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training
 ---
 
-[Courses](https://practice-quiz.hazwoperosha.us/courses/) / Course #595
+[Courses](https://practice-quiz.hazwoperosha.us/courses/) / Course #112
 
 # OSHA 8 Hour HAZWOPER Refresher Training
 
@@ -29,7 +29,7 @@ Certified workers.
 
 ### How much does OSHA 8 Hour HAZWOPER Refresher Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$59.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -51,11 +51,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [The numbers every HAZWOPER worker should know](https://practice-quiz.hazwoperosha.us/guides/numbers-every-hazwoper-worker-should-know)
 
-$89.99 per seat
+$59.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(8)
-- **Course**: #595
+- **Course**: #112
 
 [Enroll now](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595)
 
@@ -63,19 +63,11 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=587)
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://practice-quiz.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=585)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://practice-quiz.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=584)
-
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://practice-quiz.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://practice-quiz.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://practice-quiz.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=1099)
 

@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Chemical protective clothing traps heat and sweat, so crews in PPE can overheat at temperatures that feel comfortable in a T-shirt. Check today's heat index and plan for it.
 
-[PPE Levels · $12.99](https://heat-stress.hazwoperosha.us/?buy=585) [Check the heat index](https://heat-stress.hazwoperosha.us/#calc)
+[40-Hour HAZWOPER · $249.99](https://heat-stress.hazwoperosha.us/?buy=587) [Check the heat index](https://heat-stress.hazwoperosha.us/#calc)
 
 Air temperature (°F) Relative humidity (%) Crew is wearing chemical protective clothing
 
@@ -22,15 +22,7 @@ Heat index uses the National Weather Service formula and shade conditions. Full 
 
 ## Courses
 
-15 Min · #585
-
-### PPE Levels A–D
-
-The four levels of protection and their trade-offs.
-
-**$12.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=585)
-
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -38,23 +30,23 @@ Heat stress, PPE and site safety in depth.
 
 **$249.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=587)
 
-8 Hours · #597
+8 Hours · #133
 
 ### HAZWOPER Supervisor
 
 Planning work/rest and monitoring crews.
 
-**$179.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=597)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual refresher.
 
-**$89.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://heat-stress.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://heat-stress.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://heat-stress.hazwoperosha.us/courses/#all)
 
 ## Guides
 

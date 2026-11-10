@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 Every hazardous waste site is laid out in zones that keep contamination where it belongs. Click around the site plan to see how it works.
 
-[Decon module · $14.99](https://site-zones.hazwoperosha.us/?buy=584) [Explore the site](https://site-zones.hazwoperosha.us/#zones)
+[40-Hour HAZWOPER · $249.99](https://site-zones.hazwoperosha.us/?buy=587) [Explore the site](https://site-zones.hazwoperosha.us/#zones)
 
 Tap a zone
 
@@ -32,23 +32,7 @@ Wind direction
 
 ## Courses
 
-20 Min · #584
-
-### Decontamination
-
-The warm zone and decon line in 20 minutes.
-
-**$14.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=584)
-
-20 Min · #586
-
-### Site Characterization
-
-How sites are evaluated before zones are set.
-
-**$14.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=586)
-
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -56,15 +40,15 @@ Site control in depth.
 
 **$249.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=587)
 
-8 Hours · #597
+8 Hours · #133
 
 ### Supervisor
 
 Setting and enforcing zones.
 
-**$179.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=597)
+**$69.99** [Enroll](https://site-zones.hazwoperosha.us/?buy=597)
 
-[All trainings (83) →](https://site-zones.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://site-zones.hazwoperosha.us/courses/#all)
 
 ## Guides
 

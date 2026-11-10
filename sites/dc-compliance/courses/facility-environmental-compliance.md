@@ -65,17 +65,17 @@ Certificate of completion included. 100% online, self-paced.
 
 $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=851)
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=416)
+$29.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=416)
 
-[RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=602)
 
-[RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=601)
+$134.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=601)
 
 ---
 

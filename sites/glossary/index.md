@@ -61,7 +61,7 @@ PEL, IDLH, LEL, Level B, CRZ. A plain-language glossary of the terms you'll hear
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -69,31 +69,7 @@ Every term in this glossary, in depth.
 
 **$249.99** [Enroll](https://glossary.hazwoperosha.us/?buy=587)
 
-15 Min · #585
-
-### PPE Levels A–D
-
-Levels A to D in 15 minutes.
-
-**$12.99** [Enroll](https://glossary.hazwoperosha.us/?buy=585)
-
-20 Min · #583
-
-### Air Monitoring
-
-PIDs, LEL and action levels in 20 minutes.
-
-**$14.99** [Enroll](https://glossary.hazwoperosha.us/?buy=583)
-
-20 Min · #584
-
-### Decontamination
-
-Zones and decon in 20 minutes.
-
-**$14.99** [Enroll](https://glossary.hazwoperosha.us/?buy=584)
-
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -101,7 +77,7 @@ Awareness-level responder training.
 
 **$61.99** [Enroll](https://glossary.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://glossary.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://glossary.hazwoperosha.us/courses/#all)
 
 ## Guides
 

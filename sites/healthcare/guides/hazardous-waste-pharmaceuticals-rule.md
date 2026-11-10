@@ -35,15 +35,15 @@ Healthcare facilities such as hospitals, clinics, pharmacies, long-term care fac
 3. Train pharmacy, nursing and environmental services staff who handle pharmaceutical waste.
 4. Make sure nothing hazardous goes down the drain.
 
-**RCRA Hazardous Waste Generator Training** 8 Hours · $89.99 per seat
+**RCRA Hazardous Waste Generator Training** 8 Hours · $134.99 per seat
 
 [Enroll](https://healthcare.hazwoperosha.us/guides/hazardous-waste-pharmaceuticals-rule?buy=601)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://healthcare.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://healthcare.hazwoperosha.us/guides/hazardous-waste-pharmaceuticals-rule?buy=601)
+$134.99 [Enroll](https://healthcare.hazwoperosha.us/guides/hazardous-waste-pharmaceuticals-rule?buy=601)
 
 ---
 

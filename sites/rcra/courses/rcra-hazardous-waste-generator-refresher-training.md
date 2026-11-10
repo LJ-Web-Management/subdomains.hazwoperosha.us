@@ -1,10 +1,10 @@
 ---
 title: "RCRA Hazardous Waste Generator Refresher Training"
-description: "The annual RCRA review for staff who completed initial generator training. A 4-hour online course, $59.99 per seat. Enroll a whole crew in one checkout."
+description: "The annual RCRA review for staff who completed initial generator training. A 4-hour online course, $124.99 per seat. Enroll a whole crew in one checkout."
 url: https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training
 ---
 
-[Courses](https://rcra.hazwoperosha.us/courses/) / Course #600
+[Courses](https://rcra.hazwoperosha.us/courses/) / Course #181
 
 # RCRA Hazardous Waste Generator Refresher Training
 
@@ -33,7 +33,7 @@ Employees who completed RCRA generator training and need their annual review.
 
 ### How much does RCRA Hazardous Waste Generator Refresher Training cost?
 
-$59.99 per seat. To train a crew, choose the number of seats at checkout.
+$124.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -55,11 +55,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [RCRA training requirements by generator category](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category)
 
-$59.99 per seat
+$124.99 per seat
 
 - **Length**: 4 Hours
 - **Standard**: 40 CFR 262.17 (RCRA, annual)
-- **Course**: #600
+- **Course**: #181
 
 [Enroll now](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=600)
 
@@ -67,29 +67,25 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=601)
+$134.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=601)
 
-[Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=580)
+$58.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=580)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=415)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=412)
 
-[RCRA Universal Waste Handler Training](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://rcra.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=602)
-
-[EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training) 8 Hours · Course #403 · RCRA + 49 CFR 172
-
-$149.99 [Enroll](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training?buy=403)
 
 ---
 

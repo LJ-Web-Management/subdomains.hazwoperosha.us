@@ -14,8 +14,8 @@
 ## Courses
 
 - [OSHA 24 Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). The OSHA 24-hour initial HAZWOPER for occasional site workers and workers in monitored, low-exposure areas. Enroll: https://24-hour.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
-- [Cal/OSHA 24-Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 8 CCR 5192(e). The 24-hour initial HAZWOPER written to Cal/OSHA Title 8 section 5192 for California workers. Enroll: https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=576
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher that keeps a 24-hour (or 40-hour) certificate current. Enroll: https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [Cal/OSHA 24-Hour HAZWOPER Training](https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training): $189.99 per seat, 24 Hours, 8 CCR 5192(e). The 24-hour initial HAZWOPER written to Cal/OSHA Title 8 section 5192 for California workers. Enroll: https://24-hour.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training?buy=576
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $59.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). The annual 8-hour refresher that keeps a 24-hour (or 40-hour) certificate current. Enroll: https://24-hour.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). First responder awareness training for staff who may discover a release but won't work on a waste site. Enroll: https://24-hour.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 
 ## Guides
@@ -26,7 +26,7 @@
 
 ## All trainings
 
-- [All 83 trainings](https://24-hour.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://24-hour.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

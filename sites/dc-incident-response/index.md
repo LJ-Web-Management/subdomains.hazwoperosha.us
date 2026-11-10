@@ -46,7 +46,7 @@ Clean agent fire suppression safety for occupied data hall environments.
 
 **$99.99** [Enroll](https://dc-incident-response.hazwoperosha.us/?buy=854)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### First Responder Awareness
 
@@ -54,7 +54,7 @@ Recognize a hazardous release and get clear safely.
 
 **$61.99** [Enroll](https://dc-incident-response.hazwoperosha.us/?buy=1099)
 
-[All trainings (83) →](https://dc-incident-response.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-incident-response.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -37,13 +37,9 @@ Stop work in the area, keep the crew back and notify the supervisor and site saf
 
 ## Courses
 
-[OSHA Air Monitoring and Gas Detection Training](https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://demolition.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://demolition.hazwoperosha.us/guides/demolishing-old-industrial-plants?buy=1056)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://demolition.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://demolition.hazwoperosha.us/guides/demolishing-old-industrial-plants?buy=584)
 
 ---
 

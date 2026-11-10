@@ -45,15 +45,15 @@ Check the safety data sheet, ask your supplier or a waste vendor.
 
 Many states add requirements, especially for VSQGs. Call your state environmental agency's small business assistance program. It's free.
 
-**RCRA Hazardous Waste Generator Training** 8 Hours · $89.99 per seat
+**RCRA Hazardous Waste Generator Training** 8 Hours · $134.99 per seat
 
 [Enroll](https://small-business.hazwoperosha.us/guides/is-my-business-a-hazardous-waste-generator?buy=601)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://small-business.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://small-business.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://small-business.hazwoperosha.us/guides/is-my-business-a-hazardous-waste-generator?buy=601)
+$134.99 [Enroll](https://small-business.hazwoperosha.us/guides/is-my-business-a-hazardous-waste-generator?buy=601)
 
 ---
 

@@ -20,14 +20,13 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
-- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): 8 Hours, $149.99 per seat
-- [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $159.99 per seat
-- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training): 8 Hours, $99.99 per seat
-- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training): 8 Hours, $89.99 per seat
-- [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available): 8 Hours, $84.99 per seat
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): 8 Hours, $59.99 per seat
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): 8 Hours, $69.99 per seat
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $249.99 per seat
+- [OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://refresher-reminder.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training): 8 Hours, $89.99 per seat
+- [Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://refresher-reminder.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training): 8 Hours, $149.99 per seat
 
-The [full catalog of 83 trainings](https://refresher-reminder.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://refresher-reminder.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://refresher-reminder.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://refresher-reminder.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

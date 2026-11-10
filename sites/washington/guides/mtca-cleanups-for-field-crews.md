@@ -33,17 +33,9 @@ HAZWOPER applies to cleanup work at these sites. Expect:
 
 Work near water adds drowning hazards, tides and boat work to the usual HAZWOPER hazards. Life jackets, rescue plans and tide schedules belong in the HASP.
 
-**OSHA 40 Hour HAZWOPER for Environmental Remediation** 40 Hours · $249.99 per seat
-
-[Enroll](https://washington.hazwoperosha.us/guides/mtca-cleanups-for-field-crews?buy=590)
-
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://washington.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://washington.hazwoperosha.us/guides/mtca-cleanups-for-field-crews?buy=590)
-
-[OSHA Air Monitoring and Gas Detection Training](https://washington.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://washington.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://washington.hazwoperosha.us/guides/mtca-cleanups-for-field-crews?buy=1056)
 

@@ -1,10 +1,10 @@
 ---
 title: "OSHA Spill Prevention and Response Safety Training"
-description: "Preventing and responding to fluid spills in the shop. A 2-hour online course, $49.99 per seat. Self-paced, with a certificate of completion."
+description: "Preventing and responding to fluid spills in the shop. A 2-hour online course, $29.99 per seat. Self-paced, with a certificate of completion."
 url: https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training
 ---
 
-[Courses](https://auto-shops.hazwoperosha.us/courses/) / Course #416
+[Courses](https://auto-shops.hazwoperosha.us/courses/) / Course #542
 
 # OSHA Spill Prevention and Response Safety Training
 
@@ -31,7 +31,7 @@ Technicians and lube techs.
 
 ### How much does OSHA Spill Prevention and Response Safety Training cost?
 
-$49.99 per seat. To train a crew, choose the number of seats at checkout.
+$29.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Used oil at auto shops: the management standards](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops)
 
-$49.99 per seat
+$29.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 29 CFR 1910.120 / 40 CFR 112
-- **Course**: #416
+- **Course**: #542
 
 [Enroll now](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416)
 
@@ -65,23 +65,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=601)
+$134.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=601)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=415)
 
-[RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=602)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://auto-shops.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=479)
-
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=1099)
 

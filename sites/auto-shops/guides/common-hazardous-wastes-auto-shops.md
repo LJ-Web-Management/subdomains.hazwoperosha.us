@@ -37,15 +37,15 @@ Everyone who fills a waste container should know which drum gets what. [Hazardou
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/common-hazardous-wastes-auto-shops?buy=601)
+$134.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/common-hazardous-wastes-auto-shops?buy=601)
 
-[RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/common-hazardous-wastes-auto-shops?buy=602)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/common-hazardous-wastes-auto-shops?buy=415)
 

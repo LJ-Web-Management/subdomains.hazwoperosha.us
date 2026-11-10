@@ -1,6 +1,6 @@
 ---
 title: "Hazardous Waste Manifest Explained, Box by Box"
-description: "A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest, RCRA/DOT and generator training."
+description: "A box-by-box guide to the Uniform Hazardous Waste Manifest (EPA Form 8700-22) and e-Manifest, with manifest and generator training."
 url: https://manifest.hazwoperosha.us/
 ---
 
@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 The manifest follows hazardous waste from your dock to its final destination. Most mistakes come from a handful of boxes. Click through the form, then train the people who sign it.
 
-[Manifest Training · $34.99](https://manifest.hazwoperosha.us/?buy=580) [Explore the form](https://manifest.hazwoperosha.us/#form)
+[Manifest Training · $58.99](https://manifest.hazwoperosha.us/?buy=580) [Explore the form](https://manifest.hazwoperosha.us/#form)
 
 ## Hazardous waste manifest, box by box
 
@@ -52,39 +52,31 @@ Simplified for training. Follow the current EPA manifest instructions and your s
 
 ## Courses
 
-2 Hours · #580
+2 Hours · #374
 
 ### Hazardous Waste Manifest
 
 Two hours on completing, signing and tracking the manifest.
 
-**$34.99** [Enroll](https://manifest.hazwoperosha.us/?buy=580)
+**$58.99** [Enroll](https://manifest.hazwoperosha.us/?buy=580)
 
-8 Hours · #403
-
-### RCRA/DOT Combined Compliance
-
-RCRA and DOT hazmat rules together for shippers.
-
-**$149.99** [Enroll](https://manifest.hazwoperosha.us/?buy=403)
-
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator Training
 
 The full generator course.
 
-**$89.99** [Enroll](https://manifest.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://manifest.hazwoperosha.us/?buy=601)
 
-4 Hours · #600
+4 Hours · #181
 
 ### RCRA Generator Refresher
 
 The annual refresher.
 
-**$59.99** [Enroll](https://manifest.hazwoperosha.us/?buy=600)
+**$124.99** [Enroll](https://manifest.hazwoperosha.us/?buy=600)
 
-[All trainings (83) →](https://manifest.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://manifest.hazwoperosha.us/courses/#all)
 
 ## Guides
 

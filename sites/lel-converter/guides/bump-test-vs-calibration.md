@@ -27,7 +27,7 @@ Calibrate and bump again. If it still fails, take the meter out of service. See 
 
 ## Courses
 
-[OSHA Air Monitoring and Gas Detection Training](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://lel-converter.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://lel-converter.hazwoperosha.us/guides/bump-test-vs-calibration?buy=1056)
 

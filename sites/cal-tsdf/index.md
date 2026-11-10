@@ -1,6 +1,6 @@
 ---
-title: "Cal/OSHA HAZWOPER & RCRA Training for California TSDFs"
-description: "Training for California treatment, storage and disposal facility workers: Cal/OSHA 24-hour TSDF RCRA, 8-hour TSDF refresher, Cal/OSHA RCRA and Cal/OSHA…"
+title: "Cal/OSHA HAZWOPER Training for California TSDFs"
+description: "Training for California treatment, storage and disposal facility workers: Cal/OSHA 40-hour HAZWOPER and 8-hour refresher, with guides to TSDF rules."
 url: https://cal-tsdf.hazwoperosha.us/
 ---
 
@@ -10,51 +10,27 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 California runs its own HAZWOPER rule (Title 8, §5192) and its own hazardous waste program. Courses written for Cal/OSHA, for workers at treatment, storage and disposal facilities.
 
-[Cal/OSHA 24-Hr TSDF · $249.99](https://cal-tsdf.hazwoperosha.us/?buy=575) [What's required](https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements)
+[Cal/OSHA 40-Hour HAZWOPER · $229.99](https://cal-tsdf.hazwoperosha.us/?buy=577) [What's required](https://cal-tsdf.hazwoperosha.us/guides/california-tsdf-training-requirements)
 
 ## Courses
 
-24 Hours · #575
-
-### Cal/OSHA 24-Hr TSDF RCRA
-
-Initial training for California TSDF workers.
-
-**$249.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=575)
-
-8 Hours · #579
-
-### Cal/OSHA 8-Hr TSDF Refresher
-
-The annual refresher for California TSDF workers.
-
-**$109.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=579)
-
-4 Hours · #1051
-
-### Cal/OSHA RCRA Hazardous Waste
-
-Hazardous waste rules for California workers.
-
-**$49.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=1051)
-
-40 Hours · #577
+40 Hours · #351
 
 ### Cal/OSHA 40-Hour HAZWOPER
 
 The 40-hour course for California sites.
 
-**$219.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=577)
+**$229.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=577)
 
-8 Hours · #578
+8 Hours · #490
 
 ### Cal/OSHA 8-Hour Refresher
 
 The annual Cal/OSHA HAZWOPER refresher.
 
-**$89.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=578)
+**$149.99** [Enroll](https://cal-tsdf.hazwoperosha.us/?buy=578)
 
-[All trainings (83) →](https://cal-tsdf.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://cal-tsdf.hazwoperosha.us/courses/#all)
 
 ## Guides
 

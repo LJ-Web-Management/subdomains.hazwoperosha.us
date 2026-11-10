@@ -38,21 +38,21 @@ These may be shock-sensitive or reactive. Don't open or move them. Specialists h
 
 Update the inventory, re-label surviving stock and set a schedule to review shelves every year.
 
-**RCRA Hazardous Waste Generator Training** 8 Hours · $89.99 per seat
+**RCRA Hazardous Waste Generator Training** 8 Hours · $134.99 per seat
 
 [Enroll](https://lab-waste.hazwoperosha.us/guides/lab-cleanouts-and-unknown-chemicals?buy=601)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/lab-cleanouts-and-unknown-chemicals?buy=601)
+$134.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/lab-cleanouts-and-unknown-chemicals?buy=601)
 
-[Hazardous Waste Manifest Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/lab-cleanouts-and-unknown-chemicals?buy=580)
+$58.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/lab-cleanouts-and-unknown-chemicals?buy=580)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/lab-cleanouts-and-unknown-chemicals?buy=412)
 

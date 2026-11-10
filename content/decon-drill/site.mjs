@@ -22,17 +22,14 @@ export default {
   hero: {
     title: "Can you run <span>the decon line?</span>",
     lede: "Decon only works if the steps happen in the right order. Try putting a typical Level B line in sequence, then learn why each step sits where it does.",
-    cta: [584, "Decon module · $14.99"],
+    cta: [587, "40-Hour HAZWOPER · $249.99"],
     alt: ["#drill", "Start the drill"],
   },
   coursesTagline: "Decontamination and HAZWOPER courses.",
   guidesTagline: "Why decon order matters, and running a decon team.",
 
   courses: [
-    { id: 584, short: "Decontamination", summary: "Decon stations and doffing in 20 minutes.", body: `A short module on the decon line.`, topics: ["Zones", "Stations", "Doffing", "Equipment decon"], who: "All site workers." },
     { id: 587, short: "40-Hour HAZWOPER", summary: "Decon and site control in depth.", body: `The full initial course.`, topics: ["Site control", "Decon", "PPE"], who: "Site workers." },
-    { id: 585, short: "PPE Levels A–D", summary: "What you're taking off, level by level.", body: `15 minutes on PPE levels.`, topics: ["Levels A–D"], who: "Anyone." },
-    { id: 589, short: "40 Hr Fire / Hazmat", summary: "Technical and mass decon for response teams.", body: `The 40-hour for fire and hazmat teams.`, topics: ["Technical decon", "Mass decon"], who: "Hazmat teams." },
   ],
 
   feature: () => `<section class="sec drill-sec" id="drill"><div class="wrap">
@@ -76,7 +73,7 @@ window.DECON = ${JSON.stringify(STEPS)};
       title: "Why the decon order matters",
       description: "Every station in the line is placed to keep contamination moving away from the clean side.",
       date: "2026-10-25",
-      courses: [584],
+      courses: [],
       body: `Decontamination follows one principle: **move from dirtiest to cleanest, and never let a clean surface touch a dirty one.**
 
 ## Station by station
@@ -98,15 +95,14 @@ window.DECON = ${JSON.stringify(STEPS)};
 - Skipping the rinse because the line is busy
 
 Exact lines vary with the site, contaminant and PPE level. Follow your site's decon plan.
-
-{{buy:584}}`,
+`,
     },
     {
       slug: "running-a-decon-team",
       title: "Running a decon team",
       description: "The people who run decon need their own plan, PPE and rotation.",
       date: "2026-10-25",
-      courses: [584, 589],
+      courses: [],
       body: `Decon techs work in the warm zone, handling contaminated gear for hours. They need as much planning as the entry team.
 
 ## Staffing
@@ -130,8 +126,7 @@ Have a plan for an injured or collapsed entrant: rapid gross decon, cut-away sui
 ## Decon waste
 
 Rinse water, used PPE and brushes are contaminated. Contain and manage them as the site plan requires.
-
-{{buy:589}}`,
+`,
     },
   ],
 };

@@ -10,7 +10,7 @@ Course Compare
 
 The comparisons people ask about most.
 
-[2 min read **40-hour vs 24-hour vs 24-hour TSD: what's the difference?** Three initial HAZWOPER courses, three different jobs. Read guide →](https://compare.hazwoperosha.us/guides/40-hour-vs-24-hour-vs-tsdf) [2 min read **Federal, state-plan or Cal/OSHA refresher?** Three refreshers that all meet the annual requirement. Which one fits where you work. Read guide →](https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher)
+[2 min read **40-hour vs 24-hour vs 24-hour TSD: what's the difference?** Three initial HAZWOPER courses, three different jobs. Read guide →](https://compare.hazwoperosha.us/guides/40-hour-vs-24-hour-vs-tsdf) [2 min read **Federal, state-plan or Cal/OSHA refresher?** Federal and Cal/OSHA refreshers both meet the annual requirement. Which one fits where you work. Read guide →](https://compare.hazwoperosha.us/guides/federal-vs-state-plan-vs-cal-osha-refresher)
 
 ---
 

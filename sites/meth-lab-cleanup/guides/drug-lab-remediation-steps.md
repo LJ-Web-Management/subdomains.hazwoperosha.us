@@ -21,21 +21,13 @@ From the preliminary assessment to the final sampling.
 
 ## Protect the crew
 
-PPE based on the assessment and monitoring ([HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained)), and decon every time workers leave the work area ([HAZWOPER Micro-Module: Decontamination Procedures](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures)).
+PPE based on the assessment and monitoring, and decon every time workers leave the work area.
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://meth-lab-cleanup.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/guides/drug-lab-remediation-steps?buy=587)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/guides/drug-lab-remediation-steps?buy=584)
-
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://meth-lab-cleanup.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://meth-lab-cleanup.hazwoperosha.us/guides/drug-lab-remediation-steps?buy=585)
 
 ---
 

@@ -25,7 +25,7 @@ Copper Line (https://dc-hvac.hazwoperosha.us/) sells online training from HAZWOP
 
 ## All trainings
 
-- [All 83 trainings](https://dc-hvac.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-hvac.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

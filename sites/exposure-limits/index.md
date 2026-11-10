@@ -39,7 +39,7 @@ Federal OSHA general industry values (29 CFR 1910.1000 tables or substance-speci
 
 ## Courses
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -47,15 +47,7 @@ Monitoring for the chemicals in this table.
 
 **$49.99** [Enroll](https://exposure-limits.hazwoperosha.us/?buy=1056)
 
-20 Min · #583
-
-### Air Monitoring
-
-Direct-reading instruments and action levels in 20 minutes.
-
-**$14.99** [Enroll](https://exposure-limits.hazwoperosha.us/?buy=583)
-
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -63,15 +55,7 @@ Toxicology, exposure limits and controls in depth.
 
 **$249.99** [Enroll](https://exposure-limits.hazwoperosha.us/?buy=587)
 
-15 Min · #585
-
-### PPE Levels A–D
-
-What to wear when limits are exceeded.
-
-**$12.99** [Enroll](https://exposure-limits.hazwoperosha.us/?buy=585)
-
-[All trainings (83) →](https://exposure-limits.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://exposure-limits.hazwoperosha.us/courses/#all)
 
 ## Guides
 

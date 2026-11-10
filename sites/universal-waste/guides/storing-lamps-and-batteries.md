@@ -29,11 +29,11 @@ Label the container and show the start date. Train staff where the containers ar
 
 ## Courses
 
-[RCRA Universal Waste Handler Training](https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://universal-waste.hazwoperosha.us/guides/storing-lamps-and-batteries?buy=602)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://universal-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://universal-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://universal-waste.hazwoperosha.us/guides/storing-lamps-and-batteries?buy=415)
 

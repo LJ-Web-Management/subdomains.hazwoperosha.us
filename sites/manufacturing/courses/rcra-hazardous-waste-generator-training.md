@@ -1,10 +1,10 @@
 ---
 title: "RCRA Hazardous Waste Generator Training | PlantSafe"
-description: "Hazardous waste generator training for plant waste handlers. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "Hazardous waste generator training for plant waste handlers. An 8-hour online course, $134.99 per seat. Self-paced, with a certificate of completion."
 url: https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training
 ---
 
-[Courses](https://manufacturing.hazwoperosha.us/courses/) / Course #601
+[Courses](https://manufacturing.hazwoperosha.us/courses/) / Course #114
 
 # RCRA Hazardous Waste Generator Training
 
@@ -32,7 +32,7 @@ Waste handlers, EHS staff, maintenance and production leads.
 
 ### How much does RCRA Hazardous Waste Generator Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$134.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -54,11 +54,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [HAZWOPER, HazCom, RCRA or SPCC? A training map for plants](https://manufacturing.hazwoperosha.us/guides/plant-training-map)
 
-$89.99 per seat
+$134.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 40 CFR 262.17 (RCRA)
-- **Course**: #601
+- **Course**: #114
 
 [Enroll now](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601)
 
@@ -66,23 +66,23 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://manufacturing.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=702)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=1099)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://manufacturing.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=593)
+$199.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=593)
 
-[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
+$29.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://manufacturing.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=412)
 

@@ -40,7 +40,7 @@ The quiz above covers ten of the most common topics. If you can get eight or mor
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://practice-quiz.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://practice-quiz.hazwoperosha.us/guides/how-to-pass-the-hazwoper-final-exam?buy=587)
 

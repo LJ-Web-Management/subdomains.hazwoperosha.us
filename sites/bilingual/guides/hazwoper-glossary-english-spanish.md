@@ -45,11 +45,11 @@ Print it, post it in the support zone and use the same terms every day. Consiste
 
 ## Courses
 
-[OSHA 40-Hour HAZWOPER Training (Spanish)](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+[OSHA 40-Hour HAZWOPER Training (Spanish)](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #123 · 29 CFR 1910.120(e)(3)(i) - Spanish language
 
 $249.99 [Enroll](https://bilingual.hazwoperosha.us/guides/hazwoper-glossary-english-spanish?buy=1100)
 
-[OSHA 40 Hour HAZWOPER Training](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://bilingual.hazwoperosha.us/guides/hazwoper-glossary-english-spanish?buy=587)
 

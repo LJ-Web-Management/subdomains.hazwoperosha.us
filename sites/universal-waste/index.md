@@ -30,7 +30,7 @@ Score: **0** ·
 
 ## Courses
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste Handler
 
@@ -38,15 +38,15 @@ Two hours on the five categories, labels, time limits and shipping.
 
 **$34.99** [Enroll](https://universal-waste.hazwoperosha.us/?buy=602)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator Training
 
 For the wastes that aren't universal waste.
 
-**$89.99** [Enroll](https://universal-waste.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://universal-waste.hazwoperosha.us/?buy=601)
 
-2 Hours · #415
+2 Hours · #901
 
 ### Satellite Accumulation Areas
 
@@ -54,7 +54,7 @@ Collecting hazardous waste where it's made.
 
 **$59.99** [Enroll](https://universal-waste.hazwoperosha.us/?buy=415)
 
-[All trainings (83) →](https://universal-waste.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://universal-waste.hazwoperosha.us/courses/#all)
 
 ## Guides
 

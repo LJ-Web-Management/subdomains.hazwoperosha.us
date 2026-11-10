@@ -30,15 +30,15 @@ Refrigerant handling and cooling system safety practices specific to data center
 
 **$99.99** [Enroll](https://dc-compliance.hazwoperosha.us/?buy=851)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Prevention & Response
 
 Diesel fuel deliveries, day tanks and spill response.
 
-**$49.99** [Enroll](https://dc-compliance.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://dc-compliance.hazwoperosha.us/?buy=416)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste
 
@@ -46,15 +46,15 @@ Managing spent UPS batteries and lamps.
 
 **$34.99** [Enroll](https://dc-compliance.hazwoperosha.us/?buy=602)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Hazardous Waste Generator
 
 Waste determinations and generator rules.
 
-**$89.99** [Enroll](https://dc-compliance.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://dc-compliance.hazwoperosha.us/?buy=601)
 
-[All trainings (83) →](https://dc-compliance.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-compliance.hazwoperosha.us/courses/#all)
 
 ## Guides
 

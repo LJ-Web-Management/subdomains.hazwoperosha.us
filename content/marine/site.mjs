@@ -10,28 +10,18 @@ export default {
   hero: {
     title: "Keep it <em>off the water.</em>",
     lede: "Fuel docks, transfer hoses and vessel traffic make spills a constant risk on the waterfront. Spill response training for dock crews and terminal staff.",
-    cta: [478, "Booms course · $24.99"],
+    cta: [416, "Spill Prevention · $29.99"],
     alt: ["/guides/oil-spill-first-response-marina", "First response"],
   },
   coursesTagline: "Spill and response training for waterfront crews.",
   guidesTagline: "Reporting spills, deploying boom and facility response plans.",
 
   courses: [
-    { id: 478, short: "Booms",
-      summary: "Deploying absorbent and containment boom from docks and boats.",
-      body: `One hour on boom types, placement in current and tide, and anchoring.`,
-      topics: ["Boom types", "Deploying from docks and boats", "Current and tide", "Recovery"],
-      who: "Dock crews, fuel dock attendants and harbor staff." },
     { id: 416, short: "Spill Prevention",
       summary: "Preventing spills at fuel docks and transfers.",
       body: `Two hours on preventing and responding to spills during fueling and transfers.`,
       topics: ["Fueling procedures", "Transfer hoses", "Containment", "Reporting"],
       who: "Fuel dock attendants and terminal operators." },
-    { id: 591, short: "40 Hr Oil Spill",
-      summary: "The 40-hour HAZWOPER for oil spill response crews.",
-      body: `For crews whose job is cleaning up spills on water and shorelines.`,
-      topics: ["Product hazards", "Booming and skimming", "Shoreline cleanup", "Decon"],
-      who: "Spill response contractors and terminal response teams." },
     { id: 1099, short: "Awareness",
       summary: "Recognize a release, get clear and report it.",
       body: `Four hours on recognizing hazmat releases on the waterfront.`,
@@ -55,7 +45,7 @@ export default {
       title: "Oil spill at the marina: first response and reporting",
       description: "A sheen on the water needs fast action and a phone call. What dock staff should do.",
       date: "2026-10-25",
-      courses: [416, 478],
+      courses: [416],
       body: `## 1. Stop the source
 
 Shut off the fuel nozzle, close the valve or stop the pump. Most marina spills come from overfilling, vents and hose failures during fueling.
@@ -77,15 +67,14 @@ Collect used absorbents in bags or drums, label them and manage them as oily was
 - Train fuel dock staff to stay at the nozzle and watch for overflow
 - Use fuel nozzle bibs and vent overflow catchers
 - Keep a spill kit with boom at the fuel dock
-
-{{buy:478}}`,
+`,
     },
     {
       slug: "deploying-boom-from-docks-and-boats",
       title: "Deploying boom from docks and boats",
       description: "Boom holds oil only if it's placed right for the current and tide.",
       date: "2026-10-25",
-      courses: [478, 591],
+      courses: [],
       body: `## Before you deploy
 
 - Check the **current and tide**. Oil moves with the water and the wind.
@@ -111,15 +100,14 @@ Boom set straight across a fast current loses oil underneath. Angle it to steer 
 ## Safety
 
 Life jackets on everyone on the dock edge or in a boat. Watch for slippery decks and lines underfoot.
-
-{{buy:478}}`,
+`,
     },
     {
       slug: "facility-response-plans-training",
       title: "Facility response plans and spill training",
       description: "Larger oil-handling marine facilities need response plans, trained people and regular drills.",
       date: "2026-10-25",
-      courses: [591, 593],
+      courses: [593],
       body: `After the 1989 Exxon Valdez spill, the **Oil Pollution Act of 1990 (OPA 90)** required response plans for facilities and vessels that could cause significant harm with an oil spill.
 
 ## Who needs a plan
@@ -138,8 +126,8 @@ Marine transportation-related facilities are regulated by the Coast Guard. Certa
 
 | Role | Training |
 |---|---|
-| Dock and transfer staff | [[416]], [[478]] |
-| Facility response team | [[591]] |
+| Dock and transfer staff | [[416]] |
+| Facility response team | 40-hour HAZWOPER |
 | Qualified individual and managers | [[593]] |`,
     },
   ],

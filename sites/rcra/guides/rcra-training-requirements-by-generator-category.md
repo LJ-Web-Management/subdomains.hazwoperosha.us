@@ -45,18 +45,18 @@ VSQGs have no federal RCRA training requirement. Your state may add one, and you
 
 - Everyone who handles waste: [RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training), then [RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) every year
 - Satellite area users: [Hazardous Waste Satellite Accumulation Area Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training)
-- Anyone who signs manifests: [Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training), and DOT training via [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://rcra.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training)
+- Anyone who signs manifests: [Hazardous Waste Manifest Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-manifest-training), plus DOT hazmat training
 - Emergency coordinators: [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://rcra.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=601)
+$134.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=601)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://rcra.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=600)
+$124.99 [Enroll](https://rcra.hazwoperosha.us/guides/rcra-training-requirements-by-generator-category?buy=600)
 
 ---
 

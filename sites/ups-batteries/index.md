@@ -64,7 +64,7 @@ Recognize and respond to lithium-ion battery thermal runaway before it escalates
 
 **$99.99** [Enroll](https://ups-batteries.hazwoperosha.us/?buy=1021)
 
-[All trainings (83) →](https://ups-batteries.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://ups-batteries.hazwoperosha.us/courses/#all)
 
 ## Guides
 

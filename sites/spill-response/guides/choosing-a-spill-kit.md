@@ -46,16 +46,6 @@ Socks or booms to ring the spill, pads and pillows to soak it up, a drain cover,
 
 Check kits monthly, or after any use. Seals broken, items missing or gloves cracked means restock now.
 
-**Spill Response Equipment - Spill Kit Selection & Use** 1 Hour · $24.99 per seat
-
-[Enroll](https://spill-response.hazwoperosha.us/guides/choosing-a-spill-kit?buy=479)
-
-## Courses
-
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-response.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://spill-response.hazwoperosha.us/guides/choosing-a-spill-kit?buy=479)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

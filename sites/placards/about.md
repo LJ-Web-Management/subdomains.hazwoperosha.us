@@ -20,12 +20,10 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [EPA RCRA/DOT Combined Hazardous Materials Compliance Training](https://placards.hazwoperosha.us/courses/epa-rcra-dot-combined-hazardous-materials-compliance-training): 8 Hours, $149.99 per seat
-- [Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $34.99 per seat
+- [Hazardous Waste Manifest Training](https://placards.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://placards.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
-- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://placards.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): 40 Hours, $249.99 per seat
 
-The [full catalog of 83 trainings](https://placards.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://placards.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://placards.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://placards.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

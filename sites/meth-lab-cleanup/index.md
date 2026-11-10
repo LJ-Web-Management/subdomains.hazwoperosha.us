@@ -14,7 +14,7 @@ Clandestine drug labs leave toxic residues in walls, carpets, HVAC systems and p
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,39 +22,15 @@ The baseline for remediation crews.
 
 **$249.99** [Enroll](https://meth-lab-cleanup.hazwoperosha.us/?buy=587)
 
-15 Min · #585
-
-### PPE Levels A–D
-
-Choosing PPE for lab cleanups.
-
-**$12.99** [Enroll](https://meth-lab-cleanup.hazwoperosha.us/?buy=585)
-
-20 Min · #583
-
-### Air Monitoring
-
-Checking the air before entry.
-
-**$14.99** [Enroll](https://meth-lab-cleanup.hazwoperosha.us/?buy=583)
-
-20 Min · #584
-
-### Decontamination
-
-Keeping residue off you.
-
-**$14.99** [Enroll](https://meth-lab-cleanup.hazwoperosha.us/?buy=584)
-
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 Stay current each year.
 
-**$89.99** [Enroll](https://meth-lab-cleanup.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://meth-lab-cleanup.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://meth-lab-cleanup.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://meth-lab-cleanup.hazwoperosha.us/courses/#all)
 
 ## Guides
 

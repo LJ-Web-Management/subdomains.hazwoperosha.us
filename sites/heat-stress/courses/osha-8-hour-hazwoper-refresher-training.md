@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Refresher Training | Suit Heat"
-description: "The annual refresher. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "The annual refresher. An 8-hour online course, $59.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training
 ---
 
-[Courses](https://heat-stress.hazwoperosha.us/courses/) / Course #595
+[Courses](https://heat-stress.hazwoperosha.us/courses/) / Course #112
 
 # OSHA 8 Hour HAZWOPER Refresher Training
 
@@ -29,7 +29,7 @@ All previously HAZWOPER-certified workers (annual)
 
 ### How much does OSHA 8 Hour HAZWOPER Refresher Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$59.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -47,11 +47,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$89.99 per seat
+$59.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(8)
-- **Course**: #595
+- **Course**: #112
 
 [Enroll now](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595)
 
@@ -59,17 +59,13 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://heat-stress.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min · Course #585 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$12.99 [Enroll](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=585)
-
-[OSHA 40 Hour HAZWOPER Training](https://heat-stress.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://heat-stress.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=587)
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=597)
+$69.99 [Enroll](https://heat-stress.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=597)
 
 ---
 

@@ -46,7 +46,7 @@ Understand how a facility's building envelope drives cooling load and energy cos
 
 **$99.99** [Enroll](https://dc-hvac.hazwoperosha.us/?buy=1096)
 
-[All trainings (83) →](https://dc-hvac.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-hvac.hazwoperosha.us/courses/#all)
 
 ## Guides
 

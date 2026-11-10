@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 HAZWOPER and field-skills training for the people who investigate, excavate and treat contaminated sites.
 
-[Start the 40-hour · $249.99](https://remediation.hazwoperosha.us/?buy=590) [Your first week](https://remediation.hazwoperosha.us/guides/first-week-on-a-remediation-site)
+[Start with gas detection · $49.99](https://remediation.hazwoperosha.us/?buy=1056) [Your first week](https://remediation.hazwoperosha.us/guides/first-week-on-a-remediation-site)
 
 ## Every phase of the cleanup
 
@@ -21,39 +21,7 @@ HAZWOPER and field-skills training for the people who investigate, excavate and 
 
 ## Courses
 
-40 Hours · #590
-
-### 40 Hr Remediation
-
-The 40-hour initial HAZWOPER for environmental remediation crews.
-
-**$249.99** [Enroll](https://remediation.hazwoperosha.us/?buy=590)
-
-20 Min · #586
-
-### Site Characterization
-
-A 20-minute module on how sites are evaluated before and during work.
-
-**$14.99** [Enroll](https://remediation.hazwoperosha.us/?buy=586)
-
-20 Min · #583
-
-### Air Monitoring
-
-A 20-minute module on direct-reading instruments and action levels.
-
-**$14.99** [Enroll](https://remediation.hazwoperosha.us/?buy=583)
-
-20 Min · #584
-
-### Decontamination
-
-A 20-minute module on the decon line, station by station.
-
-**$14.99** [Enroll](https://remediation.hazwoperosha.us/?buy=584)
-
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -61,13 +29,13 @@ Two-hour training on gas detection for excavations, vaults and treatment systems
 
 **$49.99** [Enroll](https://remediation.hazwoperosha.us/?buy=1056)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8 Hr Refresher
 
 The annual 8-hour HAZWOPER refresher.
 
-**$89.99** [Enroll](https://remediation.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://remediation.hazwoperosha.us/?buy=595)
 
 ## Field notes
 

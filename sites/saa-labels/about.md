@@ -21,11 +21,11 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [Hazardous Waste Satellite Accumulation Area Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training): 2 Hours, $59.99 per seat
-- [RCRA Hazardous Waste Generator Training](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $89.99 per seat
+- [RCRA Hazardous Waste Generator Training](https://saa-labels.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
 - [RCRA Universal Waste Handler Training](https://saa-labels.hazwoperosha.us/courses/rcra-universal-waste-handler-training): 2 Hours, $34.99 per seat
-- [Hazardous Waste Manifest Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $34.99 per seat
+- [Hazardous Waste Manifest Training](https://saa-labels.hazwoperosha.us/courses/hazardous-waste-manifest-training): 2 Hours, $58.99 per seat
 
-The [full catalog of 83 trainings](https://saa-labels.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://saa-labels.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://saa-labels.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://saa-labels.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

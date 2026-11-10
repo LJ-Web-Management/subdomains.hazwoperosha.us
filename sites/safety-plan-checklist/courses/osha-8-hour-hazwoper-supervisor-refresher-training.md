@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Supervisor Refresher Training"
-description: "Annual refresher for plan owners. An 8-hour online course, $149.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
+description: "Annual refresher for plan owners. An 8-hour online course, $69.99 per seat. Self-paced, with a certificate of completion. Enroll a whole crew in one checkout."
 url: https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training
 ---
 
-[Courses](https://safety-plan-checklist.hazwoperosha.us/courses/) / Course #596
+[Courses](https://safety-plan-checklist.hazwoperosha.us/courses/) / Course #134
 
 # OSHA 8 Hour HAZWOPER Supervisor Refresher Training
 
@@ -29,7 +29,7 @@ Supervisors.
 
 ### How much does OSHA 8 Hour HAZWOPER Supervisor Refresher Training cost?
 
-$149.99 per seat. To train a crew, choose the number of seats at checkout.
+$69.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -51,11 +51,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Inspecting and updating the site safety plan](https://safety-plan-checklist.hazwoperosha.us/guides/hasp-inspections-and-updates)
 
-$149.99 per seat
+$69.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(4)/(e)(8)
-- **Course**: #596
+- **Course**: #134
 
 [Enroll now](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596)
 
@@ -63,15 +63,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #597 · 29 CFR 1910.120(e)(4)
+[OSHA 8 Hour HAZWOPER Supervisor Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours · Course #133 · 29 CFR 1910.120(e)(4)
 
-$179.99 [Enroll](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=597)
+$69.99 [Enroll](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=597)
 
-[HAZWOPER Train-the-Trainer Certification](https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1016 · 29 CFR 1910.120(e)
+[HAZWOPER Train-the-Trainer Certification](https://safety-plan-checklist.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification) 24 Hours · Course #1147 · 29 CFR 1910.120(e)
 
 $399.99 [Enroll](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=1016)
 
-[OSHA 40 Hour HAZWOPER Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://safety-plan-checklist.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://safety-plan-checklist.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=587)
 

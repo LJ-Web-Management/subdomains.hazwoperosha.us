@@ -14,7 +14,7 @@ Host employers ask for HAZWOPER-trained temps, and both of you share responsibil
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,7 +22,7 @@ For temps placed on cleanup sites.
 
 **$249.99** [Enroll](https://staffing-agencies.hazwoperosha.us/?buy=587)
 
-24 Hours · #581
+24 Hours · #137
 
 ### 24-Hour HAZWOPER
 
@@ -30,15 +30,15 @@ For occasional and limited-exposure placements.
 
 **$169.99** [Enroll](https://staffing-agencies.hazwoperosha.us/?buy=581)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 Keep your bench current.
 
-**$89.99** [Enroll](https://staffing-agencies.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://staffing-agencies.hazwoperosha.us/?buy=595)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### First Responder Awareness
 
@@ -46,7 +46,7 @@ For warehouse and plant placements.
 
 **$61.99** [Enroll](https://staffing-agencies.hazwoperosha.us/?buy=1099)
 
-24 Hours · #582
+24 Hours · #135
 
 ### 24-Hr TSD Operations
 
@@ -54,7 +54,7 @@ For placements at treatment and disposal facilities.
 
 **$229.99** [Enroll](https://staffing-agencies.hazwoperosha.us/?buy=582)
 
-[All trainings (83) →](https://staffing-agencies.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://staffing-agencies.hazwoperosha.us/courses/#all)
 
 ## Guides
 

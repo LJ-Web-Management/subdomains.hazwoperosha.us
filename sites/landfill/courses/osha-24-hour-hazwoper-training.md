@@ -4,7 +4,7 @@ description: "The 24-hour HAZWOPER for staff who handle hazardous waste found in
 url: https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training
 ---
 
-[Courses](https://landfill.hazwoperosha.us/courses/) / Course #581
+[Courses](https://landfill.hazwoperosha.us/courses/) / Course #137
 
 # OSHA 24 Hour HAZWOPER Training
 
@@ -58,7 +58,7 @@ $169.99 per seat
 
 - **Length**: 24 Hours
 - **Standard**: 29 CFR 1910.120(e)
-- **Course**: #581
+- **Course**: #137
 
 [Enroll now](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581)
 
@@ -66,25 +66,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://landfill.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://landfill.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=1099)
 
-[OSHA Air Monitoring and Gas Detection Training](https://landfill.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://landfill.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=1056)
 
-[OSHA 40 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://landfill.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=587)
 
-[OSHA Spill Prevention and Response Safety Training](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://landfill.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=416)
-
-[HAZWOPER Micro-Module: Decontamination Procedures](https://landfill.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures) 20 Min · Course #584 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=584)
+$29.99 [Enroll](https://landfill.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=416)
 
 ---
 

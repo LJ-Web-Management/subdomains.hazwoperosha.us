@@ -38,17 +38,17 @@ Bring your initial certificate, every refresher, any supervisor certificate, you
 
 ## Courses
 
-[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #578 · 8 CCR 5192(e)(8)
+[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #490 · 8 CCR 5192(e)(8)
 
-$89.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper?buy=578)
+$149.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper?buy=578)
 
-[Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training) 40 Hours · Course #577 · 8 CCR 5192(e)
+[Cal/OSHA 40-Hour HAZWOPER Training (2026)](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training) 40 Hours · Course #351 · 8 CCR 5192(e)
 
-$219.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper?buy=577)
+$229.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper?buy=577)
 
-[Cal/OSHA 24-Hour HAZWOPER Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #576 · 8 CCR 5192(e)
+[Cal/OSHA 24-Hour HAZWOPER Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #496 · 8 CCR 5192(e)
 
-$169.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper?buy=576)
+$189.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper?buy=576)
 
 ---
 

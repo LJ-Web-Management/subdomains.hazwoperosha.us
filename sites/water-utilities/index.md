@@ -14,7 +14,7 @@ Chlorine, ammonia, H2S and confined spaces are part of the job at water and wast
 
 ## Courses
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -22,7 +22,7 @@ Recognize a chemical release at the plant, get clear and call it in.
 
 **$61.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=1099)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -30,15 +30,15 @@ Monitoring for H2S, low oxygen, methane and chlorine.
 
 **$49.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=1056)
 
-8 Hours · #593
+8 Hours · #259
 
 ### Incident Command
 
 Incident command for plant supervisors.
 
-**$179.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=593)
+**$199.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=593)
 
-8 Hours · #702
+8 Hours · #970
 
 ### Plant ERT
 
@@ -46,23 +46,23 @@ Training for in-plant response teams.
 
 **$149.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=702)
 
-8 Hours · #574
+8 Hours · #382
 
 ### Responder Refresher
 
 Annual refresher for responders and commanders.
 
-**$159.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=574)
 
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Response
 
 Chemical and fuel spill prevention and response.
 
-**$49.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://water-utilities.hazwoperosha.us/?buy=416)
 
-[All trainings (83) →](https://water-utilities.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://water-utilities.hazwoperosha.us/courses/#all)
 
 ## Guides
 

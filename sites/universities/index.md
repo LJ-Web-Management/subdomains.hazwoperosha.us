@@ -14,7 +14,7 @@ Hazardous waste on campus isn't only in the chemistry building. Training for lab
 
 ## Course catalog
 
-2 Hours · #415
+2 Hours · #901
 
 ### Satellite Accumulation
 
@@ -22,23 +22,23 @@ Satellite accumulation rules for labs, studios and shops across campus.
 
 **$59.99** [Enroll](https://universities.hazwoperosha.us/?buy=415)
 
-8 Hours · #601
+8 Hours · #114
 
 ### RCRA Generator
 
 Generator training for campus EHS and waste staff.
 
-**$89.99** [Enroll](https://universities.hazwoperosha.us/?buy=601)
+**$134.99** [Enroll](https://universities.hazwoperosha.us/?buy=601)
 
-4 Hours · #600
+4 Hours · #181
 
 ### Generator Refresher
 
 The annual RCRA refresher.
 
-**$59.99** [Enroll](https://universities.hazwoperosha.us/?buy=600)
+**$124.99** [Enroll](https://universities.hazwoperosha.us/?buy=600)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste
 
@@ -46,7 +46,7 @@ Batteries, lamps and mercury devices from across campus.
 
 **$34.99** [Enroll](https://universities.hazwoperosha.us/?buy=602)
 
-4 Hours · #1099
+4 Hours · #654
 
 ### Awareness
 
@@ -54,7 +54,7 @@ Recognize a spill, get clear and call it in.
 
 **$61.99** [Enroll](https://universities.hazwoperosha.us/?buy=1099)
 
-4 Hours · #412
+4 Hours · #899
 
 ### Contingency Plan
 
@@ -62,7 +62,7 @@ Contingency planning for large quantity generator campuses.
 
 **$99.99** [Enroll](https://universities.hazwoperosha.us/?buy=412)
 
-[All trainings (83) →](https://universities.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://universities.hazwoperosha.us/courses/#all)
 
 ## Guides
 

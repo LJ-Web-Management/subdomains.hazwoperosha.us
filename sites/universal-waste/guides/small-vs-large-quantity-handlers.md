@@ -33,7 +33,7 @@ Many states add their own categories, such as electronics, so check your state.
 
 ## Courses
 
-[RCRA Universal Waste Handler Training](https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://universal-waste.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://universal-waste.hazwoperosha.us/guides/small-vs-large-quantity-handlers?buy=602)
 

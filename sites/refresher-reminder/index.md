@@ -10,7 +10,7 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 HAZWOPER certificates need renewing every 12 months. Work out your due date and drop a reminder into your calendar in one click.
 
-[Renew now · $89.99](https://refresher-reminder.hazwoperosha.us/?buy=595) [Set a reminder](https://refresher-reminder.hazwoperosha.us/#reminder)
+[Renew now · $59.99](https://refresher-reminder.hazwoperosha.us/?buy=595) [Set a reminder](https://refresher-reminder.hazwoperosha.us/#reminder)
 
 Your name (optional) Date on your last HAZWOPER certificate Which refresher? Remind me
 
@@ -24,55 +24,47 @@ Google Calendar
 
 ## Refresher courses
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The standard annual HAZWOPER refresher.
 
-**$89.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=595)
 
-8 Hours · #596
+8 Hours · #134
 
 ### Supervisor Refresher
 
 The annual refresher for HAZWOPER supervisors.
 
-**$149.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=596)
+**$69.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=596)
 
-8 Hours · #574
+8 Hours · #382
 
 ### Responder Refresher
 
 The annual refresher for responders and incident commanders.
 
-**$159.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=574)
+**$249.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=574)
 
-8 Hours · #594
+8 Hours · #138
 
 ### TSD Refresher
 
 The annual refresher for TSD facility workers.
 
-**$99.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=594)
+**$89.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=594)
 
-8 Hours · #578
+8 Hours · #490
 
 ### Cal/OSHA Refresher
 
 The annual refresher written to Cal/OSHA Title 8.
 
-**$89.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=578)
+**$149.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=578)
 
-8 Hours · #900
-
-### State-Plan Refresher
-
-The annual refresher with state-plan versions.
-
-**$84.99** [Enroll](https://refresher-reminder.hazwoperosha.us/?buy=900)
-
-[All trainings (83) →](https://refresher-reminder.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://refresher-reminder.hazwoperosha.us/courses/#all)
 
 ## Guides
 

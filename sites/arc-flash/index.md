@@ -62,7 +62,7 @@ Master data center electrical infrastructure — from utility interconnection to
 
 **$303.99** [Enroll](https://arc-flash.hazwoperosha.us/?buy=847)
 
-[All trainings (83) →](https://arc-flash.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://arc-flash.hazwoperosha.us/courses/#all)
 
 ## Guides
 

@@ -13,9 +13,9 @@ The Site Supervisor (https://supervisor.hazwoperosha.us/) sells online training 
 
 ## Courses
 
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8 additional hours of specialized training that HAZWOPER supervisors need under 1910.120(e)(4). Enroll: https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $179.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command training for HAZWOPER emergency response under 29 CFR 1910.120(q). Enroll: https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
-- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): $149.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4)/(e)(8). The annual 8-hour refresher for HAZWOPER supervisors. Enroll: https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): $69.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4). The 8 additional hours of specialized training that HAZWOPER supervisors need under 1910.120(e)(4). Enroll: https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): $199.99 per seat, 8 Hours, 29 CFR 1910.120(q). Incident command training for HAZWOPER emergency response under 29 CFR 1910.120(q). Enroll: https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training?buy=593
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): $69.99 per seat, 8 Hours, 29 CFR 1910.120(e)(4)/(e)(8). The annual 8-hour refresher for HAZWOPER supervisors. Enroll: https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training?buy=596
 - [HAZWOPER Train-the-Trainer Certification](https://supervisor.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): $399.99 per seat, 24 Hours, 29 CFR 1910.120(e). Become a qualified in-house HAZWOPER trainer for your organization. Enroll: https://supervisor.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification?buy=1016
 
 ## Guides
@@ -26,7 +26,7 @@ The Site Supervisor (https://supervisor.hazwoperosha.us/) sells online training 
 
 ## All trainings
 
-- [All 83 trainings](https://supervisor.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://supervisor.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

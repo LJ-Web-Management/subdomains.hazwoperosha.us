@@ -4,7 +4,7 @@ description: "Recognize a release, get clear and report it. A 4-hour online cour
 url: https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training
 ---
 
-[Courses](https://marine.hazwoperosha.us/courses/) / Course #1099
+[Courses](https://marine.hazwoperosha.us/courses/) / Course #654
 
 # OSHA 4-Hour HAZWOPER First Responder Awareness Level Training
 
@@ -52,7 +52,7 @@ $61.99 per seat
 
 - **Length**: 4 Hours
 - **Standard**: 29 CFR 1910.120(q)(6)(i)
-- **Course**: #1099
+- **Course**: #654
 
 [Enroll now](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099)
 
@@ -60,23 +60,15 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Spill Response Equipment - Absorbent & Containment Booms](https://marine.hazwoperosha.us/courses/spill-response-equipment-absorbent-and-containment-booms) 1 Hour · Course #478 · 40 CFR 112 / 29 CFR 1910.120
+[OSHA Spill Prevention and Response Safety Training](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$24.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=478)
+$29.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=416)
 
-[OSHA Spill Prevention and Response Safety Training](https://marine.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://marine.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$49.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=416)
+$199.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=593)
 
-[OSHA 40 Hour HAZWOPER for Oil & Gas Spill Response](https://marine.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-oil-and-gas-spill-response) 40 Hours · Course #591 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=591)
-
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://marine.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
-
-$179.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=593)
-
-[OSHA Air Monitoring and Gas Detection Training](https://marine.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://marine.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://marine.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1056)
 

@@ -4,7 +4,7 @@ description: "Rules for waste collected at the point of generation. A 2-hour onl
 url: https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training
 ---
 
-[Courses](https://generator-status.hazwoperosha.us/courses/) / Course #415
+[Courses](https://generator-status.hazwoperosha.us/courses/) / Course #901
 
 # Hazardous Waste Satellite Accumulation Area Training
 
@@ -52,7 +52,7 @@ $59.99 per seat
 
 - **Length**: 2 Hours
 - **Standard**: 40 CFR 262.15
-- **Course**: #415
+- **Course**: #901
 
 [Enroll now](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=415)
 
@@ -60,21 +60,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[RCRA Hazardous Waste Generator Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=601)
+$134.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=601)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=600)
+$124.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=600)
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=412)
 
-[Hazardous Waste Manifest Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #580 · 40 CFR 262 Subpart B (RCRA)
+[Hazardous Waste Manifest Training](https://generator-status.hazwoperosha.us/courses/hazardous-waste-manifest-training) 2 Hours · Course #374 · 40 CFR 262 Subpart B (RCRA)
 
-$34.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=580)
+$58.99 [Enroll](https://generator-status.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training?buy=580)
 
 ---
 

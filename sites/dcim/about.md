@@ -25,7 +25,7 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 - [Data Center Operations Management](https://dcim.hazwoperosha.us/courses/data-center-operations-management): 8 Hours, $325.99 per seat
 - [Capacity Planning & Forecasting](https://dcim.hazwoperosha.us/courses/capacity-planning-forecasting): 4 Hours, $99.99 per seat
 
-The [full catalog of 83 trainings](https://dcim.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dcim.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://dcim.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://dcim.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

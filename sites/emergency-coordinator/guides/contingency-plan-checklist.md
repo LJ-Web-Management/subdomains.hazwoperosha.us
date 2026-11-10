@@ -34,13 +34,13 @@ See [RCRA Hazardous Waste Generator Training](https://emergency-coordinator.hazw
 
 ## Courses
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://emergency-coordinator.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://emergency-coordinator.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://emergency-coordinator.hazwoperosha.us/guides/contingency-plan-checklist?buy=412)
 
-[RCRA Hazardous Waste Generator Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://emergency-coordinator.hazwoperosha.us/guides/contingency-plan-checklist?buy=601)
+$134.99 [Enroll](https://emergency-coordinator.hazwoperosha.us/guides/contingency-plan-checklist?buy=601)
 
 ---
 

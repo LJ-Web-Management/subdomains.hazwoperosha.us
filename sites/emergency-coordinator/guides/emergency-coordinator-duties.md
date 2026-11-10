@@ -34,7 +34,7 @@ Every large quantity generator must have an **emergency coordinator** on site or
 
 ## Courses
 
-[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://emergency-coordinator.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #412 · 40 CFR Parts 262 and 264/265
+[Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://emergency-coordinator.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training) 4 Hours · Course #899 · 40 CFR Parts 262 and 264/265
 
 $99.99 [Enroll](https://emergency-coordinator.hazwoperosha.us/guides/emergency-coordinator-duties?buy=412)
 

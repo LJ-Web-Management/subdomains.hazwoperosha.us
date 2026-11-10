@@ -24,17 +24,15 @@ export default {
   hero: {
     title: "Read the <span>diamond.</span>",
     lede: "Placards tell drivers, workers and responders what's inside at a glance. Tap a class to learn what it means, then train on shipping and handling hazmat.",
-    cta: [403, "RCRA/DOT Compliance · $149.99"],
+    cta: [580, "Hazardous Waste Manifest · $58.99"],
     alt: ["#classes", "Explore the classes"],
   },
   coursesTagline: "Shipping, manifest and response training.",
   guidesTagline: "Placarding rules and the Emergency Response Guidebook.",
 
   courses: [
-    { id: 403, short: "RCRA/DOT Combined Compliance", summary: "Hazmat shipping and hazardous waste rules together.", body: "Eight hours on DOT hazardous materials and RCRA hazardous waste rules for shippers: classification, packaging, marking, labeling, placarding and shipping papers.", topics: ["Hazard classes", "Marking and labeling", "Placarding", "Shipping papers and manifests"] },
     { id: 580, short: "Hazardous Waste Manifest", summary: "The shipping paper for hazardous waste.", body: "Two hours on the hazardous waste manifest, the shipping paper for hazardous waste.", topics: ["Manifest boxes", "DOT descriptions", "Signatures"] },
     { id: 1099, short: "First Responder Awareness", summary: "Recognize, isolate, notify: using placards and the ERG.", body: "Four hours of first responder awareness training: recognizing hazardous materials releases, using placards and the ERG, isolating the area and notifying.", topics: ["Recognizing hazmat", "Placards and the ERG", "Isolate and deny entry", "Notification"] },
-    { id: 589, short: "40-Hour Fire/Hazmat Teams", summary: "Full HAZWOPER for hazmat response teams.", body: "The 40-hour HAZWOPER course built for fire service and hazmat response teams.", topics: ["Hazmat response operations", "PPE and decontamination", "Incident command"] },
   ],
 
   feature: (h) => `<section class="sec pc-sec" id="classes"><div class="wrap pc-in">
@@ -55,7 +53,7 @@ window.PC = ${JSON.stringify(CLASSES.map((c) => [c[0], c[1], c[4]])).replace(/</
       title: "Using the Emergency Response Guidebook (ERG)",
       description: "From placard to protective actions in under a minute.",
       date: "2026-10-25",
-      courses: [1099, 403],
+      courses: [1099],
       body: `The **Emergency Response Guidebook** helps first responders make quick decisions in the first minutes of a hazmat incident.
 
 ## Find the guide
@@ -85,7 +83,7 @@ Approach from upwind and uphill, and use binoculars to read placards from a dist
       title: "When is a placard required?",
       description: "The basics of placarding hazardous waste and hazmat shipments.",
       date: "2026-10-25",
-      courses: [403, 580],
+      courses: [580],
       body: `Placarding rules are in 49 CFR 172 Subpart F. In general:
 
 ## Table 1 materials: placard any quantity
@@ -102,7 +100,7 @@ Most other classes need placards when the total aggregate gross weight of all Ta
 - Bulk packages have their own rules, often with the UN number displayed
 - The "DANGEROUS" placard can be used in some mixed loads
 
-Shippers must offer the right placards to the carrier unless the vehicle already has them. See [[403]] for training.`,
+Shippers must offer the right placards to the carrier unless the vehicle already has them. Anyone who does this needs DOT hazmat training.`,
     },
   ],
 };

@@ -1,6 +1,6 @@
 ---
 title: "HAZWOPER for Construction Workers | 29 CFR 1926.65 Online"
-description: "HAZWOPER training for construction crews on brownfields, landfills and contaminated excavations: 40-hour construction track, 24-hour, supervisor and PPE…"
+description: "HAZWOPER training for construction crews on brownfields, landfills and contaminated excavations: 24-hour, supervisor and refresher courses under 29 CFR 1926.65."
 url: https://construction.hazwoperosha.us/
 ---
 
@@ -10,21 +10,17 @@ Questions? Call [(866) 429-6742](tel:+18664296742)
 
 HAZWOPER for construction crews on brownfields, landfills and impacted excavations. Online, self-paced, with certificates the environmental contractor will accept.
 
-[Enroll · 40 HR Construction](https://construction.hazwoperosha.us/?buy=588) [Does my crew need it?](https://construction.hazwoperosha.us/guides/does-my-construction-crew-need-hazwoper)
+[Enroll · 24 HR HAZWOPER](https://construction.hazwoperosha.us/?buy=581) [Does my crew need it?](https://construction.hazwoperosha.us/guides/does-my-construction-crew-need-hazwoper)
 
 SCHEDULE OF COURSES
 
 ID COURSE LENGTH PRICE
 
-#588 [OSHA 40 Hour HAZWOPER for Construction (Contaminated Sites)](https://construction.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-construction-contaminated-sites) 40 Hours **$249.99** [Enroll](https://construction.hazwoperosha.us/?buy=588)
+#137 [OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours **$169.99** [Enroll](https://construction.hazwoperosha.us/?buy=581)
 
-#581 [OSHA 24 Hour HAZWOPER Training](https://construction.hazwoperosha.us/courses/osha-24-hour-hazwoper-training) 24 Hours **$169.99** [Enroll](https://construction.hazwoperosha.us/?buy=581)
+#133 [OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours **$69.99** [Enroll](https://construction.hazwoperosha.us/?buy=597)
 
-#597 [OSHA 8 Hour HAZWOPER Supervisor Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training) 8 Hours **$179.99** [Enroll](https://construction.hazwoperosha.us/?buy=597)
-
-#595 [OSHA 8 Hour HAZWOPER Refresher Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours **$89.99** [Enroll](https://construction.hazwoperosha.us/?buy=595)
-
-#585 [HAZWOPER Micro-Module: PPE Levels A, B, C & D Explained](https://construction.hazwoperosha.us/courses/hazwoper-micro-module-ppe-levels-a-b-c-and-d-explained) 15 Min **$12.99** [Enroll](https://construction.hazwoperosha.us/?buy=585)
+#112 [OSHA 8 Hour HAZWOPER Refresher Training](https://construction.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours **$59.99** [Enroll](https://construction.hazwoperosha.us/?buy=595)
 
 GENERAL NOTES
 

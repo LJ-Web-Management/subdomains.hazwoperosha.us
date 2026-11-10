@@ -52,13 +52,6 @@ export default {
       topics: ["The five universal waste categories", "Small vs large quantity handlers", "Labeling and accumulation time", "Broken lamps and leaking batteries", "Shipping to destination facilities", "Employee information requirements"],
       who: "Facilities, maintenance, retail and warehouse staff who collect batteries, lamps, aerosol cans and similar items.",
     },
-    {
-      id: 403, short: "RCRA/DOT Combined",
-      summary: "One course for generator staff who also prepare hazardous materials shipments under DOT.",
-      body: `Hazardous waste shipments are also DOT hazardous materials shipments. Anyone who classifies, packages, marks or signs for them is a DOT hazmat employee and needs training under 49 CFR 172.704 at least every three years. This eight-hour course combines RCRA generator training with DOT hazmat employee training.`,
-      topics: ["RCRA generator requirements", "DOT hazmat classification", "Packaging, marking and labeling", "Shipping papers and the manifest", "Security awareness", "Function-specific training records"],
-      who: "Shipping staff and EHS personnel who prepare hazardous waste and hazmat shipments.",
-    },
   ],
 
   guides: [
@@ -103,7 +96,7 @@ VSQGs have no federal RCRA training requirement. Your state may add one, and you
 
 - Everyone who handles waste: [[601]], then [[600]] every year
 - Satellite area users: [[415]]
-- Anyone who signs manifests: [[580]], and DOT training via [[403]]
+- Anyone who signs manifests: [[580]], plus DOT hazmat training
 - Emergency coordinators: [[412]]`,
     },
     {
@@ -144,7 +137,7 @@ If you go over the limit, mark the container with the date the excess began. You
       title: "What you're certifying when you sign a hazardous waste manifest",
       description: "The generator signature on the manifest is a legal certification. Here's what it means and how to protect it.",
       date: "2026-10-25",
-      courses: [580, 403],
+      courses: [580],
       body: `The Uniform Hazardous Waste Manifest (EPA Form 8700-22) follows your waste from your dock to its final destination. The signature in the generator box is a legal certification that carries your name, and it's often signed in a hurry.
 
 ## The certification
@@ -155,7 +148,7 @@ You're also certifying your waste minimization statement. In plain words: you ch
 
 ## You're also a DOT hazmat employee
 
-Signing a manifest is preparing a hazardous materials shipping paper. Under 49 CFR 172.704, anyone who does that needs DOT hazmat employee training within 90 days of starting the job and at least every three years after. Many manifest signers have RCRA training but no DOT training. [[403]] covers both.
+Signing a manifest is preparing a hazardous materials shipping paper. Under 49 CFR 172.704, anyone who does that needs DOT hazmat employee training within 90 days of starting the job and at least every three years after. Many manifest signers have RCRA training but no DOT training. Make sure they have both.
 
 ## e-Manifest
 
@@ -199,7 +192,7 @@ Since 2018, manifests are tracked in EPA's e-Manifest system. Receiving faciliti
       ship: { label: "Shipping & manifests", note: "Manifest signers prepare hazmat shipping papers and need DOT training under 49 CFR 172.704 every 3 years.", ids: [403, 580] },
       uw: { label: "Universal waste handler", note: "40 CFR 273: inform or train employees on proper handling and emergency procedures.", ids: [602] },
     };
-    const planRows = (ids) => ids.map((id) => { const c = course(id); return `<li><span><a href="${c.url}">${esc(c.name)}</a><small>${esc(c.duration)} · Course #${c.id}</small></span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</li>`; }).join("");
+    const planRows = (ids) => ids.map((id) => { const c = course(id); return `<li><span><a href="${c.url}">${esc(c.name)}</a><small>${esc(c.duration)}${c.lmsId ? ` · Course #${c.lmsId}` : ""}</small></span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</li>`; }).join("");
     return `<section class="hero"><div class="wrap hero-in">
 <div>
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>

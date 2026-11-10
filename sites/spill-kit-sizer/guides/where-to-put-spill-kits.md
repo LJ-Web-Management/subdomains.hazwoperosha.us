@@ -34,19 +34,11 @@ Label kits clearly, mount signs above them and keep them free of pallets and clu
 
 A battery room needs acid neutralizer. A fuel island needs oil-only absorbents. Use the sizer above for each area.
 
-**Spill Response Equipment - Spill Kit Selection & Use** 1 Hour · $24.99 per seat
-
-[Enroll](https://spill-kit-sizer.hazwoperosha.us/guides/where-to-put-spill-kits?buy=479)
-
 ## Courses
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
+[OSHA Spill Prevention and Response Safety Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$24.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/guides/where-to-put-spill-kits?buy=479)
-
-[OSHA Spill Prevention and Response Safety Training](https://spill-kit-sizer.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
-
-$49.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/guides/where-to-put-spill-kits?buy=416)
+$29.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/guides/where-to-put-spill-kits?buy=416)
 
 ---
 

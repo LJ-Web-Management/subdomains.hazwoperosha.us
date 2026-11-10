@@ -52,7 +52,7 @@ export function md(text, h) {
 }
 
 export function courseRow(c, h) {
-  return `<div class="course-row"><div class="course-row-info"><a class="course-row-name" href="${c.url}">${esc(c.name)}</a><span class="course-row-meta">${esc(c.duration)} · ${h.L.course} #${c.id} · ${esc(c.citation)}</span></div><span class="course-row-price">${money(c.price)}</span>${h.buy(c.id, h.L.enroll, "btn btn-sm")}</div>`;
+  return `<div class="course-row"><div class="course-row-info"><a class="course-row-name" href="${c.url}">${esc(c.name)}</a><span class="course-row-meta">${esc(c.duration)}${c.lmsId ? ` · ${h.L.course} #${c.lmsId}` : ""} · ${esc(c.citation)}</span></div><span class="course-row-price">${money(c.price)}</span>${h.buy(c.id, h.L.enroll, "btn btn-sm")}</div>`;
 }
 
 export function guideCard(g, h) {
@@ -109,7 +109,7 @@ export function defaultHome(site, h) {
 ${site.feature ? site.feature(h) : ""}
 <section class="sec sec-courses"><div class="wrap">
 <h2 class="title">${site.coursesTitle || h.L.courses}</h2>
-<div class="cgrid">${h.courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.short || c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, h.L.enroll, "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${h.courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.short || c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, h.L.enroll, "btn btn-sm")}</div></article>`).join("")}</div>
 <p class="all-link"><a href="/courses/#all">${h.L.allTrainings} (${h.total}) →</a></p>
 </div></section>
 <section class="sec sec-guides"><div class="wrap">

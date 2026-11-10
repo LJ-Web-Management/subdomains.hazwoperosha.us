@@ -20,12 +20,12 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 
 ## Courses on this site
 
-- [OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $179.99 per seat
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $179.99 per seat
-- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): 8 Hours, $149.99 per seat
+- [OSHA 8 Hour HAZWOPER Supervisor Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training): 8 Hours, $69.99 per seat
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
+- [OSHA 8 Hour HAZWOPER Supervisor Refresher Training](https://supervisor.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-refresher-training): 8 Hours, $69.99 per seat
 - [HAZWOPER Train-the-Trainer Certification](https://supervisor.hazwoperosha.us/courses/hazwoper-train-the-trainer-certification): 24 Hours, $399.99 per seat
 
-The [full catalog of 83 trainings](https://supervisor.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://supervisor.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://supervisor.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://supervisor.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

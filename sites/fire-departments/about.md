@@ -21,13 +21,11 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://fire-departments.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
-- [OSHA 40 Hour HAZWOPER for Emergency Response/Fire-Hazmat Teams](https://fire-departments.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-emergency-response-fire-hazmat-teams): 40 Hours, $249.99 per seat
-- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $179.99 per seat
-- [8 Hour HAZWOPER and Incident Command Refresher Training](https://fire-departments.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $159.99 per seat
+- [OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://fire-departments.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training): 8 Hours, $199.99 per seat
+- [8 Hour HAZWOPER and Incident Command Refresher Training](https://fire-departments.hazwoperosha.us/courses/8-hour-hazwoper-and-incident-command-refresher-training): 8 Hours, $249.99 per seat
 - [OSHA Air Monitoring and Gas Detection Training](https://fire-departments.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): 2 Hours, $49.99 per seat
-- [HAZWOPER Micro-Module: Decontamination Procedures](https://fire-departments.hazwoperosha.us/courses/hazwoper-micro-module-decontamination-procedures): 20 Min, $14.99 per seat
 
-The [full catalog of 83 trainings](https://fire-departments.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://fire-departments.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://fire-departments.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://fire-departments.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

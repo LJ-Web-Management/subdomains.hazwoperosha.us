@@ -44,16 +44,6 @@ Every California generator needs people who can:
 
 Large quantity generators need documented, job-specific training for everyone who handles hazardous waste, with annual review. CUPAs commonly ask to see these records. Smaller generators still have to make sure staff know proper handling and emergency procedures. A short course with a certificate is the simplest way to show it.
 
-**Cal/OSHA RCRA Hazardous Waste Training** 4 Hours · $49.99 per seat
-
-[Enroll](https://cal-osha.hazwoperosha.us/guides/california-hazardous-waste-dtsc-cupa?buy=1051)
-
-## Courses
-
-[Cal/OSHA RCRA Hazardous Waste Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training) 4 Hours · Course #1051 · 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192
-
-$49.99 [Enroll](https://cal-osha.hazwoperosha.us/guides/california-hazardous-waste-dtsc-cupa?buy=1051)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

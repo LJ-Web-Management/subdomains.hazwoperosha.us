@@ -10,16 +10,14 @@ export default {
   hero: {
     title: "Which level <span>of protection?</span>",
     lede: "Work through the same questions a site safety officer asks, and see which level of protection usually fits. For learning, not for picking PPE on a real site.",
-    cta: [585, "PPE module · $12.99"],
+    cta: [587, "40-Hour HAZWOPER · $249.99"],
     alt: ["#picker", "Try the picker"],
   },
   coursesTagline: "PPE and HAZWOPER courses.",
   guidesTagline: "Choosing, upgrading and working in PPE.",
 
   courses: [
-    { id: 585, short: "PPE Levels A–D", summary: "The four levels of protection in 15 minutes.", body: `A focused module on Levels A, B, C and D and how sites choose.`, topics: ["Levels A–D", "Respiratory vs skin", "Upgrading and downgrading"], who: "Anyone working in or around PPE." },
     { id: 587, short: "40-Hour HAZWOPER", summary: "PPE in depth, with the rest of HAZWOPER.", body: `The full initial course, including PPE selection, respirators and limits.`, topics: ["PPE program", "Respirators", "Heat stress", "Decon"], who: "Site workers." },
-    { id: 583, short: "Air Monitoring", summary: "The readings that drive PPE decisions.", body: `A short module on instruments and action levels.`, topics: ["PIDs", "LEL", "Action levels"], who: "Anyone." },
     { id: 597, short: "Supervisor", summary: "Making PPE decisions as a supervisor.", body: `Eight hours for site supervisors.`, topics: ["PPE program", "Monitoring", "Upgrades"], who: "Supervisors." },
   ],
 
@@ -70,7 +68,7 @@ export default {
       title: "Upgrading and downgrading PPE on site",
       description: "PPE levels change as monitoring data comes in. How sites decide, and why downgrading matters too.",
       date: "2026-10-25",
-      courses: [583, 597],
+      courses: [597],
       body: `The level of protection isn't fixed for the whole job. The site safety plan sets the starting level and the conditions for changing it.
 
 ## Typical upgrade triggers
@@ -100,7 +98,7 @@ The site safety officer or supervisor, using the plan's action levels. Workers s
       title: "Working safely in Level A and Level B",
       description: "Encapsulated work is physically demanding. The precautions that keep entry teams safe.",
       date: "2026-10-25",
-      courses: [585, 587],
+      courses: [587],
       body: `## Before entry
 
 - Medical clearance and a recent check of vital signs
@@ -125,8 +123,7 @@ The site safety officer or supervisor, using the plan's action levels. Workers s
 ## Heat is the main risk
 
 Encapsulating suits trap almost all body heat. Work periods in hot weather can be as short as 15 to 20 minutes. Cooling vests and shaded rest areas help.
-
-{{buy:585}}`,
+`,
     },
   ],
 };

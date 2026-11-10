@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Supervisor Training"
-description: "The 8-hour supervisor course, for leads running bilingual crews. An 8-hour online course, $179.99 per seat. Self-paced, with a certificate of completion."
+description: "The 8-hour supervisor course, for leads running bilingual crews. An 8-hour online course, $69.99 per seat. Self-paced, with a certificate of completion."
 url: https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training
 ---
 
-[Courses](https://bilingual.hazwoperosha.us/courses/) / Course #597
+[Courses](https://bilingual.hazwoperosha.us/courses/) / Course #133
 
 # OSHA 8 Hour HAZWOPER Supervisor Training
 
@@ -31,7 +31,7 @@ Foremen and site leads.
 
 ### How much does OSHA 8 Hour HAZWOPER Supervisor Training cost?
 
-$179.99 per seat. To train a crew, choose the number of seats at checkout.
+$69.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -53,11 +53,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 
 - [Running tailgate meetings in two languages](https://bilingual.hazwoperosha.us/guides/bilingual-tailgate-meetings)
 
-$179.99 per seat
+$69.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(4)
-- **Course**: #597
+- **Course**: #133
 
 [Enroll now](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=597)
 
@@ -65,19 +65,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40-Hour HAZWOPER Training (Spanish)](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+[OSHA 40-Hour HAZWOPER Training (Spanish)](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #123 · 29 CFR 1910.120(e)(3)(i) - Spanish language
 
 $249.99 [Enroll](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=1100)
 
-[OSHA 40 Hour HAZWOPER Training](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=587)
 
-[OSHA 8 Hour HAZWOPER Refresher Training](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #595 · 29 CFR 1910.120(e)(8)
+[OSHA 8 Hour HAZWOPER Refresher Training](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #112 · 29 CFR 1910.120(e)(8)
 
-$89.99 [Enroll](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=595)
+$59.99 [Enroll](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=595)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://bilingual.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://bilingual.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://bilingual.hazwoperosha.us/courses/osha-8-hour-hazwoper-supervisor-training?buy=1099)
 

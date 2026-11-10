@@ -40,13 +40,13 @@ Get upwind and uphill, keep people away and call 911. Don't try to stop a large 
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://agriculture.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://agriculture.hazwoperosha.us/guides/anhydrous-ammonia-on-the-farm?buy=1099)
 
-[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #598 · 29 CFR 1910.120(e)(8) / 1910.111
+[OSHA 8-Hour HAZWOPER and Safe Ammonia Handling Refresher Training](https://agriculture.hazwoperosha.us/courses/osha-8-hour-hazwoper-and-safe-ammonia-handling-refresher-training) 8 Hours · Course #357 · 29 CFR 1910.120(e)(8) / 1910.111
 
-$109.99 [Enroll](https://agriculture.hazwoperosha.us/guides/anhydrous-ammonia-on-the-farm?buy=598)
+$89.99 [Enroll](https://agriculture.hazwoperosha.us/guides/anhydrous-ammonia-on-the-farm?buy=598)
 
 ---
 

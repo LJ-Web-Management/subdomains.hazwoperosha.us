@@ -32,11 +32,6 @@ export default {
       body: `Keep a Texas crew current with eight hours of refresher training a year.`,
       topics: ["Hazard review", "PPE and monitoring", "Case studies"],
       who: "Anyone with a current 40- or 24-hour certificate." },
-    { id: 591, short: "40 Hr Oil & Gas Spill",
-      summary: "The 40-hour HAZWOPER for oilfield spill response crews.",
-      body: `Built for the oil patch: crude, condensate, produced water, H2S and benzene.`,
-      topics: ["Crude and produced water hazards", "H2S and benzene", "Land spill recovery", "Heat stress"],
-      who: "Permian, Eagle Ford and Gulf Coast spill response crews." },
     { id: 601, short: "RCRA Generator",
       summary: "Hazardous waste generator training for Texas facilities.",
       body: `Texas runs its own authorized hazardous waste program through TCEQ. This course covers the federal generator rules Texas builds on.`,
@@ -114,7 +109,7 @@ Staff who sort, label and ship industrial waste should know both the federal haz
       title: "Texas heat and HAZWOPER PPE",
       description: "Chemical protective clothing plus a Texas summer is a medical emergency waiting to happen. How crews manage it.",
       date: "2026-10-25",
-      courses: [587, 591],
+      courses: [587],
       body: `Chemical protective clothing traps body heat. In a Texas summer, heat stress can hurt a crew faster than the chemicals they're protecting against.
 
 ## Why PPE makes it worse
@@ -141,8 +136,7 @@ Coveralls, chemical suits and respirators stop sweat from evaporating, which is 
 ## Put it in the plan
 
 HAZWOPER site safety plans should address heat stress. Make the work-rest schedule, water and shade part of the written plan, not just good intentions.
-
-{{buy:591}}`,
+`,
     },
   ],
 };

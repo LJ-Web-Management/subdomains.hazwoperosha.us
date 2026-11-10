@@ -11,13 +11,6 @@ export default {
 
   courses: [
     {
-      id: 592, short: "40 Hr Utility / Pipeline",
-      summary: "The 40-hour HAZWOPER for utility and pipeline crews who respond to releases on the line.",
-      body: `Utility and pipeline crews respond to releases that are someone else's emergency and their job to fix. This 40-hour track under 29 CFR 1910.120 covers line strikes, leaks, contaminated rights-of-way and working inside an incident command system with the fire department.`,
-      topics: ["Natural gas, liquids and other pipeline products", "Line strike and leak response", "Incident command and unified command", "Contaminated excavations and rights-of-way", "Flammable and toxic atmosphere monitoring", "PPE and decon for field crews"],
-      who: "Gas and pipeline field crews, damage-prevention staff, electric utility crews and contractors.",
-    },
-    {
       id: 1056, short: "Gas Detection",
       summary: "Combustible gas indicators, multi-gas meters and PIDs for utility work.",
       body: `Reading a combustible gas indicator correctly can be the difference between a controlled leak and an explosion. Two hours on sensors, calibration and readings in vaults, manholes and excavations.`,
@@ -60,7 +53,7 @@ export default {
       title: "Responding to a gas line strike",
       description: "An excavator hits a gas line. What the first crew on scene should and shouldn't do.",
       date: "2026-10-25",
-      courses: [592, 1056],
+      courses: [1056],
       body: `A third-party excavator hits a gas service line. Gas is blowing. Your crew is first on scene. Every utility has its own procedures, so follow yours. These principles are common to most.
 
 ## Do
@@ -81,15 +74,14 @@ export default {
 ## Afterward
 
 Report the damage under your state's one-call rules. Most strikes are preventable: call 811 before digging, wait for the locates and hand-dig near marked lines.
-
-{{buy:592}}`,
+`,
     },
     {
       slug: "where-hazwoper-fits-in-utility-work",
       title: "Where HAZWOPER fits in utility work",
       description: "Not every leak call is a HAZWOPER response. Here's how utilities usually draw the line.",
       date: "2026-10-25",
-      courses: [592, 1099, 593],
+      courses: [1099, 593],
       body: `Utilities have their own federal safety rules (for gas pipelines, DOT's 49 CFR Parts 192 and 195, including operator qualification). HAZWOPER applies alongside them in specific situations.
 
 ## Usually not HAZWOPER
@@ -108,7 +100,7 @@ Report the damage under your state's one-call rules. Most strikes are preventabl
 | Role | Training |
 |---|---|
 | Meter readers, locators, inspectors | [[1099]] |
-| Field crews who respond to emergencies | [[592]] and annual refresher |
+| Field crews who respond to emergencies | 40-hour HAZWOPER and [[595]] |
 | Supervisors and on-call managers | [[593]] |
 | Leak investigators | Gas detection: [[1056]] |
 
@@ -167,7 +159,7 @@ ${h.header(592)}
 <div>
 <h1>Strike.<br>Leak.<br><span>Respond.</span></h1>
 <p class="hero-lede">HAZWOPER for gas, pipeline and electric utility crews who respond to releases on the line.</p>
-<div class="hero-cta">${h.buy(592, "Enroll the crew · $249.99")}<a class="btn btn-alt" href="/guides/responding-to-a-gas-line-strike">Line strike guide</a></div>
+<div class="hero-cta">${h.buy(593, "Enroll the crew · $199.99")}<a class="btn btn-alt" href="/guides/responding-to-a-gas-line-strike">Line strike guide</a></div>
 </div>
 </div></section>
 
@@ -177,7 +169,7 @@ ${h.header(592)}
 
 <section class="sec"><div class="wrap">
 <h2 class="title">Crew <span>courses</span></h2>
-<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

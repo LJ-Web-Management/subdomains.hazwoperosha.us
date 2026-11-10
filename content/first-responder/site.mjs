@@ -32,13 +32,6 @@ export default {
       who: "Members of in-plant emergency response teams and their coordinators.",
     },
     {
-      id: 589, short: "40 Hr Fire / Hazmat",
-      summary: "The full 40-hour HAZWOPER for fire departments and hazmat teams who also do cleanup.",
-      body: `Teams whose work goes past the emergency into post-emergency cleanup need the 40-hour HAZWOPER under 1910.120(e). This track is written for firefighters and hazmat technicians.`,
-      topics: ["Emergency response vs post-emergency cleanup", "Hazmat branch operations", "Chemical protective clothing and SCBA", "Detection and monitoring", "Technical and mass decon", "Site control"],
-      who: "Firefighters, hazmat technicians and emergency response contractors.",
-    },
-    {
       id: 574, short: "Responder Refresher",
       summary: "The annual refresher for responders and incident commanders.",
       body: `Responders need annual refresher training of enough content and length to keep their competencies, or must demonstrate competency each year, under 1910.120(q)(8). This eight-hour course covers it.`,
@@ -210,7 +203,7 @@ A release is likely **incidental** if:
 <section class="sec sec-grid"><div class="wrap">
 <p class="sec-tag">// Courses</p>
 <h2 class="title">Equip your <span>team</span></h2>
-<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="cc-tag">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="cc-tag">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

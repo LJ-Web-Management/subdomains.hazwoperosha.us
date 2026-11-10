@@ -1,10 +1,10 @@
 ---
 title: "Cal/OSHA 40-Hour HAZWOPER Training (2026) | Cal HAZWOPER"
-description: "The 40-hour initial HAZWOPER for California workers, written to Title 8 section 5192 (2026 edition). A 40-hour online course, $219.99 per seat."
+description: "The 40-hour initial HAZWOPER for California workers, written to Title 8 section 5192 (2026 edition). A 40-hour online course, $229.99 per seat."
 url: https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training
 ---
 
-[Courses](https://cal-osha.hazwoperosha.us/courses/) / Course #577
+[Courses](https://cal-osha.hazwoperosha.us/courses/) / Course #351
 
 # Cal/OSHA 40-Hour HAZWOPER Training (2026)
 
@@ -33,7 +33,7 @@ Remediation, emergency response and hazardous waste site workers employed in Cal
 
 ### How much does Cal/OSHA 40-Hour HAZWOPER Training (2026) cost?
 
-$219.99 per seat. To train a crew, choose the number of seats at checkout.
+$229.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -56,11 +56,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [Cal/OSHA vs federal OSHA HAZWOPER: what's different in California](https://cal-osha.hazwoperosha.us/guides/cal-osha-vs-federal-hazwoper)
 - [Moving to a California job with an out-of-state HAZWOPER certificate](https://cal-osha.hazwoperosha.us/guides/working-in-california-with-out-of-state-hazwoper)
 
-$219.99 per seat
+$229.99 per seat
 
 - **Length**: 40 Hours
 - **Standard**: 8 CCR 5192(e)
-- **Course**: #577
+- **Course**: #351
 
 [Enroll now](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=577)
 
@@ -68,25 +68,13 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Cal/OSHA 24-Hour HAZWOPER Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #576 · 8 CCR 5192(e)
+[Cal/OSHA 24-Hour HAZWOPER Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-training) 24 Hours · Course #496 · 8 CCR 5192(e)
 
-$169.99 [Enroll](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=576)
+$189.99 [Enroll](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=576)
 
-[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #578 · 8 CCR 5192(e)(8)
+[Cal/OSHA 8-Hour HAZWOPER Refresher Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-refresher-training) 8 Hours · Course #490 · 8 CCR 5192(e)(8)
 
-$89.99 [Enroll](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=578)
-
-[Cal/OSHA 24 hour HAZWOPER TSDF RCRA Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-24-hour-hazwoper-tsdf-rcra-training) 24 Hours · Course #575 · 8 CCR 5192(p) / RCRA
-
-$249.99 [Enroll](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=575)
-
-[Cal/OSHA 8-hour HAZWOPER TSDF RCRA Refresher Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-8-hour-hazwoper-tsdf-rcra-refresher-training) 8 Hours · Course #579 · 8 CCR 5192(p)(8) / RCRA
-
-$109.99 [Enroll](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=579)
-
-[Cal/OSHA RCRA Hazardous Waste Training](https://cal-osha.hazwoperosha.us/courses/cal-osha-rcra-hazardous-waste-training) 4 Hours · Course #1051 · 22 CCR Div. 4.5 / 40 CFR 262.17 / 8 CCR 5192
-
-$49.99 [Enroll](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=1051)
+$149.99 [Enroll](https://cal-osha.hazwoperosha.us/courses/cal-osha-40-hour-hazwoper-training?buy=578)
 
 ---
 

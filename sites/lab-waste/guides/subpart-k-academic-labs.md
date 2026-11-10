@@ -34,17 +34,17 @@ Lab workers and students must get training appropriate to their duties, so they 
 
 Many universities find Subpart K fits lab life better. But it requires a solid management plan and trained professionals, and it isn't adopted in every state.
 
-**RCRA Hazardous Waste Generator Training** 8 Hours · $89.99 per seat
+**RCRA Hazardous Waste Generator Training** 8 Hours · $134.99 per seat
 
 [Enroll](https://lab-waste.hazwoperosha.us/guides/subpart-k-academic-labs?buy=601)
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://lab-waste.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/subpart-k-academic-labs?buy=601)
+$134.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/subpart-k-academic-labs?buy=601)
 
-[Hazardous Waste Satellite Accumulation Area Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://lab-waste.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://lab-waste.hazwoperosha.us/guides/subpart-k-academic-labs?buy=415)
 

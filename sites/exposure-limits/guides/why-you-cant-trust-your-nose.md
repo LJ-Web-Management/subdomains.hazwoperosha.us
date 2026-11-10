@@ -37,11 +37,11 @@ Some chemicals can only be smelled at or above their exposure limit, so by the t
 
 ## Courses
 
-[OSHA Air Monitoring and Gas Detection Training](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://exposure-limits.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://exposure-limits.hazwoperosha.us/guides/why-you-cant-trust-your-nose?buy=1056)
 
-[OSHA 40 Hour HAZWOPER Training](https://exposure-limits.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://exposure-limits.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://exposure-limits.hazwoperosha.us/guides/why-you-cant-trust-your-nose?buy=587)
 

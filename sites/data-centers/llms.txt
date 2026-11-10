@@ -6,19 +6,18 @@ RackRoom Safety (https://data-centers.hazwoperosha.us/) sells online training fr
 
 ## When to use this site
 
-- Use it when someone needs Spill Prevention, Spill Kit Use, Universal Waste, Awareness or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Spill Prevention, Universal Waste, Awareness, Gas Detection or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://data-centers.hazwoperosha.us/index.md).
 
 ## Courses
 
-- [OSHA Spill Prevention and Response Safety Training](https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to fuel and electrolyte spills. Enroll: https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
-- [Spill Response Equipment - Spill Kit Selection & Use](https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Choosing and using spill kits, including acid kits for battery rooms. Enroll: https://data-centers.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
+- [OSHA Spill Prevention and Response Safety Training](https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Preventing and responding to fuel and electrolyte spills. Enroll: https://data-centers.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
 - [RCRA Universal Waste Handler Training](https://data-centers.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Managing spent UPS batteries and lamps as universal waste. Enroll: https://data-centers.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). Recognize a hazardous release and get clear. Enroll: https://data-centers.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 - [OSHA Air Monitoring and Gas Detection Training](https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 1910.146 / 1910.1000. Hydrogen, refrigerant and oxygen monitoring. Enroll: https://data-centers.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training?buy=1056
-- [RCRA Hazardous Waste Generator Training](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for campus facilities. Enroll: https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Training](https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Hazardous waste generator training for campus facilities. Enroll: https://data-centers.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
 
 ## Guides
 
@@ -28,7 +27,7 @@ RackRoom Safety (https://data-centers.hazwoperosha.us/) sells online training fr
 
 ## All trainings
 
-- [All 83 trainings](https://data-centers.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://data-centers.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

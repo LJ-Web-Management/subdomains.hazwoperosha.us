@@ -31,19 +31,19 @@ Non-terne-plated oil filters that are **hot-drained** (punctured or crushed and 
 
 Some states, like California, regulate used oil more strictly. Check your state.
 
-**OSHA Spill Prevention and Response Safety Training** 2 Hours · $49.99 per seat
+**OSHA Spill Prevention and Response Safety Training** 2 Hours · $29.99 per seat
 
 [Enroll](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops?buy=416)
 
 ## Courses
 
-[OSHA Spill Prevention and Response Safety Training](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops?buy=416)
+$29.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops?buy=416)
 
-[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops?buy=601)
+$134.99 [Enroll](https://auto-shops.hazwoperosha.us/guides/used-oil-at-auto-shops?buy=601)
 
 ---
 

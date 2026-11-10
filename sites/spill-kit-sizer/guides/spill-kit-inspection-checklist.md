@@ -32,16 +32,6 @@ Restock the same day. A used kit with half its contents is worse than none, beca
 
 Used absorbents take on the hazards of what they absorbed. Bag, label and manage them as waste under your facility's procedures.
 
-**Spill Response Equipment - Spill Kit Selection & Use** 1 Hour · $24.99 per seat
-
-[Enroll](https://spill-kit-sizer.hazwoperosha.us/guides/spill-kit-inspection-checklist?buy=479)
-
-## Courses
-
-[Spill Response Equipment - Spill Kit Selection & Use](https://spill-kit-sizer.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://spill-kit-sizer.hazwoperosha.us/guides/spill-kit-inspection-checklist?buy=479)
-
 ---
 
 Training is delivered by HAZWOPER OSHA Training, LLC (https://hazwoper-osha.com/). Phone: +1-866-429-6742. Email: info@hazwoper-osha.com.

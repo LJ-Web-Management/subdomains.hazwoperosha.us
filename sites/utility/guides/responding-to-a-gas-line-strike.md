@@ -31,17 +31,9 @@ A third-party excavator hits a gas service line. Gas is blowing. Your crew is fi
 
 Report the damage under your state's one-call rules. Most strikes are preventable: call 811 before digging, wait for the locates and hand-dig near marked lines.
 
-**OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response** 40 Hours · $249.99 per seat
-
-[Enroll](https://utility.hazwoperosha.us/guides/responding-to-a-gas-line-strike?buy=592)
-
 ## Courses
 
-[OSHA 40 Hour HAZWOPER for Utility/Pipeline Emergency Response](https://utility.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-utility-pipeline-emergency-response) 40 Hours · Course #592 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://utility.hazwoperosha.us/guides/responding-to-a-gas-line-strike?buy=592)
-
-[OSHA Air Monitoring and Gas Detection Training](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://utility.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://utility.hazwoperosha.us/guides/responding-to-a-gas-line-strike?buy=1056)
 

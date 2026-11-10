@@ -32,11 +32,7 @@ Many chemicals have poor warning properties, or are only detectable by smell abo
 
 ## Courses
 
-[HAZWOPER Micro-Module: Air Monitoring & Direct-Reading Instruments](https://respirator-muc.hazwoperosha.us/courses/hazwoper-micro-module-air-monitoring-and-direct-reading-instruments) 20 Min · Course #583 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$14.99 [Enroll](https://respirator-muc.hazwoperosha.us/guides/cartridge-change-schedules?buy=583)
-
-[OSHA Air Monitoring and Gas Detection Training](https://respirator-muc.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #1056 · 29 CFR 1910.120 / 1910.146 / 1910.1000
+[OSHA Air Monitoring and Gas Detection Training](https://respirator-muc.hazwoperosha.us/courses/osha-air-monitoring-and-gas-detection-training) 2 Hours · Course #664 · 29 CFR 1910.120 / 1910.146 / 1910.1000
 
 $49.99 [Enroll](https://respirator-muc.hazwoperosha.us/guides/cartridge-change-schedules?buy=1056)
 

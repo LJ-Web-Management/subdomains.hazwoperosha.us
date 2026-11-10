@@ -36,11 +36,11 @@ Collection is HAZWOPER work, done by trained crews with a plan, PPE, monitoring 
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://disaster-recovery.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://disaster-recovery.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://disaster-recovery.hazwoperosha.us/guides/orphaned-drums-and-flood-debris?buy=1099)
 
-[OSHA 40 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://disaster-recovery.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://disaster-recovery.hazwoperosha.us/guides/orphaned-drums-and-flood-debris?buy=587)
 

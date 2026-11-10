@@ -19,15 +19,13 @@ export default {
   hero: {
     title: "Hot, warm, <span>cold.</span>",
     lede: "Every hazardous waste site is laid out in zones that keep contamination where it belongs. Click around the site plan to see how it works.",
-    cta: [584, "Decon module · $14.99"],
+    cta: [587, "40-Hour HAZWOPER · $249.99"],
     alt: ["#zones", "Explore the site"],
   },
   coursesTagline: "Site control and decon training.",
   guidesTagline: "Setting up zones and moving them when conditions change.",
 
   courses: [
-    { id: 584, short: "Decontamination", summary: "The warm zone and decon line in 20 minutes.", body: `A short module on decon.`, topics: ["Zones", "Stations", "Doffing"], who: "All site workers." },
-    { id: 586, short: "Site Characterization", summary: "How sites are evaluated before zones are set.", body: `A short module on site characterization.`, topics: ["Preliminary evaluation", "Monitoring"], who: "All site workers." },
     { id: 587, short: "40-Hour HAZWOPER", summary: "Site control in depth.", body: `The full initial course.`, topics: ["Site control", "Decon", "PPE", "Emergencies"], who: "Site workers." },
     { id: 597, short: "Supervisor", summary: "Setting and enforcing zones.", body: `Eight hours for supervisors.`, topics: ["Site control", "Briefings"], who: "Supervisors." },
   ],
@@ -66,12 +64,12 @@ window.ZONES = ${JSON.stringify(ZONES).replace(/</g, "\\u003c")};
       title: "Setting up site control zones",
       description: "How a site safety officer lays out the hot, warm and cold zones on a new site.",
       date: "2026-10-25",
-      courses: [586, 597],
+      courses: [597],
       body: `29 CFR 1910.120(d) requires a site control program before cleanup work begins, including a site map, work zones, the buddy system, communications and safe work practices.
 
 ## Step by step
 
-1. **Characterize the site.** Where's the contamination? What are the hazards? See [[586]].
+1. **Characterize the site.** Where's the contamination? What are the hazards?
 2. **Check the wind and terrain.** The support zone goes upwind and, where possible, uphill.
 3. **Mark the exclusion zone** around all contaminated areas, with margin for vapors, dust and the work itself.
 4. **Lay out the warm zone** as a buffer, with room for the decon corridor.
@@ -91,7 +89,7 @@ Zones may move as work progresses, contamination is removed or the wind changes.
       title: "When the wind shifts: adjusting zones on the fly",
       description: "Zones are built around the wind. Here's what happens when it changes.",
       date: "2026-10-25",
-      courses: [584, 587],
+      courses: [587],
       body: `A windsock is one of the most important pieces of safety equipment on a hazardous waste site.
 
 ## Why it matters
@@ -109,8 +107,7 @@ The support zone is placed upwind so vapors and dust blow away from it. If the w
 ## Plan ahead
 
 Good site plans name an alternate muster point and describe how zones will be adjusted for a wind shift.
-
-{{buy:584}}`,
+`,
     },
   ],
 };

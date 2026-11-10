@@ -10,7 +10,7 @@ export default {
   hero: {
     title: "Tear it down. <span>Not your lungs.</span>",
     lede: "Old plants and contaminated buildings hide chemicals, residues and impacted soil. HAZWOPER training for the crews who take them apart.",
-    cta: [588, "40 Hr Construction · $249.99"],
+    cta: [581, "24-Hour HAZWOPER · $169.99"],
     alt: ["/guides/pre-demolition-surveys", "Pre-demo surveys"],
   },
   heroArt: `<div class="ball" aria-hidden="true"><i></i></div>`,
@@ -18,11 +18,6 @@ export default {
   guidesTagline: "Surveys, hazardous materials removal and dust control.",
 
   courses: [
-    { id: 588, short: "40 Hr Construction",
-      summary: "The 40-hour HAZWOPER for construction and demolition on contaminated sites.",
-      body: `Demolition at a contaminated industrial site is construction work under 29 CFR 1926.65 when it's part of a cleanup. This 40-hour course is built for construction crews.`,
-      topics: ["1926.65 on demolition projects", "Contaminated structures and soil", "Equipment decon", "Dust and vapor control", "Working under a HASP"],
-      who: "Demolition laborers, operators and foremen." },
     { id: 581, short: "24-Hour HAZWOPER",
       summary: "The 24-hour HAZWOPER for limited-exposure crew members.",
       body: `For crew members on site occasionally or only in monitored areas.`,
@@ -38,16 +33,6 @@ export default {
       body: `Old plants have pits, sumps and tanks with residues and vapors. Two hours on gas detection.`,
       topics: ["O2, LEL, H2S, CO", "PIDs", "Confined spaces"],
       who: "Crews working below grade or near tanks." },
-    { id: 585, short: "PPE Levels A–D",
-      summary: "A 15-minute module on PPE levels.",
-      body: `What each level of protection includes.`,
-      topics: ["Levels A, B, C and D"],
-      who: "New crew members." },
-    { id: 584, short: "Decontamination",
-      summary: "A 20-minute decon module.",
-      body: `Decon for people and equipment.`,
-      topics: ["Decon stations", "Doffing", "Equipment"],
-      who: "All crew members." },
   ],
 
   guides: [
@@ -56,7 +41,7 @@ export default {
       title: "Pre-demolition surveys and hazardous materials removal",
       description: "What has to come out of a building before the excavator goes in.",
       date: "2026-10-25",
-      courses: [588, 597],
+      courses: [597],
       body: `Before a building comes down, hazardous materials have to be found and removed. Missing them puts the crew at risk and can turn a whole debris pile into hazardous waste.
 
 ## Required by law
@@ -86,15 +71,14 @@ Asbestos (29 CFR 1926.1101) and lead (1926.62) have their own OSHA standards and
 3. Clean and decontaminate process equipment
 4. Demolish
 5. Manage soil and debris under the site plan
-
-{{buy:588}}`,
+`,
     },
     {
       slug: "demolition-dust-control",
       title: "Dust control on contaminated demolition sites",
       description: "On contaminated sites, dust carries contaminants to workers and neighbors. Controls that work.",
       date: "2026-10-25",
-      courses: [588, 1056],
+      courses: [1056],
       body: `On a contaminated site, dust isn't just a nuisance. It can carry lead, PCBs, metals and other contaminants into workers' lungs and across the fence line.
 
 ## Controls
@@ -122,7 +106,7 @@ Many contaminated demo projects run **perimeter air monitoring** with dust monit
       title: "Demolishing old industrial plants: what you'll find",
       description: "Pits, tanks, residue-filled pipes and stained floors. Hazards specific to industrial teardown.",
       date: "2026-10-25",
-      courses: [1056, 584],
+      courses: [1056],
       body: `Old plants are full of surprises. Process equipment may never have been fully emptied, and floors and soils can be saturated with decades of leaks.
 
 ## Common hazards

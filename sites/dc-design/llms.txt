@@ -26,7 +26,7 @@ Draftline DC (https://dc-design.hazwoperosha.us/) sells online training from HAZ
 
 ## All trainings
 
-- [All 83 trainings](https://dc-design.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-design.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

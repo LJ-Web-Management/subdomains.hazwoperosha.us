@@ -1,10 +1,10 @@
 ---
 title: "RCRA Hazardous Waste Generator Training | ShopWaste"
-description: "Hazardous waste generator training for shop owners and managers. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "Hazardous waste generator training for shop owners and managers. An 8-hour online course, $134.99 per seat. Self-paced, with a certificate of completion."
 url: https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training
 ---
 
-[Courses](https://auto-shops.hazwoperosha.us/courses/) / Course #601
+[Courses](https://auto-shops.hazwoperosha.us/courses/) / Course #114
 
 # RCRA Hazardous Waste Generator Training
 
@@ -32,7 +32,7 @@ Shop owners, service managers and fleet managers.
 
 ### How much does RCRA Hazardous Waste Generator Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$134.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -56,11 +56,11 @@ Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go throu
 - [Common hazardous wastes at auto repair shops](https://auto-shops.hazwoperosha.us/guides/common-hazardous-wastes-auto-shops)
 - [Small quantity generator rules for shops](https://auto-shops.hazwoperosha.us/guides/small-quantity-generator-shops)
 
-$89.99 per seat
+$134.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 40 CFR 262.17 (RCRA)
-- **Course**: #601
+- **Course**: #114
 
 [Enroll now](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601)
 
@@ -68,23 +68,19 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #415 · 40 CFR 262.15
+[Hazardous Waste Satellite Accumulation Area Training](https://auto-shops.hazwoperosha.us/courses/hazardous-waste-satellite-accumulation-area-training) 2 Hours · Course #901 · 40 CFR 262.15
 
 $59.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=415)
 
-[RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://auto-shops.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=602)
 
-[OSHA Spill Prevention and Response Safety Training](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://auto-shops.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
+$29.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
 
-[Spill Response Equipment - Spill Kit Selection & Use](https://auto-shops.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use) 1 Hour · Course #479 · 40 CFR 112 / 29 CFR 1910.120
-
-$24.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=479)
-
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://auto-shops.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://auto-shops.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=1099)
 

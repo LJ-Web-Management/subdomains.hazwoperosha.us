@@ -15,7 +15,7 @@ Ready to Place (https://staffing-agencies.hazwoperosha.us/) sells online trainin
 
 - [OSHA 40 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training): $249.99 per seat, 40 Hours, 29 CFR 1910.120(e) / 1926.65(e). For temps placed on cleanup sites. Enroll: https://staffing-agencies.hazwoperosha.us/courses/osha-40-hour-hazwoper-training?buy=587
 - [OSHA 24 Hour HAZWOPER Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training): $169.99 per seat, 24 Hours, 29 CFR 1910.120(e). For occasional and limited-exposure placements. Enroll: https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-training?buy=581
-- [OSHA 8 Hour HAZWOPER Refresher Training](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $89.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). Keep your bench current. Enroll: https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
+- [OSHA 8 Hour HAZWOPER Refresher Training](https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training): $59.99 per seat, 8 Hours, 29 CFR 1910.120(e)(8). Keep your bench current. Enroll: https://staffing-agencies.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://staffing-agencies.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): $61.99 per seat, 4 Hours, 29 CFR 1910.120(q)(6)(i). For warehouse and plant placements. Enroll: https://staffing-agencies.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training?buy=1099
 - [OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training): $229.99 per seat, 24 Hours, 29 CFR 1910.120(p) / RCRA. For placements at treatment and disposal facilities. Enroll: https://staffing-agencies.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training?buy=582
 
@@ -26,7 +26,7 @@ Ready to Place (https://staffing-agencies.hazwoperosha.us/) sells online trainin
 
 ## All trainings
 
-- [All 83 trainings](https://staffing-agencies.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://staffing-agencies.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

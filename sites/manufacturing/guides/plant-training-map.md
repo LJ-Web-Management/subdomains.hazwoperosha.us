@@ -40,17 +40,17 @@ Plants usually do HazCom and evacuation well. The gaps tend to be:
 
 ## Courses
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://manufacturing.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/plant-training-map?buy=1099)
 
-[RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://manufacturing.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/plant-training-map?buy=601)
+$134.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/plant-training-map?buy=601)
 
-[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://manufacturing.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/plant-training-map?buy=416)
+$29.99 [Enroll](https://manufacturing.hazwoperosha.us/guides/plant-training-map?buy=416)
 
 ---
 

@@ -33,13 +33,13 @@ Without the rule, you must meet the higher category's requirements for that mont
 
 ## Courses
 
-[RCRA Hazardous Waste Generator Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://generator-status.hazwoperosha.us/guides/episodic-generation?buy=601)
+$134.99 [Enroll](https://generator-status.hazwoperosha.us/guides/episodic-generation?buy=601)
 
-[RCRA Hazardous Waste Generator Refresher Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #600 · 40 CFR 262.17 (RCRA, annual)
+[RCRA Hazardous Waste Generator Refresher Training](https://generator-status.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training) 4 Hours · Course #181 · 40 CFR 262.17 (RCRA, annual)
 
-$59.99 [Enroll](https://generator-status.hazwoperosha.us/guides/episodic-generation?buy=600)
+$124.99 [Enroll](https://generator-status.hazwoperosha.us/guides/episodic-generation?buy=600)
 
 ---
 

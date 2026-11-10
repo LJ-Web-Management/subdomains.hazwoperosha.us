@@ -15,9 +15,9 @@ Green Permit (https://dc-compliance.hazwoperosha.us/) sells online training from
 
 - [Facility Environmental Compliance](https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance): $99.99 per seat, 4 Hours. Understand the environmental regulations that apply to your facility. Enroll: https://dc-compliance.hazwoperosha.us/courses/facility-environmental-compliance?buy=833
 - [Data Center Cooling System and Refrigerant Safety Training](https://dc-compliance.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety): $99.99 per seat, 2 Hours, EPA/OSHA. Refrigerant handling and cooling system safety practices specific to data center CRAC/CRAH environments. Enroll: https://dc-compliance.hazwoperosha.us/courses/data-center-cooling-refrigerant-safety?buy=851
-- [OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Diesel fuel deliveries, day tanks and spill response. Enroll: https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
+- [OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Diesel fuel deliveries, day tanks and spill response. Enroll: https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
 - [RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training): $34.99 per seat, 2 Hours, 40 CFR 273 (RCRA). Managing spent UPS batteries and lamps. Enroll: https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training?buy=602
-- [RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $89.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Waste determinations and generator rules. Enroll: https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
+- [RCRA Hazardous Waste Generator Training](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): $134.99 per seat, 8 Hours, 40 CFR 262.17 (RCRA). Waste determinations and generator rules. Enroll: https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601
 
 ## Guides
 
@@ -26,7 +26,7 @@ Green Permit (https://dc-compliance.hazwoperosha.us/) sells online training from
 
 ## All trainings
 
-- [All 83 trainings](https://dc-compliance.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-compliance.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

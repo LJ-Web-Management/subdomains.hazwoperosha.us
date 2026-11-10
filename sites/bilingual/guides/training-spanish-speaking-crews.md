@@ -36,11 +36,11 @@ Some workers read less well in any language. Pictures, demonstrations and hands-
 
 ## Courses
 
-[OSHA 40-Hour HAZWOPER Training (Spanish)](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #1100 · 29 CFR 1910.120(e)(3)(i) - Spanish language
+[OSHA 40-Hour HAZWOPER Training (Spanish)](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training-spanish) 40 Hours · Course #123 · 29 CFR 1910.120(e)(3)(i) - Spanish language
 
 $249.99 [Enroll](https://bilingual.hazwoperosha.us/guides/training-spanish-speaking-crews?buy=1100)
 
-[OSHA 40 Hour HAZWOPER Training](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://bilingual.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://bilingual.hazwoperosha.us/guides/training-spanish-speaking-crews?buy=587)
 

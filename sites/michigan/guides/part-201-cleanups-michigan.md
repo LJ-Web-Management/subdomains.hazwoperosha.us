@@ -43,7 +43,7 @@ Michigan cleanups often run through winter. Cold stress, frozen ground and icy d
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://michigan.hazwoperosha.us/guides/part-201-cleanups-michigan?buy=587)
 

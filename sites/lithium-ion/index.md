@@ -58,7 +58,7 @@ Master DC circuit fundamentals and battery behavior behind every backup power sy
 
 **$99.99** [Enroll](https://lithium-ion.hazwoperosha.us/?buy=1084)
 
-2 Hours · #602
+2 Hours · #921
 
 ### Universal Waste (spent batteries)
 
@@ -66,7 +66,7 @@ Managing spent and damaged batteries.
 
 **$34.99** [Enroll](https://lithium-ion.hazwoperosha.us/?buy=602)
 
-[All trainings (83) →](https://lithium-ion.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://lithium-ion.hazwoperosha.us/courses/#all)
 
 ## Guides
 

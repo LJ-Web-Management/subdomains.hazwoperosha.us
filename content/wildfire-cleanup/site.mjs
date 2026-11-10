@@ -21,8 +21,6 @@ export default {
     { id: 587, short: "40-Hour HAZWOPER", summary: "For crews removing hazardous materials.", body: "The 40-hour initial HAZWOPER course for workers removing hazardous materials after disasters.", topics: ["Hazard recognition", "PPE", "Decon", "Site control"] },
     { id: 581, short: "24-Hour HAZWOPER", summary: "For limited-exposure cleanup roles.", body: "The 24-hour initial course for occasional or low-exposure cleanup work.", topics: ["Who qualifies", "PPE basics"] },
     { id: 1099, short: "First Responder Awareness", summary: "Recognize hazardous materials in debris.", body: "Four hours on recognizing hazardous materials and getting help.", topics: ["Recognize", "Isolate", "Notify"] },
-    { id: 585, short: "PPE Levels A–D", summary: "Choosing PPE for ash and debris.", body: "Fifteen minutes on PPE levels A through D.", topics: ["Levels A–D", "Respirators"] },
-    { id: 584, short: "Decontamination", summary: "Keeping ash off you and out of your truck.", body: "Twenty minutes on decontamination procedures.", topics: ["Decon stations", "Doffing"] },
   ],
 
   guides: [
@@ -31,7 +29,7 @@ export default {
       title: "What's in wildfire ash and debris",
       description: "Why burned structures are a hazardous waste problem.",
       date: "2026-10-25",
-      courses: [587, 585],
+      courses: [587],
       body: `Ash from burned buildings isn't just wood ash. It can contain:
 
 - **Heavy metals**: lead, arsenic, cadmium and others from paint, treated wood and electronics

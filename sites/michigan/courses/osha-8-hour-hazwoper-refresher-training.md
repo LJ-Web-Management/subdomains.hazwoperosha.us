@@ -1,10 +1,10 @@
 ---
 title: "OSHA 8 Hour HAZWOPER Refresher Training | Michigan HAZWOPER"
-description: "The standard annual 8-hour refresher. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "The standard annual 8-hour refresher. An 8-hour online course, $59.99 per seat. Self-paced, with a certificate of completion."
 url: https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training
 ---
 
-[Courses](https://michigan.hazwoperosha.us/courses/) / Course #595
+[Courses](https://michigan.hazwoperosha.us/courses/) / Course #112
 
 # OSHA 8 Hour HAZWOPER Refresher Training
 
@@ -30,7 +30,7 @@ Certified HAZWOPER workers.
 
 ### How much does OSHA 8 Hour HAZWOPER Refresher Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$59.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -48,11 +48,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$89.99 per seat
+$59.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 29 CFR 1910.120(e)(8)
-- **Course**: #595
+- **Course**: #112
 
 [Enroll now](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=595)
 
@@ -60,25 +60,21 @@ Certificate of completion included. 100% online, self-paced.
 
 ## More courses on this site
 
-[OSHA 40 Hour HAZWOPER Training](https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://michigan.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=587)
 
-[Manufacturing Emergency Response Team (ERT) Training](https://michigan.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #702 · 29 CFR 1910.120(q)
+[Manufacturing Emergency Response Team (ERT) Training](https://michigan.hazwoperosha.us/courses/manufacturing-emergency-response-team-ert-training) 8 Hours · Course #970 · 29 CFR 1910.120(q)
 
 $149.99 [Enroll](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=702)
 
-[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://michigan.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #1099 · 29 CFR 1910.120(q)(6)(i)
+[OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://michigan.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) 4 Hours · Course #654 · 29 CFR 1910.120(q)(6)(i)
 
 $61.99 [Enroll](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=1099)
 
-[RCRA Hazardous Waste Generator Training](https://michigan.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #601 · 40 CFR 262.17 (RCRA)
+[RCRA Hazardous Waste Generator Training](https://michigan.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training) 8 Hours · Course #114 · 40 CFR 262.17 (RCRA)
 
-$89.99 [Enroll](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=601)
-
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://michigan.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=900)
+$134.99 [Enroll](https://michigan.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training?buy=601)
 
 ---
 

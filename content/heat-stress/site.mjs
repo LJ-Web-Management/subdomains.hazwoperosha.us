@@ -10,14 +10,13 @@ export default {
   hero: {
     title: "It's hotter <span>inside the suit.</span>",
     lede: "Chemical protective clothing traps heat and sweat, so crews in PPE can overheat at temperatures that feel comfortable in a T-shirt. Check today's heat index and plan for it.",
-    cta: [585, "PPE Levels · $12.99"],
+    cta: [587, "40-Hour HAZWOPER · $249.99"],
     alt: ["#calc", "Check the heat index"],
   },
   coursesTagline: "PPE, site safety and HAZWOPER training.",
   guidesTagline: "Heat stress in PPE, and a heat plan for your site.",
 
   courses: [
-    { id: 585, short: "PPE Levels A–D", summary: "The four levels of protection and their trade-offs.", body: "Fifteen minutes on PPE levels A through D, including the heat and mobility burden each one adds.", topics: ["Levels A–D", "Heat and mobility burden", "Choosing a level"] },
     { id: 587, short: "40-Hour HAZWOPER", summary: "Heat stress, PPE and site safety in depth.", body: "The full 40-hour initial course, including heat stress, PPE, medical surveillance and site safety plans.", topics: ["Heat stress", "PPE", "Medical surveillance", "Site safety plans"] },
     { id: 597, short: "HAZWOPER Supervisor", summary: "Planning work/rest and monitoring crews.", body: "Eight hours for supervisors, including planning work around heat and PPE.", topics: ["Site safety program", "PPE decisions", "Monitoring workers"] },
     { id: 595, short: "8-Hour Refresher", summary: "The annual refresher.", body: "The annual 8-hour HAZWOPER refresher.", topics: ["Review", "Lessons learned"] },
@@ -62,7 +61,7 @@ export default {
       title: "Heat stress in chemical protective clothing",
       description: "Why PPE changes the heat math, and how to protect crews.",
       date: "2026-10-25",
-      courses: [585, 587],
+      courses: [587],
       body: `Your body cools mostly by sweating. Impermeable suits stop sweat from evaporating, so heat builds up quickly, even on a mild day.
 
 ## Signs to watch
@@ -81,8 +80,7 @@ export default {
 - **Hydration**: small amounts often
 - **Physiological monitoring**: heart rate and body temperature as your site plan specifies
 - **Buddy system** to spot early signs
-
-{{buy:585}}`,
+`,
     },
     {
       slug: "site-heat-plan",

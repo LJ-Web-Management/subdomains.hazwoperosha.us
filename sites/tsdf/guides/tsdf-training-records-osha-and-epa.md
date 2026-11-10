@@ -47,23 +47,23 @@ Build one record per position and one record per person.
 
 The simplest approach is to give the OSHA 24-hour at hire, which also covers much of the EPA initial training, and use the 8-hour refresher as the EPA annual review.
 
-**OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training** 8 Hours · $99.99 per seat
+**OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training** 8 Hours · $89.99 per seat
 
 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa?buy=594)
 
 ## Courses
 
-[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #582 · 29 CFR 1910.120(p) / RCRA
+[OSHA 24-Hour HAZWOPER - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-24-hour-hazwoper-rcra-tsd-operations-training) 24 Hours · Course #135 · 29 CFR 1910.120(p) / RCRA
 
 $229.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa?buy=582)
 
-[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #594 · 29 CFR 1910.120(p)(8) / RCRA
+[OSHA 8 Hour HAZWOPER Annual Refresher - RCRA TSD Operations Training](https://tsdf.hazwoperosha.us/courses/osha-8-hour-hazwoper-annual-refresher-rcra-tsd-operations-training) 8 Hours · Course #138 · 29 CFR 1910.120(p)(8) / RCRA
 
-$99.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa?buy=594)
+$89.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa?buy=594)
 
-[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #599 · 29 CFR 1910.120 / RCRA
+[OSHA HAZWOPER and RCRA Hazardous Waste Management Technician Safety Training](https://tsdf.hazwoperosha.us/courses/osha-hazwoper-and-rcra-hazardous-waste-management-technician-safety-training) 24 Hours · Course #346 · 29 CFR 1910.120 / RCRA
 
-$199.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa?buy=599)
+$349.99 [Enroll](https://tsdf.hazwoperosha.us/guides/tsdf-training-records-osha-and-epa?buy=599)
 
 ---
 

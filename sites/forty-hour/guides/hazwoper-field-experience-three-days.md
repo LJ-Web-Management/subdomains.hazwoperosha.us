@@ -44,13 +44,9 @@ Only through the equivalent-training route in 1910.120(e)(9). An employer can co
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/hazwoper-field-experience-three-days?buy=587)
-
-[OSHA 40 Hour HAZWOPER for Environmental Remediation](https://forty-hour.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation) 40 Hours · Course #590 · 29 CFR 1910.120(e) / 1926.65(e)
-
-$249.99 [Enroll](https://forty-hour.hazwoperosha.us/guides/hazwoper-field-experience-three-days?buy=590)
 
 ---
 

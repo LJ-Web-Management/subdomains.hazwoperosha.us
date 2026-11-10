@@ -54,7 +54,7 @@ Hands-on mechanical maintenance — piping, chillers, and vibration diagnostics.
 
 **$99.99** [Enroll](https://dc-cooling.hazwoperosha.us/?buy=838)
 
-[All trainings (83) →](https://dc-cooling.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-cooling.hazwoperosha.us/courses/#all)
 
 ## Guides
 

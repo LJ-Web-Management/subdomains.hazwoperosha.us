@@ -6,7 +6,7 @@ Gen Yard (https://dc-generators.hazwoperosha.us/) sells online training from HAZ
 
 ## When to use this site
 
-- Use it when someone needs Generator Operations & Maintenance, Emergency/Standby Power Systems, Emergency Power Off (EPO), Spill Prevention & Response or related training, wants to compare those courses, or needs to know what a regulation requires them to take.
+- Use it when someone needs Generator Operations & Maintenance, Emergency/Standby Power Systems, Emergency Power Off (EPO), Spill Prevention & Response training, wants to compare those courses, or needs to know what a regulation requires them to take.
 - Each course page lists the length, the price per seat, the regulation it covers, what it teaches and who it's for.
 - To enroll, open a course's enroll link below. It opens the checkout on that page; payment is by card through Stripe. For an invoice or purchase order, call +1-866-429-6742 or email info@hazwoper-osha.com.
 - Every page is also served as Markdown: send `Accept: text/markdown`, or add `.md` to the path (https://dc-generators.hazwoperosha.us/index.md).
@@ -16,8 +16,7 @@ Gen Yard (https://dc-generators.hazwoperosha.us/) sells online training from HAZ
 - [Generator Operations & Maintenance](https://dc-generators.hazwoperosha.us/courses/generator-operations-maintenance): $99.99 per seat, 4 Hours. Size, test, and maintain backup generators with confidence. Enroll: https://dc-generators.hazwoperosha.us/courses/generator-operations-maintenance?buy=835
 - [Emergency/Standby Power Systems Fundamentals](https://dc-generators.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals): $99.99 per seat, 4 Hours. Understand the standby power systems that carry a facility through a utility outage. Enroll: https://dc-generators.hazwoperosha.us/courses/emergency-standby-power-systems-fundamentals?buy=1098
 - [Data Center Emergency Power Off (EPO) Procedures Training](https://dc-generators.hazwoperosha.us/courses/data-center-epo-procedures): $99.99 per seat, 1 Hour. Safe activation and reset procedures for data center Emergency Power Off systems. Enroll: https://dc-generators.hazwoperosha.us/courses/data-center-epo-procedures?buy=853
-- [OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $49.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Fuel deliveries, day tanks and spill response. Enroll: https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
-- [Spill Response Equipment - Spill Kit Selection & Use](https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use): $24.99 per seat, 1 Hour, 40 CFR 112 / 29 CFR 1910.120. Choosing and using spill kits for fuel. Enroll: https://dc-generators.hazwoperosha.us/courses/spill-response-equipment-spill-kit-selection-and-use?buy=479
+- [OSHA Spill Prevention and Response Safety Training](https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training): $29.99 per seat, 2 Hours, 29 CFR 1910.120 / 40 CFR 112. Fuel deliveries, day tanks and spill response. Enroll: https://dc-generators.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training?buy=416
 
 ## Guides
 
@@ -26,7 +25,7 @@ Gen Yard (https://dc-generators.hazwoperosha.us/) sells online training from HAZ
 
 ## All trainings
 
-- [All 83 trainings](https://dc-generators.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
+- [All 67 trainings](https://dc-generators.hazwoperosha.us/courses/#all): every course from HAZWOPER OSHA Training, grouped by category, each with an enroll button
 
 ## Site
 

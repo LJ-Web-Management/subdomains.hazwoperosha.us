@@ -21,11 +21,11 @@ Courses are 100% online and self-paced, and each one includes a certificate of c
 ## Courses on this site
 
 - [Hazardous Waste Contingency Plan and Emergency Coordinator Training](https://emergency-coordinator.hazwoperosha.us/courses/hazardous-waste-contingency-plan-and-emergency-coordinator-training): 4 Hours, $99.99 per seat
-- [RCRA Hazardous Waste Generator Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $89.99 per seat
-- [RCRA Hazardous Waste Generator Refresher Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): 4 Hours, $59.99 per seat
+- [RCRA Hazardous Waste Generator Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training): 8 Hours, $134.99 per seat
+- [RCRA Hazardous Waste Generator Refresher Training](https://emergency-coordinator.hazwoperosha.us/courses/rcra-hazardous-waste-generator-refresher-training): 4 Hours, $124.99 per seat
 - [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://emergency-coordinator.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training): 4 Hours, $61.99 per seat
 
-The [full catalog of 83 trainings](https://emergency-coordinator.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://emergency-coordinator.hazwoperosha.us/guides/) explain the rules behind them in plain language.
+The [full catalog of 67 trainings](https://emergency-coordinator.hazwoperosha.us/courses/#all) can be ordered here too, and the [guides](https://emergency-coordinator.hazwoperosha.us/guides/) explain the rules behind them in plain language.
 
 ## Company details
 

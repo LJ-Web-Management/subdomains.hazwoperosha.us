@@ -1,10 +1,10 @@
 ---
 title: "RCRA Hazardous Waste Generator Training | Green Permit"
-description: "Waste determinations and generator rules. An 8-hour online course, $89.99 per seat. Self-paced, with a certificate of completion."
+description: "Waste determinations and generator rules. An 8-hour online course, $134.99 per seat. Self-paced, with a certificate of completion."
 url: https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training
 ---
 
-[Courses](https://dc-compliance.hazwoperosha.us/courses/) / Course #601
+[Courses](https://dc-compliance.hazwoperosha.us/courses/) / Course #114
 
 # RCRA Hazardous Waste Generator Training
 
@@ -31,7 +31,7 @@ Staff who manage facility waste.
 
 ### How much does RCRA Hazardous Waste Generator Training cost?
 
-$89.99 per seat. To train a crew, choose the number of seats at checkout.
+$134.99 per seat. To train a crew, choose the number of seats at checkout.
 
 ### Which regulation does it cover?
 
@@ -49,11 +49,11 @@ HAZWOPER OSHA Training, LLC, on its learning portal at hazwoper-osha.com. Your l
 
 Yes. Call (866) 429-6742 or email info@hazwoper-osha.com. Card payments go through Stripe at checkout.
 
-$89.99 per seat
+$134.99 per seat
 
 - **Length**: 8 Hours
 - **Standard**: 40 CFR 262.17 (RCRA)
-- **Course**: #601
+- **Course**: #114
 
 [Enroll now](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=601)
 
@@ -69,11 +69,11 @@ $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-was
 
 $99.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=851)
 
-[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #416 · 29 CFR 1910.120 / 40 CFR 112
+[OSHA Spill Prevention and Response Safety Training](https://dc-compliance.hazwoperosha.us/courses/osha-spill-prevention-and-response-safety-training) 2 Hours · Course #542 · 29 CFR 1910.120 / 40 CFR 112
 
-$49.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
+$29.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=416)
 
-[RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #602 · 40 CFR 273 (RCRA)
+[RCRA Universal Waste Handler Training](https://dc-compliance.hazwoperosha.us/courses/rcra-universal-waste-handler-training) 2 Hours · Course #921 · 40 CFR 273 (RCRA)
 
 $34.99 [Enroll](https://dc-compliance.hazwoperosha.us/courses/rcra-hazardous-waste-generator-training?buy=602)
 

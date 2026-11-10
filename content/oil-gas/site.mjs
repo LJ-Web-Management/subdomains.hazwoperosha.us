@@ -11,13 +11,6 @@ export default {
 
   courses: [
     {
-      id: 591, short: "40 Hr Oil & Gas Spill",
-      summary: "The 40-hour HAZWOPER for crews who respond to crude, condensate, fuel and produced-water spills.",
-      body: `When cleanup is part of the job, HAZWOPER applies. This is the 40-hour initial training under 29 CFR 1910.120(e), focused on the oil patch: crude and condensate, produced water, H2S and benzene, and the long shifts of a land spill cleanup.`,
-      topics: ["Crude, condensate and produced-water hazards", "H2S and benzene exposure", "Flammable atmospheres and LEL", "Land and water spill recovery", "Heat stress in protective clothing", "Oily waste and decon"],
-      who: "Roustabouts, spill response contractors, production and midstream field crews.",
-    },
-    {
       id: 1056, short: "Gas Detection",
       summary: "Using multi-gas meters and PIDs to stay out of H2S, LEL and low-oxygen atmospheres.",
       body: `Tank batteries, pits, cellars and vaults can hold H2S, hydrocarbon vapors and low oxygen. This two-hour course covers what your monitor measures, bump tests and calibration, and the readings that mean you leave now.`,
@@ -30,20 +23,6 @@ export default {
       body: `Most production facilities with aboveground oil storage need an SPCC plan, and SPCC requires training for oil-handling personnel. This two-hour course covers spill prevention, first response and reporting.`,
       topics: ["SPCC basics for production facilities", "Secondary containment and inspections", "First response: stop, contain, report", "PPE for incidental spills", "Reporting"],
       who: "Pumpers, lease operators, truck drivers and facility staff.",
-    },
-    {
-      id: 478, short: "Booms",
-      summary: "Absorbent and containment booms for ditches, creeks and ponds near well sites.",
-      body: `A spill that reaches a ditch or creek becomes a much bigger problem. This one-hour course covers placing booms ahead of the oil, angling them in current and anchoring them.`,
-      topics: ["Absorbent vs containment booms", "Ditch and creek deployment", "Angling in current", "Recovery and disposal"],
-      who: "Field crews and spill responders working near water.",
-    },
-    {
-      id: 592, short: "40 Hr Pipeline",
-      summary: "The 40-hour HAZWOPER for pipeline and gathering-system crews who respond to releases.",
-      body: `For midstream crews who respond to line strikes, leaks and contaminated rights-of-way, built around pipeline work.`,
-      topics: ["Pipeline product hazards", "Leak and line-strike response", "Incident command", "Contaminated rights-of-way", "Monitoring and PPE"],
-      who: "Midstream operators, gathering-system crews and pipeline contractors.",
     },
     {
       id: 595, short: "8 Hr Refresher",
@@ -60,7 +39,7 @@ export default {
       title: "H2S and benzene on oilfield spill cleanups",
       description: "The two exposures that turn a routine spill into a medical emergency, and how crews stay ahead of them.",
       date: "2026-10-25",
-      courses: [591, 1056],
+      courses: [1056],
       body: `Crude oil and produced water spills look like a mess to clean up. The real risk is in the air.
 
 ## Hydrogen sulfide (H2S)
@@ -97,7 +76,7 @@ Fresh spills can create flammable atmospheres. Keep ignition sources out until t
       title: "Does HAZWOPER apply in the oilfield?",
       description: "Routine production work usually isn't HAZWOPER. Spill cleanup and emergency response often are.",
       date: "2026-10-25",
-      courses: [591, 416],
+      courses: [416],
       body: `Ask ten oilfield safety managers whether HAZWOPER applies and you'll get several answers. Here's the practical way to think about it.
 
 ## Usually not HAZWOPER
@@ -122,16 +101,16 @@ Many operators require 40-hour HAZWOPER for spill-response contractors and 24-ho
 | Role | Training |
 |---|---|
 | Lease operators and pumpers | [[416]] and gas detection |
-| In-house spill response team | [[591]] plus refresher |
-| Spill cleanup contractors | [[591]] plus refresher |
-| Midstream emergency responders | [[592]] |`,
+| In-house spill response team | 40-hour HAZWOPER plus [[595]] |
+| Spill cleanup contractors | 40-hour HAZWOPER plus [[595]] |
+| Midstream emergency responders | 40-hour HAZWOPER |`,
     },
     {
       slug: "produced-water-spills",
       title: "Produced water spills: why they're harder than oil",
       description: "Saltwater spills kill vegetation, sterilize soil and travel fast. Response has to be quick and thorough.",
       date: "2026-10-25",
-      courses: [416, 478, 591],
+      courses: [416],
       body: `Produced water, the brine that comes up with oil and gas, is often treated as less serious than a crude spill. It isn't.
 
 ## Why produced water is different
@@ -178,7 +157,7 @@ Booms help with any oil sheen on top, but they won't contain the brine itself. F
 <p class="hero-call">Questions? Call <a href="tel:+18664296742">(866) 429-6742</a></p>
 <h1>From the pad to the <span>pipeline.</span></h1>
 <p class="hero-lede">HAZWOPER, gas detection and spill response training for oil and gas crews. Online, on your schedule, between hitches.</p>
-<div class="hero-cta">${h.buy(591, "Get certified · $249.99")}<a class="btn btn-alt" href="/courses/">All courses</a></div>
+<div class="hero-cta">${h.buy(416, "Get spill-ready · $29.99")}<a class="btn btn-alt" href="/courses/">All courses</a></div>
 </div>
 </div></section>
 
@@ -191,7 +170,7 @@ Booms help with any oil sheen on top, but they won't contain the brine itself. F
 
 <section class="sec"><div class="wrap">
 <h2 class="title">Courses for the <span>crew</span></h2>
-<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)} · #${c.id}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
+<div class="cgrid">${courses.map((c) => `<article class="cc"><p class="meta">${esc(c.duration)}${c.lmsId ? ` · #${c.lmsId}` : ""}</p><h3><a href="${c.url}">${esc(c.name)}</a></h3><p>${esc(c.summary)}</p><div class="cc-foot"><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</div></article>`).join("")}</div>
 </div></section>
 
 <section class="sec"><div class="wrap">

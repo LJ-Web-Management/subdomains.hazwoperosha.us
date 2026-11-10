@@ -30,19 +30,19 @@ The standard took full effect one year after publication.
 
 The core of the rule, including the 40, 24 and 8-hour training requirements, has stayed the same since. That's why a certificate from any properly run course carries the same weight today.
 
-**OSHA 8 Hour HAZWOPER (q) Incident Command Training** 8 Hours · $179.99 per seat
+**OSHA 8 Hour HAZWOPER (q) Incident Command Training** 8 Hours · $199.99 per seat
 
 [Enroll](https://hazwoper-history.hazwoperosha.us/guides/how-hazwoper-became-law?buy=593)
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://hazwoper-history.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://hazwoper-history.hazwoperosha.us/guides/how-hazwoper-became-law?buy=587)
 
-[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #593 · 29 CFR 1910.120(q)
+[OSHA 8 Hour HAZWOPER (q) Incident Command Training](https://hazwoper-history.hazwoperosha.us/courses/osha-8-hour-hazwoper-q-incident-command-training) 8 Hours · Course #259 · 29 CFR 1910.120(q)
 
-$179.99 [Enroll](https://hazwoper-history.hazwoperosha.us/guides/how-hazwoper-became-law?buy=593)
+$199.99 [Enroll](https://hazwoper-history.hazwoperosha.us/guides/how-hazwoper-became-law?buy=593)
 
 ---
 

@@ -14,7 +14,7 @@ Industrial cleaning crews handle sludge, residues and hazardous waste in tanks, 
 
 ## Courses
 
-40 Hours · #587
+40 Hours · #123
 
 ### 40-Hour HAZWOPER
 
@@ -22,7 +22,7 @@ The 40-hour HAZWOPER for crews removing hazardous waste and residues.
 
 **$249.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=587)
 
-2 Hours · #1056
+2 Hours · #664
 
 ### Gas Detection
 
@@ -30,39 +30,23 @@ Monitoring tanks, pits and vac truck discharge points.
 
 **$49.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=1056)
 
-20 Min · #584
-
-### Decontamination
-
-A 20-minute decon module.
-
-**$14.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=584)
-
-15 Min · #585
-
-### PPE Levels A–D
-
-A 15-minute module on PPE levels.
-
-**$12.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=585)
-
-2 Hours · #416
+2 Hours · #542
 
 ### Spill Response
 
 Preventing and responding to spills from hoses, trucks and tanks.
 
-**$49.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=416)
+**$29.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=416)
 
-8 Hours · #595
+8 Hours · #112
 
 ### 8-Hour Refresher
 
 The annual 8-hour refresher.
 
-**$89.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=595)
+**$59.99** [Enroll](https://industrial-cleaning.hazwoperosha.us/?buy=595)
 
-[All trainings (83) →](https://industrial-cleaning.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://industrial-cleaning.hazwoperosha.us/courses/#all)
 
 ## Guides
 

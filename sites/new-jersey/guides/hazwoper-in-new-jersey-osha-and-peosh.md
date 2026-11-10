@@ -35,19 +35,15 @@ NJDEP runs the state's site remediation and hazardous waste programs. Remediatio
 
 | You are | Training |
 | --- | --- |
-| Private remediation or industrial worker | [OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) or [OSHA 40 Hour HAZWOPER for Environmental Remediation](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-for-environmental-remediation), then [OSHA 8 Hour HAZWOPER Refresher Training](https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) annually |
-| Public employee doing HAZWOPER work | Same initial training, refresher via [8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) or [OSHA 8 Hour HAZWOPER Refresher Training](https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) |
+| Private remediation or industrial worker | [OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training), then [OSHA 8 Hour HAZWOPER Refresher Training](https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) annually |
+| Public employee doing HAZWOPER work | Same initial training, then [OSHA 8 Hour HAZWOPER Refresher Training](https://new-jersey.hazwoperosha.us/courses/osha-8-hour-hazwoper-refresher-training) annually |
 | Staff who may discover a release | [OSHA 4-Hour HAZWOPER First Responder Awareness Level Training](https://new-jersey.hazwoperosha.us/courses/osha-4-hour-hazwoper-first-responder-awareness-level-training) |
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://new-jersey.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://new-jersey.hazwoperosha.us/guides/hazwoper-in-new-jersey-osha-and-peosh?buy=587)
-
-[8 Hour HAZWOPER Refresher - State-Plan Versions Available](https://new-jersey.hazwoperosha.us/courses/8-hour-hazwoper-refresher-state-plan-versions-available) 8 Hours · Course #900 · State-plan equivalents of federal OSHA standard (see parent course)
-
-$84.99 [Enroll](https://new-jersey.hazwoperosha.us/guides/hazwoper-in-new-jersey-osha-and-peosh?buy=900)
 
 ---
 

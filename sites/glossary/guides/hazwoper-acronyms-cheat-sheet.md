@@ -41,7 +41,7 @@ Search the full glossary above for plain-language definitions.
 
 ## Courses
 
-[OSHA 40 Hour HAZWOPER Training](https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #587 · 29 CFR 1910.120(e) / 1926.65(e)
+[OSHA 40 Hour HAZWOPER Training](https://glossary.hazwoperosha.us/courses/osha-40-hour-hazwoper-training) 40 Hours · Course #123 · 29 CFR 1910.120(e) / 1926.65(e)
 
 $249.99 [Enroll](https://glossary.hazwoperosha.us/guides/hazwoper-acronyms-cheat-sheet?buy=587)
 

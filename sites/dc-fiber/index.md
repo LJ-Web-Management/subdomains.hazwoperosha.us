@@ -46,7 +46,7 @@ Foundational physical security and access control practices for data hall enviro
 
 **$99.99** [Enroll](https://dc-fiber.hazwoperosha.us/?buy=855)
 
-[All trainings (83) →](https://dc-fiber.hazwoperosha.us/courses/#all)
+[All trainings (67) →](https://dc-fiber.hazwoperosha.us/courses/#all)
 
 ## Guides
 
