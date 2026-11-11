@@ -20,7 +20,7 @@ hostname and serves the matching folder.
 - `about.html` is served at `/about`, and `docs/index.html` at `/docs/`.
 - An optional `404.html` in a site's folder is shown for that site's missing pages.
 - `www` is just another folder: `sites/www/` would serve `www.hazwoperosha.us`.
-- `sites/hub/sitemap.xml` (written by `tools/hub.mjs`) is a sitemap index of every site's `sitemap.xml`, except `www` and the hub. Submit `https://hub.hazwoperosha.us/sitemap.xml` in Google Search Console under a Domain property for `hazwoperosha.us`, so it may list sitemaps on every subdomain.
+- `sites/hub/sitemap.xml` (written by `tools/hub.mjs`) is a sitemap index of every site's `sitemap.xml`, except `www` and the hub. Submit `https://hub.hazwoperosha.us/sitemap.xml` in Google Search Console under a Domain property for `hazwoperosha.us`, so it may list sitemaps on every subdomain. https://hub.hazwoperosha.us/sitemaps/ (`sites/hub/sitemaps/index.html`, also written by `tools/hub.mjs`) shows the same list as a page.
 - The bare domain (`hazwoperosha.us`) is not served by this repo.
 
 ## Analytics
@@ -60,11 +60,16 @@ What every site has:
 
 ## Hub
 
-https://hub.hazwoperosha.us is only the internal course search. Every hub path outside `/course-search/` (including `/`)
-redirects there (302, in `src/index.js`), apart from `/sitemap.xml`.
+https://hub.hazwoperosha.us is only the internal course search and the sitemaps. Every hub path outside `/course-search/`
+(including `/`) redirects to the course search (302, in `src/index.js`), apart from `/sitemap.xml` and `/sitemaps/`.
+
+https://hub.hazwoperosha.us/sitemaps/ lists every hazwoperosha.us site with its sitemap, and
+https://hub.hazwoperosha.us/sitemap.xml is the sitemap index of all of them. `tools/hub.mjs` writes both before every
+deploy. The hazwoperosha.com sites have the same on their own hub, https://hub.hazwoperosha.com (written by
+`scripts/build-hub.sh` in `LJ-Web-Management/subdomains.hazwoperosha.com`).
 
 https://hub.hazwoperosha.us/course-search/ opens the HAZWOPER course catalog. A bar at the top of each tool switches
-between the two:
+between the two tools and the sitemaps page:
 
 - `/course-search/catalog/`: the HAZWOPER course catalog.
 - `/course-search/landing-pages/`: which landing sites sell which courses.
@@ -85,7 +90,8 @@ analytics for it, and `npm run audit` skips it. The CSP still applies, so neithe
 handlers.
 
 `tools/hub.mjs` writes `sites/hub/sitemap.xml`, a sitemap index of every site's own `sitemap.xml` (except `www` and the
-hub). Wrangler runs it before every deploy (the `build` block in `wrangler.jsonc`), so new sites are listed on their own.
+hub), and the page `sites/hub/sitemaps/index.html` with the same list. Wrangler runs it before every deploy (the `build`
+block in `wrangler.jsonc`), so new sites are listed on their own.
 
 ## Shared files
 

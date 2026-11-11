@@ -178,15 +178,18 @@ test("never serves Markdown on the hub", async () => {
   assert.match(res.headers.get("Content-Type"), /^text\/html/);
 });
 
-test("the hub is only the course search: every other hub path redirects to it", async () => {
-  const env = { ASSETS: assets({ "/hub/course-search/index.html": "search", "/hub/sitemap.xml": "<sitemapindex/>", "/tim/index.html": "tim home" }) };
-  for (const path of ["/", "/about", "/contact", "/index.html", "/course-searchx"]) {
+test("the hub is only the course search and the sitemaps: every other hub path redirects to the search", async () => {
+  const env = { ASSETS: assets({ "/hub/course-search/index.html": "search", "/hub/sitemap.xml": "<sitemapindex/>", "/hub/sitemaps/index.html": "sitemaps", "/tim/index.html": "tim home" }) };
+  for (const path of ["/", "/about", "/contact", "/index.html", "/course-searchx", "/sitemapsx", "/sitemap.xml.bak"]) {
     const res = await get(`https://hub.hazwoperosha.us${path}`, env);
     assert.equal(res.status, 302, path);
     assert.equal(res.headers.get("Location"), "/course-search/", path);
   }
   assert.equal((await get("https://hub.hazwoperosha.us/course-search/", env)).status, 200);
   assert.equal((await get("https://hub.hazwoperosha.us/sitemap.xml", env)).status, 200);
+  const sitemaps = await get("https://hub.hazwoperosha.us/sitemaps/", env);
+  assert.equal(sitemaps.status, 200);
+  assert.equal(sitemaps.headers.get("X-Robots-Tag"), "noindex, nofollow");
   assert.equal((await get("https://tim.hazwoperosha.us/", env)).status, 200);
 });
 
