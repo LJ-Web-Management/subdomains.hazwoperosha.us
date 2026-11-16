@@ -153,6 +153,7 @@ function auditPage(site, host, root, path, html, is404, inSitemap) {
 
   for (const m of body.matchAll(/<a\b[^>]*\bhref="([^"]*)"/gi)) {
     const href = decode(m[1]);
+    if (/^(null|undefined|NaN)?$|[?&=](undefined|null|NaN)\b/.test(href)) { r(`link printed from a missing value: href="${href}"`); continue; }
     if (/onlinetrainingcourses\.us/.test(href)) { r(`link to dead domain: ${href}`); continue; }
     if (!href.startsWith("/") || href.startsWith("//")) continue;
     const u = new URL(href, `https://${host}${path}`);

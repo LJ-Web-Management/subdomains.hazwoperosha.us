@@ -38,7 +38,7 @@ L3
 
 Approach the release and stop it
 
-[→](https://first-responder.hazwoperosha.us/null)
+[Training required →](https://first-responder.hazwoperosha.us/guides/five-levels-of-hazwoper-responders)
 
 L4
 

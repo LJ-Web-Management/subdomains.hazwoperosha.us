@@ -189,7 +189,7 @@ Since 2018, manifests are tracked in EPA's e-Manifest system. Receiving faciliti
     const plans = {
       lqg: { label: "Large quantity generator", note: "40 CFR 262.17(a)(7): train within 6 months of assignment, review annually, keep written records.", ids: [601, 600, 415, 580, 412] },
       sqg: { label: "Small quantity generator", note: "40 CFR 262.16(b)(9)(iii): employees must be thoroughly familiar with waste handling and emergency procedures.", ids: [601, 415, 580] },
-      ship: { label: "Shipping & manifests", note: "Manifest signers prepare hazmat shipping papers and need DOT training under 49 CFR 172.704 every 3 years.", ids: [403, 580] },
+      ship: { label: "Shipping & manifests", note: "Manifest signers prepare hazmat shipping papers and need DOT training under 49 CFR 172.704 every 3 years.", ids: [580] },
       uw: { label: "Universal waste handler", note: "40 CFR 273: inform or train employees on proper handling and emergency procedures.", ids: [602] },
     };
     const planRows = (ids) => ids.map((id) => { const c = course(id); return `<li><span><a href="${c.url}">${esc(c.name)}</a><small>${esc(c.duration)}${c.lmsId ? ` · Course #${c.lmsId}` : ""}</small></span><b>${money(c.price)}</b>${h.buy(c.id, "Enroll", "btn btn-sm")}</li>`; }).join("");

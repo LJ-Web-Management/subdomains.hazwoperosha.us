@@ -181,7 +181,8 @@ A release is likely **incidental** if:
     const levels = [
       ["Awareness", "Recognize · isolate · notify", 1099],
       ["Operations", "Defensive. Contain from a distance", 702],
-      ["Technician", "Approach the release and stop it", 589],
+      // No technician course on the LMS: this level links to the guide that explains its training.
+      ["Technician", "Approach the release and stop it", null],
       ["Command", "Take charge of the scene", 593],
     ];
     return `<section class="hero"><div class="wrap hero-in">
@@ -196,7 +197,7 @@ A release is likely **incidental** if:
 <section class="sec" id="levels"><div class="wrap">
 <p class="sec-tag">// 1910.120(q)(6)</p>
 <h2 class="title">Responder <span>levels</span></h2>
-<div class="levels">${levels.map(([name, role, id], i) => { const c = course(id); return `<div class="lvl"><span class="lvl-no">L${i + 1}</span><h3>${name}</h3><p>${role}</p><a href="${c.url}">${esc(c.short)} →</a></div>`; }).join("")}</div>
+<div class="levels">${levels.map(([name, role, id], i) => { const c = id ? course(id) : { url: "/guides/five-levels-of-hazwoper-responders", short: "Training required" }; return `<div class="lvl"><span class="lvl-no">L${i + 1}</span><h3>${name}</h3><p>${role}</p><a href="${c.url}">${esc(c.short)} →</a></div>`; }).join("")}</div>
 <p class="lvl-note"><a href="/guides/five-levels-of-hazwoper-responders">Full breakdown of all five levels and their minimum training →</a></p>
 </div></section>
 

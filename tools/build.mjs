@@ -104,7 +104,14 @@ async function buildSite(name) {
     return { ...cat, ...dc, ...c, seoTitle, url: `/courses/${cat.slug}` };
   });
   const guides = site.guides.map((g) => ({ ...g, url: `/guides/${g.slug}`, minutes: Math.max(2, Math.round(g.body.split(/\s+/).length / 220)) }));
-  const course = (id) => courses.find((c) => c.id === id) || { ...byId[id], url: null };
+  // A catalog course this site has no page for comes back with url null. An id that is in no
+  // catalog (a removed course) stops the build: it used to print href="null" and "$NaN".
+  const course = (id) => {
+    const own = courses.find((c) => c.id === id);
+    if (own) return own;
+    if (!byId[id]) throw new Error(`${name}: course ${id} is not in content/catalog.json. Remove it from content/${name}/site.mjs.`);
+    return { ...byId[id], url: null };
+  };
 
   // Helpers handed to the site's own templates.
   const h = {
